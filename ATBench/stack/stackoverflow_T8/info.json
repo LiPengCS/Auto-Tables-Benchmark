@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_13",
+        "transpose-stack_1_13"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 13,
+            "stack_var_name": "Movieid",
+            "stack_value_name": "Rating"
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T19",
+    "url": "https://stackoverflow.com/questions/67142227/complex-pandas-melt"
+}

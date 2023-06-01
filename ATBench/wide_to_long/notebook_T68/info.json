@@ -1,0 +1,19 @@
+{
+    "label": [
+        "wide_to_long_5_11"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 5,
+            "wtl_end_idx": 11,
+            "wtl_stubnames": [
+                "actor",
+                "actor_fb_likes"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_169_case_150"
+}

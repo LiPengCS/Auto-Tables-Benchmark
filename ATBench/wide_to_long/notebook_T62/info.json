@@ -1,0 +1,22 @@
+{
+    "label": [
+        "wide_to_long_4_16"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 4,
+            "wtl_end_idx": 16,
+            "wtl_sep": "",
+            "wtl_pos": "suffix",
+            "wtl_stubnames": [
+                "MA",
+                "BA",
+                "BS",
+                "BZ"
+            ]
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T7",
+    "url": "https://community.powerbi.com/t5/Power-Query/Unpivot/m-p/1703611"
+}

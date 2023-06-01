@@ -1,0 +1,35 @@
+Index,Where are we?,Location-specific Question/Data query,Correct Answer (formula),Correct Answer,Direction given after correct answer,What is the referent?,PUZZLE A #,PUZZLE A #.1,PUZZLE A ANSWER,PUZZLE B #,PUZZLE B #.1,PUZZLE B ANSWER
+1,3-208,Stand with your back to Vest's office.  How many N's do you see directly opposite?,6,6,Turn left.  Continue until next junction.,Room sign,1.7 NT,1.7,ARKANSAS,1.2 NT,1.2,LABORATORY
+2,5-2 lobby,"What is the sum of all the room numbers, not counting building numbers, listed on your right?",268+245+320+400+400 = 1633,1633,Go straight ahead,Room sign,3.232,3.232,TOLKIEN,1.5 NT,1.5,SALMON
+3,7-2xx,What organ can you see carved in stone?,T[HE ART]S,heart,Go down one flight of stairs.,Lobby 7.  ,4.6 NT,4.6,INADEQUATE,4.943,4.943,ILLUMINATI
+4,Lobby 7,How many columns are there?,8,8,Go north till you see 7 rooms listed on the same sign.,Lobby 7.  Eight columns.,2.828,2.828,TWILIGHT,4.3 NT,4.3,TASS
+5,9-2xx,"What is the sum of all the room numbers, not counting building numbers, listed on your left?",1601,1601,"Turn right, go across bridge, turn left.",213+215+221+223+225+251+253,6.1 NT,6.1,GROTESQUE,1.248,1.248,SZECHWAN
+6,13-2xxx,What is the result of the subtraction on the sign you see to your left?,2005-2153 =         -148,-148,Take the elevator,ODD NUMBERED ROOMS 2005-2153 ,7.413,7.413,ENSEMBLE,1.102,1.102,UPTOWN
+7,13-freight,Count the number of n's in the sign that is unique to this space.,4,4,Go to level 1.  Exit the elevator.,NOTICE THIS ELEVATOR IS FOR FREIGHT ONLY NOT FOR PASSENGERS,5.519,5.519,EN PASSANT,4.8 TR,4.8,NIGHTS
+8,by 13-1012,An overhead pipe holds two super heroes. Which one has his PhD?,Dr Electric,Dr Electric,Go down the stairs,Center for Materials Science and Engineering Electron Microscope Shared Experimental Facility,4.364,4.364,SFORZANDO,4.4 NT,4.4,HAM
+9,Steam tunnel 13-0,Look up.  What number is on that exit sign?,277,277,"Turn left, follow the twisting path through two sets of double doors.  Don't go into any rooms.",277V,R1_655,1.655,TRILOGY,4.7 TR,4.7,NEXUS
+10,9-0xx,"What level are you on, according to the elevator?",UB,UB,Take the stairs up one flight and turn left when you exit.,Elevator sign,1.853,1.853,HOLLYWOOD,5.6 NT,5.6,RHYMES
+11,9-1xx,There is a snazzy ramp on the right; what is the room number at the end of it?,9-155,9-155,"Go past ramp, exit building, go down stairs and turn left then right.",Room sign,5.8 TR ,5.8,DOT,5.7 NT,5.7,INITIAL
+12,outside 9,What 5-story building is directly ahead of you?,26,26,"Go straight, under walkway, turn left, then bear right until you see 5 steps.",Building 26,3.1 T,3.1,ECHO,4.748,4.748,VITREOUS
+13,By 34-1xx,What number is on the lamp post by the steps?,2120,2120,"Go up the steps, enter doorway ahead into lobby.",Sign on a lamppost,6.7 TR ,6.7,CONDUIT,1.1 NT,1.1,CHALET
+14,34-1xx lobby,"Estimate, to the nearest hundred, the number of triangles you see?",any ,any ,Exit door labelled 'To MIT Central Machine Shop',Crazy geodesicesque support structure,4.127,4.127,A.J. FOYT,6.553,6.553,RICE KRISPIES
+15,36-1xx lobby,What year was this building dedicated?,1973,1973,Take elevator to M,Note: only RHS elevator goes to M. ,6.8 TR,6.8,MIND'S EYE,3.671,3.671,REVIVAL
+16,36-Mxx,What room number is the hydrogen detector in?,172,172,"Turn left, and continue until you hit a junction.",Fire safety panel directly opposite elevator,3.805,3.805,SEURAT,5.092,5.092,GAZPACHO
+17,26-0xx,How long is the fire hose (in feet)?,50 ft,50,Turn right and continue through two sets of double doors,Fire hose.  It's just about the only thing there.,6.689,6.689,ENCIRCLES,7.175,7.175,KARAOKE
+18,16-0xx,"Sit on the floor.  How many exit signs can you see, without looking behind you?",6 (accept 5 also),6,Take a right and an immediate left up the ramp until you come to a junction,Exit signs.  Many of them.,1.6 NT,1.6,DEBTOR,2.723,2.723,ET CETERA
+19,8-0xx/      16-0xx,Look behind you as you come up the ramp.  What's the total of the numbers?,26+16=42,42,Keep going straight until you see a wooden sign with a 12-letter word on your right,Building 26 Building 16        Vassar Street East Campus,1.3  NT,1.3,MORTGAGEES,2.426,2.426,LAME DUCK
+20,6-0xx,Count the number of n's in the widest sign you see.,0,0,Keep going straight until you run out of corridor.,SPECTROSCOPY LAB,7.4 TR,7.4,EINSTEINIUM,3.361,3.361,EMILY BRONTE
+21,by 2-063,The sign says what is IN USE?,LASER,LASER,"Turn left through double doors, exit building and turn right then left.",LASER IN USE,3.10 NT,3.1,SALK,6.305,6.305,ECSTASY
+22,Memorial Drive,Walk straight and look right. What hotel name do you see?,sheraton,sheraton,"Go past the building, take the next left, and go to ugly-ass sculpture",160 (Memorial Drive; Hayden),3.3 NT,3.3,GALL,1.4 NT,1.4,EXTRAORDINARY
+23,Great Sail,How many legs does ugly-ass sculpture have?,5,5,Go North until you are under a building and enter it on your right hand side.,Great sail ,3.7 TR,3.7,DOWN,2.195,2.195,EQUINOX
+24,54-1-xx East,What number should you call to report problems?,34948,34948,Go up to LL,Notice board in foyer,3.9 NT,3.9,BALL,3.11 NT,3.11,SLOT
+25,54-100,How many folding wooden chairs are installed in this hall?,294,294,"Go through hall to stairs on other side, take right exit, and walk up to floor 3.",,4.1 NT,4.1,PIQUE,3.2 NT,3.2,DIRE
+26,54-3xx W,What is the fire hose ID number?,750292,750292,Walk up.,,4.2 NT,4.2,ARGYLE,3.4 TR,3.4,FOOD
+27,54-4xx W,What is the fire hose ID number?,750296,750296,Walk up.,,4.5 TR,4.5,WORMS,3.5 NT,3.5,GILA
+28,54-5xx W,What is the fire hose ID number?,750310,750310,"Tell you what, skip the rest.  Take the elevator to 18.",,5.2 TR,5.2,BOYS,7.702,7.702,YIDDISH
+29,54-6xx W,What currency besides dollars appears on the door leading to the roof?,pesos,pesos,Go down in the elevator to the basement. Turn left.,hehe.,5.3 TR,5.3,HAWAIIAN,6.2 TR,6.2,ORISON
+30,54-7xx W,What does the amber light signify on the fire annunciator?,trouble,trouble,"Turn around, go past the elevators. Follow the twisting path, thru the door, until you have a ladder on your left.",Behind door #1 is.. Rocks!  Behind door #2 is… Rocks!,5.4 TR,5.4,CONSONANTS,6.4 TR,6.4,DRIVE
+31,54-18xx,Count the rungs on the ladder.,9,9,Turn left. Go to next intersection.,,5.5 TR,5.5,FLEA,6.5 TR,6.5,PAPER HEARTS
+32,56-0xx,Find phone # written thrice on the emergency box.  What is it?,5775306,5775306,Go straight until you have an elevator on your left.,Not sure I like this one.  Not much else.  Written in pen.,7.6 TR,7.6,FISCAL YEAR,5.815,5.815,NEW JERSEY
+33,16-0xx,What is the base-10 representation of the elevator's level?,B = 11,11,Turn left; go to the first intersection you have passed before.,,1.534,1.534,EFFENDI,7.8 TR,7.8,HALIFAX
+34,8-0xx/      16-0xx,What is the probability of your team winning this year's mystery hunt?,1,any,Look up and search.,,6.9 TR,6.9,ALONE,7.1 TR,7.1,LADY ASTOR

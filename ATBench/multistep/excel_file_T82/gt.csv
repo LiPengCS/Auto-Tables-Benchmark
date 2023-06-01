@@ -1,0 +1,355 @@
+School name,GradeLevelID,Year,Principal's name,School web address,# Students,# Teachers,Average daily attendance,Student mobility,Var,Proficient on state ELA test ,Proficient on state Math test 
+Adams Elementary,ES,2017,Douglas Sohn,adamses.seattleschools.org,553,29,0.95876,5.24E-02, Grade 3,0.77778,0.74444
+Adams Elementary,ES,2017,Douglas Sohn,adamses.seattleschools.org,553,29,0.95876,5.24E-02, Grade 3 - Last year,0.74725,0.71429
+Adams Elementary,ES,2017,Douglas Sohn,adamses.seattleschools.org,553,29,0.95876,5.24E-02, Grade 3 - Two years ago,0.73913,0.68478
+Aki Kurose Middle School,MS,2017,Mia T. Williams,kurosems.seattleschools.org,685,42,0.93643,0.1562, Grade 3,,
+Aki Kurose Middle School,MS,2017,Mia T. Williams,kurosems.seattleschools.org,685,42,0.93643,0.1562, Grade 3 - Last year,,
+Aki Kurose Middle School,MS,2017,Mia T. Williams,kurosems.seattleschools.org,685,42,0.93643,0.1562, Grade 3 - Two years ago,,
+Alki Elementary,ES,2017,Rena S. Deese,alkies.seattleschools.org,373,18,0.95595,7.24E-02, Grade 3,0.67568,0.56757
+Alki Elementary,ES,2017,Rena S. Deese,alkies.seattleschools.org,373,18,0.95595,7.24E-02, Grade 3 - Last year,0.71875,0.76563
+Alki Elementary,ES,2017,Rena S. Deese,alkies.seattleschools.org,373,18,0.95595,7.24E-02, Grade 3 - Two years ago,0.80556,0.79452
+Arbor Heights Elementary,ES,2017,Christy A. Collins,arborheightses.seattleschools.org,523,29,0.95877,9.24E-02, Grade 3,0.62222,0.6
+Arbor Heights Elementary,ES,2017,Christy A. Collins,arborheightses.seattleschools.org,523,29,0.95877,9.24E-02, Grade 3 - Last year,0.63218,0.66667
+Arbor Heights Elementary,ES,2017,Christy A. Collins,arborheightses.seattleschools.org,523,29,0.95877,9.24E-02, Grade 3 - Two years ago,0.67742,0.45161
+B.F. Day Elementary,ES,2017,Stanley C. Jaskot,dayes.seattleschools.org,282,17,0.96311,9.24E-02, Grade 3,0.85714,0.83673
+B.F. Day Elementary,ES,2017,Stanley C. Jaskot,dayes.seattleschools.org,282,17,0.96311,9.24E-02, Grade 3 - Last year,0.87234,0.82979
+B.F. Day Elementary,ES,2017,Stanley C. Jaskot,dayes.seattleschools.org,282,17,0.96311,9.24E-02, Grade 3 - Two years ago,0.58537,0.53659
+Bailey Gatzert Elementary,ES,2017,Laurie L. Kazanjian,gatzertes.seattleschools.org,282,23,0.94331,0.1865, Grade 3,0.23077,0.36538
+Bailey Gatzert Elementary,ES,2017,Laurie L. Kazanjian,gatzertes.seattleschools.org,282,23,0.94331,0.1865, Grade 3 - Last year,0.30233,0.4186
+Bailey Gatzert Elementary,ES,2017,Laurie L. Kazanjian,gatzertes.seattleschools.org,282,23,0.94331,0.1865, Grade 3 - Two years ago,0.39583,0.64583
+Ballard High School,HS,2017,Keven S. Wynkoop,ballardhs.seattleschools.org,1937,90,0.9211,6.14E-02, Grade 3,,
+Ballard High School,HS,2017,Keven S. Wynkoop,ballardhs.seattleschools.org,1937,90,0.9211,6.14E-02, Grade 3 - Last year,,
+Ballard High School,HS,2017,Keven S. Wynkoop,ballardhs.seattleschools.org,1937,90,0.9211,6.14E-02, Grade 3 - Two years ago,,
+Beacon Hill International School,ES,2017,Katherine A. Virga,beaconhilles.seattleschools.org,417,25,0.96769,4.09E-02, Grade 3,0.59722,0.79167
+Beacon Hill International School,ES,2017,Katherine A. Virga,beaconhilles.seattleschools.org,417,25,0.96769,4.09E-02, Grade 3 - Last year,0.43333,0.7
+Beacon Hill International School,ES,2017,Katherine A. Virga,beaconhilles.seattleschools.org,417,25,0.96769,4.09E-02, Grade 3 - Two years ago,0.48148,0.59756
+Broadview-Thomson K-8 School,ES,2017,Robert J. Sammons,broadviewk8.seattleschools.org,407,41,0.9463,0.1453, Grade 3,0.40909,0.45455
+Broadview-Thomson K-8 School,ES,2017,Robert J. Sammons,broadviewk8.seattleschools.org,407,41,0.9463,0.1453, Grade 3 - Last year,0.45,0.5
+Broadview-Thomson K-8 School,ES,2017,Robert J. Sammons,broadviewk8.seattleschools.org,407,41,0.9463,0.1453, Grade 3 - Two years ago,0.40845,0.4507
+Broadview-Thomson K-8 School4,MS,2017,Robert J. Sammons,broadviewk8.seattleschools.org,124,41,0.9463,0.1453, Grade 3,,
+Broadview-Thomson K-8 School4,MS,2017,Robert J. Sammons,broadviewk8.seattleschools.org,124,41,0.9463,0.1453, Grade 3 - Last year,,
+Broadview-Thomson K-8 School4,MS,2017,Robert J. Sammons,broadviewk8.seattleschools.org,124,41,0.9463,0.1453, Grade 3 - Two years ago,,
+Bryant Elementary,ES,2017,Charmaine C. Marshall,bryantes.seattleschools.org,585,28,0.96569,7.35E-02, Grade 3,0.92632,0.875
+Bryant Elementary,ES,2017,Charmaine C. Marshall,bryantes.seattleschools.org,585,28,0.96569,7.35E-02, Grade 3 - Last year,0.81522,0.82979
+Bryant Elementary,ES,2017,Charmaine C. Marshall,bryantes.seattleschools.org,585,28,0.96569,7.35E-02, Grade 3 - Two years ago,0.90816,0.87755
+Cascade Parent Partnership,ES,2017,Owen I. Gonder,,119,5,0.96296,0.38021, Grade 3,0,0
+Cascade Parent Partnership,ES,2017,Owen I. Gonder,,119,5,0.96296,0.38021, Grade 3 - Last year,0.13333,0.2
+Cascade Parent Partnership,ES,2017,Owen I. Gonder,,119,5,0.96296,0.38021, Grade 3 - Two years ago,0.41176,0.29412
+Cascade Parent Partnership5,HS,2017,Owen I. Gonder,,19,5,0.96296,0.38021, Grade 3,,
+Cascade Parent Partnership5,HS,2017,Owen I. Gonder,,19,5,0.96296,0.38021, Grade 3 - Last year,,
+Cascade Parent Partnership5,HS,2017,Owen I. Gonder,,19,5,0.96296,0.38021, Grade 3 - Two years ago,,
+Cascade Parent Partnership6,MS,2017,Owen I. Gonder,,51,5,0.96296,0.38021, Grade 3,,
+Cascade Parent Partnership6,MS,2017,Owen I. Gonder,,51,5,0.96296,0.38021, Grade 3 - Last year,,
+Cascade Parent Partnership6,MS,2017,Owen I. Gonder,,51,5,0.96296,0.38021, Grade 3 - Two years ago,,
+Cascadia Elementary,ES,2017,Anna E Birinyi,applincolnes.seattleschools.org,525,24,0.96775,1.52E-02, Grade 3,0.9916,0.9916
+Cascadia Elementary,ES,2017,Anna E Birinyi,applincolnes.seattleschools.org,525,24,0.96775,1.52E-02, Grade 3 - Last year,0.93264,0.97409
+Cascadia Elementary,ES,2017,Anna E Birinyi,applincolnes.seattleschools.org,525,24,0.96775,1.52E-02, Grade 3 - Two years ago,0.91525,0.92614
+Catharine Blaine K-8 School,ES,2017,Ryan T. LaDage,blainek8.seattleschools.org,575,39,0.9559,5.37E-02, Grade 3,0.82796,0.82796
+Catharine Blaine K-8 School,ES,2017,Ryan T. LaDage,blainek8.seattleschools.org,575,39,0.9559,5.37E-02, Grade 3 - Last year,0.84884,0.82955
+Catharine Blaine K-8 School,ES,2017,Ryan T. LaDage,blainek8.seattleschools.org,575,39,0.9559,5.37E-02, Grade 3 - Two years ago,0.91566,0.90361
+Catharine Blaine K-8 School7,MS,2017,Ryan T. LaDage,blainek8.seattleschools.org,208,39,0.9559,5.37E-02, Grade 3,,
+Catharine Blaine K-8 School7,MS,2017,Ryan T. LaDage,blainek8.seattleschools.org,208,39,0.9559,5.37E-02, Grade 3 - Last year,,
+Catharine Blaine K-8 School7,MS,2017,Ryan T. LaDage,blainek8.seattleschools.org,208,39,0.9559,5.37E-02, Grade 3 - Two years ago,,
+Cedar Park Elementary,ES,2017,Douglas C. Ouellette,cedarparkes.seattleschools.org,55,6,0.95926,0.1978, Grade 3,,
+Cedar Park Elementary,ES,2017,Douglas C. Ouellette,cedarparkes.seattleschools.org,55,6,0.95926,0.1978, Grade 3 - Last year,,
+Cedar Park Elementary,ES,2017,Douglas C. Ouellette,cedarparkes.seattleschools.org,55,6,0.95926,0.1978, Grade 3 - Two years ago,,
+Chief Sealth International High School,HS,2017,Aida M. Fraser-Hammer,chiefsealthhs.seattleschools.org,1064,61,0.84664,0.15226, Grade 3,,
+Chief Sealth International High School,HS,2017,Aida M. Fraser-Hammer,chiefsealthhs.seattleschools.org,1064,61,0.84664,0.15226, Grade 3 - Last year,,
+Chief Sealth International High School,HS,2017,Aida M. Fraser-Hammer,chiefsealthhs.seattleschools.org,1064,61,0.84664,0.15226, Grade 3 - Two years ago,,
+Cleveland STEM High School,HS,2017,George L. Breland,clevelandhs.seattleschools.org,871,47,0.87882,7.81E-02, Grade 3,,
+Cleveland STEM High School,HS,2017,George L. Breland,clevelandhs.seattleschools.org,871,47,0.87882,7.81E-02, Grade 3 - Last year,,
+Cleveland STEM High School,HS,2017,George L. Breland,clevelandhs.seattleschools.org,871,47,0.87882,7.81E-02, Grade 3 - Two years ago,,
+Concord International School,ES,2017,Norma Zavala,concordes.seattleschools.org,347,20,0.94273,0.17848, Grade 3,0.38028,0.32394
+Concord International School,ES,2017,Norma Zavala,concordes.seattleschools.org,347,20,0.94273,0.17848, Grade 3 - Last year,0.2,0.29231
+Concord International School,ES,2017,Norma Zavala,concordes.seattleschools.org,347,20,0.94273,0.17848, Grade 3 - Two years ago,0.30645,0.31148
+Daniel Bagley Elementary,ES,2017,Carla E. Holmes,bagleyes.seattleschools.org,426,24,0.96184,5.18E-02, Grade 3,0.78082,0.75676
+Daniel Bagley Elementary,ES,2017,Carla E. Holmes,bagleyes.seattleschools.org,426,24,0.96184,5.18E-02, Grade 3 - Last year,0.75325,0.7013
+Daniel Bagley Elementary,ES,2017,Carla E. Holmes,bagleyes.seattleschools.org,426,24,0.96184,5.18E-02, Grade 3 - Two years ago,0.7069,0.74138
+Dearborn Park International School,ES,2017,Jessica K. Conte,dearbornes.seattleschools.org,351,21,0.95637,0.11957, Grade 3,0.27273,0.35294
+Dearborn Park International School,ES,2017,Jessica K. Conte,dearbornes.seattleschools.org,351,21,0.95637,0.11957, Grade 3 - Last year,0.31746,0.49206
+Dearborn Park International School,ES,2017,Jessica K. Conte,dearbornes.seattleschools.org,351,21,0.95637,0.11957, Grade 3 - Two years ago,0.46032,0.35938
+Denny International Middle School,MS,2017,Jeff S. Clark,dennyms.seattleschools.org,835,56,0.92362,0.1259, Grade 3,,
+Denny International Middle School,MS,2017,Jeff S. Clark,dennyms.seattleschools.org,835,56,0.92362,0.1259, Grade 3 - Last year,,
+Denny International Middle School,MS,2017,Jeff S. Clark,dennyms.seattleschools.org,835,56,0.92362,0.1259, Grade 3 - Two years ago,,
+District,ES,2017,,www.seattleschools.org,27759,,,, Grade 3,0.65364,0.66863
+District,ES,2017,,www.seattleschools.org,27759,,,, Grade 3 - Last year,0.62733,0.67176
+District,ES,2017,,www.seattleschools.org,27759,,,, Grade 3 - Two years ago,0.65445,0.6881
+District2,HS,2017,,www.seattleschools.org,14903,,,, Grade 3,,
+District2,HS,2017,,www.seattleschools.org,14903,,,, Grade 3 - Last year,,
+District2,HS,2017,,www.seattleschools.org,14903,,,, Grade 3 - Two years ago,,
+District3,MS,2017,,www.seattleschools.org,11325,,,, Grade 3,,
+District3,MS,2017,,www.seattleschools.org,11325,,,, Grade 3 - Last year,,
+District3,MS,2017,,www.seattleschools.org,11325,,,, Grade 3 - Two years ago,,
+Dunlap Elementary,ES,2017,Winifred W. Todd,dunlapes.seattleschools.org,266,21,0.94017,0.34756, Grade 3,0.31429,0.4
+Dunlap Elementary,ES,2017,Winifred W. Todd,dunlapes.seattleschools.org,266,21,0.94017,0.34756, Grade 3 - Last year,0.29268,0.43902
+Dunlap Elementary,ES,2017,Winifred W. Todd,dunlapes.seattleschools.org,266,21,0.94017,0.34756, Grade 3 - Two years ago,0.59574,0.6383
+Eagle Staff Middle School,MS,2017,Marni A. Campbell,eaglestaffms.seattleschools.org,715,34,0.94165,7.41E-02, Grade 3,,
+Eagle Staff Middle School,MS,2017,Marni A. Campbell,eaglestaffms.seattleschools.org,715,34,0.94165,7.41E-02, Grade 3 - Last year,,
+Eagle Staff Middle School,MS,2017,Marni A. Campbell,eaglestaffms.seattleschools.org,715,34,0.94165,7.41E-02, Grade 3 - Two years ago,,
+Eckstein Middle School,MS,2017,Treena K. Sterk,ecksteinms.seattleschools.org,967,53,0.94701,6.73E-02, Grade 3,,
+Eckstein Middle School,MS,2017,Treena K. Sterk,ecksteinms.seattleschools.org,967,53,0.94701,6.73E-02, Grade 3 - Last year,,
+Eckstein Middle School,MS,2017,Treena K. Sterk,ecksteinms.seattleschools.org,967,53,0.94701,6.73E-02, Grade 3 - Two years ago,,
+Emerson Elementary,ES,2017,Erin C. Rasmussen,emersones.seattleschools.org,306,21,0.92839,0.22941, Grade 3,0.31429,0.42857
+Emerson Elementary,ES,2017,Erin C. Rasmussen,emersones.seattleschools.org,306,21,0.92839,0.22941, Grade 3 - Last year,0.4,0.63043
+Emerson Elementary,ES,2017,Erin C. Rasmussen,emersones.seattleschools.org,306,21,0.92839,0.22941, Grade 3 - Two years ago,0.18868,0.35849
+Fairmount Park Elementary,ES,2017,Julie A. Breidenbach,fairmountparkes.seattleschools.org,537,28,0.95981,7.85E-02, Grade 3,0.85149,0.83168
+Fairmount Park Elementary,ES,2017,Julie A. Breidenbach,fairmountparkes.seattleschools.org,537,28,0.95981,7.85E-02, Grade 3 - Last year,0.84211,0.78947
+Fairmount Park Elementary,ES,2017,Julie A. Breidenbach,fairmountparkes.seattleschools.org,537,28,0.95981,7.85E-02, Grade 3 - Two years ago,0.88043,0.91304
+Franklin High School,HS,2017,Jennifer L. Wiley,franklinhs.seattleschools.org,1287,66,0.89513,0.13742, Grade 3,,
+Franklin High School,HS,2017,Jennifer L. Wiley,franklinhs.seattleschools.org,1287,66,0.89513,0.13742, Grade 3 - Last year,,
+Franklin High School,HS,2017,Jennifer L. Wiley,franklinhs.seattleschools.org,1287,66,0.89513,0.13742, Grade 3 - Two years ago,,
+Frantz Coe Elementary,ES,2017,Virginia Turner,coees.seattleschools.org,557,27,0.96358,5.71E-02, Grade 3,0.80645,0.78495
+Frantz Coe Elementary,ES,2017,Virginia Turner,coees.seattleschools.org,557,27,0.96358,5.71E-02, Grade 3 - Last year,0.8172,0.8172
+Frantz Coe Elementary,ES,2017,Virginia Turner,coees.seattleschools.org,557,27,0.96358,5.71E-02, Grade 3 - Two years ago,0.77083,0.6875
+Garfield High School,HS,2017,Theodore R. Howard II,garfieldhs.seattleschools.org,1863,88,0.89076,0.116, Grade 3,,
+Garfield High School,HS,2017,Theodore R. Howard II,garfieldhs.seattleschools.org,1863,88,0.89076,0.116, Grade 3 - Last year,,
+Garfield High School,HS,2017,Theodore R. Howard II,garfieldhs.seattleschools.org,1863,88,0.89076,0.116, Grade 3 - Two years ago,,
+Gatewood Elementary,ES,2017,Kyna K Hogg,gatewoodes.seattleschools.org,377,20,0.95136,7.18E-02, Grade 3,0.66102,0.76667
+Gatewood Elementary,ES,2017,Kyna K Hogg,gatewoodes.seattleschools.org,377,20,0.95136,7.18E-02, Grade 3 - Last year,0.5283,0.57407
+Gatewood Elementary,ES,2017,Kyna K Hogg,gatewoodes.seattleschools.org,377,20,0.95136,7.18E-02, Grade 3 - Two years ago,0.68182,0.78788
+Genesee Hill Elementary,ES,2017,Gerrit Kischner,geneseehilles.seattleschools.org,718,34,0.95671,5.57E-02, Grade 3,0.70796,0.82301
+Genesee Hill Elementary,ES,2017,Gerrit Kischner,geneseehilles.seattleschools.org,718,34,0.95671,5.57E-02, Grade 3 - Last year,0.68293,0.79675
+Genesee Hill Elementary,ES,2017,Gerrit Kischner,geneseehilles.seattleschools.org,718,34,0.95671,5.57E-02, Grade 3 - Two years ago,0.77966,0.81513
+Graham Hill Elementary,ES,2017,Deena J. Russo,grahamhilles.seattleschools.org,358,24,0.95563,8.38E-02, Grade 3,0.40741,0.63636
+Graham Hill Elementary,ES,2017,Deena J. Russo,grahamhilles.seattleschools.org,358,24,0.95563,8.38E-02, Grade 3 - Last year,0.48936,0.38298
+Graham Hill Elementary,ES,2017,Deena J. Russo,grahamhilles.seattleschools.org,358,24,0.95563,8.38E-02, Grade 3 - Two years ago,0.4375,0.60938
+Green Lake Elementary,ES,2017,Joanne M. Bowers,greenlakees.seattleschools.org,433,24,0.9599,0.14416, Grade 3,0.73418,0.71605
+Green Lake Elementary,ES,2017,Joanne M. Bowers,greenlakees.seattleschools.org,433,24,0.9599,0.14416, Grade 3 - Last year,0.58491,0.72222
+Green Lake Elementary,ES,2017,Joanne M. Bowers,greenlakees.seattleschools.org,433,24,0.9599,0.14416, Grade 3 - Two years ago,0.74576,0.75
+Greenwood Elementary,ES,2017,Zachary W. Stowell,greenwoodes.seattleschools.org,345,17,0.96097,9.94E-02, Grade 3,0.84848,0.75758
+Greenwood Elementary,ES,2017,Zachary W. Stowell,greenwoodes.seattleschools.org,345,17,0.96097,9.94E-02, Grade 3 - Last year,0.7551,0.77551
+Greenwood Elementary,ES,2017,Zachary W. Stowell,greenwoodes.seattleschools.org,345,17,0.96097,9.94E-02, Grade 3 - Two years ago,0.77465,0.77465
+Hamilton International Middle School,MS,2017,Dorian C. Manza,hamiltonms.seattleschools.org,986,47,0.95285,4.26E-02, Grade 3,,
+Hamilton International Middle School,MS,2017,Dorian C. Manza,hamiltonms.seattleschools.org,986,47,0.95285,4.26E-02, Grade 3 - Last year,,
+Hamilton International Middle School,MS,2017,Dorian C. Manza,hamiltonms.seattleschools.org,986,47,0.95285,4.26E-02, Grade 3 - Two years ago,,
+Hawthorne Elementary,ES,2017,Sandra J. Scott,hawthornees.seattleschools.org,407,24,0.95109,0.17445, Grade 3,0.67925,0.66038
+Hawthorne Elementary,ES,2017,Sandra J. Scott,hawthornees.seattleschools.org,407,24,0.95109,0.17445, Grade 3 - Last year,0.59184,0.61224
+Hawthorne Elementary,ES,2017,Sandra J. Scott,hawthornees.seattleschools.org,407,24,0.95109,0.17445, Grade 3 - Two years ago,0.62687,0.71014
+Hazel Wolf K-8 School,ES,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,473,37,0.9569,4.35E-02, Grade 3,0.90789,0.94737
+Hazel Wolf K-8 School,ES,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,473,37,0.9569,4.35E-02, Grade 3 - Last year,0.85135,0.85135
+Hazel Wolf K-8 School,ES,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,473,37,0.9569,4.35E-02, Grade 3 - Two years ago,0.74026,0.76623
+Hazel Wolf K-8 School8,MS,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,262,37,0.9569,4.35E-02, Grade 3,,
+Hazel Wolf K-8 School8,MS,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,262,37,0.9569,4.35E-02, Grade 3 - Last year,,
+Hazel Wolf K-8 School8,MS,2017,Debbie A. Nelsen,addamsk8.seattleschools.org,262,37,0.9569,4.35E-02, Grade 3 - Two years ago,,
+Highland Park Elementary,ES,2017,Chris P. Cronas,highlandparkes.seattleschools.org,319,23,0.94714,0.20659, Grade 3,0.21277,0.23404
+Highland Park Elementary,ES,2017,Chris P. Cronas,highlandparkes.seattleschools.org,319,23,0.94714,0.20659, Grade 3 - Last year,0.36538,0.46154
+Highland Park Elementary,ES,2017,Chris P. Cronas,highlandparkes.seattleschools.org,319,23,0.94714,0.20659, Grade 3 - Two years ago,0.39683,0.42857
+Ingraham International High School,HS,2017,Martin E. Floe,ingrahamhs.seattleschools.org,1389,69,0.90033,0.10799, Grade 3,,
+Ingraham International High School,HS,2017,Martin E. Floe,ingrahamhs.seattleschools.org,1389,69,0.90033,0.10799, Grade 3 - Last year,,
+Ingraham International High School,HS,2017,Martin E. Floe,ingrahamhs.seattleschools.org,1389,69,0.90033,0.10799, Grade 3 - Two years ago,,
+Interagency Academy,HS,2017,Kaaren Andrews,interagency.seattleschools.org,344,37,0.45678,2.10029, Grade 3,,
+Interagency Academy,HS,2017,Kaaren Andrews,interagency.seattleschools.org,344,37,0.45678,2.10029, Grade 3 - Last year,,
+Interagency Academy,HS,2017,Kaaren Andrews,interagency.seattleschools.org,344,37,0.45678,2.10029, Grade 3 - Two years ago,,
+Interagency Academy9,MS,2017,Kaaren Andrews,,1,37,0.45678,2.10029, Grade 3,,
+Interagency Academy9,MS,2017,Kaaren Andrews,,1,37,0.45678,2.10029, Grade 3 - Last year,,
+Interagency Academy9,MS,2017,Kaaren Andrews,,1,37,0.45678,2.10029, Grade 3 - Two years ago,,
+Jane Addams Middle School,MS,2017,Paula Montgomery,addamsms.seattleschools.org,916,47,0.94792,8.09E-02, Grade 3,,
+Jane Addams Middle School,MS,2017,Paula Montgomery,addamsms.seattleschools.org,916,47,0.94792,8.09E-02, Grade 3 - Last year,,
+Jane Addams Middle School,MS,2017,Paula Montgomery,addamsms.seattleschools.org,916,47,0.94792,8.09E-02, Grade 3 - Two years ago,,
+John Hay Elementary,ES,2017,Tami R. Beach,hayes.seattleschools.org,491,24,0.95829,0.14664, Grade 3,0.86667,0.82432
+John Hay Elementary,ES,2017,Tami R. Beach,hayes.seattleschools.org,491,24,0.95829,0.14664, Grade 3 - Last year,0.7561,0.79518
+John Hay Elementary,ES,2017,Tami R. Beach,hayes.seattleschools.org,491,24,0.95829,0.14664, Grade 3 - Two years ago,0.75309,0.6506
+John Muir Elementary,ES,2017,Brenda M. Ball Cuthbertson,muires.seattleschools.org,361,23,0.96328,0.1108, Grade 3,0.40299,0.43284
+John Muir Elementary,ES,2017,Brenda M. Ball Cuthbertson,muires.seattleschools.org,361,23,0.96328,0.1108, Grade 3 - Last year,0.51613,0.5
+John Muir Elementary,ES,2017,Brenda M. Ball Cuthbertson,muires.seattleschools.org,361,23,0.96328,0.1108, Grade 3 - Two years ago,0.43284,0.4697
+John Rogers Elementary,ES,2017,Sara R. Mirabueno,rogerses.seattleschools.org,350,20,0.95036,0.15759, Grade 3,0.58209,0.55224
+John Rogers Elementary,ES,2017,Sara R. Mirabueno,rogerses.seattleschools.org,350,20,0.95036,0.15759, Grade 3 - Last year,0.60784,0.71154
+John Rogers Elementary,ES,2017,Sara R. Mirabueno,rogerses.seattleschools.org,350,20,0.95036,0.15759, Grade 3 - Two years ago,0.56667,0.65574
+John Stanford International School,ES,2017,Sarah A. Jones,stanfordes.seattleschools.org,451,23,0.96602,3.76E-02, Grade 3,0.77143,0.91429
+John Stanford International School,ES,2017,Sarah A. Jones,stanfordes.seattleschools.org,451,23,0.96602,3.76E-02, Grade 3 - Last year,0.78082,0.87671
+John Stanford International School,ES,2017,Sarah A. Jones,stanfordes.seattleschools.org,451,23,0.96602,3.76E-02, Grade 3 - Two years ago,0.78462,0.84615
+Kimball Elementary,ES,2017,Melissa G. Gray,kimballes.seattleschools.org,443,24,0.94926,0.11512, Grade 3,0.45946,0.54667
+Kimball Elementary,ES,2017,Melissa G. Gray,kimballes.seattleschools.org,443,24,0.94926,0.11512, Grade 3 - Last year,0.44444,0.53125
+Kimball Elementary,ES,2017,Melissa G. Gray,kimballes.seattleschools.org,443,24,0.94926,0.11512, Grade 3 - Two years ago,0.63014,0.67568
+Lafayette Elementary,ES,2017,Cynthia Chaput,www.mylafayette.org,393,20,0.95685,9.29E-02, Grade 3,0.73684,0.75439
+Lafayette Elementary,ES,2017,Cynthia Chaput,www.mylafayette.org,393,20,0.95685,9.29E-02, Grade 3 - Last year,0.73077,0.67949
+Lafayette Elementary,ES,2017,Cynthia Chaput,www.mylafayette.org,393,20,0.95685,9.29E-02, Grade 3 - Two years ago,0.5641,0.7013
+Laurelhurst Elementary,ES,2017,Tim J. Snyder,laurelhurstes.seattleschools.org,353,21,0.95148,0.13842, Grade 3,0.67213,0.64063
+Laurelhurst Elementary,ES,2017,Tim J. Snyder,laurelhurstes.seattleschools.org,353,21,0.95148,0.13842, Grade 3 - Last year,0.68657,0.84286
+Laurelhurst Elementary,ES,2017,Tim J. Snyder,laurelhurstes.seattleschools.org,353,21,0.95148,0.13842, Grade 3 - Two years ago,0.67188,0.77612
+Lawton Elementary,ES,2017,Allison N. Deno,lawtonelementary.org,453,23,0.955,8.61E-02, Grade 3,0.87838,0.71622
+Lawton Elementary,ES,2017,Allison N. Deno,lawtonelementary.org,453,23,0.955,8.61E-02, Grade 3 - Last year,0.84375,0.79688
+Lawton Elementary,ES,2017,Allison N. Deno,lawtonelementary.org,453,23,0.955,8.61E-02, Grade 3 - Two years ago,0.86301,0.85135
+Leschi Elementary,ES,2017,Rhonda J. Claytor,www.leschischool.com,403,22,0.93793,0.12968, Grade 3,0.54386,0.57895
+Leschi Elementary,ES,2017,Rhonda J. Claytor,www.leschischool.com,403,22,0.93793,0.12968, Grade 3 - Last year,0.4507,0.59155
+Leschi Elementary,ES,2017,Rhonda J. Claytor,www.leschischool.com,403,22,0.93793,0.12968, Grade 3 - Two years ago,0.61765,0.67647
+Licton Springs K-8 School,ES,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,127,17,0.90929,0.2561, Grade 3,0.36,0.28
+Licton Springs K-8 School,ES,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,127,17,0.90929,0.2561, Grade 3 - Last year,0.375,0.4375
+Licton Springs K-8 School,ES,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,127,17,0.90929,0.2561, Grade 3 - Two years ago,0.33333,0.38889
+Licton Springs K-8 School10,MS,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,37,17,0.90929,0.2561, Grade 3,,
+Licton Springs K-8 School10,MS,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,37,17,0.90929,0.2561, Grade 3 - Last year,,
+Licton Springs K-8 School10,MS,2017,Lisa S. Allphin,pinehurstk8.seattleschools.org,37,17,0.90929,0.2561, Grade 3 - Two years ago,,
+Louisa Boren STEM K-8 School,ES,2017,Ben Ostrom,k5stem.seattleschools.org,374,32,0.94713,6.82E-02, Grade 3,0.35849,0.43396
+Louisa Boren STEM K-8 School,ES,2017,Ben Ostrom,k5stem.seattleschools.org,374,32,0.94713,6.82E-02, Grade 3 - Last year,0.52113,0.50704
+Louisa Boren STEM K-8 School,ES,2017,Ben Ostrom,k5stem.seattleschools.org,374,32,0.94713,6.82E-02, Grade 3 - Two years ago,0.38889,0.38889
+Louisa Boren STEM K-8 School11,MS,2017,Ben Ostrom,k5stem.seattleschools.org,161,32,0.94713,6.82E-02, Grade 3,,
+Louisa Boren STEM K-8 School11,MS,2017,Ben Ostrom,k5stem.seattleschools.org,161,32,0.94713,6.82E-02, Grade 3 - Last year,,
+Louisa Boren STEM K-8 School11,MS,2017,Ben Ostrom,k5stem.seattleschools.org,161,32,0.94713,6.82E-02, Grade 3 - Two years ago,,
+Lowell Elementary,ES,2017,Colleen S. Stump,lowelles.seattleschools.org,352,26,0.90313,0.47733, Grade 3,0.26087,0.14894
+Lowell Elementary,ES,2017,Colleen S. Stump,lowelles.seattleschools.org,352,26,0.90313,0.47733, Grade 3 - Last year,0.41379,0.34483
+Lowell Elementary,ES,2017,Colleen S. Stump,lowelles.seattleschools.org,352,26,0.90313,0.47733, Grade 3 - Two years ago,0.44444,0.41176
+Loyal Heights Elementary,ES,2017,Geri Y. Guerrero,loyalheightses.seattleschools.org,398,22,0.96058,3.27E-02, Grade 3,0.7931,0.84483
+Loyal Heights Elementary,ES,2017,Geri Y. Guerrero,loyalheightses.seattleschools.org,398,22,0.96058,3.27E-02, Grade 3 - Last year,0.83824,0.83824
+Loyal Heights Elementary,ES,2017,Geri Y. Guerrero,loyalheightses.seattleschools.org,398,22,0.96058,3.27E-02, Grade 3 - Two years ago,0.89231,0.96923
+Madison Middle School,MS,2017,Robert R. Gary,madisonms.seattleschools.org,881,47,0.93057,6.92E-02, Grade 3,,
+Madison Middle School,MS,2017,Robert R. Gary,madisonms.seattleschools.org,881,47,0.93057,6.92E-02, Grade 3 - Last year,,
+Madison Middle School,MS,2017,Robert R. Gary,madisonms.seattleschools.org,881,47,0.93057,6.92E-02, Grade 3 - Two years ago,,
+Madrona Elementary,ES,2017,Mary A. McDaniel,madronak8.seattleschools.org,234,14,0.941,0.23729, Grade 3,0.65789,0.73684
+Madrona Elementary,ES,2017,Mary A. McDaniel,madronak8.seattleschools.org,234,14,0.941,0.23729, Grade 3 - Last year,0.45455,0.51515
+Madrona Elementary,ES,2017,Mary A. McDaniel,madronak8.seattleschools.org,234,14,0.941,0.23729, Grade 3 - Two years ago,0.53333,0.65517
+Maple Elementary,ES,2017,Elena V. Sanchez,maplees.seattleschools.org,535,32,0.96371,9.59E-02, Grade 3,0.62626,0.69
+Maple Elementary,ES,2017,Elena V. Sanchez,maplees.seattleschools.org,535,32,0.96371,9.59E-02, Grade 3 - Last year,0.54667,0.52632
+Maple Elementary,ES,2017,Elena V. Sanchez,maplees.seattleschools.org,535,32,0.96371,9.59E-02, Grade 3 - Two years ago,0.58824,0.68116
+Martin Luther King Jr. Elementary,ES,2017,Christopher N. Thomas,kinges.seattleschools.org,277,20,0.94111,0.11111, Grade 3,0.325,0.325
+Martin Luther King Jr. Elementary,ES,2017,Christopher N. Thomas,kinges.seattleschools.org,277,20,0.94111,0.11111, Grade 3 - Last year,0.42857,0.51163
+Martin Luther King Jr. Elementary,ES,2017,Christopher N. Thomas,kinges.seattleschools.org,277,20,0.94111,0.11111, Grade 3 - Two years ago,0.28571,0.32759
+McClure Middle School,MS,2017,Shannon M. Conner,mcclurems.seattleschools.org,540,30,0.9412,8.89E-02, Grade 3,,
+McClure Middle School,MS,2017,Shannon M. Conner,mcclurems.seattleschools.org,540,30,0.9412,8.89E-02, Grade 3 - Last year,,
+McClure Middle School,MS,2017,Shannon M. Conner,mcclurems.seattleschools.org,540,30,0.9412,8.89E-02, Grade 3 - Two years ago,,
+McDonald International Elementary,ES,2017,Michelle H. Goldberg,mcdonaldes.seattleschools.org,464,25,0.96752,1.94E-02, Grade 3,0.86301,0.90411
+McDonald International Elementary,ES,2017,Michelle H. Goldberg,mcdonaldes.seattleschools.org,464,25,0.96752,1.94E-02, Grade 3 - Last year,0.8587,0.65217
+McDonald International Elementary,ES,2017,Michelle H. Goldberg,mcdonaldes.seattleschools.org,464,25,0.96752,1.94E-02, Grade 3 - Two years ago,0.89744,0.9359
+McGilvra Elementary,ES,2017,Maria E. Breuder,mcgilvraes.seattleschools.org,242,14,0.95804,5.37E-02, Grade 3,0.91111,0.8913
+McGilvra Elementary,ES,2017,Maria E. Breuder,mcgilvraes.seattleschools.org,242,14,0.95804,5.37E-02, Grade 3 - Last year,0.7907,0.86047
+McGilvra Elementary,ES,2017,Maria E. Breuder,mcgilvraes.seattleschools.org,242,14,0.95804,5.37E-02, Grade 3 - Two years ago,0.80435,0.8913
+Meany Middle School,MS,2017,Chanda E. Oatis,meanyms.seattleschools.org,492,24,0.92453,0.1833, Grade 3,,
+Meany Middle School,MS,2017,Chanda E. Oatis,meanyms.seattleschools.org,492,24,0.92453,0.1833, Grade 3 - Last year,,
+Meany Middle School,MS,2017,Chanda E. Oatis,meanyms.seattleschools.org,492,24,0.92453,0.1833, Grade 3 - Two years ago,,
+Mercer International Middle School,MS,2017,Christopher E. Carter,mercerms.seattleschools.org,1134,65,0.94353,7.66E-02, Grade 3,,
+Mercer International Middle School,MS,2017,Christopher E. Carter,mercerms.seattleschools.org,1134,65,0.94353,7.66E-02, Grade 3 - Last year,,
+Mercer International Middle School,MS,2017,Christopher E. Carter,mercerms.seattleschools.org,1134,65,0.94353,7.66E-02, Grade 3 - Two years ago,,
+Middle College High School,HS,2017,Elizabeth M. McFarland,middlecollegehs.seattleschools.org,64,10,0.78898,1.17188, Grade 3,,
+Middle College High School,HS,2017,Elizabeth M. McFarland,middlecollegehs.seattleschools.org,64,10,0.78898,1.17188, Grade 3 - Last year,,
+Middle College High School,HS,2017,Elizabeth M. McFarland,middlecollegehs.seattleschools.org,64,10,0.78898,1.17188, Grade 3 - Two years ago,,
+Montlake Elementary,ES,2017,Julia E. Pearson,montlakees.seattleschools.org,269,14,0.95395,5.95E-02, Grade 3,0.7381,0.76744
+Montlake Elementary,ES,2017,Julia E. Pearson,montlakees.seattleschools.org,269,14,0.95395,5.95E-02, Grade 3 - Last year,0.68182,0.81818
+Montlake Elementary,ES,2017,Julia E. Pearson,montlakees.seattleschools.org,269,14,0.95395,5.95E-02, Grade 3 - Two years ago,0.71111,0.91111
+Nathan Hale High School,HS,2017,Jill S. Hudson,halehs.seattleschools.org,1233,68,0.88864,0.11841, Grade 3,,
+Nathan Hale High School,HS,2017,Jill S. Hudson,halehs.seattleschools.org,1233,68,0.88864,0.11841, Grade 3 - Last year,,
+Nathan Hale High School,HS,2017,Jill S. Hudson,halehs.seattleschools.org,1233,68,0.88864,0.11841, Grade 3 - Two years ago,,
+North Beach Elementary,ES,2017,Kristine E. McLane,northbeaches.seattleschools.org,328,18,0.95609,0.11538, Grade 3,0.88333,0.86667
+North Beach Elementary,ES,2017,Kristine E. McLane,northbeaches.seattleschools.org,328,18,0.95609,0.11538, Grade 3 - Last year,0.78431,0.82353
+North Beach Elementary,ES,2017,Kristine E. McLane,northbeaches.seattleschools.org,328,18,0.95609,0.11538, Grade 3 - Two years ago,0.68085,0.65957
+Northgate Elementary,ES,2017,Deirdre G. Fauntleroy,northgatees.seattleschools.org,257,21,0.93953,0.49488, Grade 3,0.45161,0.41935
+Northgate Elementary,ES,2017,Deirdre G. Fauntleroy,northgatees.seattleschools.org,257,21,0.93953,0.49488, Grade 3 - Last year,0.40541,0.5
+Northgate Elementary,ES,2017,Deirdre G. Fauntleroy,northgatees.seattleschools.org,257,21,0.93953,0.49488, Grade 3 - Two years ago,0.325,0.41026
+Nova High School,HS,2017,Mark C. Perry,novahs.seattleschools.org,311,18,0.81068,0.32692, Grade 3,,
+Nova High School,HS,2017,Mark C. Perry,novahs.seattleschools.org,311,18,0.81068,0.32692, Grade 3 - Last year,,
+Nova High School,HS,2017,Mark C. Perry,novahs.seattleschools.org,311,18,0.81068,0.32692, Grade 3 - Two years ago,,
+Olympic Hills Elementary,ES,2017,Elizabeth C. DeBell,olympichillses.seattleschools.org,371,26,0.95714,0.18925, Grade 3,0.51064,0.67347
+Olympic Hills Elementary,ES,2017,Elizabeth C. DeBell,olympichillses.seattleschools.org,371,26,0.95714,0.18925, Grade 3 - Last year,0.61194,0.78261
+Olympic Hills Elementary,ES,2017,Elizabeth C. DeBell,olympichillses.seattleschools.org,371,26,0.95714,0.18925, Grade 3 - Two years ago,0.77778,0.75556
+Olympic View Elementary,ES,2017,Andrew J. Bean,olympicviewes.seattleschools.org,448,25,0.9596,0.14063, Grade 3,0.61628,0.61628
+Olympic View Elementary,ES,2017,Andrew J. Bean,olympicviewes.seattleschools.org,448,25,0.9596,0.14063, Grade 3 - Last year,0.49231,0.60938
+Olympic View Elementary,ES,2017,Andrew J. Bean,olympicviewes.seattleschools.org,448,25,0.9596,0.14063, Grade 3 - Two years ago,0.68831,0.74026
+Orca K-8 School,ES,2017,Tonie M. Talbert,orcak8.seattleschools.org,308,26,0.92043,0.14066, Grade 3,0.56522,0.3913
+Orca K-8 School,ES,2017,Tonie M. Talbert,orcak8.seattleschools.org,308,26,0.92043,0.14066, Grade 3 - Last year,0.48,0.48
+Orca K-8 School,ES,2017,Tonie M. Talbert,orcak8.seattleschools.org,308,26,0.92043,0.14066, Grade 3 - Two years ago,0.52083,0.625
+Orca K-8 School12,MS,2017,Tonie M. Talbert,orcak8.seattleschools.org,91,26,0.92043,0.14066, Grade 3,,
+Orca K-8 School12,MS,2017,Tonie M. Talbert,orcak8.seattleschools.org,91,26,0.92043,0.14066, Grade 3 - Last year,,
+Orca K-8 School12,MS,2017,Tonie M. Talbert,orcak8.seattleschools.org,91,26,0.92043,0.14066, Grade 3 - Two years ago,,
+Pathfinder K-8 School,ES,2017,David Dockendorf,pathfinderk8.seattleschools.org,318,32,0.95625,2.88E-02, Grade 3,0.62,0.7
+Pathfinder K-8 School,ES,2017,David Dockendorf,pathfinderk8.seattleschools.org,318,32,0.95625,2.88E-02, Grade 3 - Last year,0.61538,0.55769
+Pathfinder K-8 School,ES,2017,David Dockendorf,pathfinderk8.seattleschools.org,318,32,0.95625,2.88E-02, Grade 3 - Two years ago,0.75,0.75
+Pathfinder K-8 School13,MS,2017,David Dockendorf,pathfinderk8.seattleschools.org,168,32,0.95625,2.88E-02, Grade 3,,
+Pathfinder K-8 School13,MS,2017,David Dockendorf,pathfinderk8.seattleschools.org,168,32,0.95625,2.88E-02, Grade 3 - Last year,,
+Pathfinder K-8 School13,MS,2017,David Dockendorf,pathfinderk8.seattleschools.org,168,32,0.95625,2.88E-02, Grade 3 - Two years ago,,
+Queen Anne Elementary,ES,2017,Janine B. Roy,www.queenanneelementary.com,352,21,0.9554,7.95E-02, Grade 3,0.78333,0.75
+Queen Anne Elementary,ES,2017,Janine B. Roy,www.queenanneelementary.com,352,21,0.9554,7.95E-02, Grade 3 - Last year,0.79167,0.72222
+Queen Anne Elementary,ES,2017,Janine B. Roy,www.queenanneelementary.com,352,21,0.9554,7.95E-02, Grade 3 - Two years ago,0.75714,0.71429
+Rainier Beach High School,HS,2017,Keith L. Smith,rainierbeachhs.seattleschools.org,754,43,0.84774,0.24069, Grade 3,,
+Rainier Beach High School,HS,2017,Keith L. Smith,rainierbeachhs.seattleschools.org,754,43,0.84774,0.24069, Grade 3 - Last year,,
+Rainier Beach High School,HS,2017,Keith L. Smith,rainierbeachhs.seattleschools.org,754,43,0.84774,0.24069, Grade 3 - Two years ago,,
+Rainier View Elementary,ES,2017,Anitra L. Jones,rainierviewes.seattleschools.org,241,15,0.94216,0.20332, Grade 3,0.41026,0.58974
+Rainier View Elementary,ES,2017,Anitra L. Jones,rainierviewes.seattleschools.org,241,15,0.94216,0.20332, Grade 3 - Last year,0.67742,0.83333
+Rainier View Elementary,ES,2017,Anitra L. Jones,rainierviewes.seattleschools.org,241,15,0.94216,0.20332, Grade 3 - Two years ago,0.48649,0.63158
+Roosevelt High School,HS,2017,Kristina A. Rodgers,roosevelths.seattleschools.org,1876,86,0.92266,7.73E-02, Grade 3,,
+Roosevelt High School,HS,2017,Kristina A. Rodgers,roosevelths.seattleschools.org,1876,86,0.92266,7.73E-02, Grade 3 - Last year,,
+Roosevelt High School,HS,2017,Kristina A. Rodgers,roosevelths.seattleschools.org,1876,86,0.92266,7.73E-02, Grade 3 - Two years ago,,
+Roxhill Elementary,ES,2017,Tarra S. Patrick,roxhilles.seattleschools.org,271,21,0.92908,0.21407, Grade 3,0.43137,0.39216
+Roxhill Elementary,ES,2017,Tarra S. Patrick,roxhilles.seattleschools.org,271,21,0.92908,0.21407, Grade 3 - Last year,0.38776,0.46
+Roxhill Elementary,ES,2017,Tarra S. Patrick,roxhilles.seattleschools.org,271,21,0.92908,0.21407, Grade 3 - Two years ago,0.39583,0.61224
+Sacajawea Elementary,ES,2017,Rachel L. Friesen,sacajaweaes.seattleschools.org,234,18,0.95669,0.22353, Grade 3,0.5,0.54545
+Sacajawea Elementary,ES,2017,Rachel L. Friesen,sacajaweaes.seattleschools.org,234,18,0.95669,0.22353, Grade 3 - Last year,0.59375,0.5625
+Sacajawea Elementary,ES,2017,Rachel L. Friesen,sacajaweaes.seattleschools.org,234,18,0.95669,0.22353, Grade 3 - Two years ago,0.48485,0.60606
+Salmon Bay K-8 School,ES,2017,Neil T. Gerrans,www.salmonbayschool.org,310,38,0.95021,3.64E-02, Grade 3,0.76471,0.76471
+Salmon Bay K-8 School,ES,2017,Neil T. Gerrans,www.salmonbayschool.org,310,38,0.95021,3.64E-02, Grade 3 - Last year,0.67347,0.72
+Salmon Bay K-8 School,ES,2017,Neil T. Gerrans,www.salmonbayschool.org,310,38,0.95021,3.64E-02, Grade 3 - Two years ago,0.71698,0.69811
+Salmon Bay K-8 School14,MS,2017,Neil T. Gerrans,www.salmonbayschool.org,349,38,0.95021,3.64E-02, Grade 3,,
+Salmon Bay K-8 School14,MS,2017,Neil T. Gerrans,www.salmonbayschool.org,349,38,0.95021,3.64E-02, Grade 3 - Last year,,
+Salmon Bay K-8 School14,MS,2017,Neil T. Gerrans,www.salmonbayschool.org,349,38,0.95021,3.64E-02, Grade 3 - Two years ago,,
+Sand Point Elementary,ES,2017,Kristen E. Roberts,sandpointes.seattleschools.org,203,12,0.96062,0.18519, Grade 3,0.48148,0.57143
+Sand Point Elementary,ES,2017,Kristen E. Roberts,sandpointes.seattleschools.org,203,12,0.96062,0.18519, Grade 3 - Last year,0.55882,0.63158
+Sand Point Elementary,ES,2017,Kristen E. Roberts,sandpointes.seattleschools.org,203,12,0.96062,0.18519, Grade 3 - Two years ago,0.79545,0.72727
+Sanislo Elementary,ES,2017,Erika J. Ayer,sanisloes.seattleschools.org,236,16,0.93881,0.13136, Grade 3,0.30769,0.48718
+Sanislo Elementary,ES,2017,Erika J. Ayer,sanisloes.seattleschools.org,236,16,0.93881,0.13136, Grade 3 - Last year,0.1875,0.25
+Sanislo Elementary,ES,2017,Erika J. Ayer,sanisloes.seattleschools.org,236,16,0.93881,0.13136, Grade 3 - Two years ago,0.34694,0.31915
+Seattle World School,HS,2017,Oksana A. Britsova,sws.seattleschools.org,229,22,0.83196,0.86957, Grade 3,,
+Seattle World School,HS,2017,Oksana A. Britsova,sws.seattleschools.org,229,22,0.83196,0.86957, Grade 3 - Last year,,
+Seattle World School,HS,2017,Oksana A. Britsova,sws.seattleschools.org,229,22,0.83196,0.86957, Grade 3 - Two years ago,,
+Seattle World School15,MS,2017,Oksana A. Britsova,sws.seattleschools.org,45,22,0.83196,0.86957, Grade 3,,
+Seattle World School15,MS,2017,Oksana A. Britsova,sws.seattleschools.org,45,22,0.83196,0.86957, Grade 3 - Last year,,
+Seattle World School15,MS,2017,Oksana A. Britsova,sws.seattleschools.org,45,22,0.83196,0.86957, Grade 3 - Two years ago,,
+South Lake High School,HS,2017,Laura Davis Brown,southlakehs.seattleschools.org,62,8,0.59355,1.36066, Grade 3,,
+South Lake High School,HS,2017,Laura Davis Brown,southlakehs.seattleschools.org,62,8,0.59355,1.36066, Grade 3 - Last year,,
+South Lake High School,HS,2017,Laura Davis Brown,southlakehs.seattleschools.org,62,8,0.59355,1.36066, Grade 3 - Two years ago,,
+South Shore PK-8 School,ES,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,314,40,0.94821,0.12263, Grade 3,0.52083,0.6875
+South Shore PK-8 School,ES,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,314,40,0.94821,0.12263, Grade 3 - Last year,0.44615,0.64615
+South Shore PK-8 School,ES,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,314,40,0.94821,0.12263, Grade 3 - Two years ago,0.38596,0.40351
+South Shore PK-8 School16,MS,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,206,40,0.94821,0.12263, Grade 3,,
+South Shore PK-8 School16,MS,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,206,40,0.94821,0.12263, Grade 3 - Last year,,
+South Shore PK-8 School16,MS,2017,Justin B. Hendrickson,southshorek8.seattleschools.org,206,40,0.94821,0.12263, Grade 3 - Two years ago,,
+Stephen Decatur Elementary,ES,2017,Rina E. Geoghagan,decatur.seattleschools.org,242,12,0.97218,1.65E-02, Grade 3,0.98113,0.98113
+Stephen Decatur Elementary,ES,2017,Rina E. Geoghagan,decatur.seattleschools.org,242,12,0.97218,1.65E-02, Grade 3 - Last year,,
+Stephen Decatur Elementary,ES,2017,Rina E. Geoghagan,decatur.seattleschools.org,242,12,0.97218,1.65E-02, Grade 3 - Two years ago,,
+Stevens Elementary,ES,2017,Brian K. Fitch,stevenses.seattleschools.org,287,16,0.94959,0.12195, Grade 3,0.68571,0.85714
+Stevens Elementary,ES,2017,Brian K. Fitch,stevenses.seattleschools.org,287,16,0.94959,0.12195, Grade 3 - Last year,0.63889,0.69444
+Stevens Elementary,ES,2017,Brian K. Fitch,stevenses.seattleschools.org,287,16,0.94959,0.12195, Grade 3 - Two years ago,0.61667,0.65
+TOPS K-8 School,ES,2017,Amy L. Schwentor,www.topsk8.org,313,26,0.94648,7.43E-02, Grade 3,0.66667,0.58824
+TOPS K-8 School,ES,2017,Amy L. Schwentor,www.topsk8.org,313,26,0.94648,7.43E-02, Grade 3 - Last year,0.57778,0.64444
+TOPS K-8 School,ES,2017,Amy L. Schwentor,www.topsk8.org,313,26,0.94648,7.43E-02, Grade 3 - Two years ago,0.65385,0.67308
+TOPS K-8 School17,MS,2017,Amy L. Schwentor,www.topsk8.org,156,26,0.94648,7.43E-02, Grade 3,,
+TOPS K-8 School17,MS,2017,Amy L. Schwentor,www.topsk8.org,156,26,0.94648,7.43E-02, Grade 3 - Last year,,
+TOPS K-8 School17,MS,2017,Amy L. Schwentor,www.topsk8.org,156,26,0.94648,7.43E-02, Grade 3 - Two years ago,,
+The Center School,HS,2017,Barbara L. Casey,centerhs.seattleschools.org,242,15,0.88646,0.15702, Grade 3,,
+The Center School,HS,2017,Barbara L. Casey,centerhs.seattleschools.org,242,15,0.88646,0.15702, Grade 3 - Last year,,
+The Center School,HS,2017,Barbara L. Casey,centerhs.seattleschools.org,242,15,0.88646,0.15702, Grade 3 - Two years ago,,
+Thornton Creek Elementary,ES,2017,Jonathan E. Gasbar,thorntoncreekschool.org,519,30,0.95596,6.06E-02, Grade 3,0.72973,0.78378
+Thornton Creek Elementary,ES,2017,Jonathan E. Gasbar,thorntoncreekschool.org,519,30,0.95596,6.06E-02, Grade 3 - Last year,0.27397,0.27397
+Thornton Creek Elementary,ES,2017,Jonathan E. Gasbar,thorntoncreekschool.org,519,30,0.95596,6.06E-02, Grade 3 - Two years ago,0.32692,0.34615
+Thurgood Marshall Elementary,ES,2017,Katherine J. May,marshalles.seattleschools.org,565,28,0.96222,0.11693, Grade 3,0.75,0.80357
+Thurgood Marshall Elementary,ES,2017,Katherine J. May,marshalles.seattleschools.org,565,28,0.96222,0.11693, Grade 3 - Last year,0.73684,0.72632
+Thurgood Marshall Elementary,ES,2017,Katherine J. May,marshalles.seattleschools.org,565,28,0.96222,0.11693, Grade 3 - Two years ago,0.82524,0.8835
+Van Asselt Elementary,ES,2017,Monique E. Manuel,vanasseltes.seattleschools.org,417,30,0.94369,0.19818, Grade 3,0.2716,0.32099
+Van Asselt Elementary,ES,2017,Monique E. Manuel,vanasseltes.seattleschools.org,417,30,0.94369,0.19818, Grade 3 - Last year,0.32877,0.51351
+Van Asselt Elementary,ES,2017,Monique E. Manuel,vanasseltes.seattleschools.org,417,30,0.94369,0.19818, Grade 3 - Two years ago,0.53012,0.80723
+View Ridge Elementary,ES,2017,Edward J. Roos,viewridgees.seattleschools.org,551,27,0.96592,5.27E-02, Grade 3,0.76087,0.72826
+View Ridge Elementary,ES,2017,Edward J. Roos,viewridgees.seattleschools.org,551,27,0.96592,5.27E-02, Grade 3 - Last year,0.80769,0.77358
+View Ridge Elementary,ES,2017,Edward J. Roos,viewridgees.seattleschools.org,551,27,0.96592,5.27E-02, Grade 3 - Two years ago,0.83158,0.82105
+Viewlands Elementary,ES,2017,Amy J. Klainer,viewlandses.seattleschools.org,401,25,0.95306,0.1274, Grade 3,0.67273,0.52727
+Viewlands Elementary,ES,2017,Amy J. Klainer,viewlandses.seattleschools.org,401,25,0.95306,0.1274, Grade 3 - Last year,0.39344,0.57377
+Viewlands Elementary,ES,2017,Amy J. Klainer,viewlandses.seattleschools.org,401,25,0.95306,0.1274, Grade 3 - Two years ago,0.5,0.53623
+Washington Middle School,MS,2017,Susan G Follmer,washingtonms.seattleschools.org,712,41,0.94052,6.88E-02, Grade 3,,
+Washington Middle School,MS,2017,Susan G Follmer,washingtonms.seattleschools.org,712,41,0.94052,6.88E-02, Grade 3 - Last year,,
+Washington Middle School,MS,2017,Susan G Follmer,washingtonms.seattleschools.org,712,41,0.94052,6.88E-02, Grade 3 - Two years ago,,
+Wedgwood Elementary,ES,2017,Stephen W. Liu,wedgwoodes.seattleschools.org,485,24,0.96565,7.01E-02, Grade 3,0.82278,0.78205
+Wedgwood Elementary,ES,2017,Stephen W. Liu,wedgwoodes.seattleschools.org,485,24,0.96565,7.01E-02, Grade 3 - Last year,0.82609,0.88043
+Wedgwood Elementary,ES,2017,Stephen W. Liu,wedgwoodes.seattleschools.org,485,24,0.96565,7.01E-02, Grade 3 - Two years ago,0.84615,0.89744
+West Seattle Elementary,ES,2017,Pamela K. McCowan-Conyers,westseattlees.seattleschools.org,432,27,0.94643,0.2069, Grade 3,0.61538,0.69231
+West Seattle Elementary,ES,2017,Pamela K. McCowan-Conyers,westseattlees.seattleschools.org,432,27,0.94643,0.2069, Grade 3 - Last year,0.5,0.60526
+West Seattle Elementary,ES,2017,Pamela K. McCowan-Conyers,westseattlees.seattleschools.org,432,27,0.94643,0.2069, Grade 3 - Two years ago,0.58065,0.59677
+West Seattle High School,HS,2017,Brian D. Vance,westseattlehs.seattleschools.org,1055,53,0.89569,0.12133, Grade 3,,
+West Seattle High School,HS,2017,Brian D. Vance,westseattlehs.seattleschools.org,1055,53,0.89569,0.12133, Grade 3 - Last year,,
+West Seattle High School,HS,2017,Brian D. Vance,westseattlehs.seattleschools.org,1055,53,0.89569,0.12133, Grade 3 - Two years ago,,
+West Woodland Elementary,ES,2017,Farah G. Thaxton,www.westwoodland.org,566,30,0.96604,5.83E-02, Grade 3,0.82178,0.71287
+West Woodland Elementary,ES,2017,Farah G. Thaxton,www.westwoodland.org,566,30,0.96604,5.83E-02, Grade 3 - Last year,0.79487,0.73077
+West Woodland Elementary,ES,2017,Farah G. Thaxton,www.westwoodland.org,566,30,0.96604,5.83E-02, Grade 3 - Two years ago,0.90217,0.88043
+Whitman Middle School,MS,2017,Christina R. Posten,whitmanms.seattleschools.org,566,33,0.94621,7.77E-02, Grade 3,,
+Whitman Middle School,MS,2017,Christina R. Posten,whitmanms.seattleschools.org,566,33,0.94621,7.77E-02, Grade 3 - Last year,,
+Whitman Middle School,MS,2017,Christina R. Posten,whitmanms.seattleschools.org,566,33,0.94621,7.77E-02, Grade 3 - Two years ago,,
+Whittier Elementary,ES,2017,Susan K. Clark,whittieres.seattleschools.org,494,23,0.96683,5.86E-02, Grade 3,0.67123,0.65753
+Whittier Elementary,ES,2017,Susan K. Clark,whittieres.seattleschools.org,494,23,0.96683,5.86E-02, Grade 3 - Last year,0.59677,0.7377
+Whittier Elementary,ES,2017,Susan K. Clark,whittieres.seattleschools.org,494,23,0.96683,5.86E-02, Grade 3 - Two years ago,0.75904,0.68675
+Wing Luke Elementary,ES,2017,Carol D. Mendoza,lukees.seattleschools.org,337,21,0.94598,0.10979, Grade 3,0.45833,0.45833
+Wing Luke Elementary,ES,2017,Carol D. Mendoza,lukees.seattleschools.org,337,21,0.94598,0.10979, Grade 3 - Last year,0.5,0.62712
+Wing Luke Elementary,ES,2017,Carol D. Mendoza,lukees.seattleschools.org,337,21,0.94598,0.10979, Grade 3 - Two years ago,0.48148,0.62963

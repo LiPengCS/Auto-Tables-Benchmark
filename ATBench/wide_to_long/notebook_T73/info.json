@@ -1,0 +1,22 @@
+{
+    "label": [
+        "wide_to_long_4_14"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 4,
+            "wtl_end_idx": 14,
+            "wtl_stubnames": [
+                "Team",
+                "Goal",
+                "Win",
+                "o_rating",
+                "d_rating"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_232_case_22"
+}

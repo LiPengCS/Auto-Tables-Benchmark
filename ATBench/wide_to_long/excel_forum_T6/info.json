@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_1_11"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 11,
+            "wtl_stubnames": [
+                "Name",
+                "Country"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T1",
+    "url": "https://techcommunity.microsoft.com/t5/excel/data-restructuring-using-excel/m-p/287547"
+}

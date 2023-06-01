@@ -1,0 +1,14 @@
+{
+    "label": [
+        "stack_1_32",
+        "transpose-stack_1_482"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 32
+        }
+    ],
+    "source": "notebook",
+    "old_name": "stack-vm8_NB_2019929_case_9"
+}

@@ -1,0 +1,12 @@
+{
+    "label": [
+        "ffill_2"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 2
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "0ab5032493db49ae9d515e7a84570ec7.etable0"
+}

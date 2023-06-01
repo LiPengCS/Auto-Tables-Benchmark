@@ -1,0 +1,22 @@
+{
+    "label": [
+        "wide_to_long_2_14"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 2,
+            "wtl_end_idx": 14,
+            "wtl_sep": ".",
+            "wtl_pos": "prefix",
+            "wtl_stubnames": [
+                "Typ",
+                "n",
+                "E.UUID",
+                "H.UUID"
+            ]
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T6",
+    "url": "https://community.powerbi.com/t5/Power-Query/Unpivoting-Group-of-Columns-by-start-of-columnnames/m-p/2407360"
+}

@@ -1,0 +1,15 @@
+{
+    "label": [
+        "explode_1"
+    ],
+    "params": [
+        {
+            "explode_column": "B",
+            "explode_column_idx": 1,
+            "explode_sep": ", "
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T10",
+    "url": "https://techcommunity.microsoft.com/t5/excel/need-to-restructure-my-data-set-any-macro-for-this/m-p/689104"
+}

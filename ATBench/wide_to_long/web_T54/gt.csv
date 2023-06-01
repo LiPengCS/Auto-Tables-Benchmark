@@ -1,0 +1,55 @@
+Volume,wide_to_long_var,Book 1:,Book 2:,Book 3:
+1,Earth(Discs),,1,
+1,Earth(Episodes),,5,
+1,Earth(Released),,"June 4, 2009",
+1,Fire(Discs),,,1
+1,Fire(Episodes),,,5
+1,Fire(Released),,,"June 3, 2010"
+1,Water(Discs),1,,
+1,Water(Episodes),4,,
+1,Water(Released),"March 15, 2007",,
+2,Earth(Discs),,1,
+2,Earth(Episodes),,5,
+2,Earth(Released),,"August 4, 2009",
+2,Fire(Discs),,,1
+2,Fire(Episodes),,,5
+2,Fire(Released),,,"September 23, 2010"
+2,Water(Discs),1,,
+2,Water(Episodes),4,,
+2,Water(Released),"July 5, 2007",,
+3,Earth(Discs),,1,
+3,Earth(Episodes),,5,
+3,Earth(Released),,"October 29, 2009",
+3,Fire(Discs),,,1
+3,Fire(Episodes),,,5
+3,Fire(Released),,,"October 7, 2010"
+3,Water(Discs),1,,
+3,Water(Episodes),4,,
+3,Water(Released),"March 13, 2008",,
+4,Earth(Discs),,1,
+4,Earth(Episodes),,5,
+4,Earth(Released),,"March 31, 2010",
+4,Fire(Discs),,,1
+4,Fire(Episodes),,,6
+4,Fire(Released),,,"November 4, 2010"
+4,Water(Discs),1,,
+4,Water(Episodes),4,,
+4,Water(Released),"June 19, 2008",,
+5,Earth(Discs),,There is no volume five DVD for this season.,
+5,Earth(Episodes),,There is no volume five DVD for this season.,
+5,Earth(Released),,There is no volume five DVD for this season.,
+5,Fire(Discs),,,There is no volume five DVD for this season.
+5,Fire(Episodes),,,There is no volume five DVD for this season.
+5,Fire(Released),,,There is no volume five DVD for this season.
+5,Water(Discs),1,,
+5,Water(Episodes),4,,
+5,Water(Released),"March 5, 2009",,
+Box set,Earth(Discs),,4,
+Box set,Earth(Episodes),,20,
+Box set,Earth(Released),,"September 9, 2010",
+Box set,Fire(Discs),,,4
+Box set,Fire(Episodes),,,21
+Box set,Fire(Released),,,"December 2, 2010"
+Box set,Water(Discs),5,,
+Box set,Water(Episodes),20,,
+Box set,Water(Released),"June 4, 2009",,

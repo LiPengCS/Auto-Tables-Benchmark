@@ -1,0 +1,21 @@
+{
+    "label": [
+        "wide_to_long_5_41"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 5,
+            "wtl_end_idx": 41,
+            "wtl_stubnames": [
+                "Act-For",
+                "Bud",
+                "Gap"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T2",
+    "url": "https://techcommunity.microsoft.com/t5/excel/unpivot-monthly-data/m-p/1867836"
+}

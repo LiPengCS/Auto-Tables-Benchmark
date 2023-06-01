@@ -1,0 +1,14 @@
+{
+    "label": [
+        "stack_1_173",
+        "transpose-stack_1_267"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 173
+        }
+    ],
+    "source": "notebook",
+    "old_name": "stack-vm0_NB_4198599_case_3"
+}

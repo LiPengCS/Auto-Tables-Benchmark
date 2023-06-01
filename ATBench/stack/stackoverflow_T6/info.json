@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_1_7"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 7,
+            "stack_var_name": "Subject",
+            "stack_value_name": "Grade"
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T1",
+    "url": "https://stackoverflow.com/questions/68961796/how-do-i-melt-a-pandas-dataframe"
+}

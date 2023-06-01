@@ -1,0 +1,21 @@
+{
+    "label": [
+        "wide_to_long_4_44"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 4,
+            "wtl_end_idx": 44,
+            "wtl_stubnames": [
+                "Civilian_labor_force",
+                "Employed",
+                "Unemployed",
+                "Unemployment_rate"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_64_case_12"
+}

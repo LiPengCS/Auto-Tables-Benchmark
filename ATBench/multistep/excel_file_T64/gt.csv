@@ -1,0 +1,427 @@
+Subtitle,Items,var,value
+Milk,1% White,g Sat Fat,1.5
+Milk,Chocolate Skim,g Sat Fat,0.0
+Milk,Skim,g Sat Fat,0.0
+Juice,0,g Sat Fat,0.0
+Juice,Apple Cherry,g Sat Fat,0.0
+Juice,Fruit Blend,g Sat Fat,0.0
+Juice,Grape,g Sat Fat,0.0
+Juice,Orange,g Sat Fat,0.0
+Juice,Orange/Pineapple,g Sat Fat,0.0
+Fruits,0,g Sat Fat,0.0
+Fruits,Apple Wedges,g Sat Fat,0.013
+Fruits,Apricot Cup,g Sat Fat,0.0
+Fruits,Applesauce,g Sat Fat,0.0
+Fruits,Banana,g Sat Fat,0.0
+Fruits,Blueberries with Whipped Topping,g Sat Fat,0.201
+Fruits,Blue Raspberry Sorbet (100% Juice),g Sat Fat,0.0
+Fruits,Cantaloupe Cubes,g Sat Fat,0.04
+Fruits,Diced Peaches,g Sat Fat,0.0
+Fruits,Diced Pears,g Sat Fat,0.0
+Fruits,Fresh Pear,g Sat Fat,0.0
+Fruits,Grapes,g Sat Fat,0.0
+Fruits,Grape Sorbet (100% Juice),g Sat Fat,0.0
+Fruits,Honey Dew & Watermelon,g Sat Fat,0.04
+Fruits,Hot Cinnamon Apples,g Sat Fat,1.114
+Fruits,Mandarin Oranges,g Sat Fat,0.0
+Fruits,Mixed Fruit,g Sat Fat,0.0
+Fruits,Nectarine,g Sat Fat,0.0
+Fruits,Orange Sorbet (100% Juice),g Sat Fat,0.0
+Fruits,Orange Wedges,g Sat Fat,0.02
+Fruits,Pineapple Tidbits,g Sat Fat,0.0
+Fruits,Plum,g Sat Fat,0.0
+Fruits,Raisins,g Sat Fat,0.02
+Fruits,Strawberry Cup,g Sat Fat,0.0
+Fruits,Sweet Cherries with Whipped Topping,g Sat Fat,0.26
+Fruits,Watermelon,g Sat Fat,0.01
+Vegetables,Baby Carrots,g Sat Fat,0.02
+Vegetables,Baked Beans,g Sat Fat,0.0
+Vegetables,Baked Potato,g Sat Fat,0.07
+Vegetables,"Beets, Harvard",g Sat Fat,1.191
+Vegetables,Broccoli & Cauliflower (Cooked),g Sat Fat,1.62
+Vegetables,Broccoli with Cheese Sauce,g Sat Fat,4.105
+Vegetables,Candied Sweet Potatoes,g Sat Fat,1.266
+Vegetables,Carrots (Bagged),g Sat Fat,0.018
+Vegetables,Corn,g Sat Fat,1.713
+Vegetables,Corn on the Cob,g Sat Fat,2.531
+Vegetables,Creamy Coleslaw,g Sat Fat,0.471
+Vegetables,French Fries (Crinkle Cut),g Sat Fat,1.019
+Vegetables,French Fries (Seasoned),g Sat Fat,1.026
+Vegetables,Glazed Carrots,g Sat Fat,3.375
+Vegetables,Green Beans,g Sat Fat,1.01
+Vegetables,Mashed Sweet Potatoes,g Sat Fat,0.0
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Sat Fat,0.0
+Vegetables,Mixed Vegetables,g Sat Fat,1.62
+Vegetables,Oven Roasted Potatoes,g Sat Fat,0.0878
+Vegetables,Peas & Carrots,g Sat Fat,0.81
+Vegetables,Potato Rounds (6-12),g Sat Fat,1.37
+Vegetables,Potato Rounds (K-5),g Sat Fat,1.027
+Vegetables,Refried Beans,g Sat Fat,1.337
+Vegetables,Savory Carrots,g Sat Fat,1.013
+Vegetables,Shredded Lettuce & Tomato (9-12),g Sat Fat,0.0
+Vegetables,Shredded Lettuce & Tomato (K-8),g Sat Fat,0.0
+Vegetables,Spinach & Lettuce Salad (9-12),g Sat Fat,0.0
+Vegetables,Spinach & Lettuce Salad (K-8),g Sat Fat,0.0
+Vegetables,Strawberry & Bananas,g Sat Fat,0.005
+Vegetables,Strawberry Applesauce,g Sat Fat,0.0
+Vegetables,Sweet Peas,g Sat Fat,1.68
+Vegetables,Sweet Potato Casserole,g Sat Fat,2.153
+Vegetables,Sweet Potato Fries,g Sat Fat,0.5
+Vegetables,Three Bean Salad,g Sat Fat,0.0
+Vegetables,Tomato Soup,g Sat Fat,0.0
+Vegetables,Vegetable Soup,g Sat Fat,0.015
+Milk,1% White,g Trans Fat,0.0
+Milk,Chocolate Skim,g Trans Fat,0.0
+Milk,Skim,g Trans Fat,0.0
+Juice,0,g Trans Fat,0.0
+Juice,Apple Cherry,g Trans Fat,0.0
+Juice,Fruit Blend,g Trans Fat,0.0
+Juice,Grape,g Trans Fat,0.0
+Juice,Orange,g Trans Fat,0.0
+Juice,Orange/Pineapple,g Trans Fat,0.0
+Fruits,0,g Trans Fat,0.0
+Fruits,Apple Wedges,g Trans Fat,0.0
+Fruits,Apricot Cup,g Trans Fat,0.0
+Fruits,Applesauce,g Trans Fat,0.0
+Fruits,Banana,g Trans Fat,0.0
+Fruits,Blueberries with Whipped Topping,g Trans Fat,0.0
+Fruits,Blue Raspberry Sorbet (100% Juice),g Trans Fat,0.0
+Fruits,Cantaloupe Cubes,g Trans Fat,0.0
+Fruits,Diced Peaches,g Trans Fat,0.0
+Fruits,Diced Pears,g Trans Fat,0.0
+Fruits,Fresh Pear,g Trans Fat,0.0
+Fruits,Grapes,g Trans Fat,0.0
+Fruits,Grape Sorbet (100% Juice),g Trans Fat,0.0
+Fruits,Honey Dew & Watermelon,g Trans Fat,0.0
+Fruits,Hot Cinnamon Apples,g Trans Fat,0.0
+Fruits,Mandarin Oranges,g Trans Fat,0.0
+Fruits,Mixed Fruit,g Trans Fat,0.0
+Fruits,Nectarine,g Trans Fat,0.0
+Fruits,Orange Sorbet (100% Juice),g Trans Fat,0.0
+Fruits,Orange Wedges,g Trans Fat,0.0
+Fruits,Pineapple Tidbits,g Trans Fat,0.0
+Fruits,Plum,g Trans Fat,0.0
+Fruits,Raisins,g Trans Fat,0.0
+Fruits,Strawberry Cup,g Trans Fat,0.0
+Fruits,Sweet Cherries with Whipped Topping,g Trans Fat,0.0
+Fruits,Watermelon,g Trans Fat,0.0
+Vegetables,Baby Carrots,g Trans Fat,0.0
+Vegetables,Baked Beans,g Trans Fat,0.0
+Vegetables,Baked Potato,g Trans Fat,0.0
+Vegetables,"Beets, Harvard",g Trans Fat,0.0
+Vegetables,Broccoli & Cauliflower (Cooked),g Trans Fat,0.0
+Vegetables,Broccoli with Cheese Sauce,g Trans Fat,0.0
+Vegetables,Candied Sweet Potatoes,g Trans Fat,0.0
+Vegetables,Carrots (Bagged),g Trans Fat,0.0
+Vegetables,Corn,g Trans Fat,0.0
+Vegetables,Corn on the Cob,g Trans Fat,0.0
+Vegetables,Creamy Coleslaw,g Trans Fat,0.0
+Vegetables,French Fries (Crinkle Cut),g Trans Fat,0.0
+Vegetables,French Fries (Seasoned),g Trans Fat,0.0
+Vegetables,Glazed Carrots,g Trans Fat,0.0
+Vegetables,Green Beans,g Trans Fat,0.0
+Vegetables,Mashed Sweet Potatoes,g Trans Fat,0.0
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Trans Fat,0.0
+Vegetables,Mixed Vegetables,g Trans Fat,0.0
+Vegetables,Oven Roasted Potatoes,g Trans Fat,0.0
+Vegetables,Peas & Carrots,g Trans Fat,0.0
+Vegetables,Potato Rounds (6-12),g Trans Fat,0.0
+Vegetables,Potato Rounds (K-5),g Trans Fat,0.0
+Vegetables,Refried Beans,g Trans Fat,0.0
+Vegetables,Savory Carrots,g Trans Fat,0.0
+Vegetables,Shredded Lettuce & Tomato (9-12),g Trans Fat,0.0
+Vegetables,Shredded Lettuce & Tomato (K-8),g Trans Fat,0.0
+Vegetables,Spinach & Lettuce Salad (9-12),g Trans Fat,0.0
+Vegetables,Spinach & Lettuce Salad (K-8),g Trans Fat,0.0
+Vegetables,Strawberry & Bananas,g Trans Fat,0.0
+Vegetables,Strawberry Applesauce,g Trans Fat,0.0
+Vegetables,Sweet Peas,g Trans Fat,0.0
+Vegetables,Sweet Potato Casserole,g Trans Fat,0.0
+Vegetables,Sweet Potato Fries,g Trans Fat,0.0
+Vegetables,Three Bean Salad,g Trans Fat,0.0
+Vegetables,Tomato Soup,g Trans Fat,0.0
+Vegetables,Vegetable Soup,g Trans Fat,0.0
+Milk,1% White,g Total Fat,2.5
+Milk,Chocolate Skim,g Total Fat,0.0
+Milk,Skim,g Total Fat,0.0
+Juice,0,g Total Fat,0.0
+Juice,Apple Cherry,g Total Fat,0.0
+Juice,Fruit Blend,g Total Fat,0.0
+Juice,Grape,g Total Fat,0.0
+Juice,Orange,g Total Fat,0.0
+Juice,Orange/Pineapple,g Total Fat,0.0
+Fruits,0,g Total Fat,0.0
+Fruits,Apple Wedges,g Total Fat,0.09
+Fruits,Apricot Cup,g Total Fat,0.0
+Fruits,Applesauce,g Total Fat,0.0
+Fruits,Banana,g Total Fat,0.33
+Fruits,Blueberries with Whipped Topping,g Total Fat,0.855
+Fruits,Blue Raspberry Sorbet (100% Juice),g Total Fat,0.0
+Fruits,Cantaloupe Cubes,g Total Fat,0.14
+Fruits,Diced Peaches,g Total Fat,0.0
+Fruits,Diced Pears,g Total Fat,0.0
+Fruits,Fresh Pear,g Total Fat,0.18
+Fruits,Grapes,g Total Fat,0.12
+Fruits,Grape Sorbet (100% Juice),g Total Fat,0.0
+Fruits,Honey Dew & Watermelon,g Total Fat,0.17
+Fruits,Hot Cinnamon Apples,g Total Fat,2.45
+Fruits,Mandarin Oranges,g Total Fat,0.0
+Fruits,Mixed Fruit,g Total Fat,0.0
+Fruits,Nectarine,g Total Fat,0.41
+Fruits,Orange Sorbet (100% Juice),g Total Fat,0.0
+Fruits,Orange Wedges,g Total Fat,0.12
+Fruits,Pineapple Tidbits,g Total Fat,0.0
+Fruits,Plum,g Total Fat,0.18
+Fruits,Raisins,g Total Fat,0.17
+Fruits,Strawberry Cup,g Total Fat,0.0
+Fruits,Sweet Cherries with Whipped Topping,g Total Fat,0.59
+Fruits,Watermelon,g Total Fat,0.09
+Vegetables,Baby Carrots,g Total Fat,0.09
+Vegetables,Baked Beans,g Total Fat,0.615
+Vegetables,Baked Potato,g Total Fat,0.23
+Vegetables,"Beets, Harvard",g Total Fat,2.621
+Vegetables,Broccoli & Cauliflower (Cooked),g Total Fat,3.564
+Vegetables,Broccoli with Cheese Sauce,g Total Fat,6.157
+Vegetables,Candied Sweet Potatoes,g Total Fat,2.784
+Vegetables,Carrots (Bagged),g Total Fat,0.109
+Vegetables,Corn,g Total Fat,4.169
+Vegetables,Corn on the Cob,g Total Fat,6.069
+Vegetables,Creamy Coleslaw,g Total Fat,3.632
+Vegetables,French Fries (Crinkle Cut),g Total Fat,3.565
+Vegetables,French Fries (Seasoned),g Total Fat,8.21
+Vegetables,Glazed Carrots,g Total Fat,7.425
+Vegetables,Green Beans,g Total Fat,2.23
+Vegetables,Mashed Sweet Potatoes,g Total Fat,0.0
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Total Fat,1.582
+Vegetables,Mixed Vegetables,g Total Fat,3.56
+Vegetables,Oven Roasted Potatoes,g Total Fat,1.97
+Vegetables,Peas & Carrots,g Total Fat,1.782
+Vegetables,Potato Rounds (6-12),g Total Fat,4.793
+Vegetables,Potato Rounds (K-5),g Total Fat,3.595
+Vegetables,Refried Beans,g Total Fat,2.313
+Vegetables,Savory Carrots,g Total Fat,0.0
+Vegetables,Shredded Lettuce & Tomato (9-12),g Total Fat,0.0
+Vegetables,Shredded Lettuce & Tomato (K-8),g Total Fat,0.0
+Vegetables,Spinach & Lettuce Salad (9-12),g Total Fat,0.05
+Vegetables,Spinach & Lettuce Salad (K-8),g Total Fat,0.03
+Vegetables,Strawberry & Bananas,g Total Fat,0.247
+Vegetables,Strawberry Applesauce,g Total Fat,0.002
+Vegetables,Sweet Peas,g Total Fat,3.93
+Vegetables,Sweet Potato Casserole,g Total Fat,4.795
+Vegetables,Sweet Potato Fries,g Total Fat,5.0
+Vegetables,Three Bean Salad,g Total Fat,0.995
+Vegetables,Tomato Soup,g Total Fat,0.0
+Vegetables,Vegetable Soup,g Total Fat,0.2
+Milk,1% White,g Protein,8.0
+Milk,Chocolate Skim,g Protein,8.0
+Milk,Skim,g Protein,8.0
+Juice,0,g Protein,0.0
+Juice,Apple Cherry,g Protein,0.0
+Juice,Fruit Blend,g Protein,0.0
+Juice,Grape,g Protein,0.0
+Juice,Orange,g Protein,0.0
+Juice,Orange/Pineapple,g Protein,1.0
+Fruits,0,g Protein,0.47
+Fruits,Apple Wedges,g Protein,0.14
+Fruits,Apricot Cup,g Protein,1.0
+Fruits,Applesauce,g Protein,0.0
+Fruits,Banana,g Protein,1.1
+Fruits,Blueberries with Whipped Topping,g Protein,0.48
+Fruits,Blue Raspberry Sorbet (100% Juice),g Protein,0.0
+Fruits,Cantaloupe Cubes,g Protein,0.67
+Fruits,Diced Peaches,g Protein,0.0
+Fruits,Diced Pears,g Protein,0.0
+Fruits,Fresh Pear,g Protein,0.58
+Fruits,Grapes,g Protein,0.54
+Fruits,Grape Sorbet (100% Juice),g Protein,0.0
+Fruits,Honey Dew & Watermelon,g Protein,0.79
+Fruits,Hot Cinnamon Apples,g Protein,0.0
+Fruits,Mandarin Oranges,g Protein,1.0
+Fruits,Mixed Fruit,g Protein,0.0
+Fruits,Nectarine,g Protein,1.37
+Fruits,Orange Sorbet (100% Juice),g Protein,0.0
+Fruits,Orange Wedges,g Protein,0.75
+Fruits,Pineapple Tidbits,g Protein,0.0
+Fruits,Plum,g Protein,0.46
+Fruits,Raisins,g Protein,1.17
+Fruits,Strawberry Cup,g Protein,1.0
+Fruits,Sweet Cherries with Whipped Topping,g Protein,1.02
+Fruits,Watermelon,g Protein,0.43
+Vegetables,Baby Carrots,g Protein,0.45
+Vegetables,Baked Beans,g Protein,6.609
+Vegetables,Baked Potato,g Protein,5.83
+Vegetables,"Beets, Harvard",g Protein,1.445
+Vegetables,Broccoli & Cauliflower (Cooked),g Protein,0.504
+Vegetables,Broccoli with Cheese Sauce,g Protein,6.5
+Vegetables,Candied Sweet Potatoes,g Protein,1.836
+Vegetables,Carrots (Bagged),g Protein,0.422
+Vegetables,Corn,g Protein,2.309
+Vegetables,Corn on the Cob,g Protein,2.0
+Vegetables,Creamy Coleslaw,g Protein,1.628
+Vegetables,French Fries (Crinkle Cut),g Protein,2.037
+Vegetables,French Fries (Seasoned),g Protein,2.052
+Vegetables,Glazed Carrots,g Protein,1.099
+Vegetables,Green Beans,g Protein,1.03
+Vegetables,Mashed Sweet Potatoes,g Protein,1.698
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Protein,2.079
+Vegetables,Mixed Vegetables,g Protein,3.2
+Vegetables,Oven Roasted Potatoes,g Protein,2.9
+Vegetables,Peas & Carrots,g Protein,3.076
+Vegetables,Potato Rounds (6-12),g Protein,2.739
+Vegetables,Potato Rounds (K-5),g Protein,2.054
+Vegetables,Refried Beans,g Protein,7.185
+Vegetables,Savory Carrots,g Protein,0.096
+Vegetables,Shredded Lettuce & Tomato (9-12),g Protein,0.01
+Vegetables,Shredded Lettuce & Tomato (K-8),g Protein,0.0
+Vegetables,Spinach & Lettuce Salad (9-12),g Protein,0.99
+Vegetables,Spinach & Lettuce Salad (K-8),g Protein,0.66
+Vegetables,Strawberry & Bananas,g Protein,0.864
+Vegetables,Strawberry Applesauce,g Protein,0.78
+Vegetables,Sweet Peas,g Protein,4.74
+Vegetables,Sweet Potato Casserole,g Protein,3.907
+Vegetables,Sweet Potato Fries,g Protein,1.0
+Vegetables,Three Bean Salad,g Protein,6.669
+Vegetables,Tomato Soup,g Protein,1.447
+Vegetables,Vegetable Soup,g Protein,2.081
+Milk,1% White,g Fiber,0.0
+Milk,Chocolate Skim,g Fiber,0.0
+Milk,Skim,g Fiber,0.0
+Juice,0,g Fiber,0.0
+Juice,Apple Cherry,g Fiber,0.0
+Juice,Fruit Blend,g Fiber,0.0
+Juice,Grape,g Fiber,0.0
+Juice,Orange,g Fiber,0.0
+Juice,Orange/Pineapple,g Fiber,0.0
+Fruits,0,g Fiber,4.4
+Fruits,Apple Wedges,g Fiber,1.3
+Fruits,Apricot Cup,g Fiber,2.0
+Fruits,Applesauce,g Fiber,2.0
+Fruits,Banana,g Fiber,2.6
+Fruits,Blueberries with Whipped Topping,g Fiber,3.198
+Fruits,Blue Raspberry Sorbet (100% Juice),g Fiber,3.0
+Fruits,Cantaloupe Cubes,g Fiber,0.72
+Fruits,Diced Peaches,g Fiber,0.0
+Fruits,Diced Pears,g Fiber,2.0
+Fruits,Fresh Pear,g Fiber,4.69
+Fruits,Grapes,g Fiber,0.7
+Fruits,Grape Sorbet (100% Juice),g Fiber,3.0
+Fruits,Honey Dew & Watermelon,g Fiber,0.95
+Fruits,Hot Cinnamon Apples,g Fiber,1.181
+Fruits,Mandarin Oranges,g Fiber,1.0
+Fruits,Mixed Fruit,g Fiber,1.0
+Fruits,Nectarine,g Fiber,2.2
+Fruits,Orange Sorbet (100% Juice),g Fiber,3.0
+Fruits,Orange Wedges,g Fiber,1.82
+Fruits,Pineapple Tidbits,g Fiber,1.1
+Fruits,Plum,g Fiber,0.9
+Fruits,Raisins,g Fiber,1.4
+Fruits,Strawberry Cup,g Fiber,2.0
+Fruits,Sweet Cherries with Whipped Topping,g Fiber,1.74
+Fruits,Watermelon,g Fiber,0.3
+Vegetables,Baby Carrots,g Fiber,2.0
+Vegetables,Baked Beans,g Fiber,5.49
+Vegetables,Baked Potato,g Fiber,5.67
+Vegetables,"Beets, Harvard",g Fiber,1.445
+Vegetables,Broccoli & Cauliflower (Cooked),g Fiber,1.008
+Vegetables,Broccoli with Cheese Sauce,g Fiber,2.052
+Vegetables,Candied Sweet Potatoes,g Fiber,2.753
+Vegetables,Carrots (Bagged),g Fiber,1.27
+Vegetables,Corn,g Fiber,2.2
+Vegetables,Corn on the Cob,g Fiber,2.0
+Vegetables,Creamy Coleslaw,g Fiber,2.289
+Vegetables,French Fries (Crinkle Cut),g Fiber,2.037
+Vegetables,French Fries (Seasoned),g Fiber,2.052
+Vegetables,Glazed Carrots,g Fiber,2.198
+Vegetables,Green Beans,g Fiber,2.39
+Vegetables,Mashed Sweet Potatoes,g Fiber,1.698
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Fiber,1.04
+Vegetables,Mixed Vegetables,g Fiber,3.2
+Vegetables,Oven Roasted Potatoes,g Fiber,2.835
+Vegetables,Peas & Carrots,g Fiber,3.094
+Vegetables,Potato Rounds (6-12),g Fiber,2.739
+Vegetables,Potato Rounds (K-5),g Fiber,2.054
+Vegetables,Refried Beans,g Fiber,4.871
+Vegetables,Savory Carrots,g Fiber,2.5
+Vegetables,Shredded Lettuce & Tomato (9-12),g Fiber,0.708
+Vegetables,Shredded Lettuce & Tomato (K-8),g Fiber,0.472
+Vegetables,Spinach & Lettuce Salad (9-12),g Fiber,1.09
+Vegetables,Spinach & Lettuce Salad (K-8),g Fiber,0.73
+Vegetables,Strawberry & Bananas,g Fiber,2.643
+Vegetables,Strawberry Applesauce,g Fiber,1.887
+Vegetables,Sweet Peas,g Fiber,4.08
+Vegetables,Sweet Potato Casserole,g Fiber,3.397
+Vegetables,Sweet Potato Fries,g Fiber,3.0
+Vegetables,Three Bean Salad,g Fiber,4.745
+Vegetables,Tomato Soup,g Fiber,0.0
+Vegetables,Vegetable Soup,g Fiber,1.682
+Milk,1% White,g Carbohydrate,13.0
+Milk,Chocolate Skim,g Carbohydrate,20.0
+Milk,Skim,g Carbohydrate,13.0
+Juice,0,g Carbohydrate,13.0
+Juice,Apple Cherry,g Carbohydrate,13.0
+Juice,Fruit Blend,g Carbohydrate,15.0
+Juice,Grape,g Carbohydrate,19.0
+Juice,Orange,g Carbohydrate,13.0
+Juice,Orange/Pineapple,g Carbohydrate,14.0
+Fruits,0,g Carbohydrate,25.13
+Fruits,Apple Wedges,g Carbohydrate,7.53
+Fruits,Apricot Cup,g Carbohydrate,25.0
+Fruits,Applesauce,g Carbohydrate,15.0
+Fruits,Banana,g Carbohydrate,23.07
+Fruits,Blueberries with Whipped Topping,g Carbohydrate,19.637
+Fruits,Blue Raspberry Sorbet (100% Juice),g Carbohydrate,19.0
+Fruits,Cantaloupe Cubes,g Carbohydrate,6.5
+Fruits,Diced Peaches,g Carbohydrate,14.0
+Fruits,Diced Pears,g Carbohydrate,20.0
+Fruits,Fresh Pear,g Carbohydrate,23.36
+Fruits,Grapes,g Carbohydrate,13.67
+Fruits,Grape Sorbet (100% Juice),g Carbohydrate,19.0
+Fruits,Honey Dew & Watermelon,g Carbohydrate,12.32
+Fruits,Hot Cinnamon Apples,g Carbohydrate,25.515
+Fruits,Mandarin Oranges,g Carbohydrate,20.0
+Fruits,Mixed Fruit,g Carbohydrate,15.0
+Fruits,Nectarine,g Carbohydrate,13.61
+Fruits,Orange Sorbet (100% Juice),g Carbohydrate,19.0
+Fruits,Orange Wedges,g Carbohydrate,10.35
+Fruits,Pineapple Tidbits,g Carbohydrate,18.7
+Fruits,Plum,g Carbohydrate,7.54
+Fruits,Raisins,g Carbohydrate,30.09
+Fruits,Strawberry Cup,g Carbohydrate,22.0
+Fruits,Sweet Cherries with Whipped Topping,g Carbohydrate,18.33
+Fruits,Watermelon,g Carbohydrate,5.65
+Vegetables,Baby Carrots,g Carbohydrate,5.77
+Vegetables,Baked Beans,g Carbohydrate,32.599
+Vegetables,Baked Potato,g Carbohydrate,28.21
+Vegetables,"Beets, Harvard",g Carbohydrate,26.015
+Vegetables,Broccoli & Cauliflower (Cooked),g Carbohydrate,2.016
+Vegetables,Broccoli with Cheese Sauce,g Carbohydrate,6.842
+Vegetables,Candied Sweet Potatoes,g Carbohydrate,36.735
+Vegetables,Carrots (Bagged),g Carbohydrate,4.345
+Vegetables,Corn,g Carbohydrate,17.51
+Vegetables,Corn on the Cob,g Carbohydrate,19.0
+Vegetables,Creamy Coleslaw,g Carbohydrate,16.099
+Vegetables,French Fries (Crinkle Cut),g Carbohydrate,20.374
+Vegetables,French Fries (Seasoned),g Carbohydrate,20.525
+Vegetables,Glazed Carrots,g Carbohydrate,11.318
+Vegetables,Green Beans,g Carbohydrate,4.77
+Vegetables,Mashed Sweet Potatoes,g Carbohydrate,22.927
+Vegetables,Mashed/Whipped Potatoes (with Gravy),g Carbohydrate,19.299
+Vegetables,Mixed Vegetables,g Carbohydrate,12.8
+Vegetables,Oven Roasted Potatoes,g Carbohydrate,14.107
+Vegetables,Peas & Carrots,g Carbohydrate,9.281
+Vegetables,Potato Rounds (6-12),g Carbohydrate,27.391
+Vegetables,Potato Rounds (K-5),g Carbohydrate,20.543
+Vegetables,Refried Beans,g Carbohydrate,15.933
+Vegetables,Savory Carrots,g Carbohydrate,7.5
+Vegetables,Shredded Lettuce & Tomato (9-12),g Carbohydrate,1.72
+Vegetables,Shredded Lettuce & Tomato (K-8),g Carbohydrate,1.147
+Vegetables,Spinach & Lettuce Salad (9-12),g Carbohydrate,1.96
+Vegetables,Spinach & Lettuce Salad (K-8),g Carbohydrate,1.31
+Vegetables,Strawberry & Bananas,g Carbohydrate,18.136
+Vegetables,Strawberry Applesauce,g Carbohydrate,15.875
+Vegetables,Sweet Peas,g Carbohydrate,12.36
+Vegetables,Sweet Potato Casserole,g Carbohydrate,74.366
+Vegetables,Sweet Potato Fries,g Carbohydrate,21.0
+Vegetables,Three Bean Salad,g Carbohydrate,25.991
+Vegetables,Tomato Soup,g Carbohydrate,14.468
+Vegetables,Vegetable Soup,g Carbohydrate,7.595

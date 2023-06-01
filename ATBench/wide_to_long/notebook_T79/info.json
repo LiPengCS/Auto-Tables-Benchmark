@@ -1,0 +1,24 @@
+{
+    "label": [
+        "wide_to_long_1_43"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 43,
+            "wtl_stubnames": [
+                "TOTAL CASES",
+                "BLACK CASES",
+                "HISPANIC CASES",
+                "WHITE CASES",
+                "BLACK CI",
+                "HISPANIC CI",
+                "WHITE CI"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_92_case_2"
+}

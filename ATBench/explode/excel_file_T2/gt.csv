@@ -1,0 +1,19 @@
+Credits,Course,Description,Semester,Prerequisites
+3,ME 10,Graphics for Engin.,0,ME 1
+3,ME 10,Graphics for Engin.,0, ME 5
+3,ME 10,Graphics for Engin.,0, Math 2
+3,Mech 102,Dynamics,0,Mech 2
+3,Mech 102,Dynamics,0, Math 23
+3,Mech 102,Dynamics,0, Mech 100
+3,Mech 102,Dynamics,0, ME 1
+3,ECO 146,App. Microeconomics,1,Eco 1
+3,ECO 146,App. Microeconomics,1, Math 231
+3,Acct 152,Intro. Managerial,1,Acct 151
+3,Acct 152,Intro. Managerial,1, Math 2
+3,Acct 152,Intro. Managerial,1, Eco 1
+3,Fin 125,Intro to Finance,1,Eco 029
+3,Fin 125,Intro to Finance,1, Acct 151
+3,Fin 125,Intro to Finance,1, Math 231 
+3,HHS Elective #2,,1,Math 2
+3,HHS Elective #2,,1, Eco 10
+1,IBE 250,IBE Junior Lab,0,IBE 150

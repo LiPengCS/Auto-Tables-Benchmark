@@ -1,0 +1,10 @@
+Class,Election Year,End of Term,var,value
+1,2018,3-Jan-19,Democratic,23
+2,2020,3-Jan-21,Democratic,11
+3,2022,3-Jan-23,Democratic,12
+1,2018,3-Jan-19,Republican,8
+2,2020,3-Jan-21,Republican,22
+3,2022,3-Jan-23,Republican,22
+1,2018,3-Jan-19,Independent,2
+2,2020,3-Jan-21,Independent,0
+3,2022,3-Jan-23,Independent,0

@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_6"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 6
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T7",
+    "url": "https://stackoverflow.com/questions/47914351/python3-dataframe-restructure"
+}

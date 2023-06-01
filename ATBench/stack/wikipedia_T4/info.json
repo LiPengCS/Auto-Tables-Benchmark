@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_1_4"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 4,
+            "stack_var_name": "Range",
+            "stack_value_name": "Value"
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T14",
+    "url": "https://en.wikipedia.org/wiki/List_of_countries_by_percentage_of_population_living_in_poverty"
+}

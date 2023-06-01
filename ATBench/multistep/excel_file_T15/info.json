@@ -1,0 +1,14 @@
+{
+    "label": [
+        "explode_0-stack_3_7",
+        "stack_3_7-explode_0"
+    ],
+    "params": [
+        {
+            "explode_column_idx": 0,
+            "explode_sep": ";"
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "f7399549bf434160b2fbc7e6cdb356d2.etable0"
+}

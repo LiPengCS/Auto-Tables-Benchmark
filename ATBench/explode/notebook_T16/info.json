@@ -1,0 +1,13 @@
+{
+    "label": [
+        "explode_1"
+    ],
+    "params": [
+        {
+            "explode_column_idx": 1,
+            "explode_sep": ","
+        }
+    ],
+    "source": "notebook",
+    "old_name": "explode-vm0_NB_976_case_15"
+}

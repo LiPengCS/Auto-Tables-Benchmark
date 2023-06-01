@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_8"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 8
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_T16",
+    "url": "https://community.powerbi.com/t5/Power-Query/Transpose-column-with-repeated-values/m-p/2553370"
+}

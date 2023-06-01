@@ -1,0 +1,368 @@
+Season,Champion(s),Record,Coach,Selector(s)
+1869,Princeton,1–1,,"BR, NCF, PD"
+1869,Rutgers,1–1,,PD
+1870,Princeton,1–0,,"BR, NCF, PD"
+1871,None,No games played,No games played,No games played
+1872,Princeton,1–0,,"BR, NCF, PD"
+1872,Yale,1–0,,PD
+1873,Princeton,2–0,,"BR, NCF, PD"
+1874,Harvard,1–1,,PD
+1874,Princeton,2–0,,"BR, PD"
+1874,Yale,3–0,,"NCF, PD"
+1875,Columbia,3–1–1,,PD
+1875,Harvard,4–0,,"NCF, PD"
+1875,Princeton,2–0,,"BR, PD"
+1876,Yale,3–0,,"BR, NCF, PD"
+1877,Princeton,2–0–1,,"BR, PD"
+1877,Yale,3–0–1,,"NCF, PD"
+1878,Princeton,6–0,,"BR, NCF, PD"
+1879,Princeton,4–0–1,,"BR, NCF, PD"
+1879,Yale,3–0–2,,PD
+1880,Princeton,4–0–1,,"NCF, PD"
+1880,Yale,4–0–1,,"BR, NCF, PD"
+1881,Princeton,7–0–2,,"BR, PD"
+1881,Yale,5–0–1,,"NCF, PD"
+1882,Yale,8–0,,"BR, NCF, PD"
+1883,Yale,9–0,,"BR, HAF, NCF, PD"
+1884,Princeton,9–0–1,,"BR, PD"
+1884,Yale,8–0–1,,"HAF, NCF, PD"
+1885,Princeton,9–0,,"BR, HAF, HS, NCF, PD"
+1886,Princeton,7–0–1,,"BR, PD"
+1886,Yale,9–0–1,,"HAF, NCF, PD"
+1887,Yale,9–0,,"BR, HAF, HS, NCF, PD"
+1888,Yale,13–0,Walter Camp,"BR, HAF, HS, NCF, PD"
+1889,Princeton,10–0,,"BR, HAF, HS, NCF, PD"
+1890,Harvard,11–0,George C. Adams,"BR, HAF, HS, NCF, PD"
+1891,Yale,13–0,Walter Camp,"BR, HAF, HS, NCF, PD"
+1892,Yale,13–0,Walter Camp,"BR, HAF, HS, NCF, PD"
+1893,Princeton,11–0,,"BR, HAF, HS, NCF"
+1893,Yale,10–1,William Rhodes,PD
+1894,Penn,12–0,George Washington Woodruff,PD
+1894,Princeton,8–2,,HS
+1894,Yale,16–0,William Rhodes,"BR, HAF, NCF, PD"
+1895,Penn,14–0,George Washington Woodruff,"BR, HAF, HS, NCF, PD"
+1895,Yale,13–0–2,John A. Hartwell,PD
+1896,Lafayette,11–0–1,Parke H. Davis,"NCF, PD"
+1896,Princeton,10–0–1,Franklin Morse,"BR, HAF, HS, NCF, PD"
+1897,Penn,15–0,George Washington Woodruff,"BR, HAF, HS, NCF, PD"
+1897,Yale,9–0–2,Frank Butterworth,PD
+1898,Harvard,11–0,William Forbes,"BR, HAF, HS, NCF"
+1898,Princeton,11–0–1,,PD
+1899,Harvard,10–0–1,Benjamin Dibblee,"HAF, HS, NCF"
+1899,Princeton,12–1,,"BR, PD"
+1900,Yale,12–0,Malcolm McBride,"BR, HAF, HS, NCF, PD"
+1901,Harvard,12–0,Bill Reid,BR
+1901,Michigan,11–0,Fielding H. Yost,"HAF, HS, NCF"
+1901,Yale,11–1–1,George S. Stillman,PDa
+1902,Michigan,11–0,Fielding H. Yost,"BR, HAF, HS, NCF, PD"
+1902,Yale,11–0–1,Joseph R. Swan,PD
+1903,Michigan,11–0–1,Fielding H. Yost,NCF
+1903,Princeton,11–0,Art Hillebrand,"BR, HAF, HS, NCF, PD"
+1904,Michigan,10–0,Fielding H. Yost,NCF
+1904,Minnesota,13–0,Henry Williams,BR
+1904,Penn,12–0,Carl S. Williams,"HAF, HS, NCF, PD"
+1905,Chicago,10–0,Amos Alonzo Stagg,"BR, HAF, HS, NCF"
+1905,Yale,10–0,Jack Owsley,"CW, PD"
+1906,Princeton,9–0–1,William Roper,"HAF, NCF"
+1906,Yale,9–0–1,Foster Rockwell,"BR, CW, PD"
+1907,Yale,9–0–1,William F. Knox,"BR, CW, HAF, HS, NCF, PD"
+1908,Harvard,9–0–1,Percy Haughton,BR
+1908,LSU,10–0,Edgar Wingard,NCF
+1908,Penn,11–0–1,Sol Metzger,"HAF, HS, NCF, PD"
+1909,Yale,10–0,Howard Jones,"BR, HAF, HS, NCF, PD"
+1910,Harvard,8–0–1,Percy Haughton,"BR, HAF, HS, NCF"
+1910,Pittsburgh,9–0,Joseph Thompson,NCF
+1911,Penn State,8–0–1,Bill Hollenback,NCF
+1911,Princeton,8–0–2,William Roper,"BR, HAF, HS, NCF, PD"
+1912,Harvard,9–0,Percy Haughton,"BR, HAF, HS, NCF, PD"
+1912,Penn State,8–0,Bill Hollenback,NCF
+1913,Auburn,8–0,Mike Donahue,BR
+1913,Chicago,7–0,Amos Alonzo Stagg,PD
+1913,Harvard,9–0,Percy Haughton,"HAF, HS, NCF, PD"
+1914,Army,9–0,Charles Daly,"HAF, HS, NCF, PD"
+1914,Illinois,7–0,Robert Zuppke,PD
+1914,Texas,8–0,Dave Allerdice,BR
+1915,Cornell,9–0,Albert Sharpe,"HAF, HS, NCF, PD"
+1915,Oklahoma,10–0,Bennie Owen,BR
+1915,Pittsburgh,8–0,"Glenn ""Pop"" Warner",PD
+1916,Army,9–0,Charles Daly,PD
+1916,Pittsburgh,8–0,"Glenn ""Pop"" Warner","BR, HAF, HS, NCF, PD"
+1917,Georgia Tech,9–0,John Heisman,"BR, HAF, HS, NCF"
+1918,Michigan,5–0,Fielding H. Yost,"BR, NCF"
+1918,Pittsburgh,4–1,"Glenn ""Pop"" Warner","HAF, HS, NCF"
+1919,Centre,9–0,Charley Moran,SR
+1919,Harvard,9–0–1,Bob Fisher,"CFRA, HAF, HS, NCF, PD"
+1919,Illinois,6–1,Robert Zuppke,"BS, CFRA, PD, SR"
+1919,Notre Dame,9–0,Knute Rockne,"NCF, PD"
+1919,Texas A&M,10–0,Dana X. Bible,"BR, NCF"
+1920,California,9–0,Andy Smith,"CFRA, HAF, HS, NCF, SR"
+1920,Harvard,8–0–1,Bob Fisher,BS
+1920,Notre Dame,9–0,Knute Rockne,"BR, PD"
+1920,Princeton,6–0–1,William Roper,"BS, PD"
+1920,Georgia,8–0–1,Herman Stegeman,B(QPRS)
+1921,California,9–0–1,Andy Smith,"BR, BS, CFRA, SR"
+1921,Cornell,8–0,Gil Dobie,"HAF, HS, NCF, PD"
+1921,Iowa,7–0,Howard Jones,PD
+1921,Lafayette,9–0,Jock Sutherland,"BS, PD"
+1921,Washington & Jefferson,10–0–1,Greasy Neale,BS
+1921,Vanderbilt,7–0–1,Dan McGugin,B(QPRS)
+1922,California,9–0,Andy Smith,"BR, HS, NCF, SR"
+1922,Cornell,8–0,Gil Dobie,"HAF, PD"
+1922,Princeton,8–0,William Roper,"BS, CFRA, NCF, PD, SR"
+1922,Vanderbilt,8–0–1,Dan McGugin,B(QPRS)
+1923,California,9–0–1,Andy Smith,HS
+1923,Cornell,8–0,Gil Dobie,SR
+1923,Illinois,8–0,Robert Zuppke,"BS, CFRA, HAF, NCF, PD, SR , B(QPRS)"
+1923,Michigan,8–0,Fielding H. Yost,"BR, NCF"
+1923,Yale,8–0,Tad Jones,B(QPRS)
+1924,Notre Dame,10–0,Knute Rockne,"BR, BS, CFRA, DiS, HAF, HS, NCF, PS, SR, B(QPRS)"
+1924,Penn,9–1–1,Lou Young,PD
+1925,Alabama,10–0,Wallace Wade,"BR, BS, CFRA, HAF, HS, NCF, PS, SR, B(QPRS)"
+1925,Dartmouth,8–0,Jesse Hawley,"DiS, PD"
+1925,Michigan,7–1,Fielding H. Yost,SR
+1926,Alabama,9–0–1,Wallace Wade,"BR, CFRA, HAF, NCF, PS, B(QPRS)"
+1926,Lafayette,9–0,Herb McCracken,PD
+1926,Michigan,7–1,Fielding H. Yost,SR
+1926,Navy,9–0–1,Bill Ingram,"BS, HS"
+1926,Stanford,10–0–1,"Glenn ""Pop"" Warner","DiS, HAF, NCF, SR"
+1927,Georgia,9–1,George Cecil Woodruff,"BS, PS, B(QPRS)"
+1927,Illinois,7–0–1,Robert Zuppke,"BR, DiS, HAF, NCF, PD"
+1927,Notre Dame,7–1–1,Knute Rockne,HS
+1927,Texas A&M,8–0–1,Dana X. Bible,SR
+1927,Yale,7–1,Thomas Jones,CFRA
+1928,Detroit,9–0,Gus Dorais,PD
+1928,Georgia Tech,10–0,William Alexander,"BR, BS, CFRA, HAF, HS, NCF, PD, PS, SR, B(QPRS)"
+1928,USC,9–0–1,Howard Jones,"DiS, SR"
+1929,Notre Dame,9–0,Knute Rockne,"BR, BS, CFRA, DiS, DuS, HAF, NCF, PS, SR"
+1929,Pittsburgh,9–1,Jock Sutherland,PD
+1929,USC,10–2,Howard Jones,"HS, SR, B(QPRS)"
+1930,Alabama,10–0,Wallace Wade,"CFRA, PD, SR, B(QPRS)"
+1930,Notre Dame,10–0,Knute Rockne,"BR, BS, DiS, DuS, HAF, HS, NCF, PD, PS"
+1931,Pittsburgh,8–1,Jock Sutherland,PD
+1931,Purdue,9–1,Noble Kizer,PD
+1931,USC,10–1,Howard Jones,"BR, BS, CFRA, DiS, DuS, HAF, HS, NCF, PS, SR, WS, B(QPRS)"
+1932,Colgate,9–0,Andrew Kerr,PD
+1932,Michigan,8–0,Harry Kipke,"DiS, PD, SR"
+1932,USC,10–0,Howard Jones,"BR, BS, CFRA, DuS, HAF, HS, NCF, PD, PS, SR, WS, B(QPRS)"
+1933,Michigan,7–0–1,Harry Kipke,"BR, BS, CFRA, DiS, HAF, HS, NCF, PD, PS, SR, B(QPRS)"
+1933,Ohio State,7–1,Sam Willaman,DuS
+1933,Princeton,9–0,Fritz Crisler,PD
+1933,USC,10–1–1,Howard Jones,WS
+1934,Alabama,10–0,Frank Thomas,"DuS, HS, PS, WS, B(QPRS)"
+1934,Minnesota,8–0,Bernie Bierman,"BR, BS, CFRA, DiS, HAF, L, NCF, SR"
+1935,LSU,9–2,Bernie Moore,WS
+1935,Minnesota,8–0,Bernie Bierman,"BR, BS, CFRA, HAF, L, NCF, PS"
+1935,Princeton,9–0,Fritz Crisler,DuS
+1935,SMU,12–1,Matty Bell,"DiS, HS, SR, B(QPRS)"
+1935,TCU,12–1,Dutch Meyer,WS
+1936,LSU,9–1–1,Bernie Moore,"SR, WS"
+1936,Minnesota,7–1,Bernie Bierman,"AP, BR, DiS, DuS, HAF, L, NCF, PS"
+1936,Pittsburgh,8–1–1,Jock Sutherland,"BS, CFRA, HS"
+1936,Duke,9–1,Wallace Wade,B(QPRS)
+1937,California,10–0–1,Stub Allison,"DuS, HAF"
+1937,Pittsburgh,9–0–1,Jock Sutherland,"AP, BR, BS, CFRA, DiS, HS, L, NCF, PS, SR, WS, B(QPRS)"
+1938,Notre Dame,8–1,Elmer Layden,DiS
+1938,TCU,11–0,Dutch Meyer,"AP, HAF, NCF, WS"
+1938,Tennessee,11–0,Robert Neyland,"BR, BS, CFRA, DuS, HS, L, PS, SR, B(QPRS)"
+1939,Cornell,8–0,Carl Snavely,"L, SR"
+1939,Texas A&M,11–0,Homer Norton,"AP, BR, BS, CFRA, DeS, DuS, HAF, HS, NCF, PS, SR, WS, B(QPRS)"
+1939,USC,8–0–2,Howard Jones,DiS
+1940,Minnesota,8–0,Bernie Bierman,"AP, B(QPRS), BS, CFRA, DeS, DiS, HS, L, NCF, SR"
+1940,Stanford,10–0,Clark Shaughnessy,"BR, HAF, PS"
+1940,Tennessee,10–1,Robert Neyland,"DuS, WS"
+1941,Alabama,9–2,Frank Thomas,HS
+1941,Minnesota,8–0,Bernie Bierman,"AP, BR, BS, CFRA, DeS, DuS, HAF, L, NCF, PS, SR"
+1941,Texas,8–1–1,Dana X. Bible,"B(QPRS), WS"
+1942,Georgia,11–1,Wally Butts,"B(QPRS), BR, DeS, HS, L, PS, SR, WS"
+1942,Ohio State,9–1,Paul Brown,"AP, BS, DuS, CFRA, NCF"
+1942,Wisconsin,8–1–1,Harry Stuhldreher,HAF
+1943,Notre Dame,9–1,Frank Leahy,"AP, B(QPRS), BR, BS, CFRA, DeS, DuS, HAF, HS, L, NCF, PS, SR, WS"
+1944,Army,9–0,Earl Blaik,"AP, B(QPRS), BR, BS, CFRA, DeS, DuS, HAF, HS, L, NCF, PS, SR, WS"
+1944,Ohio State,9–0,Carroll Widdoes,"NCF, SR"
+1945,Alabama,10–0,Frank Thomas,NCF
+1945,Army,9–0,Earl Blaik,"AP, B(QPRS), BR, BS, CFRA, DeS, DuS, HAF, HS, L, NCF, PS, SR, WS"
+1945,Oklahoma A&M,9–0,Jim Lookabaugh,BRC
+1946,Army,9–0–1,Earl Blaik,"BR, BS, CFRA, HAF, HS, PS"
+1946,Georgia,11–0,Wally Butts,WS
+1946,Notre Dame,8–0–1,Frank Leahy,"AP, B(QPRS), BS, DeS, DuS, HAF, L, NCF, PS, SR"
+1947,Michigan,10–0,Fritz Crisler,"B(QPRS), BR, BS, CFRA, DeS, DuS, HAF, HS, L, NCF, PS, SR"
+1947,Notre Dame,9–0,Frank Leahy,"AP, HAF, WS"
+1948,Michigan,9–0,Bennie Oosterbaan,"AP, B(QPRS), BR, BS, CFRA, DeS, DuS, HAF, HS, L, NCF, PS, SR, WS"
+1949,Notre Dame,10–0,Frank Leahy,"AP, B(QPRS), BR, BS, DeS, DuS, HAF, HS, L, NCF, PS, SR, WS"
+1949,Oklahoma,11–0,Bud Wilkinson,CFRA
+1950,Kentucky,11–1,"Paul ""Bear"" Bryant",SR
+1950,Oklahoma,10–1,Bud Wilkinson,"AP, B(QPRS), HAF, L, UP, WS"
+1950,Princeton,9–0,Charley Caldwell,"BS, PS"
+1950,Tennessee,11–1,Robert Neyland,"BR, CFRA, DeS, DuS, NCF, SR"
+1951,Georgia Tech,11–0–1,Bobby Dodd,"B(QPRS), BS"
+1951,Illinois,9–0–1,Ray Eliot,BS
+1951,Maryland,10–0,Jim Tatum,"CFRA, DeS, DuS, NCF, SR"
+1951,Michigan State,9–0,Biggie Munn,"BR, HAF, PS"
+1951,Tennessee,10–1,Robert Neyland,"AP, L, UP, WS"
+1952,Georgia Tech,12–0,Bobby Dodd,"B(QPRS), BR, INS, PS, SR"
+1952,Michigan State,9–0,Biggie Munn,"AP, BS, CFRA, DeS, DuS, HAF, L, NCF, SR, UP, WS"
+1953,Maryland,10–1,Jim Tatum,"AP, INS, UP"
+1953,Notre Dame,9–0–1,Frank Leahy,"BR, BS, DeS, DuS, HAF, L, NCF, PS, SR, WS"
+1953,Oklahoma,9–1–1,Bud Wilkinson,"B(QPRS), CFRA"
+1954,Ohio State,10–0,Woody Hayes,"AP, B(QPRS), BR, BS, CFRA, DeS, HAF, INS, NCF, PS, SR, WS"
+1954,UCLA,9–0,Henry Sanders,"CFRA, DuS, FWAA, HAF, L, NCF, UP"
+1955,Michigan State,9–1,Duffy Daugherty,BS
+1955,Oklahoma,11–0,Bud Wilkinson,"AP, B(QPRS), BR, CFRA, DeS, DuS, FWAA, HAF, INS, L, NCF, PS, SR, UP, WS"
+1956,Georgia Tech,10–1,Bobby Dodd,"B(QPRS), SR"
+1956,Iowa,9–1,Forest Evashevski,CFRA
+1956,Oklahoma,10–0,Bud Wilkinson,"AP, BR, BS, DeS, DuS, FWAA, HAF, INS, L, NCF, SR, UP, WS"
+1956,Tennessee,10–1,Bowden Wyatt,SR
+1957,Auburn,10–0,Ralph Jordan,"AP, BR, CFRA, HAF, NCF, PS, SR, WS"
+1957,Michigan State,8–1,Duffy Daugherty,DuS
+1957,Ohio State,9–1,Woody Hayes,"BS, DeS, FWAA, INS, L, UP"
+1957,Oklahoma,10–1,Bud Wilkinson,B(QPRS)
+1958,Iowa,8–1–1,Forest Evashevski,FWAA
+1958,LSU,11–0,Paul Dietzel,"AP, B(QPRS), BR, BS, CFRA, DeS, DuS, FN, HAF, L, NCF, PS, SR, UPI, WS"
+1959,Ole Miss,10–1,Johnny Vaught,"B(QPRS), DuS, SR"
+1959,Syracuse,11–0,Ben Schwartzwalder,"AP, BR, BS, CFRA, DeS, FN, FWAA, HAF, L, NCF, NFF, PS, SR, UPI, WS"
+1960,Iowa,8–1,Forest Evashevski,"B(QPRS), BS, L, SR"
+1960,Minnesota,8–2,Murray Warmath,"AP, FN, NFF, UPI"
+1960,Ole Miss,10–0–1,Johnny Vaught,"BR, CFRA, DeS, DuS, FWAA, NCF, WS"
+1960,Missouri,11–0*,Dan Devine,PS
+1960,Washington,10–1,Jim Owens,HAF
+1961,Alabama,11–0,"Paul ""Bear"" Bryant","AP, B(QPRS), BR, CFRA, DeS, DuS, FN, HAF, L, NCF, NFF, SR, UPI, WS"
+1961,Ohio State,8–0–1,Woody Hayes,"FWAA, PS"
+1962,LSU,9–1–1,Charles McClendon,B(QPRS)
+1962,Ole Miss,10–0,Johnny Vaught,"BR, L, SR"
+1962,USC,11–0,John McKay,"AP, B(QPRS), CFRA, DeS, DuS, FN, FWAA, HAF, NCF, NFF, PS, UPI, WS"
+1963,Texas,11–0,Darrell Royal,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, FWAA, HAF, L, NCF, NFF, PS, SR, UPI, WS"
+1964,Alabama,10–1,"Paul ""Bear"" Bryant","AP, B(QPRS), L, UPI"
+1964,Arkansas,11–0,Frank Broyles,"BR, CFRA, FWAA, HAF, NCF, PS, SR"
+1964,Michigan,9–1,Bump Elliott,DuS
+1964,Notre Dame,9–1,Ara Parseghian,"DeS, FN, NFF"
+1965,Alabama,9–1–1,"Paul ""Bear"" Bryant","AP, CFRA, FWAA, NCF"
+1965,Michigan State,10–1,Duffy Daugherty,"B(QPRS), BR, DeS, DuS, FN, FWAA, HAF, L, NFF, PS, SR, UPI"
+1966,Alabama,11–0,"Paul ""Bear"" Bryant","B(QPRS), SR"
+1966,Michigan State,9–0–1,Duffy Daugherty,"CFRA, HAF, NFF, PS"
+1966,Notre Dame,9–0–1,Ara Parseghian,"AP, BR, DeS, DuS, FN, FWAA, HAF, L, MGR, NCF, NFF, PS, SR, UPI"
+1967,Notre Dame,8–2,Ara Parseghian,DuS
+1967,Oklahoma,10–1,Chuck Fairbanks,PS
+1967,USC,10–1,John McKay,"AP, B(QPRS), BR, CFRA, DeS, FN, FWAA, HAF, MGR, NCF, NFF, SR, UPI"
+1967,Tennessee,9–2,Doug Dickey,L
+1968,Georgia,8–1–2,Vince Dooley,L
+1968,Ohio State,10–0,Woody Hayes,"AP, B(QPRS), BR, CFRA, DuS, FN, FWAA, HAF, NCF, NFF, PS, R(FACT), SR, UPI"
+1968,Texas,9–1–1,Darrell Royal,"DeS, MGR, SR"
+1969,Ohio State,8–1,Woody Hayes,MGR
+1969,Penn State,11–0,Joe Paterno,"R(FACT), SR"
+1969,Texas,11–0,Darrell Royal,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, FWAA, HAF, L, NCF, NFF, PS, R(FACT), SR, UPI"
+1970,Arizona State,11–0,Frank Kush,PS
+1970,Nebraska,11–0–1,Bob Devaney,"AP, BR, CFRA, DeS, DuS, FN, FWAA, HAF, NCF, R(FACT), SR"
+1970,Notre Dame,10–1,Ara Parseghian,"MGR, R(FACT), SR"
+1970,Ohio State,9–1,Woody Hayes,NFF
+1970,Texas,10–1,Darrell Royal,"B(QPRS), L, NFF, R(FACT), UPI"
+1971,Nebraska,13–0,Bob Devaney,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, FWAA, HAF, L, MGR, NCF, NFF, PS, R(FACT), SR, UPI"
+1972,USC,12–0,John McKay,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, FWAA, HAF, L, MGR, NCF, NFF, PS, R(FACT), SR, UPI"
+1973,Alabama,11–1,"Paul ""Bear"" Bryant","B(QPRS), UPI"
+1973,Michigan,10–0–1,Bo Schembechler,"NCF, PS"
+1973,Notre Dame,11–0,Ara Parseghian,"AP, BR, FN, FWAA, HAF, NCF, NFF"
+1973,Ohio State,10–0–1,Woody Hayes,"NCF, PS, R(FACT), SR"
+1973,Oklahoma,10–0–1,Barry Switzer,"CFRA, DeS, DuS, SR"
+1974,Ohio State,10–2,Woody Hayes,MGR
+1974,Oklahoma,11–0,Barry Switzer,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, HAF, L, NCF, PS, R(FACT), SR"
+1974,USC,10–1–1,John McKay,"FWAA, HAF, NCF, NFF, UPI"
+1975,Alabama,11–1,"Paul ""Bear"" Bryant",MGR
+1975,Arizona State,12–0,Frank Kush,"NCF, SN"
+1975,Ohio State,11–1,Woody Hayes,"B(QPRS), HAF, MGR, PS, R(FACT)"
+1975,Oklahoma,11–1,Barry Switzer,"AP, BR, CFRA, DeS, DuS, FN, FWAA, HAF, NCF, NFF, R(FACT), SR, UPI"
+1976,Pittsburgh,12–0,Johnny Majors,"AP, FN, FWAA, HAF, NCF, NFF, PS, R(FACT), SN, SR, UPI"
+1976,USC,11–1,John Robinson,"B(QPRS), BR, CFRA, DeS, DuS, MGR"
+1977,Alabama,11–1,"Paul ""Bear"" Bryant",CFRA
+1977,Arkansas,11–1,Lou Holtz,R(FACT)
+1977,Notre Dame,11–1,Dan Devine,"AP, BR, CFRA, DeS, DuS, FN, FWAA, HAF, MGR, NCF, NFF, PS, R(FACT), SN, SR, UPI"
+1977,Texas,11–1,Fred Akers,"B(QPRS), R(FACT), SR"
+1978,Alabama,11–1,"Paul ""Bear"" Bryant","AP, CFRA, FWAA, HAF, NCF, NFF, R(FACT)"
+1978,Oklahoma,11–1,Barry Switzer,"DeS, DuS, HAF, L, MGR, PS, R(FACT), SR"
+1978,USC,12–1,John Robinson,"B(QPRS), BR, FN, HAF, NCF, R(FACT), SN, SR, UPI"
+1979,Alabama,12–0,"Paul ""Bear"" Bryant","AP, B(QPRS), BR, DeS, DuS, FN, FWAA, HAF, MGR, NCF, NFF, NYT, PS, R(FACT), SN, SR, UPI"
+1979,USC,11–0–1,John Robinson,CFRA
+1980,Florida State,10–2,Bobby Bowden,R(FACT)
+1980,Georgia,12–0,Vince Dooley,"AP, B(QPRS), BR, FN, FWAA, HAF, NCF, NFF, PS, R(FACT), SN, SR, UPI"
+1980,Nebraska,10–2,Tom Osborne,R(FACT)
+1980,Oklahoma,10–2,Barry Switzer,"DuS, MGR"
+1980,Pittsburgh,11–1,Jackie Sherrill,"CFRA, DeS, NYT, R(FACT), SR"
+1981,Clemson,12–0,Danny Ford,"AP, B(QPRS), BR, CFRA, DeS, FN, FWAA, HAF, L, MGR, NCF, NFF, NYT, PS, R(FACT), SN, SR, UPI"
+1981,Nebraska,9–3,Tom Osborne,NCF
+1981,Penn State,10–2,Joe Paterno,DuS
+1981,Pittsburgh,11–1,Jackie Sherrill,NCF
+1981,SMU,10–1,Ron Meyer,NCF
+1981,Texas,10–1–1,Fred Akers,NCF
+1982,Nebraska,12–1,Tom Osborne,B(QPRS)
+1982,Penn State,11–1,Joe Paterno,"AP, BR, CFRA, DeS, DuS, FN, FWAA, HAF, L, MGR, NCF, NFF, NYT, PS, R(FACT), SN, SR, UPI, USAT"
+1982,SMU,11–0–1,Bobby Collins,HAF
+1983,Auburn,11–1,Pat Dye,"BR, CFRA, NYT, R(FACT), SR"
+1983,Miami (FL),11–1,Howard Schnellenberger,"AP, DuS, FN, FWAA, NCF, NFF, SN, UPI, USAT/CNN"
+1983,Nebraska,12–1,Tom Osborne,"B(QPRS), DeS, L, MGR, PS, R(FACT), SR"
+1984,BYU,13–0,LaVell Edwards,"AP, BR, CFRA, FWAA, NCF, NFF, PS, SR, UPI, USAT/CNN"
+1984,Florida,9–1–1,Galen Hall,"DeS, DuS, MGR, NYT, R(FACT), SN, SR"
+1984,Nebraska,10–2,Tom Osborne,L
+1984,Washington,11–1,Don James,"B(QPRS), FN, NCF"
+1985,Florida,9–1–1,Galen Hall,SR
+1985,Michigan,10–1–1,Bo Schembechler,MGR
+1985,Oklahoma,11–1,Barry Switzer,"AP, B(QPRS), BR, CFRA, DeS, DuS, FN, FWAA, NCF, NFF, NYT, R(FACT), SN, UPI, USAT/CNN"
+1986,Miami (FL),11–1,Jimmy Johnson,R(FACT)
+1986,Oklahoma,11–1,Barry Switzer,"B(QPRS), CFRA, DeS, DuS, NYT, SR"
+1986,Penn State,12–0,Joe Paterno,"AP, BR, FN, FWAA, MGR, NCF, NFF, R(FACT), SN, SR, UPI, USAT/CNN"
+1987,Florida State,11–1,Bobby Bowden,B(QPRS)
+1987,Miami (FL),12–0,Jimmy Johnson,"AP, BR, CFRA, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, SR, UPI, USAT/CNN"
+1988,Miami (FL),11–1,Jimmy Johnson,B(QPRS)
+1988,Notre Dame,12–0,Lou Holtz,"AP, BR, CFRA, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, SR, UPI, USAT/CNN"
+1989,Miami (FL),11–1,Dennis Erickson,"AP, BR, CFRA, DeS, DuS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, UPI, USAT/CNN"
+1989,Notre Dame,12–1,Lou Holtz,"B(QPRS), ERS, R(FACT), SR"
+1990,Colorado,11–1–1,Bill McCartney,"AP, B(QPRS), BR, CFRA, DeS, FN, FWAA, MGR, NCF, NFF, R(FACT), SN, USAT/CNN"
+1990,Georgia Tech,11–0–1,Bobby Ross,"DuS, NCF, R(FACT), SR, UPI"
+1990,Miami (FL),10–2,Dennis Erickson,"ERS, NYT, R(FACT), SR"
+1990,Washington,10–2,Don James,R(FACT)
+1991,Miami (FL),12–0,Dennis Erickson,"AP, BR, CFRA, ERS, NCF, NYT, SN, SR"
+1991,Washington,12–0,Don James,"B(QPRS), DeS, DuS, FN, FWAA, MGR, NCF, R(FACT), SR, UPI/NFF, USAT/CNN"
+1992,Alabama,13–0,Gene Stallings,"AP, B(QPRS), BR, CFRA, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NYT, R(FACT), SN, SR, UPI/NFF, USAT/CNN"
+1992,Florida State,11–1,Bobby Bowden,SR
+1993,Auburn,11–0,Terry Bowden,NCF
+1993,Florida State,12–1,Bobby Bowden,"AP, B(QPRS), BR, CCR, DeS, DuS, ERS, FN, FWAA, NCF, NYT, R(FACT), SN, SR, UPI, USAT/CNN, USAT/NFF"
+1993,Nebraska,11–1,Tom Osborne,NCF
+1993,Notre Dame,11–1,Lou Holtz,"MGR, NCF"
+1994,Florida State,10–1–1,Bobby Bowden,DuS
+1994,Nebraska,13–0,Tom Osborne,"AP, AS, B(QPRS), BR, FN, FWAA, NCF, R(FACT), SN, SR, UPI, USAT/CNN, USAT/NFF"
+1994,Penn State,12–0,Joe Paterno,"CCR, DeS, ERS, MGR, NCF, NYT, R(FACT), SR"
+1995,Nebraska,12–0,Tom Osborne,"AP, AS, B(QPRS), BR, CCR, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, SR, UPI, USAT/CNN"
+1996,Florida,12–1,Steve Spurrier,"AP, B(QPRS), BR, CCR, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, SR, USAT/CNN"
+1996,Florida State,11–1,Bobby Bowden,AS
+1997,Michigan,12–0,Lloyd Carr,"AP, FN, FWAA, NCF, NFF, SN"
+1997,Nebraska,13–0,Tom Osborne,"A&H, AS, B(QPRS), BR, CCR, DeS, DuS, ERS, MGR, NCF, NYT, R(FACT), SR, USAT/ESPN"
+1998,Tennessee,13–0,Phillip Fulmer,"A&H, AP, AS, B(QPRS), BCS, BR, CCR, DeS, DuS, ERS, FN, FWAA, MGR, NCF, NFF, NYT, R(FACT), SN, USAT/ESPN"
+1998,Ohio State,11–1,John Cooper,SRb
+1999,Florida State,12–0,Bobby Bowden,"A&H, AP, B(QPRS), BCS, BR, CCR, DeS, DuS, ERS, FN, FWAA, MCFR, MGR, NCF, NFF, NYT, R(FACT), SN, SR, USAT/ESPN"
+2000,Miami (FL),11–1,Butch Davis,NYT
+2000,Oklahoma,13–0,Bob Stoops,"A&H, AP, B(QPRS), BCS, BR, CCR, DeS, DuS, ERS, FN, FWAA, MCFR, MGR, NCF, NFF, R(FACT), SN, SR, USAT/ESPN"
+2001,Miami (FL),12–0,Larry Coker,"A&H, AP, B(QPRS), BCS, BR, CCR, CM, DeS, DuS, ERS, FN, FWAA, MCFR, MGR, NFF, NYT, R(FACT), SN, SR, USAT/ESPN, W"
+2002,Ohio State,14–0,Jim Tressel,"A&H, AP, B(QPRS), BCS, BR, CCR, CM, DeS, ERS, FN, FWAA, MCFR, NFF, NYT, R(FACT), SN, SR, USAT/ESPN, W"
+2002,USC,11–2,Pete Carroll,"DuS, MGR, SR"
+2003,LSU,13–1,Nick Saban,"A&H, BCS, BR, CM, DeS, DuS, MCFR, NFF, R(FACT), SR, USAT/ESPN, W"
+2003,Oklahoma,12–2,Bob Stoops,B(QPRS)
+2003,USC,12–1,Pete Carroll,"AP, CCR, ERS, FWAA, MGR, NYT, SN"
+2004,USCc,11–0d,Pete Carroll,"A&H, AP, B(QPRS), BR, CCR, CM, DeS, DuS, ERS, MCFR, MGR, NFF, NYT, R(FACT), SN, SR, W Vacated:c BCS, FWAA, USAT/ESPN"
+2005,Texas,13–0,Mack Brown,"A&H, AP, B(QPRS), BCS, BR, CCR, CM, DeS, DuS, ERS, FWAA, MCFR, MGR, NFF, R(FACT), SN, SR, USAT, W"
+2006,Florida,13–1,Urban Meyer,"A&H, AP, B(QPRS), BCS, BR, CCR, CM, DuS, FWAA, MCFR, MGR, NFF, R(FACT), SN, SR, USAT, W"
+2006,Ohio State,12–1,Jim Tressel,"DeS, R(FACT)"
+2007,LSU,12–2,Les Miles,"AP, B(QPRS), BCS, BR, CCR, CM, FWAA, MCFR, NFF, SR, USAT, W"
+2007,Missouri,12–2,Gary Pinkel,A&H
+2007,USC,11–2,Pete Carroll,DuSe
+2008,Florida,13–1,Urban Meyer,"AP, B(QPRS), BCS, BR, CCR, CM, DuS, FWAA, NFF, SR, USAT"
+2008,Utah,13–0,Kyle Whittingham,"A&H, MCFR, W"
+2009,Alabama,14–0,Nick Saban,"A&H, AP, B(QPRS), BCS, BR, CCR, CFRA, CM, DuS, FWAA, MCFR, NFF, SR, USAT, W"
+2010,Auburn,14–0,Gene Chizik,"A&H, AP, B(QPRS), BCS, BR, CFRA, CM, DuS, FWAA, MCFR, NFF, SR, USAT, W"
+2010,TCU,13–0,Gary Patterson,CCR
+2011,Alabama,12–1,Nick Saban,"AP, B(QPRS), BCS, BR, CFRA, DuS, FWAA, MCFR, NFF, SR, USAT, W"
+2011,LSU,13–1,Les Miles,"A&H, CCR"
+2011,Oklahoma State,12–1,Mike Gundy,CM
+2012,Alabama,13–1,Nick Saban,"A&H, AP, BCS, BR, CCR, CFRA, DuS, FWAA, MCFR, NFF, SR, USAT, W"
+2012,Notre Dame,12–1,Brian Kelly,CM
+2013,Florida State,14–0,Jimbo Fisher,"A&H, AP, BCS, BR, CCR, CFRA, CM, DuS, FWAA, MCFR, NFF, SR, USAT, W"
+2014,Ohio State,14–1,Urban Meyer,"A&H, AP, BR, CCR, CFP, CFRA, CM, DuS, FWAA/NFF, MCFR, SR, USAT/AMWAY, W"
+2015,Alabama,14–1,Nick Saban,"A&H, AP, BR, CCR, CFP, CFRA, CM, DuS, FWAA/NFF, MCFR, SR, USAT/AMWAY, W"
+2016,Clemson,14–1,Dabo Swinney,"A&H, AP, BR, CFP, CFRA, FWAA/NFF, MCFR, SR, USAT/AMWAY, W"
+2016,Alabama,14–1,Nick Saban,"CCR, CM, DuS"

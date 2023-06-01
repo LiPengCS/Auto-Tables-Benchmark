@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_29",
+        "transpose-stack_1_5"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 29,
+            "stack_var_name": "Date",
+            "stack_value_name": "Value"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T16",
+    "url": "https://techcommunity.microsoft.com/t5/excel/clustered-stacked-column-chart-in-excel/m-p/2934305?attachment-id=45987"
+}

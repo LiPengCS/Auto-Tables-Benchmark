@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_2_10"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 2,
+            "stack_end_idx": 10,
+            "stack_var_name": "Country",
+            "stack_value_name": "Value"
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T15",
+    "url": "https://en.wikipedia.org/wiki/Hall_%26_Oates_discography"
+}

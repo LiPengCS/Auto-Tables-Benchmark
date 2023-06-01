@@ -1,0 +1,19 @@
+{
+    "label": [
+        "wide_to_long_5_9"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 5,
+            "wtl_end_idx": 9,
+            "wtl_stubnames": [
+                "prodCat",
+                "serviceCat"
+            ],
+            "wtl_sep": "",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T2"
+}

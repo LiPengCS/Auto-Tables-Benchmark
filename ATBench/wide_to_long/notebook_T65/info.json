@@ -1,0 +1,19 @@
+{
+    "label": [
+        "wide_to_long_1_44"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 44,
+            "wtl_stubnames": [
+                "Median income",
+                "Standard error"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_107_case_46"
+}

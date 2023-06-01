@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_4"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 4
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T13",
+    "url": "https://stackoverflow.com/questions/65291148/extracting-wanted-words-from-multiple-text-files-python-3-6"
+}

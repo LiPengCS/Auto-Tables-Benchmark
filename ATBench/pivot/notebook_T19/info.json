@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_4"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 4
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_T15",
+    "url": "https://community.powerbi.com/t5/Power-Query/Extract-values-and-put-them-in-other-columns/m-p/2318400"
+}

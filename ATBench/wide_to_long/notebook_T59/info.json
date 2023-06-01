@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_2_10"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 2,
+            "wtl_end_idx": 10,
+            "wtl_sep": " ",
+            "wtl_pos": "prefix",
+            "wtl_stubnames": [
+                "$",
+                "Hrs"
+            ]
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T3",
+    "url": "https://community.powerbi.com/t5/Power-Query/Unpivot-non-consecutive-columns/m-p/2166689"
+}

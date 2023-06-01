@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_1_7"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 7,
+            "wtl_sep": "_",
+            "wtl_pos": "suffix",
+            "wtl_stubnames": [
+                "Category",
+                "Quantity"
+            ]
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T12",
+    "url": "https://community.powerbi.com/t5/Power-Query/Data-Import-and-unPivot/m-p/2349542"
+}

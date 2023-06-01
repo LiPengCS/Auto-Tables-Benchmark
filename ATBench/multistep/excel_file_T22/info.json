@@ -1,0 +1,13 @@
+{
+    "label": [
+        "ffill_1-stack_2_14",
+        "stack_2_14-ffill_1"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 1
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "b14c7c84844d4cef81c794a1722d4f8f.etable0"
+}

@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_1_9"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 9,
+            "wtl_stubnames": [
+                "Date",
+                "Quantity"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T3",
+    "url": "https://techcommunity.microsoft.com/t5/excel/pivot-table-with-multiple-date-columns-power-query/m-p/2008531"
+}

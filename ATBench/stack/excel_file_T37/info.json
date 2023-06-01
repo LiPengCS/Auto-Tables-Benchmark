@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_27",
+        "transpose-stack_1_16"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 27,
+            "stack_var_name": "week",
+            "stack_value_name": "value"
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "excel_file_T2",
+    "url": "13runs.com"
+}

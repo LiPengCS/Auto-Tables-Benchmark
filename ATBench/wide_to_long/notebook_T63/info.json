@@ -1,0 +1,23 @@
+{
+    "label": [
+        "wide_to_long_0_15"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 0,
+            "wtl_end_idx": 15,
+            "wtl_sep": "",
+            "wtl_pos": "suffix",
+            "wtl_stubnames": [
+                "Payment_ID",
+                "Actual Payment Date",
+                "Payment",
+                "Due Date",
+                "Remaining"
+            ]
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T9",
+    "url": "https://community.powerbi.com/t5/Power-Query/unpivot-Column/m-p/1818087"
+}

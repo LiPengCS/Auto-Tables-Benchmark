@@ -1,0 +1,13 @@
+Release 1 (in Points),Start,Sprint 1,Sprint 2,Sprint 3,Sprint 4,Sprint 5,Sprint 6,Sprint 7,Sprint 8,Sprint 9,Sprint 10,Sprint 11,Sprint 12
+FORECASTS,,,,,,,,,,,,,
+Forecast: Work remaining at start of sprint,720.0,720.0,666.0,594.0,486.0,342.0,198.0,108.0,36.0,0.0,0.0,0.0,0.0
+Forecast: Velocity ,,54.0,72.0,108.0,144.0,144.0,90.0,72.0,36.0,0.0,0.0,0.0,0.0
+Forecast: Work remaining at the end of sprint,720.0,666.0,594.0,486.0,342.0,198.0,108.0,36.0,0.0,0.0,0.0,0.0,0.0
+ACTUALS,,,,,,,,,,,,,
+Actual: Work remaining at start of sprint,720.0,720.0,666.0,594.0,486.0,342.0,198.0,108.0,36.0,0.0,0.0,0.0,0.0
+Actual Velocity,,54.0,72.0,108.0,144.0,144.0,90.0,72.0,36.0,0.0,0.0,0.0,0.0
+Actual Work remaining at the end of sprint,720.0,666.0,594.0,486.0,342.0,198.0,108.0,36.0,0.0,0.0,0.0,0.0,0.0
+TEAM CAPACITY,,,,,,,,,,,,,
+Forecast: Planned Resources (FTE),,3.0,4.0,6.0,8.0,8.0,5.0,4.0,2.0,0.0,0.0,0.0,0.0
+Forecast: Planned Mandays,,54.0,72.0,108.0,144.0,144.0,90.0,72.0,36.0,0.0,0.0,0.0,0.0
+Estimated: Efficiency Factor,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

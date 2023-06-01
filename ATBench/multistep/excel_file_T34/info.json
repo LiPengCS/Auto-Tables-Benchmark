@@ -1,0 +1,13 @@
+{
+    "label": [
+        "ffill_1-explode_3"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 1,
+            "explode_column_idx": 3
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "ec37f1d6f94446709dbefdf0df3e43e5.etable1"
+}

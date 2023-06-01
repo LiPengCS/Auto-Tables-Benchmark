@@ -1,0 +1,21 @@
+{
+    "label": [
+        "wide_to_long_1_16"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 16,
+            "wtl_stubnames": [
+                "datetime",
+                "pips_candle_0",
+                "pips_candle_max_0",
+                "pips_candle_min_0"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_212_case_13"
+}

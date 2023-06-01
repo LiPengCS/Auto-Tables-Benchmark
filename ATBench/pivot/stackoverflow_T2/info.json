@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_3"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 3
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T12",
+    "url": "https://stackoverflow.com/questions/71309062/read-a-text-file-and-iterate-through-it-to-create-a-csv-based-on-words"
+}

@@ -1,0 +1,19 @@
+How good was the Nurse at,var,value
+Very good,Q22 Putting you at your ease? ,0.43
+Good,Q22 Putting you at your ease? ,0.1
+Satisfactory,Q22 Putting you at your ease? ,0.0
+Very good,Q23 Giving you enough time? ,0.44
+Good,Q23 Giving you enough time? ,0.09
+Satisfactory,Q23 Giving you enough time? ,0.01
+Very good,Q24 Listening to you? ,0.44
+Good,Q24 Listening to you? ,0.08
+Satisfactory,Q24 Listening to you? ,0.02
+Very good,Q25 Explaining your condition and treatment? ,0.35
+Good,Q25 Explaining your condition and treatment? ,0.13
+Satisfactory,Q25 Explaining your condition and treatment? ,0.01
+Very good,Q26 Involving you in decisions about your care? ,0.34
+Good,Q26 Involving you in decisions about your care? ,0.09
+Satisfactory,Q26 Involving you in decisions about your care? ,0.0
+Very good,Q27 Providing or arranging treatment for you? ,0.6
+Good,Q27 Providing or arranging treatment for you? ,0.22
+Satisfactory,Q27 Providing or arranging treatment for you? ,0.05

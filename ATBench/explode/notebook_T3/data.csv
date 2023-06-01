@@ -1,0 +1,1000 @@
+Restaurant_id,City,Cuisine Style,Ranking,Rating,Price Range,Number of Reviews,URL_TA,ID_TA
+id_5569,Paris,"European,  French,  International",5570,3.5,$$ - $$$,194.0,/Restaurant_Review-g187147-d1912643-Reviews-R_Yves-Paris_Ile_de_France.html,d1912643
+id_1535,Stockholm,Other,1537,4.0,,10.0,/Restaurant_Review-g189852-d7992032-Reviews-Buddha_Nepal-Stockholm.html,d7992032
+id_352,London,"Japanese,  Sushi,  Asian,  Grill,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",353,4.5,$$$$,688.0,/Restaurant_Review-g186338-d8632781-Reviews-ROKA_Mayfair-London_England.html,d8632781
+id_3456,Berlin,Other,3458,5.0,,3.0,/Restaurant_Review-g187323-d1358776-Reviews-Esplanade-Berlin.html,d1358776
+id_615,Munich,"German,  Central European,  Vegetarian Friendly",621,4.0,$$ - $$$,84.0,/Restaurant_Review-g187309-d6864963-Reviews-Augustiner_Schutzen_Garten-Munich_Upper_Bavaria_Bavaria.html,d6864963
+id_1418,Oporto,Other,1419,3.0,,2.0,/Restaurant_Review-g189180-d12503536-Reviews-Dick_s_Bar-Porto_Porto_District_Northern_Portugal.html,d12503536
+id_1720,Milan,"Italian,  Pizza",1722,4.0,$,50.0,/Restaurant_Review-g187849-d5808504-Reviews-Pizzeria_La_Costiera-Milan_Lombardy.html,d5808504
+id_825,Bratislava,Italian,826,3.0,,9.0,/Restaurant_Review-g274924-d3199765-Reviews-Ristorante_Italiano_San_Cono-Bratislava_Bratislava_Region.html,d3199765
+id_2690,Vienna,Other,2692,4.0,,,/Restaurant_Review-g190454-d12845029-Reviews-Grunstern-Vienna.html,d12845029
+id_4209,Rome,"Italian,  Pizza,  Fast Food",4210,4.0,$,55.0,/Restaurant_Review-g187791-d8020681-Reviews-Quadro_Pizzetterie-Rome_Lazio.html,d8020681
+id_6578,Barcelona,Other,6579,3.0,,6.0,/Restaurant_Review-g187497-d10696479-Reviews-Restaurant_El_Plaer-Barcelona_Catalonia.html,d10696479
+id_5312,London,"Italian,  Pizza,  Vegetarian Friendly",5321,4.0,$$ - $$$,42.0,/Restaurant_Review-g186338-d12402429-Reviews-Pizza_Pilgrims-London_England.html,d12402429
+id_4066,London,"Italian,  Pizza,  Vegetarian Friendly,  Gluten Free Options",4073,3.5,$$ - $$$,286.0,/Restaurant_Review-g186338-d2259559-Reviews-Made_In_Italy_King_s_Road-London_England.html,d2259559
+id_4637,Berlin,"Vegetarian Friendly,  Gluten Free Options",4639,4.5,$$ - $$$,10.0,/Restaurant_Review-g187323-d12107166-Reviews-Lykke-Berlin.html,d12107166
+id_4773,Madrid,"Mediterranean,  Spanish,  Healthy",4776,4.0,$$ - $$$,7.0,/Restaurant_Review-g187514-d10859423-Reviews-Batea-Madrid.html,d10859423
+id_1401,Dublin,Cafe,1405,4.0,$$ - $$$,28.0,/Restaurant_Review-g186605-d6633059-Reviews-Green_Land_Cafe-Dublin_County_Dublin.html,d6633059
+id_5257,Berlin,"Japanese,  Asian,  Thai,  Vietnamese",5259,4.0,,3.0,/Restaurant_Review-g187323-d10266473-Reviews-Akira_Sushi_Streetfood-Berlin.html,d10266473
+id_11121,London,"Bar,  Pub",11131,4.5,$$ - $$$,7.0,/Restaurant_Review-g186338-d8659568-Reviews-46_Mercy-London_England.html,d8659568
+id_3127,Berlin,German,3129,4.0,$$ - $$$,12.0,/Restaurant_Review-g187323-d3702312-Reviews-Albrechtshof-Berlin.html,d3702312
+id_2791,Brussels,Chinese,2792,3.0,$$ - $$$,12.0,/Restaurant_Review-g947638-d8155327-Reviews-Hong_Yun-Watermael_Boitsfort_Brussels.html,d8155327
+id_368,Munich,"German,  Vegetarian Friendly",370,5.0,$$ - $$$,27.0,/Restaurant_Review-g187309-d10524693-Reviews-Schmaus_Braus-Munich_Upper_Bavaria_Bavaria.html,d10524693
+id_5844,Madrid,Other,5847,4.0,,,/Restaurant_Review-g187514-d10058810-Reviews-Bar_Restaurante_El_Diezy7-Madrid.html,d10058810
+id_13016,London,"Bar,  British,  Pub",13026,3.5,$$ - $$$,52.0,/Restaurant_Review-g186338-d2508041-Reviews-The_Swan_Wimbledon-London_England.html,d2508041
+id_72,Zurich,"Asian,  Thai,  Vegetarian Friendly,  Gluten Free Options,  Vegan Options",73,4.0,$$ - $$$,371.0,/Restaurant_Review-g188113-d1018940-Reviews-White_Elephant-Zurich.html,d1018940
+id_14973,London,"Cafe,  British",14984,3.0,$,18.0,/Restaurant_Review-g186338-d7617571-Reviews-Square_Pie-London_England.html,d7617571
+id_1076,Warsaw,"Polish,  International,  European,  Fusion",1077,5.0,$,2.0,/Restaurant_Review-g274856-d12018194-Reviews-The_Zoopa-Warsaw_Mazovia_Province_Central_Poland.html,d12018194
+id_2763,Madrid,Other,2765,5.0,,11.0,/Restaurant_Review-g187514-d10060659-Reviews-Gaditaun-Madrid.html,d10060659
+id_2108,Budapest,Other,2109,3.5,,2.0,/Restaurant_Review-g274887-d11616946-Reviews-Pajtas_Onkiszolgalo_Etterem-Budapest_Central_Hungary.html,d11616946
+id_10057,Paris,Other,10059,4.5,,4.0,/Restaurant_Review-g187147-d2040769-Reviews-Le_Paradis-Paris_Ile_de_France.html,d2040769
+id_8349,Madrid,Other,8356,2.5,,16.0,/Restaurant_Review-g187514-d5776152-Reviews-Argayo-Madrid.html,d5776152
+id_1841,Copenhagen,Other,1846,3.0,,16.0,/Restaurant_Review-g189541-d11841754-Reviews-Cafe_Phenix-Copenhagen_Zealand.html,d11841754
+id_2006,Amsterdam,"Dutch,  European",2011,4.5,$$ - $$$,15.0,/Restaurant_Review-g188590-d3591150-Reviews-Cafe_Bos-Amsterdam_North_Holland_Province.html,d3591150
+id_1327,Budapest,Other,1328,5.0,,,/Restaurant_Review-g274887-d8791087-Reviews-Bunny_Chinese_Fast_Food-Budapest_Central_Hungary.html,d8791087
+id_2434,Lyon,Vietnamese,2435,3.0,,4.0,/Restaurant_Review-g187265-d3543959-Reviews-Vietnam_City-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d3543959
+id_2427,Rome,"Italian,  Pizza",2428,4.5,$,69.0,/Restaurant_Review-g187791-d5263694-Reviews-Pizza_Mix-Rome_Lazio.html,d5263694
+id_2045,Madrid,"Italian,  Mexican,  Venezuelan,  South American",2047,4.5,$$ - $$$,20.0,/Restaurant_Review-g187514-d10302313-Reviews-Pizzeria_La_Margaritena-Madrid.html,d10302313
+id_5842,Milan,Italian,5845,3.0,$$ - $$$,104.0,/Restaurant_Review-g187849-d3267260-Reviews-La_Salumeria_Della_Musica-Milan_Lombardy.html,d3267260
+id_5209,Rome,"Japanese,  Sushi,  Asian",5210,5.0,$$ - $$$,2.0,/Restaurant_Review-g187791-d13322935-Reviews-Gyoza_Ristorante_Dim_sum_Sushi-Rome_Lazio.html,d13322935
+id_11291,Paris,French,11293,4.5,$$ - $$$,10.0,/Restaurant_Review-g187147-d3543081-Reviews-La_Cave_Marcadet-Paris_Ile_de_France.html,d3543081
+id_3131,Milan,Other,3133,4.0,,7.0,/Restaurant_Review-g187849-d12447161-Reviews-Le_Biciclette_Art_Bar_Bistrot-Milan_Lombardy.html,d12447161
+id_2711,Madrid,"Bar,  Cafe,  Mediterranean,  Pub",2713,4.5,$,9.0,/Restaurant_Review-g187514-d12354572-Reviews-La_Tragona_Bar_de_Tapas-Madrid.html,d12354572
+id_5459,Paris,"Asian,  Thai,  Vegetarian Friendly",5460,3.5,$$ - $$$,132.0,/Restaurant_Review-g187147-d953033-Reviews-Chao_praya-Paris_Ile_de_France.html,d953033
+id_164,Hamburg,"Soups,  Healthy,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",165,4.5,$$ - $$$,73.0,/Restaurant_Review-g187331-d6031001-Reviews-Dean_David_Fresh_to_Eat-Hamburg.html,d6031001
+id_9924,Paris,Pub,9926,3.5,$,39.0,/Restaurant_Review-g187147-d5799345-Reviews-The_Financier-Paris_Ile_de_France.html,d5799345
+id_2192,Lisbon,Japanese,2195,4.0,,7.0,/Restaurant_Review-g189158-d5981466-Reviews-Aya_Bistrot-Lisbon_Lisbon_District_Central_Portugal.html,d5981466
+id_11945,London,Pizza,11955,4.0,,3.0,/Restaurant_Review-g186338-d7276832-Reviews-Duke_of_Wellington-London_England.html,d7276832
+id_8460,Madrid,Italian,8467,2.0,,4.0,/Restaurant_Review-g187514-d12550964-Reviews-Ginos_Monforte_de_Lemos_193-Madrid.html,d12550964
+id_75,Brussels,"Belgian,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",76,4.0,$$ - $$$,484.0,/Restaurant_Review-g188644-d4150215-Reviews-Chutney_s-Brussels.html,d4150215
+id_2098,Barcelona,"Cafe,  Mediterranean,  Spanish,  Vegetarian Friendly",2099,4.0,$,41.0,/Restaurant_Review-g187497-d7952588-Reviews-Mescladis-Barcelona_Catalonia.html,d7952588
+id_1048,Paris,"French,  European,  Vegetarian Friendly",1049,4.5,$$$$,281.0,/Restaurant_Review-g187147-d719083-Reviews-Le_Clos_des_Gourmets-Paris_Ile_de_France.html,d719083
+id_1907,Copenhagen,"Chinese,  Fast Food",1912,2.5,,9.0,/Restaurant_Review-g189541-d5408595-Reviews-China-Copenhagen_Zealand.html,d5408595
+id_10142,London,Other,10151,4.0,,5.0,/Restaurant_Review-g186338-d12391114-Reviews-Lahori_Tikka_Masala-London_England.html,d12391114
+id_9231,Paris,"French,  Vietnamese",9233,4.0,,25.0,/Restaurant_Review-g187147-d7332770-Reviews-Chez_Kim_Ly-Paris_Ile_de_France.html,d7332770
+id_279,Dublin,"Italian,  Pizza,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",280,4.0,$$ - $$$,257.0,/Restaurant_Review-g186605-d1785149-Reviews-Little_Venice-Dublin_County_Dublin.html,d1785149
+id_155,Amsterdam,"Steakhouse,  Latin,  Barbecue,  European,  Argentinean,  South American,  Vegetarian Friendly",156,4.5,$$ - $$$,482.0,/Restaurant_Review-g188590-d4588301-Reviews-Villa_Maria_Restaurant_Amsterdam-Amsterdam_North_Holland_Province.html,d4588301
+id_2622,Prague,Cafe,2628,4.5,$,4.0,/Restaurant_Review-g274707-d7123553-Reviews-Passcal-Prague_Bohemia.html,d7123553
+id_1585,Lyon,Italian,1586,4.0,$$ - $$$,25.0,/Restaurant_Review-g187265-d4295258-Reviews-Espressamente_illy_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4295258
+id_5510,Madrid,Other,5513,4.5,,6.0,/Restaurant_Review-g187514-d697485-Reviews-Casa_Santa_Cruz-Madrid.html,d697485
+id_547,Milan,"Japanese,  Sushi,  Vegetarian Friendly",548,4.0,$$ - $$$,554.0,/Restaurant_Review-g187849-d4353632-Reviews-Kanji_EVO-Milan_Lombardy.html,d4353632
+id_10032,Paris,Other,10034,4.5,,2.0,/Restaurant_Review-g187147-d1035491-Reviews-Le_Kaiku-Paris_Ile_de_France.html,d1035491
+id_8755,London,Other,8764,4.5,,4.0,/Restaurant_Review-g186338-d12676684-Reviews-The_German_Deli-London_England.html,d12676684
+id_1620,Warsaw,Other,1622,4.0,,2.0,/Restaurant_Review-g274856-d11770289-Reviews-Bar_Hoa_Lan-Warsaw_Mazovia_Province_Central_Poland.html,d11770289
+id_3662,Barcelona,Spanish,3663,4.0,$,26.0,/Restaurant_Review-g187497-d5587837-Reviews-Chistu-Barcelona_Catalonia.html,d5587837
+id_150,Budapest,"Healthy,  Mediterranean,  Vegetarian Friendly",151,4.5,$,1317.0,/Restaurant_Review-g274887-d813990-Reviews-Hummusbar-Budapest_Central_Hungary.html,d813990
+id_52,Dublin,"Irish,  Seafood,  European,  Soups,  Vegetarian Friendly,  Gluten Free Options",53,4.5,$$ - $$$,1820.0,/Restaurant_Review-g186605-d2259146-Reviews-Matt_The_Thresher-Dublin_County_Dublin.html,d2259146
+id_1981,Budapest,Other,1982,3.5,,8.0,/Restaurant_Review-g274887-d10073699-Reviews-Fozelekfalo_Food_Bar-Budapest_Central_Hungary.html,d10073699
+id_533,Barcelona,"Japanese,  Asian,  Fusion,  Vegetarian Friendly,  Gluten Free Options",534,4.0,$$$$,1060.0,/Restaurant_Review-g187497-d1099373-Reviews-Dos_Palillos-Barcelona_Catalonia.html,d1099373
+id_2068,Barcelona,"Seafood,  Mediterranean,  Spanish",2069,4.0,$$ - $$$,112.0,/Restaurant_Review-g187497-d797017-Reviews-Brasseria_Gallega-Barcelona_Catalonia.html,d797017
+id_8648,Paris,Other,8650,4.5,,3.0,/Restaurant_Review-g187147-d11687952-Reviews-Lula-Paris_Ile_de_France.html,d11687952
+id_2273,Paris,"Chinese,  Asian",2274,4.0,$$ - $$$,157.0,/Restaurant_Review-g187147-d1019904-Reviews-L_Orient_d_Or-Paris_Ile_de_France.html,d1019904
+id_643,Oslo,"Italian,  Pizza",644,4.0,$,19.0,/Restaurant_Review-g190479-d4043773-Reviews-Pizza_Pancetta_Majorstuen-Oslo_Eastern_Norway.html,d4043773
+id_851,Zurich,"Swiss,  European",855,4.5,$,12.0,/Restaurant_Review-g188113-d4226084-Reviews-Restaurant_Moleson-Zurich.html,d4226084
+id_793,Dublin,"French,  Irish,  European",794,5.0,$$ - $$$,8.0,/Restaurant_Review-g186605-d13172414-Reviews-One_Bistro-Dublin_County_Dublin.html,d13172414
+id_6029,Milan,Other,6032,2.5,,2.0,/Restaurant_Review-g187849-d12911907-Reviews-Panificio_Reda-Milan_Lombardy.html,d12911907
+id_7122,London,"Bar,  International",7131,4.0,$$ - $$$,79.0,/Restaurant_Review-g186338-d3322305-Reviews-Piano_Kensington-London_England.html,d3322305
+id_1247,Dublin,Other,1250,5.0,,3.0,/Restaurant_Review-g186605-d7805333-Reviews-Biscotti_Caffe-Dublin_County_Dublin.html,d7805333
+id_887,Lisbon,"European,  Portuguese,  Mediterranean,  Contemporary,  Wine Bar,  Vegetarian Friendly",888,4.5,$$ - $$$,66.0,/Restaurant_Review-g189158-d6432242-Reviews-Embaixada_Portuguesa-Lisbon_Lisbon_District_Central_Portugal.html,d6432242
+id_773,Amsterdam,"Italian,  European,  Vegetarian Friendly,  Gluten Free Options",775,4.0,$$ - $$$,138.0,/Restaurant_Review-g188590-d2478316-Reviews-Pekelhaaring-Amsterdam_North_Holland_Province.html,d2478316
+id_6025,Madrid,"Spanish,  Cafe",6028,3.5,$,20.0,/Restaurant_Review-g187514-d4600249-Reviews-LA_MEKA_DE_LA_BAGUETTE-Madrid.html,d4600249
+id_35,Budapest,"Seafood,  Mediterranean,  European,  Greek,  Soups,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",36,4.5,$$ - $$$,2340.0,/Restaurant_Review-g274887-d696117-Reviews-Taverna_Dionysos-Budapest_Central_Hungary.html,d696117
+id_13815,London,"Mexican,  Fast Food,  South American,  Central American,  Vegetarian Friendly",13825,3.5,$,28.0,/Restaurant_Review-g186338-d2176100-Reviews-Poncho_8-London_England.html,d2176100
+id_1012,Helsinki,"Japanese,  Sushi,  Asian",1013,3.0,,19.0,/Restaurant_Review-g189934-d3345223-Reviews-Rice_Garden-Helsinki_Uusimaa.html,d3345223
+id_361,Rome,"Italian,  Pizza,  Mediterranean,  Barbecue,  Grill,  Vegetarian Friendly",362,4.5,$$ - $$$,288.0,/Restaurant_Review-g187791-d7361724-Reviews-InfarinaRe-Rome_Lazio.html,d7361724
+id_3670,Berlin,Sushi,3672,4.5,$$ - $$$,10.0,/Restaurant_Review-g187323-d5532357-Reviews-Sushi_Bar_Ishin-Berlin.html,d5532357
+id_2171,Berlin,"Mediterranean,  Grill,  Italian,  German,  European,  Vegetarian Friendly",2173,3.5,$$ - $$$,130.0,/Restaurant_Review-g187323-d1359957-Reviews-Speisekombinat-Berlin.html,d1359957
+id_1461,Milan,"Chinese,  Japanese,  Seafood,  Sushi,  Vegetarian Friendly",1463,3.5,$,283.0,/Restaurant_Review-g187849-d2589168-Reviews-Kyo_Fusion_Restaurant-Milan_Lombardy.html,d2589168
+id_1482,Amsterdam,Other,1485,5.0,,12.0,/Restaurant_Review-g188590-d10027275-Reviews-Samen-Amsterdam_North_Holland_Province.html,d10027275
+id_1365,Zurich,Italian,1370,3.5,$$ - $$$,25.0,/Restaurant_Review-g188113-d1125197-Reviews-Milano-Zurich.html,d1125197
+id_8,Oslo,"Indian,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",9,4.5,$$ - $$$,956.0,/Restaurant_Review-g190479-d9459585-Reviews-Der_Peppern_Gror-Oslo_Eastern_Norway.html,d9459585
+id_1018,Brussels,Other,1019,4.5,,45.0,/Restaurant_Review-g1136488-d5599563-Reviews-Le_Chalet_de_la_Foret-Uccle_Brussels.html,d5599563
+id_499,Lyon,Other,500,4.5,,45.0,/Restaurant_Review-g187265-d7623654-Reviews-Creperie_Caramel_Sale-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d7623654
+id_1466,Vienna,"Middle Eastern,  Turkish",1467,4.0,$$ - $$$,21.0,/Restaurant_Review-g190454-d2632522-Reviews-Cafe_Berfin-Vienna.html,d2632522
+id_7814,London,"Fast Food,  Healthy",7823,4.0,$$ - $$$,21.0,/Restaurant_Review-g186338-d7332678-Reviews-Vital_Ingredient-London_England.html,d7332678
+id_689,Vienna,"South American,  Latin,  Central American,  Venezuelan",690,4.5,$$ - $$$,29.0,/Restaurant_Review-g190454-d10485816-Reviews-Chuchu-Vienna.html,d10485816
+id_1721,Edinburgh,"Pub,  Bar",1728,2.0,$$ - $$$,26.0,/Restaurant_Review-g186525-d11688138-Reviews-The_Beer_House-Edinburgh_Scotland.html,d11688138
+id_3703,Paris,"French,  Seafood,  European",3704,3.5,$$ - $$$,1135.0,/Restaurant_Review-g187147-d5943832-Reviews-Brasserie_L_Alsace-Paris_Ile_de_France.html,d5943832
+id_3412,Prague,Other,3419,3.5,,27.0,/Restaurant_Review-g274707-d4768085-Reviews-McDonald_s_Florenc-Prague_Bohemia.html,d4768085
+id_538,Munich,"Healthy,  Central European,  Vegetarian Friendly",542,4.5,$,59.0,/Restaurant_Review-g187309-d2255569-Reviews-Fraulein_Gruneis-Munich_Upper_Bavaria_Bavaria.html,d2255569
+id_1435,Munich,"Italian,  Pizza",1447,4.0,$,21.0,/Restaurant_Review-g187309-d4597916-Reviews-Eiscafe_Pinocchio-Munich_Upper_Bavaria_Bavaria.html,d4597916
+id_1837,Amsterdam,Chinese,1842,4.5,$$ - $$$,17.0,/Restaurant_Review-g188590-d7916036-Reviews-Golden_House-Amsterdam_North_Holland_Province.html,d7916036
+id_2904,Vienna,Italian,2906,3.5,,3.0,/Restaurant_Review-g190454-d12350248-Reviews-Oskar-Vienna.html,d12350248
+id_2040,Madrid,"Mediterranean,  Spanish,  Vegetarian Friendly",2042,3.5,$$ - $$$,339.0,/Restaurant_Review-g187514-d1109944-Reviews-Samm-Madrid.html,d1109944
+id_1409,Budapest,"French,  European,  Hungarian",1410,5.0,,,/Restaurant_Review-g274887-d13197631-Reviews-Le_Poulet-Budapest_Central_Hungary.html,d13197631
+id_197,Lyon,"French,  European",198,4.0,$$ - $$$,370.0,/Restaurant_Review-g187265-d918784-Reviews-L_Atelier_d_Yvonne-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d918784
+id_3341,Lisbon,"European,  Portuguese",3345,3.5,,3.0,/Restaurant_Review-g189158-d8772965-Reviews-Lamosa_Grill-Lisbon_Lisbon_District_Central_Portugal.html,d8772965
+id_1940,Lyon,"European,  French,  Seafood",1941,3.0,$$ - $$$,354.0,/Restaurant_Review-g1166685-d1324029-Reviews-Amarine_Saint_Priest-Saint_Priest_Lyon_Rhone_Auvergne_Rhone_Alpes.html,d1324029
+id_2926,Milan,Other,2928,4.0,,28.0,/Restaurant_Review-g187849-d6632829-Reviews-Don_Tannino_Bar_a_Vin-Milan_Lombardy.html,d6632829
+id_8240,Madrid,Other,8247,2.5,,25.0,/Restaurant_Review-g187514-d11667577-Reviews-Restaurante_Playa_Riazor-Madrid.html,d11667577
+id_2047,Prague,"Italian,  Mediterranean",2050,5.0,$$ - $$$,,/Restaurant_Review-g274707-d12243659-Reviews-Teodoro_ristorant_caffe-Prague_Bohemia.html,d12243659
+id_4591,Berlin,German,4593,4.0,$$ - $$$,29.0,/Restaurant_Review-g187323-d2445499-Reviews-Deichgraf-Berlin.html,d2445499
+id_4278,Milan,Chinese,4281,3.5,$,83.0,/Restaurant_Review-g187849-d2577881-Reviews-Momigi-Milan_Lombardy.html,d2577881
+id_5296,Rome,Italian,5298,4.0,,9.0,/Restaurant_Review-g187791-d11951657-Reviews-Ventitre-Rome_Lazio.html,d11951657
+id_5,Geneva,"French,  Swiss,  European,  Vegetarian Friendly,  Gluten Free Options",6,4.5,$$ - $$$,1222.0,/Restaurant_Review-g188057-d751711-Reviews-Cafe_du_Soleil-Geneva.html,d751711
+id_6011,Madrid,"Italian,  Pizza",6014,3.5,$$ - $$$,48.0,/Restaurant_Review-g187514-d3902868-Reviews-Pizza_Jardin-Madrid.html,d3902868
+id_678,Madrid,"Pizza,  Vegetarian Friendly,  Vegan Options",679,4.5,$$ - $$$,95.0,/Restaurant_Review-g187514-d5487718-Reviews-Pizzeria_La_Cupula-Madrid.html,d5487718
+id_886,Bratislava,Other,888,1.0,,3.0,/Restaurant_Review-g274924-d7995801-Reviews-Slovak_Pubs-Bratislava_Bratislava_Region.html,d7995801
+id_4633,Paris,"Indian,  Middle Eastern,  Pakistani",4634,4.0,$,62.0,/Restaurant_Review-g187147-d1331796-Reviews-Sheezan-Paris_Ile_de_France.html,d1331796
+id_3436,Barcelona,Italian,3437,4.0,$,26.0,/Restaurant_Review-g187497-d8536895-Reviews-Buenas_Migas-Barcelona_Catalonia.html,d8536895
+id_1508,Lyon,Other,1490,5.0,,2.0,/Restaurant_Review-g187265-d1328183-Reviews-Restaurant_Golbasi-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d1328183
+id_11602,London,Other,11612,4.0,,16.0,/Restaurant_Review-g186338-d10392913-Reviews-Aqua_London-London_England.html,d10392913
+id_2769,Milan,"Italian,  Pizza,  Mediterranean,  European,  Vegetarian Friendly",2771,3.5,$$ - $$$,346.0,/Restaurant_Review-g187849-d1097475-Reviews-Pizzeria_Grand_Italia-Milan_Lombardy.html,d1097475
+id_4116,Milan,Other,4119,3.5,,30.0,/Restaurant_Review-g187849-d7967318-Reviews-Trattoria_la_Madonnina_di_Costantino_Cuciniello_Precotto-Milan_Lombardy.html,d7967318
+id_198,Zurich,"Italian,  Mediterranean,  European,  Vegetarian Friendly",200,4.0,$$$$,211.0,/Restaurant_Review-g188113-d797737-Reviews-Conti-Zurich.html,d797737
+id_3015,Rome,"Italian,  Pizza,  Mediterranean,  European,  Vegetarian Friendly,  Gluten Free Options",3016,3.0,$$ - $$$,1012.0,/Restaurant_Review-g187791-d2226584-Reviews-Fratelli_La_Bufala_a_Ponte_Milvio-Rome_Lazio.html,d2226584
+id_1655,Madrid,"Peruvian,  Asian,  South American",1657,5.0,$$$$,11.0,/Restaurant_Review-g187514-d13174390-Reviews-Machete_Restaurante-Madrid.html,d13174390
+id_2858,London,"Italian,  Mediterranean,  Vegetarian Friendly,  Gluten Free Options",2863,4.0,$$ - $$$,459.0,/Restaurant_Review-g186338-d4052905-Reviews-Cucina_Asellina-London_England.html,d4052905
+id_2423,Rome,"Italian,  Pizza,  Mediterranean,  European,  Delicatessen,  Vegetarian Friendly",2424,3.5,$$ - $$$,481.0,/Restaurant_Review-g187791-d5504724-Reviews-Ristorante_Est_Est_Est-Rome_Lazio.html,d5504724
+id_10343,Paris,Other,10345,3.5,,6.0,/Restaurant_Review-g187147-d12681857-Reviews-Epicerie_et_Associes-Paris_Ile_de_France.html,d12681857
+id_8449,Madrid,"Mediterranean,  European,  Spanish",8456,2.5,$$ - $$$,566.0,/Restaurant_Review-g187514-d7241440-Reviews-La_Carmela-Madrid.html,d7241440
+id_9009,Paris,Other,9011,4.5,,2.0,/Restaurant_Review-g187147-d13094972-Reviews-Love_Juice_Bar-Paris_Ile_de_France.html,d13094972
+id_1251,Edinburgh,Cafe,1252,4.5,$,15.0,/Restaurant_Review-g186525-d5442784-Reviews-Sandwich_Culture-Edinburgh_Scotland.html,d5442784
+id_7472,Paris,Cafe,7473,4.0,$,28.0,/Restaurant_Review-g187147-d4942642-Reviews-Cafe_Le_Zoco-Paris_Ile_de_France.html,d4942642
+id_6583,London,"Cafe,  British",6592,4.5,$,29.0,/Restaurant_Review-g186338-d2524119-Reviews-Cafe_Parco-London_England.html,d2524119
+id_873,Bratislava,Greek,874,3.0,,3.0,/Restaurant_Review-g274924-d4770241-Reviews-Olive_Tree_Restaurant-Bratislava_Bratislava_Region.html,d4770241
+id_270,Warsaw,"Bar,  Polish,  European,  Eastern European,  Steakhouse,  Pub,  Vegetarian Friendly",271,4.0,$$ - $$$,85.0,/Restaurant_Review-g274856-d8797372-Reviews-Latem_Bar_Restaurant-Warsaw_Mazovia_Province_Central_Poland.html,d8797372
+id_237,Stockholm,"Swedish,  Scandinavian,  Vegetarian Friendly,  Gluten Free Options",238,4.5,$$ - $$$,154.0,/Restaurant_Review-g189852-d1496204-Reviews-Proviant_Ostermalm-Stockholm.html,d1496204
+id_4653,Madrid,Spanish,4656,4.0,$,18.0,/Restaurant_Review-g187514-d11754798-Reviews-El_Patio_De_La_Tapa-Madrid.html,d11754798
+id_820,Rome,"Italian,  Pizza,  Vegetarian Friendly",821,5.0,$,134.0,/Restaurant_Review-g187791-d4085056-Reviews-Pizzeria_I_Gemelli_Roma-Rome_Lazio.html,d4085056
+id_1722,Hamburg,"Asian,  Tibetan,  Nepali",1725,4.0,$$ - $$$,3.0,/Restaurant_Review-g187331-d12867794-Reviews-Tibet_Restaurant-Hamburg.html,d12867794
+id_86,Budapest,"European,  Wine Bar,  Eastern European,  Central European,  Hungarian,  Contemporary,  Vegetarian Friendly,  Gluten Free Options",87,4.5,$$ - $$$,1256.0,/Restaurant_Review-g274887-d779921-Reviews-Klassz-Budapest_Central_Hungary.html,d779921
+id_2044,Barcelona,"Italian,  Mediterranean",2045,4.5,$$ - $$$,89.0,/Restaurant_Review-g187497-d8118086-Reviews-Origano_cucina_siciliana-Barcelona_Catalonia.html,d8118086
+id_4157,Rome,Italian,4158,4.0,$$ - $$$,182.0,/Restaurant_Review-g187791-d2321047-Reviews-Sottosopra_Restaurant-Rome_Lazio.html,d2321047
+id_14612,London,Other,14623,3.0,,39.0,/Restaurant_Review-g186338-d7994738-Reviews-Slim_Jim_s_Liquor_Store-London_England.html,d7994738
+id_5080,Barcelona,"Italian,  Seafood",5081,3.5,$$$$,32.0,/Restaurant_Review-g187497-d10226097-Reviews-Laz_Laz-Barcelona_Catalonia.html,d10226097
+id_4505,Paris,Other,4506,4.0,,57.0,/Restaurant_Review-g187147-d3612769-Reviews-Bubbolitas-Paris_Ile_de_France.html,d3612769
+id_8121,Madrid,"Bar,  Mediterranean,  Spanish",8128,2.5,$$ - $$$,1768.0,/Restaurant_Review-g187514-d697526-Reviews-El_Brillante-Madrid.html,d697526
+id_4429,London,"Japanese,  Sushi,  Asian,  Vegetarian Friendly",4436,4.5,$$ - $$$,19.0,/Restaurant_Review-g186338-d10619071-Reviews-Zen_Modern_Japanese_Cuisine-London_England.html,d10619071
+id_4110,Madrid,Spanish,4112,5.0,,2.0,/Restaurant_Review-g187514-d4600226-Reviews-Cafeteria_Teresa-Madrid.html,d4600226
+id_746,Lisbon,"European,  Vegetarian Friendly",747,4.5,$$ - $$$,42.0,/Restaurant_Review-g189158-d10064175-Reviews-Tartar_Ria-Lisbon_Lisbon_District_Central_Portugal.html,d10064175
+id_229,Helsinki,"Cafe,  Bar,  European,  Pub,  Vegetarian Friendly,  Gluten Free Options",230,4.0,$$ - $$$,47.0,/Restaurant_Review-g189934-d4476199-Reviews-Cafe_Bar_Valimo-Helsinki_Uusimaa.html,d4476199
+id_810,Madrid,"Fast Food,  Barbecue,  Vietnamese,  Healthy,  Vegetarian Friendly",811,4.5,$,79.0,/Restaurant_Review-g187514-d9714837-Reviews-The_Big_Banh-Madrid.html,d9714837
+id_14996,London,"British,  Bar,  European",15007,3.0,$$ - $$$,85.0,/Restaurant_Review-g186338-d6403079-Reviews-The_Colonnade_London-London_England.html,d6403079
+id_5206,Barcelona,Other,5207,4.5,,7.0,/Restaurant_Review-g187497-d5867903-Reviews-Fer_El_Cafe-Barcelona_Catalonia.html,d5867903
+id_4519,London,"Chinese,  Asian,  Vegetarian Friendly",4527,3.5,$$ - $$$,1352.0,/Restaurant_Review-g186338-d680500-Reviews-Golden_Dragon-London_England.html,d680500
+id_252,Bratislava,Other,253,4.0,,10.0,/Restaurant_Review-g274924-d12111665-Reviews-Vespa_Caffeterria-Bratislava_Bratislava_Region.html,d12111665
+id_8993,Paris,"Asian,  Korean",8995,4.5,,9.0,/Restaurant_Review-g187147-d5058767-Reviews-CHOI_SUN_Kokiri-Paris_Ile_de_France.html,d5058767
+id_1280,Stockholm,Other,1281,4.5,,2.0,/Restaurant_Review-g189852-d12949592-Reviews-Gandhi_Grondal-Stockholm.html,d12949592
+id_770,Oporto,"Steakhouse,  Southwestern,  Barbecue,  Grill,  Wine Bar",771,5.0,$,3.0,/Restaurant_Review-g189180-d13087286-Reviews-Beer_Beef_Beyond-Porto_Porto_District_Northern_Portugal.html,d13087286
+id_2458,Amsterdam,"Cafe,  Contemporary",2464,4.5,$$ - $$$,12.0,/Restaurant_Review-g188590-d3671977-Reviews-Sane-Amsterdam_North_Holland_Province.html,d3671977
+id_719,Berlin,"French,  German,  Vegetarian Friendly",720,4.0,$$ - $$$,175.0,/Restaurant_Review-g187323-d1341738-Reviews-Renger_Patzsch_Restaurant-Berlin.html,d1341738
+id_1945,Vienna,Other,1947,4.0,,5.0,/Restaurant_Review-g190454-d12556149-Reviews-Ra_mien-Vienna.html,d12556149
+id_3501,Berlin,"French,  Cafe,  International",3503,5.0,,2.0,/Restaurant_Review-g187323-d11999809-Reviews-Lehrter_Cafe-Berlin.html,d11999809
+id_1141,Milan,"Indian,  Vegetarian Friendly,  Vegan Options",1143,4.5,$$ - $$$,28.0,/Restaurant_Review-g187849-d12710453-Reviews-Sara_Indian_Restaurant-Milan_Lombardy.html,d12710453
+id_318,Copenhagen,"European,  Healthy,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",319,4.5,$$ - $$$,88.0,/Restaurant_Review-g189541-d4093614-Reviews-SimpleRAW-Copenhagen_Zealand.html,d4093614
+id_1370,Brussels,Other,1381,5.0,,3.0,/Restaurant_Review-g950786-d11995686-Reviews-Atelier_du_Sushi-Schaerbeek_Brussels.html,d11995686
+id_697,Prague,"European,  Czech,  Central European",698,4.5,$$ - $$$,68.0,/Restaurant_Review-g274707-d694885-Reviews-Suteren-Prague_Bohemia.html,d694885
+id_211,Barcelona,"American,  Contemporary,  Vegetarian Friendly",212,4.5,$$ - $$$,773.0,/Restaurant_Review-g187497-d2470800-Reviews-B_Burger-Barcelona_Catalonia.html,d2470800
+id_8305,Paris,Other,8306,5.0,,,/Restaurant_Review-g187147-d13284434-Reviews-Soleil_Levant-Paris_Ile_de_France.html,d13284434
+id_1539,Brussels,"Italian,  European",1540,4.5,$$ - $$$,4.0,/Restaurant_Review-g188644-d13206789-Reviews-Atrio_Restaurant_Bar_Terrace-Brussels.html,d13206789
+id_11299,Paris,Other,11301,4.0,,7.0,/Restaurant_Review-g187147-d10336129-Reviews-L_Annexe-Paris_Ile_de_France.html,d10336129
+id_249,Ljubljana,"Seafood,  Mediterranean,  European,  Slovenian,  Vegetarian Friendly",250,3.5,$$ - $$$,101.0,/Restaurant_Review-g274873-d4068550-Reviews-Taverna_Tatjana-Ljubljana_Upper_Carniola_Region.html,d4068550
+id_1976,Paris,"French,  European",1977,4.0,$$ - $$$,345.0,/Restaurant_Review-g187147-d807906-Reviews-Le_Plomb_du_Cantal-Paris_Ile_de_France.html,d807906
+id_3233,Rome,"Italian,  Mediterranean,  Gluten Free Options",3234,3.5,$$ - $$$,209.0,/Restaurant_Review-g187791-d11998026-Reviews-Ercoli_Parioli-Rome_Lazio.html,d11998026
+id_3803,London,"American,  Bar,  Pub,  Vegetarian Friendly,  Vegan Options",3810,4.5,$,25.0,/Restaurant_Review-g186338-d11721387-Reviews-The_Full_Nelson-London_England.html,d11721387
+id_2044,Budapest,Italian,2045,3.5,,5.0,/Restaurant_Review-g274887-d10498197-Reviews-Pizza_Escobar-Budapest_Central_Hungary.html,d10498197
+id_4073,Barcelona,Mediterranean,4074,3.5,$$ - $$$,26.0,/Restaurant_Review-g187497-d12441400-Reviews-Sanbermut-Barcelona_Catalonia.html,d12441400
+id_1856,Hamburg,"Cafe,  Contemporary",1859,3.5,,4.0,/Restaurant_Review-g187331-d2722599-Reviews-Black_Bean-Hamburg.html,d2722599
+id_13850,London,"Pizza,  Italian,  Vegetarian Friendly,  Vegan Options",13860,3.5,$$ - $$$,32.0,/Restaurant_Review-g186338-d7949523-Reviews-Lardo_Bebe-London_England.html,d7949523
+id_1773,Amsterdam,Turkish,1778,4.5,$,11.0,/Restaurant_Review-g188590-d8734791-Reviews-Marmara-Amsterdam_North_Holland_Province.html,d8734791
+id_482,Oslo,"Indian,  Middle Eastern,  Pakistani",483,4.0,$$ - $$$,36.0,/Restaurant_Review-g190479-d2328380-Reviews-Tandoori_Hut-Oslo_Eastern_Norway.html,d2328380
+id_5023,Berlin,Other,5025,4.0,,,/Restaurant_Review-g187323-d12068247-Reviews-Kaffchen-Berlin.html,d12068247
+id_3552,Lisbon,Other,3556,2.5,,19.0,/Restaurant_Review-g189158-d10520643-Reviews-Prego_Gourmet_Lda-Lisbon_Lisbon_District_Central_Portugal.html,d10520643
+id_13563,London,Seafood,13573,3.5,$,6.0,/Restaurant_Review-g186338-d8401717-Reviews-Springbank-London_England.html,d8401717
+id_3566,Berlin,Italian,3568,5.0,,,/Restaurant_Review-g187323-d2424319-Reviews-Focolare-Berlin.html,d2424319
+id_10665,London,Other,10675,4.0,,7.0,/Restaurant_Review-g186338-d10677156-Reviews-Bombay_Spice-London_England.html,d10677156
+id_2660,Madrid,Other,2662,4.0,,39.0,/Restaurant_Review-g187514-d9562461-Reviews-Ottawa_Burger-Madrid.html,d9562461
+id_2681,Lisbon,Other,2684,4.0,,5.0,/Restaurant_Review-g189158-d5979704-Reviews-Pastelaria_Anaflor-Lisbon_Lisbon_District_Central_Portugal.html,d5979704
+id_2847,Lisbon,Other,2850,4.0,,,/Restaurant_Review-g189158-d13139218-Reviews-Cafe_Cunha-Lisbon_Lisbon_District_Central_Portugal.html,d13139218
+id_3053,Rome,"Italian,  European,  Mediterranean",3054,4.0,$$ - $$$,177.0,/Restaurant_Review-g187791-d7214349-Reviews-Shabby_Bistrot-Rome_Lazio.html,d7214349
+id_2137,Lisbon,"European,  Portuguese",2140,5.0,,2.0,/Restaurant_Review-g189158-d3193915-Reviews-A_pestiqueria_da_estrela-Lisbon_Lisbon_District_Central_Portugal.html,d3193915
+id_529,Milan,"Italian,  Pizza,  Seafood,  Mediterranean,  Barbecue,  Vegetarian Friendly,  Vegan Options",530,4.5,$$ - $$$,233.0,/Restaurant_Review-g187849-d3691545-Reviews-Il_Pierrot_Di_Garofalo-Milan_Lombardy.html,d3691545
+id_412,Rome,"Balti,  Indian,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",413,4.0,$$ - $$$,486.0,/Restaurant_Review-g187791-d795702-Reviews-Jaipur_Ristorante_Indiano-Rome_Lazio.html,d795702
+id_1151,Milan,Other,1153,4.5,,143.0,/Restaurant_Review-g187849-d2697097-Reviews-Pravda-Milan_Lombardy.html,d2697097
+id_8,Ljubljana,"European,  Central European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",9,4.5,$$ - $$$,816.0,/Restaurant_Review-g274873-d8124300-Reviews-Robba-Ljubljana_Upper_Carniola_Region.html,d8124300
+id_7672,Paris,"Japanese,  Sushi,  Asian",7673,4.0,$$ - $$$,65.0,/Restaurant_Review-g187147-d3316640-Reviews-Midory_Japanese_Restaurant-Paris_Ile_de_France.html,d3316640
+id_1524,Athens,"Pizza,  Fast Food,  Greek,  Street Food",1526,3.5,,3.0,/Restaurant_Review-g189400-d13001826-Reviews-Best_Taste_Experts-Athens_Attica.html,d13001826
+id_984,London,"Italian,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",986,4.0,$$$$,928.0,/Restaurant_Review-g186338-d793183-Reviews-Signor_Sassi-London_England.html,d793183
+id_636,Hamburg,"Peruvian,  South American,  Vegetarian Friendly",637,4.0,$$ - $$$,23.0,/Restaurant_Review-g187331-d12181566-Reviews-Cantina_Popular-Hamburg.html,d12181566
+id_2491,Rome,Italian,2492,4.0,$,69.0,/Restaurant_Review-g187791-d10242690-Reviews-Tiramisu_Roma_Trastevere-Rome_Lazio.html,d10242690
+id_16034,London,Other,16046,2.0,,,/Restaurant_Review-g186338-d7243246-Reviews-YuKyu-London_England.html,d7243246
+id_1475,London,"Indian,  Asian,  Vegetarian Friendly,  Gluten Free Options,  Vegan Options",1477,4.5,$$ - $$$,313.0,/Restaurant_Review-g186338-d733450-Reviews-Indian_Zing-London_England.html,d733450
+id_72,Brussels,"Belgian,  European,  International,  Vegetarian Friendly",73,4.0,$$ - $$$,779.0,/Restaurant_Review-g188644-d4014123-Reviews-Abrussel-Brussels.html,d4014123
+id_7996,Madrid,Spanish,8003,2.5,,2.0,/Restaurant_Review-g187514-d10735345-Reviews-Dehesa_de_Santa_Maria-Madrid.html,d10735345
+id_3031,Milan,"Italian,  Seafood,  Mediterranean,  European,  Healthy",3033,4.5,$$ - $$$,4.0,/Restaurant_Review-g187849-d13198202-Reviews-M89_Terrace-Milan_Lombardy.html,d13198202
+id_1810,Berlin,"Asian,  Vietnamese,  Vegetarian Friendly,  Vegan Options",1812,4.0,$,68.0,/Restaurant_Review-g187323-d5532050-Reviews-Huong_que-Berlin.html,d5532050
+id_451,Bratislava,"American,  Bar,  European,  Pub,  International",452,3.0,$$ - $$$,178.0,/Restaurant_Review-g274924-d2085183-Reviews-Infiniti_Rock_cafe-Bratislava_Bratislava_Region.html,d2085183
+id_304,Oporto,"Seafood,  Mediterranean,  European,  Portuguese,  Soups",305,4.5,$,70.0,/Restaurant_Review-g189180-d6946964-Reviews-Tasquinha_D_ouro-Porto_Porto_District_Northern_Portugal.html,d6946964
+id_1921,Barcelona,"Mediterranean,  Spanish,  Vegetarian Friendly,  Vegan Options",1922,4.0,$$ - $$$,94.0,/Restaurant_Review-g187497-d8661176-Reviews-El_Catala-Barcelona_Catalonia.html,d8661176
+id_941,Oslo,Other,942,3.0,,25.0,/Restaurant_Review-g190479-d8293300-Reviews-McDonald_s-Oslo_Eastern_Norway.html,d8293300
+id_3022,Rome,Pizza,3023,4.5,,42.0,/Restaurant_Review-g187791-d3873744-Reviews-Mezzosacco_Pizza_Tavola_Calda-Rome_Lazio.html,d3873744
+id_716,Budapest,"Fast Food,  European,  Healthy,  Hungarian,  Vegetarian Friendly",717,5.0,$,9.0,/Restaurant_Review-g274887-d12667708-Reviews-Kences_a_Szendvicskrembar-Budapest_Central_Hungary.html,d12667708
+id_8588,London,"Fast Food,  Mexican",8597,4.0,$,49.0,/Restaurant_Review-g186338-d5322631-Reviews-Burrito_Mama-London_England.html,d5322631
+id_14134,London,"Italian,  Pizza,  Vegetarian Friendly,  Gluten Free Options",14144,3.5,$$ - $$$,52.0,/Restaurant_Review-g186338-d734267-Reviews-Pizza_Express-London_England.html,d734267
+id_2575,Paris,"Asian,  Thai,  Vegetarian Friendly",2576,4.0,$$ - $$$,205.0,/Restaurant_Review-g187147-d719805-Reviews-Paradis_Thai-Paris_Ile_de_France.html,d719805
+id_10876,London,"Indian,  Asian,  Balti,  Eastern European,  Vegetarian Friendly",10886,4.0,$$ - $$$,20.0,/Restaurant_Review-g186338-d4185485-Reviews-Haweli_of_Sutton-London_England.html,d4185485
+id_1246,Hamburg,Greek,1248,4.0,$$ - $$$,15.0,/Restaurant_Review-g187331-d3849968-Reviews-Taverna_Korfu-Hamburg.html,d3849968
+id_2273,Vienna,Other,2275,4.5,,2.0,/Restaurant_Review-g190454-d11903856-Reviews-Gasthaus_Hausmannskost-Vienna.html,d11903856
+id_13892,Paris,"French,  Healthy,  Delicatessen,  Street Food",13894,5.0,$$ - $$$,,/Restaurant_Review-g187147-d8660001-Reviews-Chez_Margot-Paris_Ile_de_France.html,d8660001
+id_313,Luxembourg,Sushi,314,4.5,,14.0,/Restaurant_Review-g190356-d4844610-Reviews-Takajo_Sushi-Luxembourg_City.html,d4844610
+id_6382,Paris,French,6383,4.0,$$ - $$$,35.0,/Restaurant_Review-g187147-d6519298-Reviews-Retro-Paris_Ile_de_France.html,d6519298
+id_2074,Amsterdam,Other,2079,4.5,,5.0,/Restaurant_Review-g188590-d11909263-Reviews-Eetwinkel_Zwaan_II-Amsterdam_North_Holland_Province.html,d11909263
+id_2617,Lisbon,Other,2620,4.0,,2.0,/Restaurant_Review-g189158-d12999507-Reviews-Churrasqueria_Central_Santa_Barbara-Lisbon_Lisbon_District_Central_Portugal.html,d12999507
+id_1000,Oporto,Other,1001,4.5,,5.0,/Restaurant_Review-g189180-d12336001-Reviews-Confeitaria_Alianca-Porto_Porto_District_Northern_Portugal.html,d12336001
+id_2355,Barcelona,"Mediterranean,  European,  Contemporary,  Fusion,  Diner",2356,4.5,$$$$,15.0,/Restaurant_Review-g187497-d12254437-Reviews-Atempo_Restaurant-Barcelona_Catalonia.html,d12254437
+id_4777,London,Bar,4786,4.5,$$ - $$$,85.0,/Restaurant_Review-g186338-d2188472-Reviews-Zenna_Bar-London_England.html,d2188472
+id_1010,Hamburg,Other,1012,4.5,,9.0,/Restaurant_Review-g187331-d1347837-Reviews-Trastevere_Uno-Hamburg.html,d1347837
+id_12302,Paris,Italian,12304,3.5,,15.0,/Restaurant_Review-g187147-d8261215-Reviews-Paradiso_Ristorante-Paris_Ile_de_France.html,d8261215
+id_342,Oporto,"American,  Fast Food,  Diner,  Vegetarian Friendly",343,4.5,$$ - $$$,72.0,/Restaurant_Review-g189180-d9741389-Reviews-Boulevard_Burger_House-Porto_Porto_District_Northern_Portugal.html,d9741389
+id_2946,Vienna,Other,2948,4.0,,6.0,/Restaurant_Review-g190454-d8319709-Reviews-Gavaz-Vienna.html,d8319709
+id_4196,Barcelona,"Bar,  Pub",4197,5.0,$$ - $$$,,/Restaurant_Review-g187497-d12572658-Reviews-Crusto-Barcelona_Catalonia.html,d12572658
+id_4920,Madrid,International,4923,4.5,,3.0,/Restaurant_Review-g187514-d12488103-Reviews-Cafe_Bar_Capri-Madrid.html,d12488103
+id_3556,Madrid,"Indian,  Vegetarian Friendly",3558,4.0,$$ - $$$,24.0,/Restaurant_Review-g187514-d8857488-Reviews-Bombay_Blue_Indian_Restaurant-Madrid.html,d8857488
+id_1239,Rome,"Italian,  Seafood,  Mediterranean,  Soups,  Vegetarian Friendly,  Gluten Free Options",1240,4.0,$$ - $$$,302.0,/Restaurant_Review-g187791-d4023512-Reviews-Hostaria_da_Vincenzo-Rome_Lazio.html,d4023512
+id_5042,Paris,"Argentinean,  South American",5043,4.5,$,39.0,/Restaurant_Review-g187147-d5264177-Reviews-Clasico_Argentino-Paris_Ile_de_France.html,d5264177
+id_3652,Lisbon,"Mediterranean,  European,  Portuguese",3657,2.0,$$ - $$$,292.0,/Restaurant_Review-g189158-d1096951-Reviews-Tapas_28-Lisbon_Lisbon_District_Central_Portugal.html,d1096951
+id_4598,Milan,Other,4601,4.0,,,/Restaurant_Review-g187849-d4946996-Reviews-Time_Out_Caffe-Milan_Lombardy.html,d4946996
+id_4706,London,"Chinese,  Japanese,  Asian,  Thai,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",4714,3.5,$$ - $$$,376.0,/Restaurant_Review-g186338-d1388962-Reviews-Dim_t_Victoria-London_England.html,d1388962
+id_20,Budapest,"European,  Central European,  Hungarian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",21,4.5,$$$$,956.0,/Restaurant_Review-g274887-d696038-Reviews-KOLLAZS_Brasserie_Bar-Budapest_Central_Hungary.html,d696038
+id_4670,London,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Vegan Options",4678,5.0,$$ - $$$,19.0,/Restaurant_Review-g186338-d10070252-Reviews-Paglia_e_Fieno-London_England.html,d10070252
+id_384,Copenhagen,"Italian,  Mediterranean,  European,  Vegetarian Friendly",385,4.5,$$ - $$$,40.0,/Restaurant_Review-g189541-d10072291-Reviews-Italo_Disco-Copenhagen_Zealand.html,d10072291
+id_3582,Barcelona,Spanish,3583,5.0,$$ - $$$,9.0,/Restaurant_Review-g187497-d4814839-Reviews-Library_Lounge-Barcelona_Catalonia.html,d4814839
+id_5183,Barcelona,Other,5184,4.5,,6.0,/Restaurant_Review-g187497-d11914515-Reviews-Vins_and_Bens-Barcelona_Catalonia.html,d11914515
+id_960,Athens,Greek,962,4.5,$,4.0,/Restaurant_Review-g189400-d12598141-Reviews-Ap_Allou-Athens_Attica.html,d12598141
+id_1132,Paris,"Japanese,  Asian",1133,4.5,$$$$,255.0,/Restaurant_Review-g187147-d1877226-Reviews-Shu-Paris_Ile_de_France.html,d1877226
+id_5357,Madrid,"Sushi,  Asian",5360,3.5,$$ - $$$,60.0,/Restaurant_Review-g187514-d6703191-Reviews-Tao_Jorge_Juan-Madrid.html,d6703191
+id_2961,Berlin,"German,  Cafe,  European,  Fusion,  Mediterranean,  Vegetarian Friendly,  Vegan Options",2963,3.5,$$ - $$$,59.0,/Restaurant_Review-g187323-d5822584-Reviews-Ungeheuer_Neukolln-Berlin.html,d5822584
+id_13074,London,Asian,13084,4.0,,3.0,/Restaurant_Review-g186338-d3912269-Reviews-Forbidden_Temple-London_England.html,d3912269
+id_2410,Lisbon,"European,  Portuguese",2413,4.0,,2.0,/Restaurant_Review-g189158-d3393987-Reviews-Coffe_House-Lisbon_Lisbon_District_Central_Portugal.html,d3393987
+id_778,Lisbon,"Indian,  Nepali,  Vegetarian Friendly,  Vegan Options",779,4.5,$,45.0,/Restaurant_Review-g189158-d8729508-Reviews-Angelica-Lisbon_Lisbon_District_Central_Portugal.html,d8729508
+id_11432,Paris,Other,11434,4.0,,15.0,/Restaurant_Review-g187147-d1074698-Reviews-Pakito-Paris_Ile_de_France.html,d1074698
+id_1464,Rome,"Italian,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1465,4.0,$$ - $$$,678.0,/Restaurant_Review-g187791-d1953294-Reviews-Mavi-Rome_Lazio.html,d1953294
+id_987,Milan,"Italian,  Seafood,  Mediterranean",989,4.0,$$ - $$$,88.0,/Restaurant_Review-g187849-d10385156-Reviews-Osteria_Mare_in_Pasta-Milan_Lombardy.html,d10385156
+id_12703,Paris,"Bar,  French,  Pub",12705,3.0,$$ - $$$,121.0,/Restaurant_Review-g187147-d2011853-Reviews-Aux_Villes_du_Nord-Paris_Ile_de_France.html,d2011853
+id_1339,London,"American,  Bar,  Central American,  Vegetarian Friendly,  Gluten Free Options",1341,4.0,$$ - $$$,1495.0,/Restaurant_Review-g186338-d3181518-Reviews-TGI_Friday_s_Piccadilly-London_England.html,d3181518
+id_13695,London,Steakhouse,13705,3.5,,5.0,/Restaurant_Review-g186338-d4961398-Reviews-Stage_door_steakhouse-London_England.html,d4961398
+id_2155,Lyon,Other,2156,3.5,,20.0,/Restaurant_Review-g187265-d1324782-Reviews-La_Croissanterie-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d1324782
+id_2361,Brussels,"Spanish,  Wine Bar",2362,4.0,$$ - $$$,23.0,/Restaurant_Review-g1136493-d4506544-Reviews-Azul-Ixelles_Brussels.html,d4506544
+id_128,Stockholm,"Italian,  Mediterranean,  European,  Vegetarian Friendly",129,4.5,$$ - $$$,183.0,/Restaurant_Review-g189852-d5949148-Reviews-Un_Poco-Stockholm.html,d5949148
+id_50,Rome,"Italian,  Street Food,  Brew Pub",51,4.5,$,1068.0,/Restaurant_Review-g187791-d6603135-Reviews-Angrypig_Birretta_e_Porchetta-Rome_Lazio.html,d6603135
+id_12381,Paris,French,12383,3.5,,3.0,/Restaurant_Review-g187147-d715001-Reviews-Chez_Raymonde-Paris_Ile_de_France.html,d715001
+id_6720,Madrid,"Mediterranean,  European,  Spanish",6723,3.5,$$ - $$$,2.0,/Restaurant_Review-g187514-d4093995-Reviews-Cuper-Madrid.html,d4093995
+id_1115,Rome,"Pizza,  Vegetarian Friendly,  Vegan Options",1116,4.5,$$ - $$$,87.0,/Restaurant_Review-g187791-d7359557-Reviews-Pommidoro-Rome_Lazio.html,d7359557
+id_7075,Madrid,Other,7079,3.0,,22.0,/Restaurant_Review-g187514-d5796187-Reviews-McDonald_s-Madrid.html,d5796187
+id_12045,London,Caribbean,12055,4.0,$$ - $$$,2.0,/Restaurant_Review-g186338-d8635738-Reviews-The_Golden_Anchor_Public_House-London_England.html,d8635738
+id_7226,London,"Portuguese,  Mediterranean,  European",7235,4.5,$,16.0,/Restaurant_Review-g186338-d3191302-Reviews-Selmos-London_England.html,d3191302
+id_3037,Milan,Other,3039,4.0,,46.0,/Restaurant_Review-g187849-d7621848-Reviews-La_Collina_Dei_Ciliegi-Milan_Lombardy.html,d7621848
+id_1244,Munich,"Asian,  Vegetarian Friendly",1256,3.5,$$ - $$$,45.0,/Restaurant_Review-g187309-d2524764-Reviews-Majestic_Asia_Restaurant-Munich_Upper_Bavaria_Bavaria.html,d2524764
+id_813,Oslo,"Asian,  Thai,  Vegetarian Friendly",814,3.5,$$ - $$$,16.0,/Restaurant_Review-g190479-d13064730-Reviews-Khao_Asian_Cuisine-Oslo_Eastern_Norway.html,d13064730
+id_1200,London,"European,  British,  Vegetarian Friendly,  Gluten Free Options",1202,4.0,$$ - $$$,278.0,/Restaurant_Review-g186338-d719718-Reviews-Light_House_Restaurant-London_England.html,d719718
+id_6114,Madrid,Other,6117,4.0,,5.0,/Restaurant_Review-g187514-d5795989-Reviews-Asturias-Madrid.html,d5795989
+id_13354,London,"Asian,  Thai",13364,4.0,$,34.0,/Restaurant_Review-g186338-d3192609-Reviews-The_Hammersmith_Cafe-London_England.html,d3192609
+id_773,Vienna,"Austrian,  European,  Central European,  Vegetarian Friendly",774,4.0,$$$$,67.0,/Restaurant_Review-g190454-d5976718-Reviews-Restaurant_Herrlich-Vienna.html,d5976718
+id_961,Lyon,"Moroccan,  Mediterranean",962,4.0,$$ - $$$,64.0,/Restaurant_Review-g187265-d804943-Reviews-Le_petit_dauphin-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d804943
+id_1341,Vienna,"Italian,  Pizza,  European,  Vegetarian Friendly",1342,3.5,$,110.0,/Restaurant_Review-g190454-d941095-Reviews-Pizzaria_Mafiosi-Vienna.html,d941095
+id_6536,Barcelona,"Seafood,  Mediterranean,  Spanish,  European,  Vegetarian Friendly",6537,3.5,$$ - $$$,122.0,/Restaurant_Review-g187497-d4436498-Reviews-Amigo_Cascarilles-Barcelona_Catalonia.html,d4436498
+id_4618,Milan,Other,4621,4.0,,,/Restaurant_Review-g187849-d8339930-Reviews-City-Milan_Lombardy.html,d8339930
+id_330,Krakow,"European,  Mediterranean,  Vegetarian Friendly",331,4.0,$$ - $$$,59.0,/Restaurant_Review-g274772-d12875225-Reviews-Trattoria_Degusti-Krakow_Lesser_Poland_Province_Southern_Poland.html,d12875225
+id_5055,Milan,Other,5058,3.5,,4.0,/Restaurant_Review-g187849-d6278406-Reviews-Bicos_Cafe-Milan_Lombardy.html,d6278406
+id_3462,Barcelona,Other,3463,4.5,,11.0,/Restaurant_Review-g187497-d10039662-Reviews-La_Cova_D_horta-Barcelona_Catalonia.html,d10039662
+id_1539,Dublin,"Chinese,  Asian",1543,3.5,$$ - $$$,44.0,/Restaurant_Review-g186605-d811284-Reviews-Chrysanthemum-Dublin_County_Dublin.html,d811284
+id_7038,London,"Bar,  British,  Pub,  Vegetarian Friendly",7047,4.0,$$ - $$$,97.0,/Restaurant_Review-g186338-d5414878-Reviews-The_Bell-London_England.html,d5414878
+id_12089,Paris,Other,12091,3.5,,15.0,/Restaurant_Review-g187147-d1035596-Reviews-L_Envol_Cafe_Quebecois-Paris_Ile_de_France.html,d1035596
+id_3327,London,"Indian,  Asian,  Pakistani,  Vegetarian Friendly,  Halal",3334,4.0,$$ - $$$,143.0,/Restaurant_Review-g186338-d953657-Reviews-Lahore_One_Restaurant-London_England.html,d953657
+id_8560,London,Other,8569,4.5,,8.0,/Restaurant_Review-g186338-d12512228-Reviews-The_BBQ_Club-London_England.html,d12512228
+id_4367,London,"Bar,  British,  Pub,  Vegetarian Friendly,  Gluten Free Options",4374,4.5,$$ - $$$,87.0,/Restaurant_Review-g186338-d6206971-Reviews-The_White_Hart_Pub_Steakhouse-London_England.html,d6206971
+id_1541,Lisbon,"Japanese,  Sushi",1542,4.5,$$ - $$$,17.0,/Restaurant_Review-g189158-d3729391-Reviews-Ozeki-Lisbon_Lisbon_District_Central_Portugal.html,d3729391
+id_3191,London,"Japanese,  Sushi,  Asian,  Vegetarian Friendly,  Gluten Free Options",3197,4.5,$$ - $$$,123.0,/Restaurant_Review-g186338-d3970522-Reviews-Zen_Mondo_Japanese_Dining-London_England.html,d3970522
+id_1780,Barcelona,Italian,1781,4.5,$,31.0,/Restaurant_Review-g187497-d10230660-Reviews-La_Pasticceria_di_Gracia-Barcelona_Catalonia.html,d10230660
+id_2734,Milan,Other,2736,4.5,,13.0,/Restaurant_Review-g187849-d9984284-Reviews-La_Caveja_Vigentina-Milan_Lombardy.html,d9984284
+id_31,Paris,"Lebanese,  Mediterranean,  Middle Eastern,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",32,4.5,$$ - $$$,548.0,/Restaurant_Review-g187147-d785995-Reviews-AlKaram-Paris_Ile_de_France.html,d785995
+id_5926,Paris,"Asian,  Korean,  Japanese",5927,4.0,$$ - $$$,52.0,/Restaurant_Review-g187147-d4182633-Reviews-Hemaru-Paris_Ile_de_France.html,d4182633
+id_13175,Paris,"French,  European,  International,  Vegetarian Friendly",13177,3.0,$$ - $$$,121.0,/Restaurant_Review-g187147-d3405673-Reviews-La_Terrasse_Vedettes_de_Paris-Paris_Ile_de_France.html,d3405673
+id_6678,Madrid,"Mediterranean,  Spanish",6681,3.5,$$ - $$$,13.0,/Restaurant_Review-g187514-d10383695-Reviews-Cerveceria_Carril-Madrid.html,d10383695
+id_639,Budapest,"American,  Bar,  Hungarian,  European,  Pub,  Vegetarian Friendly",640,4.0,$$ - $$$,93.0,/Restaurant_Review-g274887-d1489269-Reviews-Pantlika_Bistro-Budapest_Central_Hungary.html,d1489269
+id_173,Hamburg,"Seafood,  Mediterranean,  Barbecue,  European,  Portuguese",174,4.0,$$ - $$$,142.0,/Restaurant_Review-g187331-d1340332-Reviews-Churrascaria_O_Frango-Hamburg.html,d1340332
+id_3914,Berlin,Italian,3916,4.0,$$ - $$$,19.0,/Restaurant_Review-g187323-d7146900-Reviews-Gaia_Bistrot-Berlin.html,d7146900
+id_5738,Madrid,"Japanese,  Asian",5741,3.5,$$ - $$$,51.0,/Restaurant_Review-g187514-d2098938-Reviews-Hokkaido-Madrid.html,d2098938
+id_2288,Lyon,Other,2289,3.5,,3.0,/Restaurant_Review-g1080938-d10533412-Reviews-Mevlana_Restaurant-Decines_Charpieu_Lyon_Rhone_Auvergne_Rhone_Alpes.html,d10533412
+id_1040,Budapest,"Fast Food,  European,  Hungarian",1041,4.5,$,14.0,/Restaurant_Review-g274887-d10354665-Reviews-Game_Up_Pub-Budapest_Central_Hungary.html,d10354665
+id_1611,Rome,"Italian,  Pizza,  Seafood,  Mediterranean,  Vegetarian Friendly,  Gluten Free Options",1612,4.0,$$ - $$$,621.0,/Restaurant_Review-g187791-d803842-Reviews-La_Locomotiva-Rome_Lazio.html,d803842
+id_914,Brussels,"European,  Italian,  Pizza",915,4.0,$,40.0,/Restaurant_Review-g188644-d2477240-Reviews-Traiteur_Picnic-Brussels.html,d2477240
+id_1272,Barcelona,"Mediterranean,  European,  Spanish,  Vegetarian Friendly,  Gluten Free Options,  Vegan Options",1273,4.0,$$$$,554.0,/Restaurant_Review-g187497-d1080720-Reviews-Restaurante_Arola-Barcelona_Catalonia.html,d1080720
+id_9572,Paris,French,9574,4.0,,6.0,/Restaurant_Review-g187147-d4293803-Reviews-La_Table_Ronde-Paris_Ile_de_France.html,d4293803
+id_538,Stockholm,"American,  Steakhouse,  Bar,  Barbecue",539,4.0,$$ - $$$,82.0,/Restaurant_Review-g189852-d780673-Reviews-Saddle_Sabre-Stockholm.html,d780673
+id_2255,Hamburg,Other,2259,3.5,,9.0,/Restaurant_Review-g187331-d4727188-Reviews-Restaurante_O_Pescador-Hamburg.html,d4727188
+id_1201,Vienna,Russian,1202,4.0,,20.0,/Restaurant_Review-g190454-d1103441-Reviews-Abend_Restaurant_Feuervogel-Vienna.html,d1103441
+id_3891,Milan,Italian,3893,3.5,,6.0,/Restaurant_Review-g187849-d1901926-Reviews-Il_Giardino-Milan_Lombardy.html,d1901926
+id_13199,London,"Italian,  Pizza",13209,3.0,$$ - $$$,11.0,/Restaurant_Review-g186338-d718909-Reviews-Eco-London_England.html,d718909
+id_332,Rome,"Italian,  Pizza,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",333,4.5,$$ - $$$,153.0,/Restaurant_Review-g187791-d12423010-Reviews-Rione_13-Rome_Lazio.html,d12423010
+id_3896,Barcelona,"American,  Latin,  Venezuelan",3897,4.0,$$ - $$$,13.0,/Restaurant_Review-g187497-d13162505-Reviews-Mandoca-Barcelona_Catalonia.html,d13162505
+id_530,Paris,"French,  European,  Vegetarian Friendly",531,4.5,$$ - $$$,256.0,/Restaurant_Review-g187147-d5872756-Reviews-Chez_Monsieur-Paris_Ile_de_France.html,d5872756
+id_438,Oporto,"Cafe,  Portuguese,  European",439,4.5,$,51.0,/Restaurant_Review-g189180-d3537392-Reviews-Pao_Quente_Muralhas_Do_Olival_Porto-Porto_Porto_District_Northern_Portugal.html,d3537392
+id_1033,London,"Mediterranean,  European,  Turkish,  Middle Eastern,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1035,4.5,$$ - $$$,193.0,/Restaurant_Review-g186338-d8599829-Reviews-Oklava-London_England.html,d8599829
+id_956,Helsinki,Spanish,957,3.5,$$ - $$$,8.0,/Restaurant_Review-g189934-d12310002-Reviews-Bar_Primero-Helsinki_Uusimaa.html,d12310002
+id_1268,Lyon,French,1269,4.0,$,37.0,/Restaurant_Review-g187265-d4585716-Reviews-Saumon_et_Cie-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4585716
+id_14403,London,Turkish,14414,4.0,,4.0,/Restaurant_Review-g186338-d10760580-Reviews-Antep_Durum-London_England.html,d10760580
+id_1698,Berlin,Vegetarian Friendly,1700,4.0,$$ - $$$,19.0,/Restaurant_Review-g187323-d11888740-Reviews-Shiva-Berlin.html,d11888740
+id_283,Ljubljana,Cafe,284,4.0,$$ - $$$,11.0,/Restaurant_Review-g274873-d8841562-Reviews-Moderna_Speciality_Cafe-Ljubljana_Upper_Carniola_Region.html,d8841562
+id_460,Munich,"Italian,  Mediterranean,  European",464,4.5,$$ - $$$,47.0,/Restaurant_Review-g187309-d1039687-Reviews-San_Marino-Munich_Upper_Bavaria_Bavaria.html,d1039687
+id_1257,Madrid,"Chinese,  Asian",1259,4.0,$$ - $$$,121.0,/Restaurant_Review-g187514-d2096546-Reviews-Asia_Te-Madrid.html,d2096546
+id_3243,Milan,Pizza,3245,4.0,,16.0,/Restaurant_Review-g187849-d7734583-Reviews-Gioby_Pizzeria-Milan_Lombardy.html,d7734583
+id_1168,Lisbon,"Seafood,  Mediterranean,  European,  Portuguese",1169,4.0,$$ - $$$,67.0,/Restaurant_Review-g189158-d6883153-Reviews-Restaurante_Sem_Palavras-Lisbon_Lisbon_District_Central_Portugal.html,d6883153
+id_5916,London,Other,5925,4.0,,56.0,/Restaurant_Review-g186338-d6672773-Reviews-Hill_Szrok-London_England.html,d6672773
+id_3302,Paris,"American,  Vegetarian Friendly",3303,4.0,$$ - $$$,245.0,/Restaurant_Review-g187147-d6949479-Reviews-Rachel_s_Pont_aux_Choux-Paris_Ile_de_France.html,d6949479
+id_377,Warsaw,"Sushi,  Asian,  Thai,  Vegetarian Friendly",378,4.0,$$ - $$$,98.0,/Restaurant_Review-g274856-d4211999-Reviews-Silk_and_Spicy-Warsaw_Mazovia_Province_Central_Poland.html,d4211999
+id_1712,Budapest,Other,1713,4.0,,6.0,/Restaurant_Review-g274887-d4556019-Reviews-Pegenini-Budapest_Central_Hungary.html,d4556019
+id_2185,Amsterdam,Other,2190,5.0,,,/Restaurant_Review-g188590-d12049003-Reviews-A_Piece_Of_Finland-Amsterdam_North_Holland_Province.html,d12049003
+id_1686,Rome,"Mexican,  Latin,  Vegetarian Friendly,  Vegan Options",1687,4.5,$,38.0,/Restaurant_Review-g187791-d12538734-Reviews-Tepic_The_Taco_Kitchen-Rome_Lazio.html,d12538734
+id_1754,Rome,"Italian,  Pizza,  Vegetarian Friendly,  Vegan Options",1755,4.0,$$ - $$$,382.0,/Restaurant_Review-g187791-d4930739-Reviews-Magnifica-Rome_Lazio.html,d4930739
+id_702,Oporto,"African,  European,  Contemporary,  Portuguese",703,4.5,$$ - $$$,17.0,/Restaurant_Review-g189180-d10678700-Reviews-Restaurante_Sei_La-Porto_Porto_District_Northern_Portugal.html,d10678700
+id_1533,Paris,French,1534,4.5,$$ - $$$,105.0,/Restaurant_Review-g187147-d4697825-Reviews-Lou_tiap-Paris_Ile_de_France.html,d4697825
+id_684,Prague,"Bar,  International,  Pub",685,4.0,$$ - $$$,75.0,/Restaurant_Review-g274707-d944247-Reviews-Bar_Amadeus-Prague_Bohemia.html,d944247
+id_2111,Paris,"Mediterranean,  Greek,  Vegetarian Friendly,  Vegan Options",2112,4.0,$$ - $$$,121.0,/Restaurant_Review-g187147-d695083-Reviews-Apollon-Paris_Ile_de_France.html,d695083
+id_2171,Lyon,Steakhouse,2172,3.0,$,52.0,/Restaurant_Review-g661468-d4098079-Reviews-Courte_Paille-Ecully_Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4098079
+id_206,Vienna,"Japanese,  International,  Asian,  Fusion,  Vegetarian Friendly,  Vegan Options",207,4.5,$$ - $$$,55.0,/Restaurant_Review-g190454-d10395526-Reviews-DiningRuhm-Vienna.html,d10395526
+id_7701,Paris,"Japanese,  Sushi,  Asian",7702,3.5,$$ - $$$,51.0,/Restaurant_Review-g187147-d789885-Reviews-Zenyama-Paris_Ile_de_France.html,d789885
+id_540,Bratislava,Other,541,3.5,,3.0,/Restaurant_Review-g274924-d4770088-Reviews-Viktoria_cafe_bageteria_palacinkaren-Bratislava_Bratislava_Region.html,d4770088
+id_1228,Madrid,"Mediterranean,  Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1230,4.0,$$ - $$$,78.0,/Restaurant_Review-g187514-d10331391-Reviews-El_Kiosko_Ferraz-Madrid.html,d10331391
+id_3244,London,"Belgian,  Bar,  European,  Pub",3251,4.0,$$ - $$$,123.0,/Restaurant_Review-g186338-d1774775-Reviews-The_Dovetail-London_England.html,d1774775
+id_3998,Rome,"Italian,  Pizza,  Mediterranean",3999,4.0,$$ - $$$,137.0,/Restaurant_Review-g187791-d2323613-Reviews-Ristorante_Petrucci-Rome_Lazio.html,d2323613
+id_1208,Vienna,"Vietnamese,  Street Food",1209,4.5,$$ - $$$,8.0,/Restaurant_Review-g190454-d12995806-Reviews-Ivy_s_Pho_Grill-Vienna.html,d12995806
+id_1925,Berlin,"Italian,  Pizza,  European,  Contemporary",1927,4.0,$,42.0,/Restaurant_Review-g187323-d4748988-Reviews-Zia_Maria-Berlin.html,d4748988
+id_12014,Paris,"Seafood,  Healthy",12016,3.5,,16.0,/Restaurant_Review-g187147-d3735127-Reviews-Fish_and_Food_Cafe-Paris_Ile_de_France.html,d3735127
+id_1608,Athens,"Pizza,  Italian",1610,4.0,,9.0,/Restaurant_Review-g189400-d4591733-Reviews-Briciole_pizzabar-Athens_Attica.html,d4591733
+id_45,Vienna,"Austrian,  Vegetarian Friendly,  Gluten Free Options",46,4.5,$$ - $$$,2490.0,/Restaurant_Review-g190454-d813285-Reviews-Purstner-Vienna.html,d813285
+id_2041,Madrid,"Mediterranean,  Spanish,  Vegetarian Friendly",2043,3.5,$$ - $$$,172.0,/Restaurant_Review-g187514-d6868018-Reviews-El_Pescador-Madrid.html,d6868018
+id_6690,Barcelona,"Spanish,  Seafood,  Mediterranean,  European",6691,3.0,$$ - $$$,37.0,/Restaurant_Review-g187497-d3242259-Reviews-Restaurant_Man_Go-Barcelona_Catalonia.html,d3242259
+id_480,Warsaw,Italian,481,4.5,$$ - $$$,31.0,/Restaurant_Review-g274856-d6698437-Reviews-Papryczka-Warsaw_Mazovia_Province_Central_Poland.html,d6698437
+id_1313,Zurich,Other,1318,4.0,,6.0,/Restaurant_Review-g188113-d8736586-Reviews-Cafe_Uetli-Zurich.html,d8736586
+id_1010,Berlin,"Asian,  Thai,  Vietnamese,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1012,3.5,$$ - $$$,440.0,/Restaurant_Review-g187323-d1507237-Reviews-Coa_Asian_Food_Drinks-Berlin.html,d1507237
+id_1334,Hamburg,"Bar,  Pub",1336,5.0,$,,/Restaurant_Review-g187331-d12384552-Reviews-Club_20457-Hamburg.html,d12384552
+id_7657,Barcelona,Spanish,7659,2.0,$,32.0,/Restaurant_Review-g187497-d3179035-Reviews-Cerveceria_Berlin-Barcelona_Catalonia.html,d3179035
+id_73,Edinburgh,"Indian,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",74,4.5,$$ - $$$,1806.0,/Restaurant_Review-g186525-d1545969-Reviews-Mother_India_s_Cafe-Edinburgh_Scotland.html,d1545969
+id_3625,Barcelona,"Mediterranean,  European,  Spanish,  Gluten Free Options",3626,3.5,$$ - $$$,258.0,/Restaurant_Review-g187497-d1385082-Reviews-Trobador_Ferran-Barcelona_Catalonia.html,d1385082
+id_1630,Lisbon,"Italian,  Vegetarian Friendly",1631,4.5,$$ - $$$,9.0,/Restaurant_Review-g189158-d12081682-Reviews-La_Mensa-Lisbon_Lisbon_District_Central_Portugal.html,d12081682
+id_299,Amsterdam,"Chinese,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",300,4.0,$$ - $$$,1103.0,/Restaurant_Review-g188590-d779071-Reviews-New_King-Amsterdam_North_Holland_Province.html,d779071
+id_1069,Dublin,"Japanese,  Sushi,  Asian,  Vegetarian Friendly",1072,4.5,$$ - $$$,17.0,/Restaurant_Review-g186605-d5536153-Reviews-Sakura_Sushi-Dublin_County_Dublin.html,d5536153
+id_400,Madrid,"Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",401,4.0,$$ - $$$,774.0,/Restaurant_Review-g187514-d8415205-Reviews-El_Perro_y_la_Galleta-Madrid.html,d8415205
+id_2465,Madrid,Other,2467,4.5,,39.0,/Restaurant_Review-g187514-d1965515-Reviews-Casa_Piluca-Madrid.html,d1965515
+id_459,Milan,"Italian,  Seafood,  Mediterranean,  European,  Contemporary,  Vegetarian Friendly",460,4.0,$$$$,484.0,/Restaurant_Review-g187849-d1231908-Reviews-Il_Liberty-Milan_Lombardy.html,d1231908
+id_14074,London,American,14084,3.5,,15.0,/Restaurant_Review-g186338-d5122063-Reviews-The_Honest_Sausage-London_England.html,d5122063
+id_3221,Milan,"Pizza,  Seafood",3223,3.5,$$ - $$$,87.0,/Restaurant_Review-g187849-d2320137-Reviews-Il_Trespolo-Milan_Lombardy.html,d2320137
+id_4693,London,"American,  Bar,  British,  Mexican",4701,4.0,$$ - $$$,185.0,/Restaurant_Review-g186338-d1906552-Reviews-Big_Chill_House-London_England.html,d1906552
+id_981,Helsinki,American,982,3.5,$,12.0,/Restaurant_Review-g189934-d2484423-Reviews-Subway_Jatkasaari-Helsinki_Uusimaa.html,d2484423
+id_4452,Rome,"Italian,  Bar,  Cafe,  Mediterranean,  European,  Pub,  Wine Bar,  Vegetarian Friendly",4453,4.0,$$ - $$$,171.0,/Restaurant_Review-g187791-d7995957-Reviews-VINO_e_FOCACCIA-Rome_Lazio.html,d7995957
+id_322,Milan,"Italian,  Seafood,  Mediterranean,  Vegetarian Friendly,  Gluten Free Options",323,4.0,$$ - $$$,590.0,/Restaurant_Review-g187849-d781928-Reviews-La_Taverna_dei_Golosi-Milan_Lombardy.html,d781928
+id_4481,Milan,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly",4484,3.0,$$ - $$$,1063.0,/Restaurant_Review-g187849-d2204143-Reviews-Fratelli_La_Bufala_San_Babila_Milano-Milan_Lombardy.html,d2204143
+id_7992,Madrid,Other,7999,3.0,,9.0,/Restaurant_Review-g187514-d10430050-Reviews-Riveira_II-Madrid.html,d10430050
+id_8811,London,"American,  Bar",8820,3.5,$$ - $$$,31.0,/Restaurant_Review-g186338-d4268309-Reviews-Off_Broadway-London_England.html,d4268309
+id_8227,Madrid,Other,8234,3.0,,2.0,/Restaurant_Review-g187514-d5869951-Reviews-Cerveceria_Bar_Pocitos-Madrid.html,d5869951
+id_8834,London,Ethiopian,8843,4.5,$,6.0,/Restaurant_Review-g186338-d7730921-Reviews-Zara_Cafe-London_England.html,d7730921
+id_402,Rome,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",403,4.0,$$ - $$$,1133.0,/Restaurant_Review-g187791-d1488977-Reviews-Il_Corallo-Rome_Lazio.html,d1488977
+id_5781,Barcelona,Other,5782,4.0,,,/Restaurant_Review-g187497-d10724032-Reviews-Bar_Casa_Ernesto-Barcelona_Catalonia.html,d10724032
+id_1414,Milan,"Pizza,  Vegetarian Friendly",1416,4.0,$,252.0,/Restaurant_Review-g187849-d3773630-Reviews-Piccola_Ischia-Milan_Lombardy.html,d3773630
+id_1583,Prague,"European,  Czech",1586,4.0,$$ - $$$,14.0,/Restaurant_Review-g274707-d4769401-Reviews-Florentina_Boat_Hotel_Restaurace-Prague_Bohemia.html,d4769401
+id_4549,Rome,Other,4550,4.5,,5.0,/Restaurant_Review-g187791-d12997561-Reviews-Hosteria_Scalella-Rome_Lazio.html,d12997561
+id_6811,Paris,"Moroccan,  Mediterranean,  Vegetarian Friendly",6812,4.0,$$$$,34.0,/Restaurant_Review-g187147-d12170386-Reviews-Restaurant_L_Oriental-Paris_Ile_de_France.html,d12170386
+id_4294,Paris,"French,  European",4295,4.0,$$ - $$$,69.0,/Restaurant_Review-g187147-d798936-Reviews-Le_Relais_Charbon-Paris_Ile_de_France.html,d798936
+id_191,Oslo,"Bar,  European,  Pub,  Vegetarian Friendly",192,4.0,$$ - $$$,53.0,/Restaurant_Review-g190479-d3385038-Reviews-Eufemia_Bar-Oslo_Eastern_Norway.html,d3385038
+id_1905,Barcelona,"Mediterranean,  Spanish,  European,  Gluten Free Options",1906,4.0,$$ - $$$,250.0,/Restaurant_Review-g187497-d8602690-Reviews-Osties_Pedrin-Barcelona_Catalonia.html,d8602690
+id_4092,Rome,"Italian,  Mediterranean",4093,4.0,$$ - $$$,35.0,/Restaurant_Review-g187791-d8092415-Reviews-Trattoria_Gliamici-Rome_Lazio.html,d8092415
+id_1857,Budapest,Other,1858,4.0,,2.0,/Restaurant_Review-g274887-d12359266-Reviews-Club_88-Budapest_Central_Hungary.html,d12359266
+id_5177,Milan,"Mediterranean,  Egyptian",5180,4.0,$,18.0,/Restaurant_Review-g187849-d3266560-Reviews-Le_Due_Specialita-Milan_Lombardy.html,d3266560
+id_7986,London,"Cafe,  British",7995,4.0,$,24.0,/Restaurant_Review-g186338-d1874776-Reviews-Trafalgar_Cafe-London_England.html,d1874776
+id_12449,London,Other,12459,4.0,,,/Restaurant_Review-g186338-d12114896-Reviews-Subway-London_England.html,d12114896
+id_7510,Barcelona,Spanish,7511,2.5,$$ - $$$,13.0,/Restaurant_Review-g187497-d4133931-Reviews-Malasombra-Barcelona_Catalonia.html,d4133931
+id_111,Ljubljana,"Chinese,  Asian,  Vegetarian Friendly",112,4.5,$,30.0,/Restaurant_Review-g274873-d5965027-Reviews-Zhong_Hua_Restaurant-Ljubljana_Upper_Carniola_Region.html,d5965027
+id_908,Barcelona,"Mediterranean,  European,  Spanish,  Vegetarian Friendly",909,4.5,$$ - $$$,51.0,/Restaurant_Review-g187497-d11923374-Reviews-BocaBoca_Tapas_Cocktails-Barcelona_Catalonia.html,d11923374
+id_7665,London,"Italian,  Pizza,  Vegetarian Friendly",7674,3.5,$$ - $$$,200.0,/Restaurant_Review-g186338-d1992130-Reviews-La_Porchetta-London_England.html,d1992130
+id_2866,Barcelona,"Chinese,  Asian,  Vegetarian Friendly",2867,4.5,$,35.0,/Restaurant_Review-g187497-d5865146-Reviews-Restaurante_Macao-Barcelona_Catalonia.html,d5865146
+id_6149,Barcelona,Other,6150,3.5,,34.0,/Restaurant_Review-g187497-d1417391-Reviews-Picus-Barcelona_Catalonia.html,d1417391
+id_986,Madrid,"Italian,  Mediterranean,  European,  Vegetarian Friendly",987,4.0,$$ - $$$,274.0,/Restaurant_Review-g187514-d775579-Reviews-Luna_Rossa-Madrid.html,d775579
+id_1536,Brussels,Asian,1537,4.0,$,20.0,/Restaurant_Review-g188644-d7336387-Reviews-Asia_Grill-Brussels.html,d7336387
+id_2473,Rome,Pizza,2474,4.5,$,102.0,/Restaurant_Review-g187791-d7707930-Reviews-Convivium-Rome_Lazio.html,d7707930
+id_1989,Munich,Other,2005,4.0,,15.0,/Restaurant_Review-g187309-d1820729-Reviews-La_Villetta-Munich_Upper_Bavaria_Bavaria.html,d1820729
+id_6607,Barcelona,"Bar,  Spanish,  Pub",6608,3.5,$$ - $$$,19.0,/Restaurant_Review-g187497-d3319308-Reviews-Bloomsday_bar-Barcelona_Catalonia.html,d3319308
+id_5109,Barcelona,Other,5110,3.0,,6.0,/Restaurant_Review-g187497-d997803-Reviews-Paradis_Barcelona-Barcelona_Catalonia.html,d997803
+id_1254,Geneva,Italian,1260,3.0,,6.0,/Restaurant_Review-g188057-d2625256-Reviews-Olio_Design-Geneva.html,d2625256
+id_1741,Hamburg,Other,1744,3.0,,12.0,/Restaurant_Review-g187331-d959162-Reviews-Madeira-Hamburg.html,d959162
+id_29,Ljubljana,"Cafe,  European,  Central European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",30,4.5,$$ - $$$,87.0,/Restaurant_Review-g274873-d12089348-Reviews-Ek_Bistro-Ljubljana_Upper_Carniola_Region.html,d12089348
+id_451,Lisbon,"European,  Portuguese",452,5.0,$,78.0,/Restaurant_Review-g189158-d8591395-Reviews-Ola_Lisboa-Lisbon_Lisbon_District_Central_Portugal.html,d8591395
+id_1842,Paris,"French,  European",1843,4.5,$$ - $$$,132.0,/Restaurant_Review-g187147-d9746677-Reviews-Le_Boeuf_Maillot-Paris_Ile_de_France.html,d9746677
+id_245,Stockholm,"British,  European,  Cafe,  Vegetarian Friendly,  Vegan Options",246,4.0,$$ - $$$,92.0,/Restaurant_Review-g189852-d8774485-Reviews-STHLM_Brunch_Club-Stockholm.html,d8774485
+id_2778,Madrid,Other,2780,4.5,,7.0,/Restaurant_Review-g187514-d12548187-Reviews-Que_trabaje_Rita-Madrid.html,d12548187
+id_152,Luxembourg,"Japanese,  Sushi,  Asian",153,4.0,$$ - $$$,80.0,/Restaurant_Review-g190356-d743790-Reviews-Am_Clubhaus_op_der_Spora-Luxembourg_City.html,d743790
+id_1651,Copenhagen,Other,1654,3.5,,3.0,/Restaurant_Review-g806262-d11749991-Reviews-Mit_Lille_Kokken-Frederiksberg_Copenhagen_Zealand.html,d11749991
+id_2224,Paris,"French,  Wine Bar",2225,4.5,$$ - $$$,140.0,/Restaurant_Review-g187147-d782237-Reviews-Le_porte_pot-Paris_Ile_de_France.html,d782237
+id_5560,Paris,"Mediterranean,  Middle Eastern,  Moroccan",5561,4.0,$$ - $$$,76.0,/Restaurant_Review-g187147-d2494164-Reviews-Au_Clair_de_Lune-Paris_Ile_de_France.html,d2494164
+id_8464,Paris,Other,8466,4.0,,7.0,/Restaurant_Review-g187147-d12113037-Reviews-Germaine-Paris_Ile_de_France.html,d12113037
+id_459,Budapest,"Fast Food,  Vegetarian Friendly,  Vegan Options",460,4.5,$,77.0,/Restaurant_Review-g274887-d8362340-Reviews-Budapest_Bagel-Budapest_Central_Hungary.html,d8362340
+id_4090,Berlin,Italian,4092,4.0,$$ - $$$,20.0,/Restaurant_Review-g187323-d2046169-Reviews-Ristorante_Enoteca_Carpe_Diem-Berlin.html,d2046169
+id_1346,London,"American,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1348,4.5,$,156.0,/Restaurant_Review-g186338-d8125299-Reviews-Waffle_Jack_s_American_Diner-London_England.html,d8125299
+id_9877,Paris,"Japanese,  Sushi",9879,3.5,$$ - $$$,47.0,/Restaurant_Review-g187147-d6530816-Reviews-Leader_Sushi-Paris_Ile_de_France.html,d6530816
+id_9010,Paris,Other,9012,3.5,,17.0,/Restaurant_Review-g187147-d12321528-Reviews-French_Home-Paris_Ile_de_France.html,d12321528
+id_729,Lyon,"Japanese,  Sushi",730,4.5,$$ - $$$,50.0,/Restaurant_Review-g187265-d4956063-Reviews-Confluence_Sushi-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4956063
+id_773,Paris,"French,  European",774,4.0,$$ - $$$,1024.0,/Restaurant_Review-g187147-d3547447-Reviews-L_Escargot_Montorgueil-Paris_Ile_de_France.html,d3547447
+id_7686,Madrid,Mexican,7693,4.0,$,4.0,/Restaurant_Review-g187514-d4054080-Reviews-Fat_Boy_tacos_y_burritos-Madrid.html,d4054080
+id_3631,Milan,Other,3633,4.5,,3.0,/Restaurant_Review-g187849-d8339764-Reviews-Bar_Gold-Milan_Lombardy.html,d8339764
+id_12364,London,Other,12374,4.0,,,/Restaurant_Review-g186338-d5442851-Reviews-Queen_s_Crescent_Grill-London_England.html,d5442851
+id_5908,Berlin,Italian,5910,3.5,$$ - $$$,3.0,/Restaurant_Review-g187323-d9456227-Reviews-Eiscafe_Promenade-Berlin.html,d9456227
+id_317,Paris,"French,  European,  Vegetarian Friendly",318,4.5,$$ - $$$,523.0,/Restaurant_Review-g187147-d780485-Reviews-Le_Jardin_d_en_Face-Paris_Ile_de_France.html,d780485
+id_1374,Copenhagen,"European,  Danish,  Scandinavian",1376,3.5,$$ - $$$,66.0,/Restaurant_Review-g189541-d6618276-Reviews-Plaza_Grill-Copenhagen_Zealand.html,d6618276
+id_213,Helsinki,"Soups,  International",214,4.5,$,100.0,/Restaurant_Review-g189934-d784491-Reviews-Soppakeittio_Tapaste_oy-Helsinki_Uusimaa.html,d784491
+id_2259,Vienna,Other,2261,4.5,,3.0,/Restaurant_Review-g190454-d7097810-Reviews-Eiscafe_Renzo-Vienna.html,d7097810
+id_1403,Geneva,Other,1411,1.0,,,/Restaurant_Review-g188057-d7996902-Reviews-Lidia-Geneva.html,d7996902
+id_2783,Rome,"Italian,  Pizza,  International,  Vegetarian Friendly",2784,4.0,$,161.0,/Restaurant_Review-g187791-d3567816-Reviews-Il_Gianfornaio-Rome_Lazio.html,d3567816
+id_1815,Berlin,"Italian,  Pizza,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1817,3.5,$$ - $$$,1067.0,/Restaurant_Review-g187323-d1119896-Reviews-Vapiano-Berlin.html,d1119896
+id_3479,Berlin,Other,3481,5.0,,,/Restaurant_Review-g187323-d1354477-Reviews-Restaurant_Zum_Torhaus-Berlin.html,d1354477
+id_1619,Madrid,"Italian,  Pizza",1621,4.5,$$ - $$$,107.0,/Restaurant_Review-g187514-d3218566-Reviews-Pizza_Pazza-Madrid.html,d3218566
+id_6207,Madrid,Spanish,6210,3.5,$$ - $$$,9.0,/Restaurant_Review-g187514-d1519258-Reviews-Baby_Grill-Madrid.html,d1519258
+id_257,Copenhagen,"Italian,  European,  Contemporary,  Danish,  Vegetarian Friendly",258,4.5,$$ - $$$,92.0,/Restaurant_Review-g189541-d10292470-Reviews-Bistro_Avenue-Copenhagen_Zealand.html,d10292470
+id_3669,Lisbon,Other,3674,2.5,,9.0,/Restaurant_Review-g189158-d8381040-Reviews-Buzina-Lisbon_Lisbon_District_Central_Portugal.html,d8381040
+id_216,Copenhagen,"Bar,  Cafe,  European,  Vegetarian Friendly,  Vegan Options",217,4.5,$$ - $$$,125.0,/Restaurant_Review-g189541-d8121703-Reviews-Stempel_Bar_Kitchen-Copenhagen_Zealand.html,d8121703
+id_3995,Paris,"Lebanese,  Mediterranean,  Vegetarian Friendly",3996,4.5,$,26.0,/Restaurant_Review-g187147-d10840545-Reviews-Bro_Falafel_Bar-Paris_Ile_de_France.html,d10840545
+id_7028,Barcelona,"Moroccan,  Middle Eastern,  African,  Halal",7029,3.0,$$ - $$$,125.0,/Restaurant_Review-g187497-d3535931-Reviews-La_Mamounia_Bcn-Barcelona_Catalonia.html,d3535931
+id_6874,Barcelona,Other,6875,3.0,,,/Restaurant_Review-g187497-d11958460-Reviews-Bar_Conquero-Barcelona_Catalonia.html,d11958460
+id_5013,Paris,"Asian,  Vietnamese,  Vegetarian Friendly",5014,4.0,$$$$,116.0,/Restaurant_Review-g187147-d719923-Reviews-Tan_Dinh-Paris_Ile_de_France.html,d719923
+id_3695,Barcelona,"Mediterranean,  European,  Spanish",3696,3.5,$$ - $$$,127.0,/Restaurant_Review-g187497-d2179945-Reviews-Boria-Barcelona_Catalonia.html,d2179945
+id_2469,Brussels,Other,2470,4.0,,7.0,/Restaurant_Review-g188644-d8073030-Reviews-Le_Dolores-Brussels.html,d8073030
+id_6092,Barcelona,"Peruvian,  South American",6093,3.5,$,32.0,/Restaurant_Review-g187497-d8580982-Reviews-LA_BRASA_ROJA-Barcelona_Catalonia.html,d8580982
+id_12287,Paris,Other,12289,3.0,,8.0,/Restaurant_Review-g187147-d11666969-Reviews-Institut_De_Bonte-Paris_Ile_de_France.html,d11666969
+id_2928,Paris,Vegetarian Friendly,2929,4.5,$$ - $$$,51.0,/Restaurant_Review-g187147-d7990468-Reviews-Nous_Paradis-Paris_Ile_de_France.html,d7990468
+id_2042,Stockholm,Pub,2045,3.5,,2.0,/Restaurant_Review-g189852-d5936523-Reviews-Pub_Diset-Stockholm.html,d5936523
+id_5139,Berlin,"International,  Contemporary,  Healthy",5141,4.0,$,,/Restaurant_Review-g187323-d12098434-Reviews-Dampf_Zucker-Berlin.html,d12098434
+id_1381,Brussels,Other,1376,5.0,,4.0,/Restaurant_Review-g188644-d10814311-Reviews-Ty_Penty-Brussels.html,d10814311
+id_156,Budapest,"Irish,  Bar,  European,  Pub,  Vegetarian Friendly",157,4.0,$$ - $$$,438.0,/Restaurant_Review-g274887-d1648922-Reviews-Jack_Doyle_s_Irish_Pub_Restaurant_Budapest-Budapest_Central_Hungary.html,d1648922
+id_7999,Paris,Italian,8000,5.0,$$ - $$$,,/Restaurant_Review-g187147-d10079338-Reviews-Le_Spritzer_Bar_a_vins-Paris_Ile_de_France.html,d10079338
+id_8559,London,"Bar,  British,  Vegetarian Friendly,  Gluten Free Options",8568,3.5,$$ - $$$,329.0,/Restaurant_Review-g186338-d733353-Reviews-Sway_Bar_Kitchen-London_England.html,d733353
+id_12824,London,"Chinese,  Vegetarian Friendly",12834,3.5,,7.0,/Restaurant_Review-g186338-d720652-Reviews-Tai_Buffet-London_England.html,d720652
+id_13478,London,Other,13488,2.5,,8.0,/Restaurant_Review-g186338-d1097059-Reviews-Asta_3-London_England.html,d1097059
+id_8524,Madrid,"Italian,  Pizza",8531,2.0,$$ - $$$,,/Restaurant_Review-g187514-d12842987-Reviews-Papizza_Moncloa-Madrid.html,d12842987
+id_885,Dublin,"Irish,  Bar,  European,  Pub",886,3.5,$$ - $$$,250.0,/Restaurant_Review-g186605-d1771808-Reviews-Dakota-Dublin_County_Dublin.html,d1771808
+id_1751,Paris,"French,  European,  Vegetarian Friendly",1752,4.5,$$$$,114.0,/Restaurant_Review-g187147-d3327962-Reviews-La_Cour_Jardin-Paris_Ile_de_France.html,d3327962
+id_862,Milan,"Italian,  Pizza,  Seafood,  Mediterranean,  Vegetarian Friendly",864,4.0,$$ - $$$,253.0,/Restaurant_Review-g187849-d1097463-Reviews-Bebel-Milan_Lombardy.html,d1097463
+id_3732,Madrid,Spanish,3734,4.0,$,20.0,/Restaurant_Review-g187514-d2490014-Reviews-Paraiso_del_Jamon_III-Madrid.html,d2490014
+id_6183,Paris,"French,  Bar,  European",6184,3.5,$$ - $$$,155.0,/Restaurant_Review-g187147-d5522488-Reviews-Les_Fontaines-Paris_Ile_de_France.html,d5522488
+id_6610,Paris,"French,  Seafood",6611,4.5,,5.0,/Restaurant_Review-g187147-d12945640-Reviews-Rech-Paris_Ile_de_France.html,d12945640
+id_2476,Barcelona,"Italian,  Street Food",2477,5.0,$,17.0,/Restaurant_Review-g187497-d10445344-Reviews-Merenda_Sinoira-Barcelona_Catalonia.html,d10445344
+id_6803,Barcelona,"Pizza,  Spanish",6804,3.5,,13.0,/Restaurant_Review-g187497-d7092943-Reviews-Restaurante_El_Hornero-Barcelona_Catalonia.html,d7092943
+id_939,Stockholm,Chinese,940,5.0,,2.0,/Restaurant_Review-g189852-d13001385-Reviews-T8ng_Stockholm-Stockholm.html,d13001385
+id_482,Geneva,"French,  Swiss,  European",485,4.5,$$$$,12.0,/Restaurant_Review-g188057-d10288341-Reviews-Cafe_de_la_Coulouvreniere-Geneva.html,d10288341
+id_4180,London,"Bar,  Pub,  Vegetarian Friendly",4187,4.5,$$ - $$$,26.0,/Restaurant_Review-g186338-d10903502-Reviews-Spit_and_Sawdust-London_England.html,d10903502
+id_2664,Berlin,"Italian,  Mediterranean,  European,  Central European",2666,4.0,$$ - $$$,32.0,/Restaurant_Review-g187323-d2208132-Reviews-Il_Mondo-Berlin.html,d2208132
+id_4166,London,"Indian,  Asian,  Pakistani,  Vegetarian Friendly,  Halal",4173,3.5,$$ - $$$,3135.0,/Restaurant_Review-g186338-d779012-Reviews-Tayyabs-London_England.html,d779012
+id_717,Copenhagen,"Mediterranean,  European,  Greek,  Vegetarian Friendly",718,4.0,$$ - $$$,68.0,/Restaurant_Review-g189541-d6780578-Reviews-Bakaliko_Greek_Deli-Copenhagen_Zealand.html,d6780578
+id_11082,Paris,American,11084,3.5,$$ - $$$,36.0,/Restaurant_Review-g187147-d1327268-Reviews-Le_Cafe_Fusain-Paris_Ile_de_France.html,d1327268
+id_4406,Milan,"Brew Pub,  Cafe,  Wine Bar",4409,4.5,,3.0,/Restaurant_Review-g187849-d4593810-Reviews-Bar_Tabacchi_Punto_3-Milan_Lombardy.html,d4593810
+id_724,Brussels,Other,725,4.5,,15.0,/Restaurant_Review-g1136493-d12428801-Reviews-Chez_Charly-Ixelles_Brussels.html,d12428801
+id_9200,London,British,9209,5.0,,,/Restaurant_Review-g186338-d13226281-Reviews-Chris_s_Fish_Bar-London_England.html,d13226281
+id_7423,Barcelona,"Mediterranean,  Spanish,  European",7424,2.5,,44.0,/Restaurant_Review-g187497-d2100338-Reviews-Nou_Can_Tipa-Barcelona_Catalonia.html,d2100338
+id_4746,Berlin,Other,4748,4.0,,7.0,/Restaurant_Review-g187323-d1360884-Reviews-Annchen_von_Tharau-Berlin.html,d1360884
+id_944,Dublin,"Cafe,  European,  Delicatessen",946,4.5,$,25.0,/Restaurant_Review-g186605-d4324827-Reviews-Le_Petit_Cafe-Dublin_County_Dublin.html,d4324827
+id_6016,Berlin,German,6018,3.5,,3.0,/Restaurant_Review-g187323-d4156673-Reviews-Alte_Dorfaue-Berlin.html,d4156673
+id_8038,Paris,Other,8039,5.0,,,/Restaurant_Review-g187147-d12229735-Reviews-Boulangerie_Benoit_Benoit-Paris_Ile_de_France.html,d12229735
+id_356,Rome,"Vegetarian Friendly,  Vegan Options",357,5.0,$$ - $$$,84.0,/Restaurant_Review-g187791-d12481552-Reviews-CasaRita-Rome_Lazio.html,d12481552
+id_6684,Paris,Other,6685,4.0,,17.0,/Restaurant_Review-g187147-d5787627-Reviews-Ankka_Madeleine-Paris_Ile_de_France.html,d5787627
+id_1243,Warsaw,Cafe,1244,4.5,,12.0,/Restaurant_Review-g274856-d4781734-Reviews-Stara_Praga-Warsaw_Mazovia_Province_Central_Poland.html,d4781734
+id_1430,Oporto,Other,1431,3.5,,3.0,/Restaurant_Review-g189180-d7992689-Reviews-Abel_Sernadas-Porto_Porto_District_Northern_Portugal.html,d7992689
+id_900,Prague,"Bar,  Pub,  Czech,  Eastern European,  Central European,  European",901,4.0,$,139.0,/Restaurant_Review-g274707-d4769383-Reviews-Pivnice_Pod_Petrinem-Prague_Bohemia.html,d4769383
+id_12473,Paris,South American,12475,3.5,,13.0,/Restaurant_Review-g187147-d4185793-Reviews-Jesusparadis-Paris_Ile_de_France.html,d4185793
+id_14925,London,"Bar,  British,  International,  Vegetarian Friendly,  Gluten Free Options",14936,3.0,$$ - $$$,319.0,/Restaurant_Review-g186338-d2361013-Reviews-The_Riverfront_Bar_Kitchen-London_England.html,d2361013
+id_9466,London,Other,9475,5.0,,,/Restaurant_Review-g186338-d1043805-Reviews-Bice-London_England.html,d1043805
+id_1994,Munich,"Fast Food,  Healthy,  Vegetarian Friendly,  Vegan Options",2010,3.5,$,50.0,/Restaurant_Review-g187309-d2517446-Reviews-Dean_David-Munich_Upper_Bavaria_Bavaria.html,d2517446
+id_1401,Amsterdam,"Steakhouse,  Brazilian",1404,3.5,$$ - $$$,142.0,/Restaurant_Review-g188590-d3191953-Reviews-Do_Brasil-Amsterdam_North_Holland_Province.html,d3191953
+id_163,Stockholm,"Mediterranean,  Middle Eastern,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",164,4.5,$,99.0,/Restaurant_Review-g189852-d3478764-Reviews-Legumes-Stockholm.html,d3478764
+id_615,Hamburg,"Bar,  International,  Mediterranean,  Grill,  Pub",616,5.0,$$ - $$$,16.0,/Restaurant_Review-g187331-d10302492-Reviews-Hansekai-Hamburg.html,d10302492
+id_1971,Vienna,Other,1973,4.0,,9.0,/Restaurant_Review-g190454-d12630204-Reviews-O_Sfizio-Vienna.html,d12630204
+id_3658,Lisbon,Other,3663,2.5,,7.0,/Restaurant_Review-g189158-d1093837-Reviews-Lisboa_Solar-Lisbon_Lisbon_District_Central_Portugal.html,d1093837
+id_7083,London,French,7092,4.0,$$ - $$$,12.0,/Restaurant_Review-g186338-d13109544-Reviews-Noize-London_England.html,d13109544
+id_739,Budapest,"European,  Hungarian,  Eastern European,  Bar,  International,  Central European",740,4.0,$$ - $$$,98.0,/Restaurant_Review-g274887-d2171461-Reviews-Claro_Bistro-Budapest_Central_Hungary.html,d2171461
+id_13337,Paris,Italian,13339,2.5,$$ - $$$,13.0,/Restaurant_Review-g187147-d4129187-Reviews-Le_New_s-Paris_Ile_de_France.html,d4129187
+id_7270,Paris,"French,  Mediterranean,  Wine Bar",7271,4.0,$$ - $$$,65.0,/Restaurant_Review-g187147-d783430-Reviews-Le_Domaine_Leopold-Paris_Ile_de_France.html,d783430
+id_6004,Milan,Other,6007,4.5,,4.0,/Restaurant_Review-g187849-d2407506-Reviews-Etoile_Cafe-Milan_Lombardy.html,d2407506
+id_301,Berlin,"Japanese,  Asian,  Vegetarian Friendly",302,4.5,$$$$,132.0,/Restaurant_Review-g187323-d7908111-Reviews-Zenkichi_Modern_Japanese_Brasserie-Berlin.html,d7908111
+id_1880,Lisbon,Other,1883,4.5,,6.0,/Restaurant_Review-g189158-d8759915-Reviews-Catita-Lisbon_Lisbon_District_Central_Portugal.html,d8759915
+id_2480,Paris,"French,  European",2481,4.5,$$ - $$$,151.0,/Restaurant_Review-g187147-d1208595-Reviews-Au_Gout_Dujour-Paris_Ile_de_France.html,d1208595
+id_918,Helsinki,"Bar,  Pub",919,3.5,,2.0,/Restaurant_Review-g189934-d904707-Reviews-Pub_Heinahattu-Helsinki_Uusimaa.html,d904707
+id_1213,Dublin,Other,1216,5.0,,,/Restaurant_Review-g186605-d7246537-Reviews-Restaurant-Dublin_County_Dublin.html,d7246537
+id_56,Dublin,"Irish,  Bar,  European,  British,  Pub,  Vegetarian Friendly,  Gluten Free Options",57,4.5,$$ - $$$,3491.0,/Restaurant_Review-g186605-d1884058-Reviews-The_Brazen_Head-Dublin_County_Dublin.html,d1884058
+id_1646,Athens,Other,1648,3.5,,17.0,/Restaurant_Review-g189400-d3709334-Reviews-Nterlicatessen-Athens_Attica.html,d3709334
+id_573,Barcelona,"Mediterranean,  European,  Spanish,  Contemporary,  Vegetarian Friendly,  Gluten Free Options",574,4.0,$$$$,604.0,/Restaurant_Review-g187497-d986276-Reviews-Hisop-Barcelona_Catalonia.html,d986276
+id_8019,London,Seafood,8028,4.0,$$ - $$$,49.0,/Restaurant_Review-g186338-d8677313-Reviews-Lobster_Bar-London_England.html,d8677313
+id_11134,London,"Turkish,  Mediterranean,  British",11144,4.5,$,8.0,/Restaurant_Review-g186338-d2225278-Reviews-Semz_Cafe-London_England.html,d2225278
+id_6492,Madrid,Other,6495,3.5,,6.0,/Restaurant_Review-g187514-d5614471-Reviews-Bar_Vinoteca_La_Herradura-Madrid.html,d5614471
+id_3917,Rome,"Seafood,  Italian,  Pizza,  Grill",3918,3.5,$$ - $$$,197.0,/Restaurant_Review-g187791-d3454924-Reviews-Ristorante_Il_Borgo-Rome_Lazio.html,d3454924
+id_13159,Paris,Other,13161,3.0,,37.0,/Restaurant_Review-g187147-d6697515-Reviews-La_Piazza-Paris_Ile_de_France.html,d6697515
+id_10781,London,"Turkish,  Middle Eastern,  Halal",10791,4.5,$$ - $$$,17.0,/Restaurant_Review-g186338-d787024-Reviews-Crystal_Palace-London_England.html,d787024
+id_311,Warsaw,"Japanese,  Sushi,  Asian,  Soups,  Vegetarian Friendly,  Vegan Options",312,4.5,$$ - $$$,34.0,/Restaurant_Review-g274856-d9863670-Reviews-Edamame_Vegan_Sushi-Warsaw_Mazovia_Province_Central_Poland.html,d9863670
+id_12587,London,French,12597,4.0,$$ - $$$,2.0,/Restaurant_Review-g186338-d10333393-Reviews-La_Petite_Poule-London_England.html,d10333393
+id_12622,London,Indian,12632,4.0,$$ - $$$,,/Restaurant_Review-g186338-d12175079-Reviews-Pappadom-London_England.html,d12175079
+id_9406,London,Mediterranean,9415,5.0,$$ - $$$,5.0,/Restaurant_Review-g186338-d10106305-Reviews-Yiamas_Taverna_of_London-London_England.html,d10106305
+id_4310,London,"Italian,  Cafe,  Vegetarian Friendly",4317,4.0,$$ - $$$,122.0,/Restaurant_Review-g186338-d3661709-Reviews-Carlo_s_Kitchen-London_England.html,d3661709
+id_11560,Paris,Other,11562,3.5,,129.0,/Restaurant_Review-g187147-d4227711-Reviews-Terrasse_17-Paris_Ile_de_France.html,d4227711
+id_6315,Madrid,"Mediterranean,  Healthy",6318,4.0,$,16.0,/Restaurant_Review-g187514-d7792070-Reviews-Toppings_and_Salads-Madrid.html,d7792070
+id_7335,London,"Bar,  British,  Pub",7344,4.0,$$ - $$$,50.0,/Restaurant_Review-g186338-d4600862-Reviews-The_Grape_Grain-London_England.html,d4600862
+id_214,Milan,"Italian,  Mediterranean,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",215,4.0,$$$$,1613.0,/Restaurant_Review-g187849-d5264429-Reviews-Ceresio_7_Pools_Restaurant-Milan_Lombardy.html,d5264429
+id_1952,Budapest,"Cafe,  Vegetarian Friendly",1953,3.5,$$ - $$$,39.0,/Restaurant_Review-g274887-d12410110-Reviews-Grand_Cafe-Budapest_Central_Hungary.html,d12410110
+id_7385,Madrid,"South American,  Ecuadorean",7391,3.0,,,/Restaurant_Review-g187514-d4173077-Reviews-Virgen_del_Cisne-Madrid.html,d4173077
+id_3604,Berlin,Spanish,3606,5.0,$$ - $$$,2.0,/Restaurant_Review-g187323-d12242986-Reviews-Cavaclub-Berlin.html,d12242986
+id_7415,Paris,"Moroccan,  Mediterranean",7416,5.0,,9.0,/Restaurant_Review-g187147-d2614607-Reviews-L_Oasis-Paris_Ile_de_France.html,d2614607
+id_1530,Prague,"European,  Central European,  Czech",1533,4.5,$$ - $$$,34.0,/Restaurant_Review-g274707-d4768479-Reviews-Magicka_Zahrada_Nouveau-Prague_Bohemia.html,d4768479
+id_6234,Paris,"French,  Bar,  Cafe,  European,  Pub,  Vegetarian Friendly",6235,4.0,$$ - $$$,20.0,/Restaurant_Review-g187147-d5928128-Reviews-Cafe_Montparnasse-Paris_Ile_de_France.html,d5928128
+id_64,Amsterdam,"Dutch,  European,  Central European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",65,4.5,$$ - $$$,2428.0,/Restaurant_Review-g188590-d697036-Reviews-The_Pantry-Amsterdam_North_Holland_Province.html,d697036
+id_270,Vienna,"Mediterranean,  Italian,  Pizza,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",271,4.0,$$ - $$$,384.0,/Restaurant_Review-g190454-d2021717-Reviews-Vapiano-Vienna.html,d2021717
+id_11407,London,Other,11417,4.5,,3.0,/Restaurant_Review-g186338-d10109314-Reviews-Heathrow_Restaurant-London_England.html,d10109314
+id_1714,Hamburg,Chinese,1717,4.0,,5.0,/Restaurant_Review-g187331-d1038938-Reviews-Hong_Kong-Hamburg.html,d1038938
+id_7809,Paris,Other,7810,4.0,,15.0,/Restaurant_Review-g187147-d4953429-Reviews-Jefrey_s-Paris_Ile_de_France.html,d4953429
+id_85,Barcelona,"Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",86,4.5,$$ - $$$,2186.0,/Restaurant_Review-g187497-d697571-Reviews-El_Xampanyet-Barcelona_Catalonia.html,d697571
+id_991,Dublin,"Japanese,  Sushi,  Asian,  Vegetarian Friendly,  Gluten Free Options",993,4.5,$$ - $$$,31.0,/Restaurant_Review-g186605-d8524256-Reviews-Michie_Sushi_Sandyford-Dublin_County_Dublin.html,d8524256
+id_1391,Budapest,"American,  Fast Food,  International,  European,  Hungarian",1392,5.0,,,/Restaurant_Review-g274887-d7724601-Reviews-Bite-Budapest_Central_Hungary.html,d7724601
+id_2825,Brussels,"Japanese,  Sushi,  Asian,  Fast Food",2826,3.0,$$ - $$$,113.0,/Restaurant_Review-g1136493-d1093016-Reviews-Sushi_Shop-Ixelles_Brussels.html,d1093016
+id_1571,Barcelona,"Japanese,  Sushi,  Asian,  Vegetarian Friendly",1572,4.0,$$ - $$$,105.0,/Restaurant_Review-g187497-d8774881-Reviews-Meet_Restaurant_Japones-Barcelona_Catalonia.html,d8774881
+id_1133,Brussels,"Italian,  European,  Pizza",1134,3.5,$$ - $$$,61.0,/Restaurant_Review-g188644-d1082420-Reviews-Al_Pronto-Brussels.html,d1082420
+id_5098,Berlin,Other,5100,4.0,,,/Restaurant_Review-g187323-d12875617-Reviews-Trattoria_Venezia-Berlin.html,d12875617
+id_707,Edinburgh,"Bar,  British,  Pub,  Vegetarian Friendly,  Vegan Options",708,4.0,$$ - $$$,121.0,/Restaurant_Review-g186525-d2390091-Reviews-The_Brass_Monkey-Edinburgh_Scotland.html,d2390091
+id_3966,Barcelona,"Mediterranean,  European,  Spanish,  Vegetarian Friendly",3967,4.0,$$ - $$$,39.0,/Restaurant_Review-g187497-d1926325-Reviews-Echo_Restaurant-Barcelona_Catalonia.html,d1926325
+id_5503,Madrid,Other,5506,3.5,,3.0,/Restaurant_Review-g187514-d990817-Reviews-Restaurante_Belarmino-Madrid.html,d990817
+id_4432,Rome,"Italian,  Pizza",4433,4.5,,56.0,/Restaurant_Review-g187791-d7097337-Reviews-L_angolo_dei_suppli-Rome_Lazio.html,d7097337
+id_15279,London,"Indian,  Halal",15291,3.5,$$ - $$$,16.0,/Restaurant_Review-g186338-d5795578-Reviews-Taste_Of_India-London_England.html,d5795578
+id_8120,London,Other,8129,5.0,,3.0,/Restaurant_Review-g186338-d11842481-Reviews-Diners_Delight-London_England.html,d11842481
+id_3052,Prague,Other,3059,4.0,,,/Restaurant_Review-g274707-d12172734-Reviews-Cactus-Prague_Bohemia.html,d12172734
+id_4,Barcelona,"Mediterranean,  Spanish,  Wine Bar,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",5,5.0,$$ - $$$,1078.0,/Restaurant_Review-g187497-d11906544-Reviews-Bodega_Biarritz-Barcelona_Catalonia.html,d11906544
+id_850,London,"Fast Food,  Barbecue,  European,  Portuguese,  Vegetarian Friendly,  Gluten Free Options",852,4.0,$$ - $$$,1322.0,/Restaurant_Review-g186338-d2216928-Reviews-Nando_s-London_England.html,d2216928
+id_7761,Barcelona,Other,7773,1.0,,,/Restaurant_Review-g187497-d11543758-Reviews-Fusion_Restaurant_Japones_Braseria-Barcelona_Catalonia.html,d11543758
+id_4845,London,"European,  Portuguese",4854,4.0,$$ - $$$,206.0,/Restaurant_Review-g186338-d3400459-Reviews-Casa_Madeira-London_England.html,d3400459
+id_883,Amsterdam,"Spanish,  Bar,  European,  Pub,  Vegetarian Friendly",885,4.5,$$ - $$$,47.0,/Restaurant_Review-g188590-d12557535-Reviews-Escobar-Amsterdam_North_Holland_Province.html,d12557535
+id_85,Paris,"Thai,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",86,4.5,$$ - $$$,441.0,/Restaurant_Review-g187147-d783281-Reviews-Thai_Spices-Paris_Ile_de_France.html,d783281
+id_393,Warsaw,"American,  Central American,  Grill",394,4.0,$$ - $$$,141.0,/Restaurant_Review-g274856-d4323006-Reviews-Jeff_s-Warsaw_Mazovia_Province_Central_Poland.html,d4323006
+id_1971,Lisbon,Other,1974,4.5,,9.0,/Restaurant_Review-g189158-d10026779-Reviews-Adega_Do_Lagarto-Lisbon_Lisbon_District_Central_Portugal.html,d10026779
+id_239,Athens,"Chinese,  Fast Food,  Asian,  Fusion,  Vegetarian Friendly,  Vegan Options",240,4.5,$,62.0,/Restaurant_Review-g189400-d6513977-Reviews-Streetwok-Athens_Attica.html,d6513977
+id_317,Lisbon,"Mediterranean,  European,  Portuguese",318,4.5,$$ - $$$,372.0,/Restaurant_Review-g189158-d1224146-Reviews-O_Beco-Lisbon_Lisbon_District_Central_Portugal.html,d1224146
+id_1639,Berlin,"Cafe,  European,  Vegetarian Friendly,  Vegan Options",1641,4.0,$,64.0,/Restaurant_Review-g187323-d6494498-Reviews-Berlin_Theke-Berlin.html,d6494498
+id_3909,Paris,Italian,3910,5.0,$$ - $$$,11.0,/Restaurant_Review-g187147-d12563331-Reviews-Aperitivo-Paris_Ile_de_France.html,d12563331
+id_4742,Berlin,Other,4744,4.0,,8.0,/Restaurant_Review-g187323-d8401819-Reviews-Gestrandet_An_Der_Jannowitzbrucke-Berlin.html,d8401819
+id_400,London,"Vegetarian Friendly,  Gluten Free Options",401,4.5,$$$$,1084.0,/Restaurant_Review-g186338-d1029286-Reviews-The_Square-London_England.html,d1029286
+id_9103,Paris,"French,  European",9105,4.0,$$ - $$$,44.0,/Restaurant_Review-g187147-d718744-Reviews-La_Terrasse-Paris_Ile_de_France.html,d718744
+id_846,Copenhagen,"Chinese,  Asian,  Sushi,  Vegetarian Friendly",847,3.5,$,74.0,/Restaurant_Review-g806262-d1081584-Reviews-Chun_bo-Frederiksberg_Copenhagen_Zealand.html,d1081584
+id_9347,London,Italian,9356,5.0,,,/Restaurant_Review-g186338-d3735823-Reviews-Grazie_Assai-London_England.html,d3735823
+id_788,Krakow,"Mexican,  Fast Food,  Spanish",789,4.0,$,29.0,/Restaurant_Review-g274772-d4560491-Reviews-Szybki_Lopez-Krakow_Lesser_Poland_Province_Southern_Poland.html,d4560491
+id_4541,Madrid,Spanish,4543,4.5,,5.0,/Restaurant_Review-g187514-d4799949-Reviews-Taberna_Las_Toreras_Madrid-Madrid.html,d4799949
+id_1776,Brussels,"Polish,  European",1777,4.5,$,3.0,/Restaurant_Review-g188644-d11445075-Reviews-PRL_La_Pologne-Brussels.html,d11445075
+id_10177,Paris,Italian,10179,4.0,,9.0,/Restaurant_Review-g187147-d1336101-Reviews-Le_Tarbouche-Paris_Ile_de_France.html,d1336101
+id_5673,Rome,"Italian,  Peruvian,  International,  Healthy,  South American",5675,5.0,$,,/Restaurant_Review-g187791-d12322989-Reviews-Tasty_Friendly-Rome_Lazio.html,d12322989
+id_1745,Lisbon,"European,  Contemporary,  Portuguese",1747,4.0,$$ - $$$,11.0,/Restaurant_Review-g189158-d13150829-Reviews-Tezero-Lisbon_Lisbon_District_Central_Portugal.html,d13150829
+id_1300,Lisbon,"Cafe,  Portuguese,  European",1301,4.5,$,32.0,/Restaurant_Review-g189158-d8008981-Reviews-Pastelaria_Pomarense-Lisbon_Lisbon_District_Central_Portugal.html,d8008981
+id_5329,Rome,Other,5331,4.5,,4.0,/Restaurant_Review-g187791-d12921595-Reviews-La_Casetta-Rome_Lazio.html,d12921595
+id_6338,Paris,"French,  European,  Bar,  Pub",6339,4.0,$$ - $$$,83.0,/Restaurant_Review-g187147-d1904460-Reviews-Le_Magenta-Paris_Ile_de_France.html,d1904460
+id_194,Warsaw,"Russian,  Eastern European,  European,  Vegetarian Friendly",195,4.0,$$ - $$$,143.0,/Restaurant_Review-g274856-d779167-Reviews-Babooshka-Warsaw_Mazovia_Province_Central_Poland.html,d779167
+id_2198,Milan,"Bar,  Pub,  Brew Pub",2200,4.0,$,75.0,/Restaurant_Review-g187849-d4909559-Reviews-Boom_Milano-Milan_Lombardy.html,d4909559
+id_2792,Rome,"Italian,  Seafood,  Mediterranean",2793,4.0,$$ - $$$,157.0,/Restaurant_Review-g187791-d2437956-Reviews-Hostaria_Pizzeria_da_Baffo-Rome_Lazio.html,d2437956
+id_395,Oporto,"Mediterranean,  African,  Portuguese,  Soups",396,4.5,$$ - $$$,95.0,/Restaurant_Review-g189180-d1081959-Reviews-Restaurante_Campo_Alegre_Compadre-Porto_Porto_District_Northern_Portugal.html,d1081959
+id_293,Madrid,"Bar,  Mediterranean,  European,  Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",294,4.0,$$ - $$$,754.0,/Restaurant_Review-g187514-d4410180-Reviews-TASTE_GALLERY-Madrid.html,d4410180
+id_1820,Milan,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly",1822,3.5,$,567.0,/Restaurant_Review-g187849-d1100325-Reviews-La_Magolfa-Milan_Lombardy.html,d1100325
+id_8453,Paris,"Bar,  Pub,  Wine Bar",8455,4.5,$$ - $$$,11.0,/Restaurant_Review-g187147-d8090662-Reviews-La_cave_signature-Paris_Ile_de_France.html,d8090662
+id_1323,Dublin,"Fast Food,  Delicatessen,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1326,3.5,$,113.0,/Restaurant_Review-g186605-d3431140-Reviews-Chopped-Dublin_County_Dublin.html,d3431140
+id_194,Munich,"Cafe,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",196,4.0,$$ - $$$,106.0,/Restaurant_Review-g187309-d4818393-Reviews-Konigin_43-Munich_Upper_Bavaria_Bavaria.html,d4818393
+id_2224,Lisbon,Other,2227,4.5,,9.0,/Restaurant_Review-g189158-d697252-Reviews-Porto_de_Abrigo-Lisbon_Lisbon_District_Central_Portugal.html,d697252
+id_393,Hamburg,"Cafe,  Israeli,  European,  Central European,  Vegetarian Friendly,  Kosher",394,4.0,$$ - $$$,77.0,/Restaurant_Review-g187331-d1873223-Reviews-Cafe_Leonar-Hamburg.html,d1873223
+id_3260,London,"Italian,  Vegetarian Friendly,  Gluten Free Options",3267,5.0,$$ - $$$,16.0,/Restaurant_Review-g186338-d12947166-Reviews-Tonis_Amalfi-London_England.html,d12947166
+id_452,Hamburg,"Bar,  Pizza,  Middle Eastern,  Cafe,  German",453,4.0,$$ - $$$,41.0,/Restaurant_Review-g187331-d4083721-Reviews-Chakra_Cafe-Hamburg.html,d4083721
+id_1089,Lyon,French,1090,4.0,$$ - $$$,22.0,/Restaurant_Review-g187265-d10389470-Reviews-Brasserie_Gallay-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d10389470
+id_820,Milan,"Italian,  Pizza,  Seafood,  Mediterranean,  Vegetarian Friendly",822,4.0,$,186.0,/Restaurant_Review-g187849-d2486144-Reviews-Jolly_Due-Milan_Lombardy.html,d2486144
+id_2614,Munich,"Chinese,  Asian,  Vegetarian Friendly",2633,3.0,$$ - $$$,110.0,/Restaurant_Review-g187309-d2267111-Reviews-Shanghai_Restaurant-Munich_Upper_Bavaria_Bavaria.html,d2267111
+id_1850,Lisbon,Other,1853,5.0,,3.0,/Restaurant_Review-g189158-d10734451-Reviews-Ponto_Azul-Lisbon_Lisbon_District_Central_Portugal.html,d10734451
+id_1545,Lisbon,"European,  Portuguese",1546,4.5,$$ - $$$,7.0,/Restaurant_Review-g189158-d13171584-Reviews-Tapas_n_Friends_Campo_de_Ourique-Lisbon_Lisbon_District_Central_Portugal.html,d13171584
+id_456,Rome,"Seafood,  Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",457,4.5,$$ - $$$,1237.0,/Restaurant_Review-g187791-d3134650-Reviews-La_Taverna_Italiana-Rome_Lazio.html,d3134650
+id_3365,Paris,"French,  Bar,  Cafe,  Wine Bar",3366,5.0,$$ - $$$,18.0,/Restaurant_Review-g187147-d10737035-Reviews-Pignon-Paris_Ile_de_France.html,d10737035
+id_9780,London,"Seafood,  Fast Food,  British",9789,3.5,$$ - $$$,162.0,/Restaurant_Review-g186338-d3613533-Reviews-Fish_House-London_England.html,d3613533
+id_344,Milan,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Vegan Options",345,4.0,$$ - $$$,732.0,/Restaurant_Review-g187849-d2648160-Reviews-Pizzeria_di_Porta_Garibaldi-Milan_Lombardy.html,d2648160
+id_1418,Athens,"Italian,  Mediterranean,  Greek",1420,4.5,$,7.0,/Restaurant_Review-g189400-d10122352-Reviews-CENTRO_Coffee_Restaurant-Athens_Attica.html,d10122352
+id_4885,Madrid,Other,4888,3.0,,3.0,/Restaurant_Review-g187514-d3785147-Reviews-Pasta_Pesto-Madrid.html,d3785147
+id_134,Geneva,"French,  Steakhouse,  European",135,4.0,$$ - $$$,191.0,/Restaurant_Review-g188057-d7687905-Reviews-Le_49_Rhone-Geneva.html,d7687905
+id_4232,London,"Lebanese,  Middle Eastern,  Mediterranean,  Vegetarian Friendly,  Halal,  Gluten Free Options",4239,4.0,$$ - $$$,177.0,/Restaurant_Review-g186338-d718937-Reviews-Fairuz-London_England.html,d718937
+id_253,Prague,"Bar,  European,  Pub,  Czech,  Eastern European,  Central European",254,4.5,$$ - $$$,307.0,/Restaurant_Review-g274707-d3192062-Reviews-Restaurace_Kulovy_Blesk-Prague_Bohemia.html,d3192062
+id_9948,Paris,Other,9950,4.0,,25.0,/Restaurant_Review-g187147-d12320220-Reviews-Dicoeur_Restaurant-Paris_Ile_de_France.html,d12320220
+id_1986,Prague,"European,  Czech",1989,5.0,,,/Restaurant_Review-g274707-d4768291-Reviews-Restaurace_U_Divadla-Prague_Bohemia.html,d4768291
+id_1718,Edinburgh,"Chinese,  Fast Food,  Asian",1725,2.5,$,18.0,/Restaurant_Review-g186525-d5425608-Reviews-New_Samuel_Chinese_Takeaway-Edinburgh_Scotland.html,d5425608
+id_2608,Hamburg,Italian,2615,4.5,,7.0,/Restaurant_Review-g187331-d8517072-Reviews-Eiscafe_San_Remo-Hamburg.html,d8517072
+id_2454,Munich,Thai,2471,3.5,$$ - $$$,10.0,/Restaurant_Review-g187309-d5509232-Reviews-Restaurant_Thai_Magie-Munich_Upper_Bavaria_Bavaria.html,d5509232
+id_713,Lisbon,"Bar,  Mediterranean,  European,  Portuguese,  Contemporary,  Vegetarian Friendly",714,3.5,$$ - $$$,750.0,/Restaurant_Review-g189158-d2084827-Reviews-Aura_Restaurante-Lisbon_Lisbon_District_Central_Portugal.html,d2084827
+id_3198,Amsterdam,"Dutch,  European",3209,5.0,$,,/Restaurant_Review-g188590-d10587448-Reviews-Pietersma_Snacks-Amsterdam_North_Holland_Province.html,d10587448
+id_2173,Madrid,Spanish,2175,4.0,$$ - $$$,33.0,/Restaurant_Review-g187514-d8811850-Reviews-Quinta_La_Candela-Madrid.html,d8811850
+id_1225,Dublin,Other,1228,5.0,,,/Restaurant_Review-g186605-d12873448-Reviews-Scent_at_Home-Dublin_County_Dublin.html,d12873448
+id_307,Oslo,"Japanese,  Sushi,  Asian",308,4.5,$,31.0,/Restaurant_Review-g190479-d6727449-Reviews-Trans_Sushi-Oslo_Eastern_Norway.html,d6727449
+id_6069,Berlin,Other,6071,3.0,,6.0,/Restaurant_Review-g187323-d10179197-Reviews-Arirang_2-Berlin.html,d10179197
+id_11272,London,International,11282,4.5,,3.0,/Restaurant_Review-g186338-d7311463-Reviews-Kitchen-London_England.html,d7311463
+id_802,Lisbon,Portuguese,803,5.0,$$ - $$$,25.0,/Restaurant_Review-g189158-d12611007-Reviews-Tabernario_do_Bairro-Lisbon_Lisbon_District_Central_Portugal.html,d12611007
+id_9935,Paris,"French,  Spanish",9937,3.5,$$$$,16.0,/Restaurant_Review-g187147-d7047167-Reviews-L_Entree_Des_Artistes-Paris_Ile_de_France.html,d7047167
+id_2236,Lisbon,"Mediterranean,  European,  Portuguese",2239,3.5,$$ - $$$,185.0,/Restaurant_Review-g189158-d2091250-Reviews-Restaurant_33-Lisbon_Lisbon_District_Central_Portugal.html,d2091250
+id_5990,Berlin,Other,5992,2.5,,5.0,/Restaurant_Review-g187323-d1037163-Reviews-Montali_s-Berlin.html,d1037163
+id_2806,Rome,"Japanese,  Seafood,  Sushi,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",2807,3.5,$$ - $$$,1079.0,/Restaurant_Review-g187791-d1182786-Reviews-Ginza_Gold-Rome_Lazio.html,d1182786
+id_14422,London,Other,14433,3.5,,19.0,/Restaurant_Review-g186338-d5220257-Reviews-Elements-London_England.html,d5220257
+id_1167,Brussels,"European,  Delicatessen,  Contemporary,  Gastropub",1168,4.0,$$ - $$$,26.0,/Restaurant_Review-g188644-d11962971-Reviews-Vertigo-Brussels.html,d11962971
+id_866,Athens,Other,868,4.5,,12.0,/Restaurant_Review-g189400-d7690496-Reviews-Kerameio-Athens_Attica.html,d7690496
+id_3492,Barcelona,Spanish,3493,4.5,,5.0,/Restaurant_Review-g187497-d12906918-Reviews-La_Guapa-Barcelona_Catalonia.html,d12906918
+id_1359,Barcelona,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly",1360,4.5,$,59.0,/Restaurant_Review-g187497-d9765679-Reviews-Pizza_D_Autore-Barcelona_Catalonia.html,d9765679
+id_8523,London,Other,8532,4.5,,4.0,/Restaurant_Review-g186338-d4924798-Reviews-Amal_Lebanese_And_Moroccan_Cuisine-London_England.html,d4924798
+id_5361,Paris,Italian,5362,4.0,$$ - $$$,58.0,/Restaurant_Review-g187147-d5865687-Reviews-Les_Comediens-Paris_Ile_de_France.html,d5865687
+id_528,Berlin,"Asian,  Vegetarian Friendly,  Vegan Options",529,4.0,$$ - $$$,97.0,/Restaurant_Review-g187323-d7905491-Reviews-Bun_Bao-Berlin.html,d7905491
+id_430,London,"Seafood,  European,  British",431,4.5,$,907.0,/Restaurant_Review-g186338-d719237-Reviews-Golden_Hind-London_England.html,d719237
+id_3649,Prague,"European,  Czech,  Central European",3658,3.5,$$ - $$$,19.0,/Restaurant_Review-g274707-d5942142-Reviews-U_MACHTU_s_r_o-Prague_Bohemia.html,d5942142
+id_661,Barcelona,"Seafood,  Mediterranean,  European,  Spanish,  Soups,  Gluten Free Options,  Vegetarian Friendly",662,3.5,$$ - $$$,1332.0,/Restaurant_Review-g187497-d1137212-Reviews-La_Gavina-Barcelona_Catalonia.html,d1137212
+id_5817,Paris,"Asian,  Korean",5818,4.0,$$$$,52.0,/Restaurant_Review-g187147-d1020592-Reviews-Woo_Jung-Paris_Ile_de_France.html,d1020592
+id_8222,London,Other,8231,5.0,,7.0,/Restaurant_Review-g186338-d9781450-Reviews-Cafe_Montmartre-London_England.html,d9781450
+id_13389,London,"European,  Spanish,  British",13399,4.0,$$ - $$$,16.0,/Restaurant_Review-g186338-d4872826-Reviews-Elliotts_London_Bridge-London_England.html,d4872826
+id_197,Bratislava,"American,  International",198,4.5,$$ - $$$,6.0,/Restaurant_Review-g274924-d13203526-Reviews-Blue_Bear_Restaurant_Bar-Bratislava_Bratislava_Region.html,d13203526
+id_14953,London,Sushi,14964,3.5,,11.0,/Restaurant_Review-g186338-d5122174-Reviews-Yo_Sushi-London_England.html,d5122174
+id_9835,Paris,"Lebanese,  Middle Eastern,  Mediterranean,  Halal,  Vegetarian Friendly",9837,3.5,$,71.0,/Restaurant_Review-g187147-d813958-Reviews-Le_baron-Paris_Ile_de_France.html,d813958
+id_2177,Lisbon,"Seafood,  Mediterranean,  Portuguese,  European",2180,3.5,$$ - $$$,110.0,/Restaurant_Review-g189158-d7247750-Reviews-Marisqueira_Azul-Lisbon_Lisbon_District_Central_Portugal.html,d7247750
+id_3991,London,"Cafe,  Vegetarian Friendly,  Vegan Options",3998,4.5,$$ - $$$,48.0,/Restaurant_Review-g186338-d7312499-Reviews-The_Canvas_Cafe-London_England.html,d7312499
+id_925,Oporto,Other,926,5.0,,3.0,/Restaurant_Review-g189180-d7644937-Reviews-NekaNau_Restaurante-Porto_Porto_District_Northern_Portugal.html,d7644937
+id_4477,Madrid,Other,4479,4.0,,14.0,/Restaurant_Review-g187514-d10028124-Reviews-La_Bodega_De_Casanova-Madrid.html,d10028124
+id_492,Brussels,"British,  Cafe,  Vegetarian Friendly,  Vegan Options",493,4.0,$,95.0,/Restaurant_Review-g188644-d2719603-Reviews-Delish-Brussels.html,d2719603
+id_9638,London,"British,  Cafe,  Vegetarian Friendly",9647,3.5,$$ - $$$,64.0,/Restaurant_Review-g186338-d1013794-Reviews-Baker_Spice_Chelsea-London_England.html,d1013794
+id_7756,Madrid,Other,7763,3.0,,18.0,/Restaurant_Review-g187514-d10784649-Reviews-Restaurante_Crono_Cristalia-Madrid.html,d10784649
+id_2982,Milan,"Pizza,  Brew Pub",2984,3.5,$$ - $$$,132.0,/Restaurant_Review-g187849-d2620190-Reviews-Carlsberg_Platz-Milan_Lombardy.html,d2620190
+id_7646,Paris,Other,7647,4.0,,30.0,/Restaurant_Review-g187147-d10040334-Reviews-Comics_Burger-Paris_Ile_de_France.html,d10040334
+id_792,London,"Australian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",793,4.0,$$ - $$$,381.0,/Restaurant_Review-g186338-d8419110-Reviews-Granger_Co-London_England.html,d8419110
+id_1025,Warsaw,Other,1026,4.5,,3.0,/Restaurant_Review-g274856-d12685574-Reviews-Vincentz-Warsaw_Mazovia_Province_Central_Poland.html,d12685574
+id_1862,Rome,"Italian,  Seafood,  Mediterranean,  Vegetarian Friendly",1863,4.5,$$ - $$$,89.0,/Restaurant_Review-g187791-d9603011-Reviews-Osteria_Pascal-Rome_Lazio.html,d9603011
+id_182,Lisbon,"Steakhouse,  European,  Portuguese",183,4.0,$,825.0,/Restaurant_Review-g189158-d1852620-Reviews-Restaurante_Cabacas-Lisbon_Lisbon_District_Central_Portugal.html,d1852620
+id_1889,Barcelona,"Mediterranean,  Fusion",1890,4.5,$$ - $$$,24.0,/Restaurant_Review-g187497-d11679759-Reviews-Invers-Barcelona_Catalonia.html,d11679759
+id_12247,Paris,Other,12249,3.0,,2.0,/Restaurant_Review-g187147-d12112547-Reviews-Restaurant_Naina-Paris_Ile_de_France.html,d12112547
+id_5624,Berlin,Spanish,5626,4.0,,6.0,/Restaurant_Review-g187323-d3805143-Reviews-Don_Quichote-Berlin.html,d3805143
+id_1674,Amsterdam,"Mediterranean,  International",1679,4.0,$$ - $$$,26.0,/Restaurant_Review-g188590-d3610708-Reviews-Eetcafe_Le_Traffic-Amsterdam_North_Holland_Province.html,d3610708
+id_936,Athens,"Cafe,  Greek",938,4.0,$,11.0,/Restaurant_Review-g189400-d6882587-Reviews-Repeat_Cafe_Food-Athens_Attica.html,d6882587
+id_2170,Lyon,Other,2171,4.0,,5.0,/Restaurant_Review-g187265-d5962368-Reviews-L_appart_68-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d5962368
+id_2753,Milan,Bar,2755,4.0,$,60.0,/Restaurant_Review-g187849-d4424572-Reviews-Caffe_Picchio-Milan_Lombardy.html,d4424572
+id_547,Stockholm,"European,  Belgian,  Bar,  Vegetarian Friendly",548,4.0,$$ - $$$,97.0,/Restaurant_Review-g189852-d3898172-Reviews-Duvel_cafe-Stockholm.html,d3898172
+id_1879,Lisbon,"Vegetarian Friendly,  Gluten Free Options",1882,4.0,$,33.0,/Restaurant_Review-g189158-d9739262-Reviews-Agua_no_Bico-Lisbon_Lisbon_District_Central_Portugal.html,d9739262
+id_874,Athens,"Mediterranean,  Greek",876,3.5,$$ - $$$,78.0,/Restaurant_Review-g189400-d2637154-Reviews-Oraia_Penteli-Athens_Attica.html,d2637154
+id_565,Brussels,"Mediterranean,  European,  Portuguese,  Wine Bar",566,4.0,$$ - $$$,35.0,/Restaurant_Review-g188644-d3622799-Reviews-Chez_Luis-Brussels.html,d3622799
+id_1441,Paris,"Indian,  Middle Eastern,  Pakistani,  Vegetarian Friendly",1442,5.0,$$ - $$$,49.0,/Restaurant_Review-g187147-d12947099-Reviews-Mayfair_Garden_champs_elysees-Paris_Ile_de_France.html,d12947099
+id_2387,Prague,"European,  Czech",2392,4.5,,3.0,/Restaurant_Review-g274707-d1971797-Reviews-Piano_Terra-Prague_Bohemia.html,d1971797
+id_3270,Rome,"Italian,  Pizza",3271,4.0,$$ - $$$,85.0,/Restaurant_Review-g187791-d6981542-Reviews-The_Gud-Rome_Lazio.html,d6981542
+id_1941,Milan,Other,1943,4.0,,47.0,/Restaurant_Review-g187849-d10701333-Reviews-Koi_Japanese_Restaurant-Milan_Lombardy.html,d10701333
+id_4208,Berlin,Mexican,4210,3.5,$$ - $$$,23.0,/Restaurant_Review-g187323-d7624770-Reviews-Cancun-Berlin.html,d7624770
+id_1512,Warsaw,"Chinese,  Asian",1514,4.0,$$ - $$$,34.0,/Restaurant_Review-g274856-d2271370-Reviews-China_Garden-Warsaw_Mazovia_Province_Central_Poland.html,d2271370
+id_4362,Paris,Gluten Free Options,4363,4.5,$$ - $$$,32.0,/Restaurant_Review-g187147-d10047471-Reviews-3BiO-Paris_Ile_de_France.html,d10047471
+id_553,Lisbon,"Italian,  Mediterranean,  European,  Vegetarian Friendly",554,4.5,$$ - $$$,66.0,/Restaurant_Review-g189158-d10266436-Reviews-L_Artusi_Ristorante-Lisbon_Lisbon_District_Central_Portugal.html,d10266436
+id_321,Bratislava,Other,322,4.0,,15.0,/Restaurant_Review-g274924-d4770035-Reviews-Engerau-Bratislava_Bratislava_Region.html,d4770035
+id_655,Paris,"Chinese,  Asian,  Thai,  Singaporean,  Vegetarian Friendly,  Vegan Options",656,4.5,$$ - $$$,187.0,/Restaurant_Review-g187147-d2044612-Reviews-Palais_du_Bonheur-Paris_Ile_de_France.html,d2044612
+id_7921,Madrid,Other,7928,3.0,,13.0,/Restaurant_Review-g187514-d10271724-Reviews-Frisbee-Madrid.html,d10271724
+id_1,Zurich,"Indian,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",2,4.5,$$ - $$$,418.0,/Restaurant_Review-g188113-d10169867-Reviews-Tamarind_Hill_Indian_Restaurant-Zurich.html,d10169867
+id_741,Copenhagen,"Fast Food,  Vegetarian Friendly",742,4.5,$,20.0,/Restaurant_Review-g189541-d8284781-Reviews-Astrid_Och_Aporna-Copenhagen_Zealand.html,d8284781
+id_2540,Hamburg,Other,2545,3.0,,2.0,/Restaurant_Review-g187331-d1039067-Reviews-Holstenstube-Hamburg.html,d1039067
+id_822,Hamburg,"Latin,  Spanish",823,4.0,$$ - $$$,34.0,/Restaurant_Review-g187331-d878520-Reviews-Taberna_El_Paisa-Hamburg.html,d878520
+id_683,Budapest,"Italian,  American,  Spanish",684,5.0,$,9.0,/Restaurant_Review-g274887-d12902522-Reviews-Red_Lion_s_Pub_Snack_Bar-Budapest_Central_Hungary.html,d12902522
+id_2889,Rome,"Italian,  Argentinean",2890,4.5,$,15.0,/Restaurant_Review-g187791-d12323685-Reviews-La_Piada_Loca-Rome_Lazio.html,d12323685
+id_8235,Paris,Other,8236,5.0,,,/Restaurant_Review-g187147-d11861153-Reviews-Hao_Yun-Paris_Ile_de_France.html,d11861153
+id_602,Dublin,"Asian,  Thai,  Fusion,  Vegetarian Friendly,  Gluten Free Options",603,4.0,$$ - $$$,135.0,/Restaurant_Review-g186605-d7591680-Reviews-East_Restaurant-Dublin_County_Dublin.html,d7591680
+id_559,Athens,"Mediterranean,  Greek,  Vegetarian Friendly",560,3.5,$$ - $$$,304.0,/Restaurant_Review-g189400-d1070166-Reviews-Byzantino-Athens_Attica.html,d1070166
+id_11306,London,"Mediterranean,  European,  Spanish,  Bar,  Pub",11316,3.5,$$ - $$$,47.0,/Restaurant_Review-g186338-d2643319-Reviews-Iberica_La_Terraza-London_England.html,d2643319
+id_2851,Berlin,Other,2853,5.0,,4.0,/Restaurant_Review-g187323-d12417709-Reviews-Gia_Bao_Quan-Berlin.html,d12417709
+id_2406,Milan,"Italian,  Seafood",2408,4.0,$$ - $$$,184.0,/Restaurant_Review-g187849-d813925-Reviews-La_Villetta-Milan_Lombardy.html,d813925
+id_890,Zurich,Other,894,4.5,,4.0,/Restaurant_Review-g188113-d12206760-Reviews-Buchmann_Beck_Rennweg-Zurich.html,d12206760
+id_2233,Stockholm,Other,2236,3.0,,21.0,/Restaurant_Review-g189852-d10769792-Reviews-Americain-Stockholm.html,d10769792
+id_6090,London,"Indian,  Asian,  Vegetarian Friendly",6099,3.5,$$ - $$$,136.0,/Restaurant_Review-g186338-d731204-Reviews-Rajasthan_Restaurant-London_England.html,d731204
+id_874,Krakow,Pizza,875,4.5,,4.0,/Restaurant_Review-g274772-d10477806-Reviews-Pizzeria_Pepe-Krakow_Lesser_Poland_Province_Southern_Poland.html,d10477806
+id_3705,London,"Mediterranean,  Spanish,  Vegetarian Friendly",3712,4.0,$$ - $$$,187.0,/Restaurant_Review-g186338-d1016160-Reviews-Galicia_Restaurant-London_England.html,d1016160
+id_469,Berlin,"Chinese,  Vegetarian Friendly,  Vegan Options",470,4.5,$$ - $$$,69.0,/Restaurant_Review-g187323-d8429273-Reviews-Feed_Back-Berlin.html,d8429273
+id_2944,Berlin,Other,2946,5.0,,4.0,/Restaurant_Review-g187323-d11958431-Reviews-Crepegarten-Berlin.html,d11958431
+id_1188,Rome,"Japanese,  Brazilian,  Seafood,  Sushi,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1189,4.0,$$ - $$$,173.0,/Restaurant_Review-g187791-d11895495-Reviews-SAO_Brazilian_Sushi_Bar-Rome_Lazio.html,d11895495
+id_6032,Berlin,International,6034,3.5,$$ - $$$,16.0,/Restaurant_Review-g187323-d2465469-Reviews-Schall_und_Rauch-Berlin.html,d2465469
+id_580,Bratislava,"European,  Eastern European",581,4.5,,3.0,/Restaurant_Review-g274924-d951933-Reviews-Bagl_s_Vinny_Bar_Restaurant-Bratislava_Bratislava_Region.html,d951933
+id_4999,Paris,"Asian,  Vietnamese,  Vegetarian Friendly,  Vegan Options",5000,4.0,$$ - $$$,128.0,/Restaurant_Review-g187147-d2258959-Reviews-Au_Vietnam-Paris_Ile_de_France.html,d2258959
+id_2243,Stockholm,"Pub,  Scandinavian",2247,3.0,$$ - $$$,86.0,/Restaurant_Review-g189852-d1043439-Reviews-Soap_Bar-Stockholm.html,d1043439
+id_2793,Rome,Pizza,2794,4.5,$,82.0,/Restaurant_Review-g187791-d7803810-Reviews-Pala_Pizza_da_Mirko-Rome_Lazio.html,d7803810
+id_7425,Barcelona,"Mediterranean,  Spanish",7426,2.5,$,55.0,/Restaurant_Review-g187497-d3308325-Reviews-O_vall_D_ouro-Barcelona_Catalonia.html,d3308325
+id_1033,Dublin,"Irish,  International,  European",1035,3.5,$$ - $$$,230.0,/Restaurant_Review-g186605-d1553821-Reviews-Cafe_Carlo-Dublin_County_Dublin.html,d1553821
+id_4082,Berlin,"Healthy,  Vegan Options,  Gluten Free Options",4084,4.0,$$ - $$$,18.0,/Restaurant_Review-g187323-d7804627-Reviews-Barkett-Berlin.html,d7804627
+id_820,Vienna,"European,  Delicatessen,  Wine Bar,  Bar,  Diner",821,4.0,$$ - $$$,130.0,/Restaurant_Review-g190454-d1963456-Reviews-Wein_Co_Naschmarkt-Vienna.html,d1963456
+id_15646,London,Other,15658,2.5,,3.0,/Restaurant_Review-g186338-d5440481-Reviews-Unity_Kitchen-London_England.html,d5440481
+id_3038,Lisbon,"European,  Portuguese",3041,3.5,$$ - $$$,15.0,/Restaurant_Review-g189158-d4225439-Reviews-Painel_Grill-Lisbon_Lisbon_District_Central_Portugal.html,d4225439
+id_9466,Paris,Vietnamese,9468,4.5,$,10.0,/Restaurant_Review-g187147-d7933036-Reviews-Steam_and_Soup-Paris_Ile_de_France.html,d7933036
+id_1615,Barcelona,"Mediterranean,  Vegetarian Friendly,  Vegan Options",1616,4.0,$$ - $$$,83.0,/Restaurant_Review-g187497-d10339269-Reviews-El_Porro_de_l_Avi_Tapas_and_Wines-Barcelona_Catalonia.html,d10339269
+id_2089,Milan,"Italian,  Seafood,  Mediterranean",2091,4.5,$$ - $$$,103.0,/Restaurant_Review-g187849-d2701946-Reviews-Lo_Scarabeo-Milan_Lombardy.html,d2701946
+id_48,Rome,"Italian,  Street Food,  Fast Food,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",49,4.5,$$ - $$$,1724.0,/Restaurant_Review-g187791-d8511258-Reviews-Pasta_Chef_Monti_Street_Food_Gourmet-Rome_Lazio.html,d8511258
+id_815,Budapest,Other,816,5.0,,7.0,/Restaurant_Review-g274887-d12598682-Reviews-Picnic-Budapest_Central_Hungary.html,d12598682
+id_2936,Lisbon,Other,2939,4.0,,,/Restaurant_Review-g189158-d8571233-Reviews-Avo_Vina-Lisbon_Lisbon_District_Central_Portugal.html,d8571233
+id_12307,London,"Asian,  Thai,  Malaysian,  Chinese,  Vegetarian Friendly",12317,3.5,$$ - $$$,63.0,/Restaurant_Review-g186338-d1018974-Reviews-Dim_T-London_England.html,d1018974
+id_266,Oporto,"Mediterranean,  European,  Portuguese,  Vegetarian Friendly",267,4.0,$$$$,129.0,/Restaurant_Review-g189180-d10878563-Reviews-Oficina-Porto_Porto_District_Northern_Portugal.html,d10878563
+id_1811,Hamburg,"Chinese,  German,  Delicatessen,  Minority Chinese",1814,4.0,$$ - $$$,2.0,/Restaurant_Review-g187331-d10250368-Reviews-Kaffeeroster_Timm_GmbH-Hamburg.html,d10250368
+id_977,Munich,Vietnamese,986,4.0,$$ - $$$,16.0,/Restaurant_Review-g187309-d11631425-Reviews-Com_Viet-Munich_Upper_Bavaria_Bavaria.html,d11631425
+id_14,Helsinki,"Cafe,  European,  Soups,  Scandinavian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",15,4.0,$$ - $$$,1488.0,/Restaurant_Review-g189934-d850178-Reviews-Kappeli-Helsinki_Uusimaa.html,d850178
+id_2016,Munich,Other,2032,4.0,,5.0,/Restaurant_Review-g187309-d5818174-Reviews-Konditorei_Cafe_Mische-Munich_Upper_Bavaria_Bavaria.html,d5818174
+id_5131,Madrid,Spanish,5134,3.5,$,35.0,/Restaurant_Review-g187514-d3780762-Reviews-TAPAS_MARKET-Madrid.html,d3780762
+id_526,Copenhagen,Vietnamese,527,4.5,$$ - $$$,13.0,/Restaurant_Review-g189541-d12936186-Reviews-The_Vietnamese-Copenhagen_Zealand.html,d12936186
+id_1877,Budapest,Other,1878,4.0,,,/Restaurant_Review-g274887-d9752550-Reviews-Oxygen_Pizza-Budapest_Central_Hungary.html,d9752550
+id_111,Edinburgh,"Bar,  European,  British,  Pub,  Scottish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",112,4.5,$$ - $$$,1951.0,/Restaurant_Review-g186525-d1186842-Reviews-The_World_s_End-Edinburgh_Scotland.html,d1186842
+id_4288,Milan,"Italian,  Cafe,  Pub,  Gastropub",4291,3.5,,13.0,/Restaurant_Review-g187849-d4875639-Reviews-Il_Bacaro_Milano-Milan_Lombardy.html,d4875639
+id_12901,London,"International,  British",12911,3.5,$$ - $$$,4.0,/Restaurant_Review-g186338-d12996130-Reviews-The_Running_Horse-London_England.html,d12996130
+id_4526,Paris,"French,  Bar,  European",4527,3.5,$$ - $$$,154.0,/Restaurant_Review-g187147-d952068-Reviews-Le_Cafe_De_Pauline-Paris_Ile_de_France.html,d952068
+id_1556,Rome,"Seafood,  Mediterranean,  Italian,  European,  Wine Bar,  Vegetarian Friendly,  Gluten Free Options",1557,4.5,$$ - $$$,287.0,/Restaurant_Review-g187791-d1095455-Reviews-Il_Bacocco-Rome_Lazio.html,d1095455
+id_1182,Copenhagen,"Japanese,  Sushi",1176,5.0,,3.0,/Restaurant_Review-g189541-d6813236-Reviews-Koi_Sushi-Copenhagen_Zealand.html,d6813236
+id_305,Dublin,Other,306,4.5,,175.0,/Restaurant_Review-g186605-d4418101-Reviews-Camden_Rotisserie-Dublin_County_Dublin.html,d4418101
+id_2024,Paris,"Bar,  French,  European",2025,4.5,$$ - $$$,93.0,/Restaurant_Review-g187147-d780204-Reviews-Charonne_Cafe-Paris_Ile_de_France.html,d780204
+id_863,Edinburgh,"Mediterranean,  Turkish,  Middle Eastern,  Vegetarian Friendly,  Vegan Options",864,3.5,$$ - $$$,165.0,/Restaurant_Review-g186525-d1136782-Reviews-Empires-Edinburgh_Scotland.html,d1136782
+id_3360,Rome,"Chinese,  Japanese,  Asian",3361,4.0,$,61.0,/Restaurant_Review-g187791-d7274833-Reviews-Pizza_Pazza_per_i_Pazzi_della_Pizza-Rome_Lazio.html,d7274833
+id_903,Madrid,"Spanish,  Argentinean,  South American,  Italian,  Vegetarian Friendly",904,4.5,$,28.0,/Restaurant_Review-g187514-d12500357-Reviews-Tinto_y_Tapas_San_Pedro-Madrid.html,d12500357
+id_537,Madrid,"Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",538,4.0,$$ - $$$,515.0,/Restaurant_Review-g187514-d991104-Reviews-La_Plateria-Madrid.html,d991104
+id_945,Berlin,"Italian,  Pizza,  Mediterranean,  European,  Vegetarian Friendly",946,4.0,$,164.0,/Restaurant_Review-g187323-d4823847-Reviews-La_Vespa_Bar_and_Trattoria-Berlin.html,d4823847
+id_7453,Barcelona,Spanish,7454,3.5,,3.0,/Restaurant_Review-g187497-d5077935-Reviews-Bar_Kopes-Barcelona_Catalonia.html,d5077935
+id_2882,Brussels,"French,  Belgian,  European",2883,2.5,$$ - $$$,393.0,/Restaurant_Review-g188644-d802232-Reviews-Le_Falstaff-Brussels.html,d802232
+id_3054,Lisbon,Portuguese,3057,4.0,$$ - $$$,13.0,/Restaurant_Review-g189158-d8362416-Reviews-Aromas_Sabores-Lisbon_Lisbon_District_Central_Portugal.html,d8362416
+id_4368,Madrid,"Argentinean,  South American",4370,4.0,$,24.0,/Restaurant_Review-g187514-d2712118-Reviews-El_Andariego-Madrid.html,d2712118
+id_3150,Vienna,Other,3152,3.0,,,/Restaurant_Review-g190454-d10818786-Reviews-Gasthaus_Zum_Mile-Vienna.html,d10818786
+id_2802,Prague,"European,  Czech",2808,3.5,$$ - $$$,19.0,/Restaurant_Review-g274707-d4769349-Reviews-Restaurace_U_Pramene-Prague_Bohemia.html,d4769349
+id_5169,Madrid,Other,5172,4.0,,8.0,/Restaurant_Review-g187514-d8657804-Reviews-La_Escrita-Madrid.html,d8657804
+id_2074,Prague,Vietnamese,2077,5.0,,,/Restaurant_Review-g274707-d7124393-Reviews-Sen-Prague_Bohemia.html,d7124393
+id_10381,Paris,"Bar,  Pub",10383,4.0,$$ - $$$,3.0,/Restaurant_Review-g187147-d12571297-Reviews-Combat-Paris_Ile_de_France.html,d12571297
+id_12906,London,Other,12916,3.0,,8.0,/Restaurant_Review-g186338-d5080700-Reviews-Kebabish-London_England.html,d5080700
+id_1907,Munich,Other,1923,3.5,,46.0,/Restaurant_Review-g187309-d1356624-Reviews-Die_Schuetzenlust-Munich_Upper_Bavaria_Bavaria.html,d1356624
+id_254,Lyon,"French,  European,  Vegetarian Friendly",255,4.0,$,233.0,/Restaurant_Review-g187265-d7596737-Reviews-La_Cabane-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d7596737
+id_1993,Amsterdam,Other,1998,4.5,,12.0,/Restaurant_Review-g188590-d9832010-Reviews-YAY_Health_Store_More-Amsterdam_North_Holland_Province.html,d9832010
+id_2256,London,"Italian,  Pizza,  Vegetarian Friendly,  Gluten Free Options,  Vegan Options",2261,4.5,$$ - $$$,273.0,/Restaurant_Review-g186338-d3253550-Reviews-That_s_Amore-London_England.html,d3253550
+id_686,Brussels,Other,687,4.5,,26.0,/Restaurant_Review-g950786-d11029213-Reviews-Le_Faubourg_Saint_antoine-Schaerbeek_Brussels.html,d11029213
+id_1328,Milan,Other,1330,4.0,,237.0,/Restaurant_Review-g187849-d1226617-Reviews-De_Pasajo_Dal_Marchigiano-Milan_Lombardy.html,d1226617
+id_685,Warsaw,"Mediterranean,  Gastropub,  Arabic",686,4.0,$$ - $$$,78.0,/Restaurant_Review-g274856-d6453074-Reviews-Sheesha_Lounge-Warsaw_Mazovia_Province_Central_Poland.html,d6453074
+id_373,Ljubljana,Other,374,4.0,,,/Restaurant_Review-g274873-d8602510-Reviews-Tombstone_Saloon-Ljubljana_Upper_Carniola_Region.html,d8602510
+id_994,Warsaw,"Polish,  European,  Russian,  Eastern European,  Ukrainian,  Vegetarian Friendly",995,4.5,$,12.0,/Restaurant_Review-g274856-d11947459-Reviews-Soup_Culture-Warsaw_Mazovia_Province_Central_Poland.html,d11947459
+id_1968,Vienna,"Cafe,  Central European,  Austrian,  European",1970,4.0,$$ - $$$,39.0,/Restaurant_Review-g190454-d7920021-Reviews-Operncafe-Vienna.html,d7920021
+id_2468,Madrid,Other,2470,4.0,,20.0,/Restaurant_Review-g187514-d10398981-Reviews-Mamavaca-Madrid.html,d10398981
+id_1004,Budapest,"European,  Central European",1005,5.0,,17.0,/Restaurant_Review-g274887-d3685490-Reviews-Felix_Helix-Budapest_Central_Hungary.html,d3685490
+id_7153,Barcelona,"Russian,  Mediterranean",7154,3.5,$$ - $$$,5.0,/Restaurant_Review-g187497-d8804386-Reviews-Bar_Inter_Barcelona-Barcelona_Catalonia.html,d8804386
+id_605,Helsinki,"Cafe,  Delicatessen",606,4.0,$$ - $$$,8.0,/Restaurant_Review-g189934-d6663062-Reviews-Cafe_Veranda-Helsinki_Uusimaa.html,d6663062
+id_963,Milan,"Italian,  Vegetarian Friendly",965,4.0,$$ - $$$,306.0,/Restaurant_Review-g187849-d3181841-Reviews-Ristorante_e_Pizzeria_Da_Mimmo-Milan_Lombardy.html,d3181841
+id_4501,Barcelona,Spanish,4502,4.0,$,9.0,/Restaurant_Review-g187497-d3538769-Reviews-Bar_restaurante_Can_Jordi-Barcelona_Catalonia.html,d3538769
+id_2443,Amsterdam,International,2449,4.0,$$ - $$$,12.0,/Restaurant_Review-g188590-d7283420-Reviews-Cafe_Leuten-Amsterdam_North_Holland_Province.html,d7283420
+id_1665,Athens,Other,1667,3.5,,8.0,/Restaurant_Review-g189400-d8627732-Reviews-Burger_chef-Athens_Attica.html,d8627732
+id_323,Lisbon,"European,  Portuguese,  Wine Bar,  Bar,  Mediterranean,  Vegetarian Friendly",324,5.0,$$ - $$$,41.0,/Restaurant_Review-g189158-d12900896-Reviews-The_Little_Wine_Bar-Lisbon_Lisbon_District_Central_Portugal.html,d12900896
+id_869,Oporto,"European,  Portuguese",870,4.0,$$$$,8.0,/Restaurant_Review-g189180-d13087285-Reviews-O_Muro_by_Joachim_Koerper-Porto_Porto_District_Northern_Portugal.html,d13087285
+id_6936,London,"Bar,  Cafe,  Australian,  Vegetarian Friendly",6945,3.5,$$ - $$$,28.0,/Restaurant_Review-g186338-d12536774-Reviews-Exmouth_Market_Grind-London_England.html,d12536774
+id_1579,Rome,"Italian,  International,  Vegetarian Friendly,  Vegan Options",1580,4.5,$$ - $$$,64.0,/Restaurant_Review-g187791-d10744198-Reviews-Matilde_Bistrot-Rome_Lazio.html,d10744198
+id_1149,Madrid,"Steakhouse,  Gluten Free Options",1150,4.5,$$ - $$$,53.0,/Restaurant_Review-g187514-d12099376-Reviews-Los_Espetinhos-Madrid.html,d12099376
+id_12495,Paris,Other,12497,3.0,,8.0,/Restaurant_Review-g187147-d10478105-Reviews-Pacha_Kebab-Paris_Ile_de_France.html,d10478105
+id_871,Milan,"Chinese,  Seafood,  Vegetarian Friendly",873,4.5,$$ - $$$,69.0,/Restaurant_Review-g187849-d8277124-Reviews-Ristorante_Cinese_Di_Jin_Yun_Fang-Milan_Lombardy.html,d8277124
+id_1498,Zurich,Other,1503,3.0,,5.0,/Restaurant_Review-g227102-d9729580-Reviews-Restaurant_Cameleon-Opfikon_Zurich.html,d9729580
+id_199,Luxembourg,"European,  Seafood,  Gluten Free Options",200,4.0,$$ - $$$,145.0,/Restaurant_Review-g190356-d3675106-Reviews-AQUA_Restaurant-Luxembourg_City.html,d3675106
+id_1468,Zurich,"Bar,  Indian,  Irish,  Fast Food,  British,  Pub",1473,3.5,$$ - $$$,24.0,/Restaurant_Review-g188113-d1887046-Reviews-McGees_Irish_Pub_Restaurant-Zurich.html,d1887046
+id_1856,Munich,Other,1871,4.0,,23.0,/Restaurant_Review-g187309-d7211474-Reviews-Horst_Esskultur_Bar-Munich_Upper_Bavaria_Bavaria.html,d7211474
+id_1041,Stockholm,"Cafe,  Swedish,  Delicatessen",1042,4.0,,37.0,/Restaurant_Review-g189852-d3529487-Reviews-Albert_Jack_s-Stockholm.html,d3529487
+id_1394,Dublin,Chinese,1398,4.5,,2.0,/Restaurant_Review-g186605-d5812483-Reviews-Excellent_Chinese_Take_Away-Dublin_County_Dublin.html,d5812483
+id_3303,Barcelona,"Mediterranean,  European,  Spanish,  Vegetarian Friendly",3304,4.0,$$ - $$$,61.0,/Restaurant_Review-g187497-d997616-Reviews-Restaurante_El_Pati-Barcelona_Catalonia.html,d997616
+id_522,Budapest,"International,  European,  Hungarian,  Cafe,  Bar,  Pub,  Central European,  Vegetarian Friendly",523,4.5,$$ - $$$,40.0,/Restaurant_Review-g274887-d9710368-Reviews-Kamara_Cafe_Bistro-Budapest_Central_Hungary.html,d9710368
+id_1672,Athens,Other,1674,3.0,,,/Restaurant_Review-g189400-d11951673-Reviews-Melitis-Athens_Attica.html,d11951673
+id_30,Geneva,"French,  European",31,4.5,$$$$,142.0,/Restaurant_Review-g1096098-d2618233-Reviews-Cafe_de_la_Place-Plan_Les_Ouates_Geneva.html,d2618233
+id_1144,Warsaw,Other,1146,5.0,,,/Restaurant_Review-g274856-d12404527-Reviews-Sajgon_Smaki_Azji-Warsaw_Mazovia_Province_Central_Poland.html,d12404527
+id_1789,Madrid,"Thai,  Vegetarian Friendly",1791,4.0,$$ - $$$,35.0,/Restaurant_Review-g187514-d11978912-Reviews-Som_Thai_Restaurant-Madrid.html,d11978912
+id_7470,Madrid,"Chinese,  Fast Food,  Vegetarian Friendly",7476,4.0,$,5.0,/Restaurant_Review-g187514-d11931682-Reviews-TSC-Madrid.html,d11931682
+id_1349,Athens,Other,1351,4.5,,3.0,/Restaurant_Review-g189400-d8810157-Reviews-Athens_Attica.html,d8810157
+id_6319,Barcelona,Other,6320,3.5,,43.0,/Restaurant_Review-g187497-d1153049-Reviews-Anfiteatro-Barcelona_Catalonia.html,d1153049
+id_268,Dublin,"Irish,  European,  Vegetarian Friendly,  Gluten Free Options",269,4.0,$$ - $$$,637.0,/Restaurant_Review-g186605-d4580777-Reviews-Cleaver_East-Dublin_County_Dublin.html,d4580777
+id_357,Milan,"Italian,  Contemporary,  Mediterranean,  Vegetarian Friendly,  Vegan Options",358,4.0,$$ - $$$,472.0,/Restaurant_Review-g187849-d8076891-Reviews-Trulli_Love-Milan_Lombardy.html,d8076891
+id_5066,Paris,"Indian,  Vegetarian Friendly,  Vegan Options",5067,4.0,$$ - $$$,288.0,/Restaurant_Review-g187147-d1025147-Reviews-Le_Palais_de_Raja_Maharaja-Paris_Ile_de_France.html,d1025147
+id_3260,Prague,"European,  Czech",3267,4.0,,4.0,/Restaurant_Review-g274707-d5308351-Reviews-Bowling_u_Pekare-Prague_Bohemia.html,d5308351
+id_911,Stockholm,Other,912,4.0,,24.0,/Restaurant_Review-g189852-d1099621-Reviews-Nyfiken_Gul-Stockholm.html,d1099621
+id_1753,Stockholm,Italian,1756,4.0,,,/Restaurant_Review-g189852-d7160467-Reviews-Due_Piani-Stockholm.html,d7160467
+id_241,Munich,"German,  European,  Central European,  Vegetarian Friendly",243,4.5,$$ - $$$,152.0,/Restaurant_Review-g187309-d1178760-Reviews-Wirtshaus_Kurgarten-Munich_Upper_Bavaria_Bavaria.html,d1178760
+id_4049,Rome,"Indian,  Asian,  Vegetarian Friendly,  Vegan Options",4050,3.5,$$ - $$$,181.0,/Restaurant_Review-g187791-d795687-Reviews-Ristorante_Indiano_Bombay-Rome_Lazio.html,d795687
+id_9027,Paris,Other,9029,4.5,,2.0,/Restaurant_Review-g187147-d13139047-Reviews-Welcome_India-Paris_Ile_de_France.html,d13139047
+id_7359,London,"Seafood,  Fast Food",7368,4.5,$,17.0,/Restaurant_Review-g186338-d8017581-Reviews-Lee_Fish_Bar-London_England.html,d8017581
+id_1716,Dublin,"Fast Food,  Diner",1720,3.5,$,20.0,/Restaurant_Review-g186605-d3544710-Reviews-Eddie_Rockets-Dublin_County_Dublin.html,d3544710
+id_159,Oporto,"Indian,  Asian,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",160,4.5,$$ - $$$,264.0,/Restaurant_Review-g189180-d1027670-Reviews-Mendi-Porto_Porto_District_Northern_Portugal.html,d1027670
+id_675,Bratislava,"Italian,  Pizza",676,3.5,$$ - $$$,13.0,/Restaurant_Review-g274924-d4769810-Reviews-Pizzeria_Maestro_Aupark-Bratislava_Bratislava_Region.html,d4769810
+id_7011,Barcelona,"Mediterranean,  Spanish,  Bar,  European,  Pub",7012,3.0,$$ - $$$,83.0,/Restaurant_Review-g187497-d3692741-Reviews-Tapas_Beer-Barcelona_Catalonia.html,d3692741
+id_4062,Madrid,Other,4064,5.0,,,/Restaurant_Review-g187514-d11812785-Reviews-Restaurante_La_Brasa-Madrid.html,d11812785
+id_10157,London,"Lebanese,  Mediterranean",10166,5.0,$$ - $$$,4.0,/Restaurant_Review-g186338-d9602787-Reviews-Ugarit_Restaurant-London_England.html,d9602787
+id_403,Dublin,"Indian,  Asian,  Vegetarian Friendly",404,4.5,$$ - $$$,275.0,/Restaurant_Review-g186605-d5533891-Reviews-Ravi_s_Kitchen-Dublin_County_Dublin.html,d5533891
+id_8307,London,Other,8316,4.5,,10.0,/Restaurant_Review-g186338-d7850012-Reviews-Temptations_Cafe-London_England.html,d7850012
+id_8166,London,Other,8175,5.0,,3.0,/Restaurant_Review-g186338-d12709936-Reviews-Milletti_s_Cafe-London_England.html,d12709936
+id_514,Madrid,"Mediterranean,  European,  Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",515,4.0,$$ - $$$,231.0,/Restaurant_Review-g187514-d4473807-Reviews-Desengano13-Madrid.html,d4473807
+id_1684,Dublin,Other,1688,3.0,,8.0,/Restaurant_Review-g186605-d11958324-Reviews-Milano-Dublin_County_Dublin.html,d11958324
+id_592,Copenhagen,"Asian,  Thai,  Vegetarian Friendly",593,4.0,$$ - $$$,106.0,/Restaurant_Review-g189541-d1526719-Reviews-Wokbaren-Copenhagen_Zealand.html,d1526719
+id_5137,Paris,Other,5138,4.0,,16.0,/Restaurant_Review-g187147-d12571607-Reviews-John_Weng-Paris_Ile_de_France.html,d12571607
+id_7284,London,Other,7293,5.0,,5.0,/Restaurant_Review-g186338-d10076062-Reviews-Michael_Van_Clarke-London_England.html,d10076062
+id_9772,London,Pakistani,9781,4.5,,7.0,/Restaurant_Review-g186338-d7599401-Reviews-Al_Kareem-London_England.html,d7599401
+id_322,Dublin,"Greek,  Vegetarian Friendly,  Vegan Options",323,4.5,$$ - $$$,55.0,/Restaurant_Review-g186605-d12564018-Reviews-Kostas_Greek_Restaurant-Dublin_County_Dublin.html,d12564018
+id_427,Luxembourg,Other,428,3.5,,19.0,/Restaurant_Review-g190356-d12407347-Reviews-Supperclub_restaurant_bar-Luxembourg_City.html,d12407347
+id_40,Edinburgh,"African,  Mediterranean,  Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",41,4.5,$$ - $$$,834.0,/Restaurant_Review-g186525-d1871954-Reviews-Indaba-Edinburgh_Scotland.html,d1871954
+id_5611,London,"Mediterranean,  Turkish,  Cafe,  European,  Greek",5620,5.0,$$ - $$$,8.0,/Restaurant_Review-g186338-d12971996-Reviews-Maydanoz-London_England.html,d12971996
+id_14351,London,Other,14362,3.0,,3.0,/Restaurant_Review-g186338-d5081396-Reviews-Gourmet_Creations-London_England.html,d5081396
+id_557,Hamburg,"Mediterranean,  European",558,4.0,$$ - $$$,46.0,/Restaurant_Review-g187331-d2489872-Reviews-Central_Restaurant-Hamburg.html,d2489872
+id_758,Berlin,"Asian,  Vietnamese,  Sushi,  Vegetarian Friendly,  Vegan Options",759,4.5,$,44.0,/Restaurant_Review-g187323-d10698854-Reviews-Dong_Do_Restaurant-Berlin.html,d10698854
+id_771,Paris,"French,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",772,4.0,$$$$,926.0,/Restaurant_Review-g187147-d695264-Reviews-L_Alcazar-Paris_Ile_de_France.html,d695264
+id_1576,Budapest,Vietnamese,1577,4.0,$,24.0,/Restaurant_Review-g274887-d7651862-Reviews-Saigon_Bisztro-Budapest_Central_Hungary.html,d7651862
+id_1903,Lyon,Italian,1904,4.0,,5.0,/Restaurant_Review-g1080938-d4191913-Reviews-Le_Venezia-Decines_Charpieu_Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4191913
+id_1705,Budapest,Other,1706,4.0,,6.0,/Restaurant_Review-g274887-d9747453-Reviews-Butifarring_Budapest-Budapest_Central_Hungary.html,d9747453
+id_7608,Madrid,"International,  Spanish",7615,3.0,$$ - $$$,27.0,/Restaurant_Review-g187514-d3853544-Reviews-Embassy-Madrid.html,d3853544
+id_1827,Rome,"Bar,  Pub",1828,4.0,$$ - $$$,274.0,/Restaurant_Review-g187791-d2374918-Reviews-Morrison_s-Rome_Lazio.html,d2374918
+id_5889,London,"Cafe,  British,  Vegetarian Friendly,  Vegan Options",5898,4.0,$$ - $$$,41.0,/Restaurant_Review-g186338-d6826426-Reviews-Piccalilli_Caff-London_England.html,d6826426
+id_997,Rome,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Gluten Free Options,  Vegan Options",998,4.0,$$ - $$$,367.0,/Restaurant_Review-g187791-d2042134-Reviews-Arancio_d_Oro-Rome_Lazio.html,d2042134
+id_926,Barcelona,"Italian,  Mediterranean,  Vegetarian Friendly,  Gluten Free Options",927,4.5,$$ - $$$,133.0,/Restaurant_Review-g187497-d8264568-Reviews-Raffaelli_Italian_Restaurant-Barcelona_Catalonia.html,d8264568
+id_1084,Lyon,Contemporary,1085,4.5,,15.0,/Restaurant_Review-g187265-d4492506-Reviews-Les_petites_serviettes-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d4492506
+id_8593,London,"Italian,  Pizza,  Vegetarian Friendly",8602,3.5,$$ - $$$,110.0,/Restaurant_Review-g186338-d1019955-Reviews-Strada_Wimbledon-London_England.html,d1019955
+id_10356,London,"Fast Food,  Portuguese",10365,3.5,$$ - $$$,65.0,/Restaurant_Review-g186338-d2001507-Reviews-Nando_s_Chiswick-London_England.html,d2001507
+id_2228,Prague,Cafe,2233,4.0,$$ - $$$,11.0,/Restaurant_Review-g274707-d10412920-Reviews-Caffe_Mio-Prague_Bohemia.html,d10412920
+id_6135,Berlin,Indian,6137,3.0,$,11.0,/Restaurant_Review-g187323-d8673833-Reviews-Aastha-Berlin.html,d8673833
+id_7183,Paris,"Moroccan,  Bar,  Mediterranean,  European,  Pub",7184,3.5,$,115.0,/Restaurant_Review-g187147-d1013511-Reviews-L_abribus-Paris_Ile_de_France.html,d1013511
+id_214,Dublin,"Irish,  Bar,  European,  British,  Pub,  Soups,  Vegetarian Friendly",215,4.0,$$ - $$$,1774.0,/Restaurant_Review-g186605-d4236147-Reviews-Oliver_Saint_John_Gogarty-Dublin_County_Dublin.html,d4236147
+id_934,Athens,"Mediterranean,  Greek,  Vegetarian Friendly",936,4.5,$$ - $$$,28.0,/Restaurant_Review-g189400-d3654659-Reviews-Asty_68-Athens_Attica.html,d3654659
+id_15679,London,Fast Food,15691,2.5,$,25.0,/Restaurant_Review-g186338-d8505654-Reviews-McDonald_s-London_England.html,d8505654
+id_3069,Prague,Vietnamese,3076,4.0,,2.0,/Restaurant_Review-g274707-d11799782-Reviews-Vistar_fast_food-Prague_Bohemia.html,d11799782
+id_2561,Prague,"Bar,  Czech,  Central European,  European,  Pub",2567,3.5,$$ - $$$,89.0,/Restaurant_Review-g274707-d2175380-Reviews-Prvni_Novomestsky_Restauracni-Prague_Bohemia.html,d2175380
+id_158,Warsaw,"French,  Cafe,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",159,4.0,$$ - $$$,187.0,/Restaurant_Review-g274856-d6369030-Reviews-Petit_Appetit-Warsaw_Mazovia_Province_Central_Poland.html,d6369030
+id_2512,Vienna,"Japanese,  Sushi,  Asian",2514,3.5,$$ - $$$,65.0,/Restaurant_Review-g190454-d947018-Reviews-En-Vienna.html,d947018
+id_1675,Lisbon,"Mediterranean,  Greek,  Delicatessen,  Healthy,  Mexican,  Vegetarian Friendly,  Vegan Options",1676,4.0,$$ - $$$,41.0,/Restaurant_Review-g189158-d10170180-Reviews-EGGS_MORE_by_MEZ_CAIS-Lisbon_Lisbon_District_Central_Portugal.html,d10170180
+id_2055,Amsterdam,Other,2060,4.5,,8.0,/Restaurant_Review-g188590-d10488130-Reviews-Viet_View-Amsterdam_North_Holland_Province.html,d10488130
+id_1760,Paris,"Cafe,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",1761,4.5,$,86.0,/Restaurant_Review-g187147-d8384800-Reviews-Ob_La_Di-Paris_Ile_de_France.html,d8384800
+id_2601,Paris,"Italian,  Pizza,  Vegetarian Friendly",2602,4.5,$$ - $$$,76.0,/Restaurant_Review-g187147-d1503730-Reviews-Drogheria-Paris_Ile_de_France.html,d1503730
+id_6852,Madrid,Other,6855,3.5,,12.0,/Restaurant_Review-g187514-d5971427-Reviews-Yate_de_Vigo-Madrid.html,d5971427
+id_580,Copenhagen,Other,581,4.5,,14.0,/Restaurant_Review-g189541-d10811036-Reviews-Honen_Aegget-Copenhagen_Zealand.html,d10811036
+id_1808,Hamburg,Other,1811,3.5,,16.0,/Restaurant_Review-g187331-d5506292-Reviews-Balducci_Gastronomiegesellschaft-Hamburg.html,d5506292
+id_14386,London,"Indian,  Asian",14397,3.5,$$ - $$$,53.0,/Restaurant_Review-g186338-d731210-Reviews-Shampan-London_England.html,d731210
+id_441,Geneva,Other,444,4.5,,9.0,/Restaurant_Review-g1974645-d12164454-Reviews-Restaurant_Don_Pedro_1951-Meyrin_Geneva.html,d12164454
+id_3753,Berlin,Middle Eastern,3755,4.5,,7.0,/Restaurant_Review-g187323-d7772581-Reviews-Falafel_Aladdin-Berlin.html,d7772581
+id_633,Milan,"Italian,  Pizza,  Mediterranean,  Vegetarian Friendly,  Vegan Options",635,3.5,$$ - $$$,743.0,/Restaurant_Review-g187849-d7660183-Reviews-Briscola_Pizza_Society-Milan_Lombardy.html,d7660183
+id_16199,London,Other,16211,2.0,,2.0,/Restaurant_Review-g186338-d5122657-Reviews-Diamond_Chicken_Pizza-London_England.html,d5122657
+id_2620,London,"European,  International,  Vegetarian Friendly,  Gluten Free Options",2625,4.0,$$ - $$$,372.0,/Restaurant_Review-g186338-d3192453-Reviews-Vinoteca-London_England.html,d3192453
+id_2792,Prague,"European,  Czech",2798,4.5,,3.0,/Restaurant_Review-g274707-d4768668-Reviews-Na_Louzi-Prague_Bohemia.html,d4768668
+id_101,Helsinki,"Italian,  Pizza,  European,  Vegetarian Friendly,  Vegan Options",102,4.0,$$ - $$$,231.0,/Restaurant_Review-g189934-d3456729-Reviews-Putte_s_Bar_Pizza-Helsinki_Uusimaa.html,d3456729
+id_1547,Amsterdam,"Chinese,  Japanese,  Asian,  Korean,  Street Food,  Seafood,  Vegetarian Friendly",1550,3.5,$$ - $$$,91.0,/Restaurant_Review-g188590-d10488468-Reviews-Happyhappyjoyjoy_East-Amsterdam_North_Holland_Province.html,d10488468
+id_18,Dublin,"Gastropub,  Irish,  European,  Pub,  Vegetarian Friendly,  Gluten Free Options",19,4.5,$$ - $$$,670.0,/Restaurant_Review-g186605-d6482548-Reviews-Brookwood-Dublin_County_Dublin.html,d6482548
+id_14346,London,Fast Food,14357,3.5,$,14.0,/Restaurant_Review-g186338-d5081096-Reviews-Chicken_Cottage-London_England.html,d5081096
+id_2393,Paris,"French,  European",2394,4.0,$$ - $$$,142.0,/Restaurant_Review-g187147-d1071288-Reviews-Quedubon-Paris_Ile_de_France.html,d1071288
+id_15402,London,Cafe,15414,2.5,$,35.0,/Restaurant_Review-g186338-d5616257-Reviews-Chelsea_Deli-London_England.html,d5616257
+id_1767,Milan,"Japanese,  Brazilian,  Vegetarian Friendly",1769,4.0,$$ - $$$,25.0,/Restaurant_Review-g187849-d12927216-Reviews-Cacau_Temakeria-Milan_Lombardy.html,d12927216
+id_14512,London,Sushi,14523,3.0,,8.0,/Restaurant_Review-g186338-d10686851-Reviews-Umi_Sushi_Bar-London_England.html,d10686851
+id_430,Krakow,"Bar,  Pub,  European,  Czech,  Central European",431,4.5,$,38.0,/Restaurant_Review-g274772-d8425435-Reviews-U_Jozina-Krakow_Lesser_Poland_Province_Southern_Poland.html,d8425435
+id_1228,Barcelona,"Mediterranean,  Spanish,  International,  Vegetarian Friendly,  Vegan Options",1229,4.0,$$ - $$$,277.0,/Restaurant_Review-g187497-d790369-Reviews-La_Fianna-Barcelona_Catalonia.html,d790369
+id_1473,Stockholm,Thai,1474,4.0,$,15.0,/Restaurant_Review-g189852-d1079439-Reviews-Bees_thaifood-Stockholm.html,d1079439
+id_4455,Berlin,"Italian,  Pizza",4457,4.5,,5.0,/Restaurant_Review-g187323-d7189024-Reviews-Ristorante_Rosario-Berlin.html,d7189024
+id_2727,Hamburg,Other,2736,1.0,,,/Restaurant_Review-g187331-d11871901-Reviews-Mai_Mai-Hamburg.html,d11871901
+id_8562,Paris,Other,8564,4.0,,20.0,/Restaurant_Review-g187147-d1327141-Reviews-Amareto-Paris_Ile_de_France.html,d1327141
+id_2484,Madrid,"Mediterranean,  Spanish,  European",2486,4.0,$$ - $$$,55.0,/Restaurant_Review-g187514-d6701548-Reviews-Taberna_de_Paula-Madrid.html,d6701548
+id_319,Warsaw,"Asian,  Vietnamese",320,4.0,$,37.0,/Restaurant_Review-g274856-d10474731-Reviews-To_To_Pho-Warsaw_Mazovia_Province_Central_Poland.html,d10474731
+id_1746,Munich,"Diner,  International,  European,  Contemporary,  Mediterranean,  Vegetarian Friendly",1760,4.0,$$ - $$$,55.0,/Restaurant_Review-g187309-d1912599-Reviews-Das_Restaurant_am_Stemmerhof-Munich_Upper_Bavaria_Bavaria.html,d1912599
+id_1974,Paris,"European,  Vegetarian Friendly",1975,4.0,$$ - $$$,152.0,/Restaurant_Review-g187147-d6385547-Reviews-BALLS-Paris_Ile_de_France.html,d6385547
+id_374,Lisbon,"Mediterranean,  European,  Portuguese,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",375,4.0,$$ - $$$,497.0,/Restaurant_Review-g189158-d697259-Reviews-Restaurante_Natural_Terra-Lisbon_Lisbon_District_Central_Portugal.html,d697259
+id_543,Krakow,"Polish,  Bar,  Pub,  European",544,4.5,$,20.0,/Restaurant_Review-g274772-d8049985-Reviews-Zakaski_I_Wodka-Krakow_Lesser_Poland_Province_Southern_Poland.html,d8049985
+id_17,Rome,"Italian,  Mediterranean,  Vegetarian Friendly,  Vegan Options",18,4.5,$,281.0,/Restaurant_Review-g187791-d8516817-Reviews-LABottega_Pastificio_con_Cucina-Rome_Lazio.html,d8516817
+id_7534,Madrid,"Bar,  Mediterranean,  European,  Spanish,  Pub",7541,3.0,$$ - $$$,174.0,/Restaurant_Review-g187514-d990664-Reviews-Valle_del_Tietar-Madrid.html,d990664
+id_1504,Rome,"Brew Pub,  Grill,  Pub,  Italian",1505,4.0,$,403.0,/Restaurant_Review-g187791-d7208833-Reviews-Gallo_Capitale_Pizza_Grill-Rome_Lazio.html,d7208833
+id_4974,Milan,"Italian,  American,  Nepali,  Tibetan,  Vegan Options",4977,3.5,$$ - $$$,11.0,/Restaurant_Review-g187849-d8339929-Reviews-Ciao_Duomo-Milan_Lombardy.html,d8339929
+id_4348,London,"International,  Mediterranean,  Spanish,  Bar,  Pub,  Vegetarian Friendly,  Gluten Free Options",4355,4.5,$$ - $$$,120.0,/Restaurant_Review-g186338-d4324139-Reviews-The_Tapestry_Tapas_Bar-London_England.html,d4324139
+id_4217,London,"Lebanese,  Mediterranean,  Middle Eastern,  Vegetarian Friendly,  Halal,  Gluten Free Options,  Vegan Options",4224,4.0,$$ - $$$,169.0,/Restaurant_Review-g186338-d1019284-Reviews-Noura_Mayfair-London_England.html,d1019284
+id_66,Ljubljana,"American,  Bar,  European,  Pub,  Slovenian",67,5.0,$$ - $$$,32.0,/Restaurant_Review-g274873-d12495979-Reviews-Kolibri_Cocktail_Bar-Ljubljana_Upper_Carniola_Region.html,d12495979
+id_12475,London,Indian,12485,4.0,,,/Restaurant_Review-g186338-d5583335-Reviews-The_India_Gate-London_England.html,d5583335
+id_933,Geneva,Other,938,4.0,,15.0,/Restaurant_Review-g188057-d8414125-Reviews-Platane_Bar_Restaurant-Geneva.html,d8414125
+id_1651,Lyon,Other,1652,4.5,,2.0,/Restaurant_Review-g187265-d13279636-Reviews-L_autre_monde-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d13279636
+id_7272,London,"Bar,  British,  Pub,  Gastropub,  Vegetarian Friendly",7281,4.0,$$ - $$$,72.0,/Restaurant_Review-g186338-d7002116-Reviews-Eltham_Gpo-London_England.html,d7002116
+id_130,Edinburgh,"American,  Bar,  British,  Pub,  Vegetarian Friendly,  Gluten Free Options",131,4.5,$$ - $$$,448.0,/Restaurant_Review-g186525-d752894-Reviews-The_Cambridge_Bar-Edinburgh_Scotland.html,d752894
+id_3998,Berlin,Other,4000,4.5,,3.0,/Restaurant_Review-g187323-d5522002-Reviews-Bistro_Fadi-Berlin.html,d5522002
+id_2265,Stockholm,Sushi,2269,3.5,,6.0,/Restaurant_Review-g189852-d5972350-Reviews-Sushi_by_Kyoto-Stockholm.html,d5972350
+id_2721,Amsterdam,Greek,2728,4.0,,,/Restaurant_Review-g188590-d7787852-Reviews-Gyroswagen-Amsterdam_North_Holland_Province.html,d7787852
+id_13830,Paris,French,13832,2.0,$$ - $$$,3.0,/Restaurant_Review-g187147-d10784629-Reviews-O_Tacos-Paris_Ile_de_France.html,d10784629
+id_7667,Paris,"Brazilian,  South American",7668,4.5,$$ - $$$,21.0,/Restaurant_Review-g187147-d8276525-Reviews-Do_Brasil-Paris_Ile_de_France.html,d8276525
+id_14995,London,Other,15006,3.0,,5.0,/Restaurant_Review-g186338-d10201077-Reviews-H2U-London_England.html,d10201077
+id_4463,Paris,"Italian,  Pizza,  European,  Vegetarian Friendly",4464,3.5,$$ - $$$,396.0,/Restaurant_Review-g187147-d742407-Reviews-Pizza_Vesuvio-Paris_Ile_de_France.html,d742407
+id_2711,Milan,"Italian,  Bar,  Pub",2713,5.0,$,6.0,/Restaurant_Review-g187849-d12078773-Reviews-Kronos_Caffe-Milan_Lombardy.html,d12078773
+id_6836,Madrid,Other,6839,3.0,,20.0,/Restaurant_Review-g187514-d5776307-Reviews-Tokio-Madrid.html,d5776307
+id_1478,Madrid,"Mediterranean,  European,  Spanish,  Grill,  Vegetarian Friendly",1480,4.0,$$ - $$$,215.0,/Restaurant_Review-g187514-d8123141-Reviews-La_Barra_de_Pelotari-Madrid.html,d8123141
+id_387,Ljubljana,"European,  Slovenian,  Central European",388,3.5,$,10.0,/Restaurant_Review-g274873-d806051-Reviews-Kurji_tat-Ljubljana_Upper_Carniola_Region.html,d806051
+id_230,Oporto,"Japanese,  Sushi,  Asian,  Gluten Free Options",231,4.0,$$ - $$$,352.0,/Restaurant_Review-g189180-d4007924-Reviews-KYOTO_na_Baixa-Porto_Porto_District_Northern_Portugal.html,d4007924
+id_5524,Madrid,Other,5527,3.5,,14.0,/Restaurant_Review-g187514-d9742180-Reviews-Restaurante_Y_Al_Vino_al_Vino-Madrid.html,d9742180
+id_714,Edinburgh,"Cafe,  European,  British,  Vegetarian Friendly,  Vegan Options",715,4.5,$,42.0,/Restaurant_Review-g186525-d8713635-Reviews-Cassia-Edinburgh_Scotland.html,d8713635
+id_70,Copenhagen,"American,  Bar,  Barbecue,  Pub",71,4.0,$$ - $$$,879.0,/Restaurant_Review-g189541-d7986173-Reviews-Warpigs-Copenhagen_Zealand.html,d7986173
+id_12304,Paris,French,12306,4.0,$$$$,7.0,/Restaurant_Review-g187147-d719518-Reviews-Les_Elysees-Paris_Ile_de_France.html,d719518
+id_13747,London,"Bar,  British,  Pub",13757,3.5,$$ - $$$,39.0,/Restaurant_Review-g186338-d4919283-Reviews-Jam_Circus-London_England.html,d4919283
+id_13403,London,Other,13413,3.5,,3.0,/Restaurant_Review-g186338-d12452377-Reviews-Bella_Italia-London_England.html,d12452377
+id_11158,London,Other,11168,4.0,,9.0,/Restaurant_Review-g186338-d12277704-Reviews-BBQ_Express-London_England.html,d12277704
+id_131,Dublin,"Irish,  Bar,  European,  International,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",132,4.5,$$ - $$$,404.0,/Restaurant_Review-g186605-d3859070-Reviews-McGettigans_Cookhouse_Bar-Dublin_County_Dublin.html,d3859070
+id_1501,Barcelona,"Bar,  Mediterranean,  European,  Spanish,  Vegetarian Friendly",1502,4.0,$$ - $$$,144.0,/Restaurant_Review-g187497-d8737446-Reviews-El_Petit_Firo-Barcelona_Catalonia.html,d8737446
+id_3196,Berlin,"Italian,  European,  Mediterranean",3198,4.0,$,30.0,/Restaurant_Review-g187323-d5519810-Reviews-Ristorante_Monte_Cristo-Berlin.html,d5519810
+id_2309,Madrid,"Mediterranean,  Spanish",2311,3.5,$$ - $$$,307.0,/Restaurant_Review-g187514-d1172837-Reviews-El_Madrono-Madrid.html,d1172837
+id_415,Milan,"Italian,  Steakhouse,  Pizza,  Mediterranean,  Barbecue",416,4.0,$$ - $$$,615.0,/Restaurant_Review-g187849-d2263352-Reviews-Al_Padellone-Milan_Lombardy.html,d2263352
+id_7542,Barcelona,"Seafood,  European,  Spanish,  Mediterranean",7543,2.5,$$ - $$$,129.0,/Restaurant_Review-g187497-d1929118-Reviews-Els_Maians-Barcelona_Catalonia.html,d1929118
+id_984,Berlin,"Italian,  Mediterranean",986,5.0,$$ - $$$,22.0,/Restaurant_Review-g187323-d10859217-Reviews-Pulcinella-Berlin.html,d10859217
+id_1516,Warsaw,Other,1518,4.0,,6.0,/Restaurant_Review-g274856-d11793939-Reviews-Kawiarnia_Amatorska-Warsaw_Mazovia_Province_Central_Poland.html,d11793939
+id_3786,Barcelona,Japanese,3787,4.0,,26.0,/Restaurant_Review-g187497-d8808859-Reviews-Mikawa_Restaurant_Japones-Barcelona_Catalonia.html,d8808859
+id_284,Paris,"Lebanese,  Mediterranean,  Middle Eastern,  Vegetarian Friendly,  Vegan Options",285,5.0,$,93.0,/Restaurant_Review-g187147-d11929974-Reviews-Cook_n_Saj-Paris_Ile_de_France.html,d11929974
+id_781,Barcelona,"Mediterranean,  European,  Healthy,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",782,4.5,$$ - $$$,88.0,/Restaurant_Review-g187497-d9769328-Reviews-Bendita_Helena-Barcelona_Catalonia.html,d9769328
+id_1897,Rome,"Italian,  Pizza,  Mediterranean",1898,4.0,$$ - $$$,181.0,/Restaurant_Review-g187791-d1674503-Reviews-La_Romanina-Rome_Lazio.html,d1674503
+id_3308,Milan,"Italian,  Mediterranean",3310,4.0,$$ - $$$,243.0,/Restaurant_Review-g187849-d1746716-Reviews-La_Tavernetta_da_Elio-Milan_Lombardy.html,d1746716
+id_2460,Milan,"Japanese,  Seafood,  Sushi",2462,3.5,$,170.0,/Restaurant_Review-g187849-d3738693-Reviews-Miyoshi-Milan_Lombardy.html,d3738693
+id_11266,London,"Latin,  Chilean,  South American,  Spanish",11276,4.0,$$ - $$$,10.0,/Restaurant_Review-g186338-d9740703-Reviews-Kultrun-London_England.html,d9740703
+id_9121,Paris,Other,9123,4.0,,22.0,/Restaurant_Review-g187147-d4091909-Reviews-Le_Maine_Parnasse-Paris_Ile_de_France.html,d4091909
+id_1261,Rome,"Brew Pub,  Fast Food,  Spanish,  Vegetarian Friendly",1262,4.0,$,822.0,/Restaurant_Review-g187791-d4811912-Reviews-100_Montaditos-Rome_Lazio.html,d4811912
+id_36,Lyon,French,37,4.5,$$$$,419.0,/Restaurant_Review-g187265-d1898848-Reviews-Au_14_Fevrier_Vieux_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d1898848
+id_396,Barcelona,"Japanese,  Sushi,  Asian,  Korean,  Vegetarian Friendly,  Gluten Free Options",397,5.0,$$ - $$$,45.0,/Restaurant_Review-g187497-d12384001-Reviews-Sushi_Samurai-Barcelona_Catalonia.html,d12384001
+id_972,Hamburg,Other,974,4.0,,15.0,/Restaurant_Review-g187331-d5518556-Reviews-Ploy_Thai-Hamburg.html,d5518556
+id_486,Zurich,"Italian,  European,  Bar,  Mediterranean,  Vegetarian Friendly",489,4.0,$$ - $$$,90.0,/Restaurant_Review-g188113-d1139366-Reviews-Commercio_Bar_Ristorante-Zurich.html,d1139366
+id_10305,London,"Japanese,  Sushi",10314,4.0,$,13.0,/Restaurant_Review-g186338-d8463851-Reviews-Itsu-London_England.html,d8463851
+id_2773,Amsterdam,Other,2780,4.0,,,/Restaurant_Review-g188590-d10467094-Reviews-A_Loja-Amsterdam_North_Holland_Province.html,d10467094
+id_12273,London,"Bar,  Grill,  Pub",12283,4.5,,2.0,/Restaurant_Review-g186338-d1044726-Reviews-Toad_in_the_Hole-London_England.html,d1044726
+id_8229,Madrid,"American,  Diner",8236,2.5,$$ - $$$,55.0,/Restaurant_Review-g187514-d4731719-Reviews-Tommy_Mel_s-Madrid.html,d4731719
+id_2663,Vienna,Other,2665,4.0,,2.0,/Restaurant_Review-g190454-d12233546-Reviews-Marktwirtschaft-Vienna.html,d12233546
+id_4238,Barcelona,Other,4239,5.0,,2.0,/Restaurant_Review-g187497-d11911250-Reviews-Joan_s-Barcelona_Catalonia.html,d11911250
+id_1257,Budapest,"Eastern European,  Central European,  Hungarian,  Healthy,  Vegetarian Friendly,  Vegan Options",1258,5.0,$$ - $$$,14.0,/Restaurant_Review-g274887-d10613140-Reviews-Suzy_s_vegan_dinner_above_the_city-Budapest_Central_Hungary.html,d10613140
+id_7752,Barcelona,Mediterranean,7759,1.0,$$ - $$$,,/Restaurant_Review-g187497-d11950716-Reviews-Menjador_del_centre-Barcelona_Catalonia.html,d11950716
+id_2556,Barcelona,"Italian,  Spanish",2557,4.0,$$ - $$$,24.0,/Restaurant_Review-g187497-d11795167-Reviews-Gelatiamo-Barcelona_Catalonia.html,d11795167
+id_4230,Paris,"Bar,  Pub,  American",4231,4.0,$$ - $$$,45.0,/Restaurant_Review-g187147-d10841012-Reviews-The_Canadian_Embassy_Pub-Paris_Ile_de_France.html,d10841012
+id_5604,Madrid,"Moroccan,  Middle Eastern,  Vegan Options,  Halal",5607,3.0,$,83.0,/Restaurant_Review-g187514-d2149251-Reviews-Al_Aman-Madrid.html,d2149251
+id_443,Copenhagen,"Seafood,  European,  Scandinavian,  Danish",444,4.0,$$ - $$$,104.0,/Restaurant_Review-g189541-d805464-Reviews-Restaurant_Viva-Copenhagen_Zealand.html,d805464
+id_1368,Warsaw,Other,1370,4.5,,2.0,/Restaurant_Review-g274856-d8596967-Reviews-Le_Petit_Cafe-Warsaw_Mazovia_Province_Central_Poland.html,d8596967
+id_3005,London,"Asian,  Thai,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",3011,4.5,$$ - $$$,91.0,/Restaurant_Review-g186338-d2516361-Reviews-Thaiphoon-London_England.html,d2516361
+id_10299,Paris,Mediterranean,10301,4.0,,4.0,/Restaurant_Review-g187147-d7147205-Reviews-Le_Delly_s_de_Jaures-Paris_Ile_de_France.html,d7147205
+id_3278,Berlin,Contemporary,3280,5.0,,2.0,/Restaurant_Review-g187323-d7966501-Reviews-Cafe_Seidenfaden-Berlin.html,d7966501
+id_3287,Rome,"Italian,  Mediterranean,  Vegetarian Friendly,  Vegan Options",3288,4.5,$,44.0,/Restaurant_Review-g187791-d9710052-Reviews-Crunch-Rome_Lazio.html,d9710052
+id_1322,Edinburgh,Other,1323,4.0,,18.0,/Restaurant_Review-g186525-d10146454-Reviews-The_Space-Edinburgh_Scotland.html,d10146454
+id_866,Brussels,"Asian,  Thai",867,4.0,$$ - $$$,52.0,/Restaurant_Review-g950784-d7347239-Reviews-Krob_Khun-Jette_Brussels.html,d7347239
+id_5925,Madrid,Other,5928,4.0,,3.0,/Restaurant_Review-g187514-d10041332-Reviews-Fiorella_Cakes-Madrid.html,d10041332
+id_550,Dublin,"Irish,  European,  Vegetarian Friendly,  Gluten Free Options",551,4.0,$$ - $$$,118.0,/Restaurant_Review-g186605-d3153451-Reviews-Beckett_Bull-Dublin_County_Dublin.html,d3153451
+id_2073,Paris,"French,  Bar,  Cafe,  European,  Pub",2074,4.0,$$ - $$$,128.0,/Restaurant_Review-g187147-d1048529-Reviews-Le_Cafe_Parisien-Paris_Ile_de_France.html,d1048529
+id_1275,Rome,"Italian,  Bar,  Pizza,  European,  Pub,  Brew Pub",1276,4.0,$$ - $$$,377.0,/Restaurant_Review-g187791-d2439603-Reviews-Elliot_Pub-Rome_Lazio.html,d2439603
+id_1135,Zurich,"Chinese,  Vietnamese",1140,4.5,,4.0,/Restaurant_Review-g188113-d6620235-Reviews-Mai_Wok-Zurich.html,d6620235
+id_15306,London,Other,15318,3.5,,2.0,/Restaurant_Review-g186338-d8853180-Reviews-Canaan_Restaurant-London_England.html,d8853180
+id_1831,Paris,"Mediterranean,  Italian,  Vegetarian Friendly,  Vegan Options",1832,4.5,$$ - $$$,111.0,/Restaurant_Review-g187147-d4212687-Reviews-Apulia-Paris_Ile_de_France.html,d4212687
+id_246,Rome,"Italian,  Seafood,  Mediterranean",247,4.5,$$ - $$$,537.0,/Restaurant_Review-g187791-d6988362-Reviews-Ristorante_A_Maidda-Rome_Lazio.html,d6988362
+id_702,Lyon,Other,703,4.5,,35.0,/Restaurant_Review-g187265-d9456607-Reviews-La_Barque_Bleue-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d9456607
+id_205,Barcelona,"Brew Pub,  Cafe,  International,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",206,4.5,$$ - $$$,613.0,/Restaurant_Review-g187497-d3499028-Reviews-Caravelle-Barcelona_Catalonia.html,d3499028
+id_1398,Geneva,Other,1405,1.5,,2.0,/Restaurant_Review-g188057-d12414220-Reviews-Restaurant_de_la_Queue_d_Arve-Geneva.html,d12414220
+id_10139,Paris,Other,10141,4.0,,5.0,/Restaurant_Review-g187147-d7595454-Reviews-Eric_Kayser-Paris_Ile_de_France.html,d7595454
+id_7003,Paris,"European,  Asian",7004,4.5,$$ - $$$,4.0,/Restaurant_Review-g187147-d12447984-Reviews-L_Iris-Paris_Ile_de_France.html,d12447984
+id_53,Bratislava,"Italian,  Seafood,  Mediterranean,  European,  Central European,  Vegetarian Friendly",54,4.0,$$$$,313.0,/Restaurant_Review-g274924-d1112673-Reviews-Kogo-Bratislava_Bratislava_Region.html,d1112673
+id_284,Milan,"Japanese,  Seafood,  Sushi,  Asian,  Soups,  Contemporary,  Fusion,  Vegetarian Friendly,  Gluten Free Options",285,4.0,$$ - $$$,905.0,/Restaurant_Review-g187849-d1926746-Reviews-Izu-Milan_Lombardy.html,d1926746
+id_1457,Oporto,"Brazilian,  Contemporary,  Fusion,  Portuguese",1458,4.5,$,2.0,/Restaurant_Review-g189180-d12147644-Reviews-O_Casarao-Porto_Porto_District_Northern_Portugal.html,d12147644
+id_2599,Milan,"Italian,  Gastropub",2601,4.5,$$ - $$$,15.0,/Restaurant_Review-g187849-d5264440-Reviews-Antica_Salumeria_Crescenzago-Milan_Lombardy.html,d5264440
+id_4780,Rome,"Italian,  American,  Fast Food,  Asian",4781,5.0,$,3.0,/Restaurant_Review-g187791-d12842559-Reviews-Boba_Bar-Rome_Lazio.html,d12842559
+id_16215,London,Pizza,16227,2.0,$,11.0,/Restaurant_Review-g186338-d5667751-Reviews-Papa_Johns-London_England.html,d5667751
+id_4289,Rome,"Chinese,  Japanese",4290,4.0,$,73.0,/Restaurant_Review-g187791-d5825135-Reviews-Ristorante_Linda-Rome_Lazio.html,d5825135
+id_1678,Athens,Other,1680,3.0,,,/Restaurant_Review-g189400-d12883544-Reviews-To_Kafenedaki_tou_Kipou-Athens_Attica.html,d12883544
+id_5767,London,Cafe,5776,5.0,$$ - $$$,8.0,/Restaurant_Review-g186338-d12219822-Reviews-MnM_Gelato-London_England.html,d12219822
+id_4293,Rome,"Brew Pub,  Fast Food,  Pub,  Street Food",4294,5.0,$,14.0,/Restaurant_Review-g187791-d10595133-Reviews-Owlchips-Rome_Lazio.html,d10595133
+id_1539,Stockholm,"American,  Steakhouse,  Bar,  Pub,  Gastropub",1541,3.5,$$ - $$$,8.0,/Restaurant_Review-g189852-d12516525-Reviews-Pitcher_s_Stockholm-Stockholm.html,d12516525
+id_2407,Brussels,Grill,2408,4.0,$$ - $$$,8.0,/Restaurant_Review-g188644-d2549710-Reviews-Le_Mayeur-Brussels.html,d2549710
+id_2502,Rome,"Indian,  Vegetarian Friendly",2503,4.5,$$ - $$$,138.0,/Restaurant_Review-g187791-d795704-Reviews-Om-Rome_Lazio.html,d795704
+id_7370,Paris,French,7371,5.0,,5.0,/Restaurant_Review-g187147-d7132084-Reviews-Deb_Peabody-Paris_Ile_de_France.html,d7132084
+id_12452,Paris,Other,12454,3.0,,2.0,/Restaurant_Review-g187147-d11766630-Reviews-Domino_s-Paris_Ile_de_France.html,d11766630
+id_987,Warsaw,Pizza,988,4.5,$$ - $$$,12.0,/Restaurant_Review-g274856-d6732811-Reviews-Pizzeria_Parma-Warsaw_Mazovia_Province_Central_Poland.html,d6732811
+id_1698,Paris,"French,  European",1699,4.5,$$ - $$$,135.0,/Restaurant_Review-g187147-d1069513-Reviews-Le_Perroquet_vert-Paris_Ile_de_France.html,d1069513
+id_1372,Prague,Other,1373,5.0,,7.0,/Restaurant_Review-g274707-d9745343-Reviews-Chlebicek_Store_Vegan_Deli-Prague_Bohemia.html,d9745343
+id_773,Munich,Italian,781,4.0,$$ - $$$,37.0,/Restaurant_Review-g187309-d5520230-Reviews-Osteria_Da_Mimmo-Munich_Upper_Bavaria_Bavaria.html,d5520230
+id_1552,Brussels,Italian,1606,5.0,$$ - $$$,,/Restaurant_Review-g1136488-d13206566-Reviews-Piccola_Italia-Uccle_Brussels.html,d13206566
+id_4021,Rome,Italian,4022,5.0,$,11.0,/Restaurant_Review-g187791-d11885698-Reviews-Na_Rosetta-Rome_Lazio.html,d11885698
+id_360,Budapest,"Italian,  Mediterranean,  European,  Vegetarian Friendly,  Vegan Options",361,5.0,$$ - $$$,49.0,/Restaurant_Review-g274887-d8654533-Reviews-Casa_Pomo_d_Oro-Budapest_Central_Hungary.html,d8654533
+id_948,Copenhagen,Other,950,4.5,,7.0,/Restaurant_Review-g806262-d10301071-Reviews-Bodenhoff-Frederiksberg_Copenhagen_Zealand.html,d10301071
+id_1079,Lisbon,"Seafood,  Mediterranean,  European,  Portuguese",1080,4.0,$$ - $$$,167.0,/Restaurant_Review-g189158-d2703359-Reviews-A_Mourisca-Lisbon_Lisbon_District_Central_Portugal.html,d2703359
+id_1696,Paris,"French,  European,  Vegetarian Friendly",1697,4.0,$$$$,519.0,/Restaurant_Review-g187147-d942290-Reviews-Laperouse-Paris_Ile_de_France.html,d942290
+id_1762,Warsaw,"Italian,  Pizza",1764,3.5,,6.0,/Restaurant_Review-g274856-d6673365-Reviews-Da_Grasso_Pizzeria-Warsaw_Mazovia_Province_Central_Poland.html,d6673365
+id_541,Lyon,"Asian,  Vietnamese",542,4.0,$$ - $$$,138.0,/Restaurant_Review-g187265-d2641947-Reviews-Indo_Cafe-Lyon_Rhone_Auvergne_Rhone_Alpes.html,d2641947
+id_6624,Barcelona,"Bar,  Cafe,  European,  Spanish,  Mediterranean",6625,3.0,$$ - $$$,169.0,/Restaurant_Review-g187497-d3292870-Reviews-La_Cava_Universal-Barcelona_Catalonia.html,d3292870
+id_6193,Berlin,Other,6195,3.5,,3.0,/Restaurant_Review-g187323-d7360304-Reviews-Cafe_Mavera-Berlin.html,d7360304
+id_1564,Dublin,Fast Food,1568,3.5,,5.0,/Restaurant_Review-g186605-d2190085-Reviews-Fusco_s_Takeaway-Dublin_County_Dublin.html,d2190085
+id_2647,Madrid,Other,2649,5.0,,19.0,/Restaurant_Review-g187514-d8362902-Reviews-Lemme_s-Madrid.html,d8362902
+id_108,Hamburg,"German,  Bar,  European,  Gastropub,  Central European",109,4.0,$$ - $$$,371.0,/Restaurant_Review-g187331-d1353540-Reviews-Nagel_Restaurant_and_Brasserie-Hamburg.html,d1353540
+id_15748,London,"Fast Food,  American",15760,3.0,$,31.0,/Restaurant_Review-g186338-d4584798-Reviews-Burger_King-London_England.html,d4584798
+id_846,Stockholm,"Japanese,  Sushi",847,4.5,$$ - $$$,8.0,/Restaurant_Review-g189852-d7819194-Reviews-Hattori-Stockholm.html,d7819194
+id_13419,London,"Bar,  British,  Pub",13429,3.5,$$ - $$$,35.0,/Restaurant_Review-g186338-d3242247-Reviews-The_Argyle-London_England.html,d3242247
+id_640,Oporto,"European,  Portuguese",641,4.0,$,27.0,/Restaurant_Review-g189180-d8143898-Reviews-Bicho_Papao-Porto_Porto_District_Northern_Portugal.html,d8143898
+id_13122,London,"Indian,  Asian",13132,3.5,$$ - $$$,28.0,/Restaurant_Review-g186338-d4040052-Reviews-Peppers_Restaurant_Chiswick-London_England.html,d4040052
+id_2188,Hamburg,Other,2192,3.5,,4.0,/Restaurant_Review-g187331-d4553147-Reviews-Molly_Malone-Hamburg.html,d4553147
+id_1748,Berlin,"American,  Fast Food",1750,3.5,$,90.0,/Restaurant_Review-g187323-d6280580-Reviews-McDonald_s-Berlin.html,d6280580
+id_1536,Vienna,"Austrian,  European,  Contemporary",1537,4.0,$,27.0,/Restaurant_Review-g190454-d2140541-Reviews-WerkzeugH-Vienna.html,d2140541
+id_6804,London,Other,6813,4.5,,5.0,/Restaurant_Review-g186338-d12966435-Reviews-Bang_Bang_Chicken-London_England.html,d12966435
+id_1958,Munich,"German,  Vegetarian Friendly",1974,3.5,$$ - $$$,95.0,/Restaurant_Review-g187309-d1342155-Reviews-Wirtshaus_am_Rosengarten-Munich_Upper_Bavaria_Bavaria.html,d1342155
+id_147,Prague,"Cafe,  International,  European,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",148,4.5,$,105.0,/Restaurant_Review-g274707-d10389421-Reviews-GoodEats-Prague_Bohemia.html,d10389421
+id_12392,London,"Italian,  Pizza,  Cafe",12402,4.0,$$ - $$$,,/Restaurant_Review-g186338-d13153300-Reviews-Italian_Corner-London_England.html,d13153300
+id_4681,Rome,Italian,4682,5.0,$,12.0,/Restaurant_Review-g187791-d7197803-Reviews-L_Altro_Caffe_Roma-Rome_Lazio.html,d7197803
+id_2940,Brussels,Cafe,2938,2.0,,,/Restaurant_Review-g188644-d7205059-Reviews-Au_Delice-Brussels.html,d7205059
+id_1801,Amsterdam,"Middle Eastern,  Vegetarian Friendly,  Vegan Options",1806,5.0,$,8.0,/Restaurant_Review-g188590-d8656639-Reviews-Amona_Food_Truck-Amsterdam_North_Holland_Province.html,d8656639
+id_483,Madrid,"Spanish,  Vegetarian Friendly,  Gluten Free Options",484,4.5,$$ - $$$,166.0,/Restaurant_Review-g187514-d7310999-Reviews-Taberna_CocinArte-Madrid.html,d7310999
+id_2694,Hamburg,International,2702,3.0,,5.0,/Restaurant_Review-g187331-d938657-Reviews-Goldener_Engel-Hamburg.html,d938657
+id_611,Geneva,Other,614,5.0,,5.0,/Restaurant_Review-g4346525-d11812573-Reviews-L_Espresso-Vernier_Geneva.html,d11812573
+id_532,Barcelona,"Mediterranean,  European,  Spanish,  Vegetarian Friendly,  Vegan Options,  Gluten Free Options",533,4.0,$$ - $$$,744.0,/Restaurant_Review-g187497-d3179219-Reviews-Colom-Barcelona_Catalonia.html,d3179219
+id_6074,Madrid,Pizza,6077,3.5,$,18.0,/Restaurant_Review-g187514-d8427291-Reviews-Domino_s_Pizza-Madrid.html,d8427291
+id_791,Stockholm,Other,792,5.0,,4.0,/Restaurant_Review-g189852-d10789401-Reviews-Femtopia-Stockholm.html,d10789401
+id_2356,Berlin,German,2358,4.5,$,19.0,/Restaurant_Review-g187323-d4342126-Reviews-Destille-Berlin.html,d4342126
+id_1293,Stockholm,"Lebanese,  Mediterranean",1294,4.0,,6.0,/Restaurant_Review-g189852-d12335302-Reviews-Litani-Stockholm.html,d12335302

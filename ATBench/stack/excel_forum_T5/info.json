@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_9",
+        "transpose-stack_1_9"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 9,
+            "stack_var_name": "color",
+            "stack_value_name": "value"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T7",
+    "url": "https://techcommunity.microsoft.com/t5/excel/how-to-transpose-multiple-column-into-one-column/m-p/42685"
+}

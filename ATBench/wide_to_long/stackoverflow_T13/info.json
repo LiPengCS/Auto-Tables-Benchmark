@@ -1,0 +1,21 @@
+{
+    "label": [
+        "wide_to_long_1_10"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 10,
+            "wtl_sep": "_",
+            "wtl_pos": "suffix",
+            "wtl_stubnames": [
+                "a",
+                "b",
+                "c"
+            ]
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T6",
+    "url": "https://stackoverflow.com/questions/38862832/pandas-melt-several-groups-of-columns-into-multiple-target-columns-by-name"
+}

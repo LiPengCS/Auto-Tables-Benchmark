@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_13",
+        "transpose-stack_1_31"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 13,
+            "stack_var_name": "month",
+            "stack_value_name": "value"
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T21",
+    "url": "https://stackoverflow.com/questions/57665174/pandas-function-to-transpose-row-data-to-column"
+}

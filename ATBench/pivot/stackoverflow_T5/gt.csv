@@ -1,0 +1,7 @@
+Bridge,County,Highway,Reference,Toll,Way_ID
+yes,US,motorway_link,,yes,2781002
+no,US,motorway,A_49,yes,2788620
+no,US,motorway,A_50,yes,2788630
+no,US,motorway,A_51,no,2788650
+no,US,motorway,A_52,yes,2788660
+no,US,motorway,A_53,yes,2788670

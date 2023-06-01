@@ -1,0 +1,55 @@
+Activities,Y/N,Owner,Delivery Type
+1. Approvals,,,
+Project Plan,,,Signoff
+Schedule,,,Signoff
+Database Design shanges,,,Signoff
+Technology Architecture changes,,,Signoff
+2. Usually Required,,,
+Business Requirements,Y,,Document
+In house Design Workshops,Y,,Workshop
+Functional Specifications,Y,,Document
+Systems Design,Y,,Document
+Stakeholder Analysis,Y,,Document
+Project Plan,Y,,Document
+Schedule,Y,,Document
+Implementation Plan,Y,,Document
+Weekly Status Meeting,Y,,Meeting
+Project Status Reports,Y,,Document
+Steering Committee Meetings,Y,,Document
+Risk Management Plan,Y,,Document
+Communications Plan,Y,,Document
+Issues Log,Y,,Document
+Contingency Plan,Y,,Document
+Test Plan,Y,,Document
+Test Cases,Y,,Document
+3. Project Dependent,,,
+New Business Processes,,,Document
+Modify Business Processes,,,Document
+Update Disaster Recovery Plan,,,Document
+New contract(s),,,Document
+Modify contract(s),,,Document
+New database Design,,,Document
+Change to database design,,,Document
+New database,,,Development
+Modify database,,,Development
+New Operations document(s),,,Document
+Modify Operations document(s),,,Document
+New SLA,,,Document
+Modify SLA,,,Document
+Communications to Clients,,,Document
+New Software,,,Development
+Software Upgrade,,,Development
+New Application(s),,,Development
+Modified Application(s),,,Development
+Implement new packaged solution,,,Development
+Modify packaged solution,,,Development
+Implement new online service,,,Development
+Modify online service,,,Development
+Implement new non-IT service,,,Development
+Modify non-IT service,,,Development
+New Hardware,,,Development
+Hardware Upgrade,,,Development
+Change in Technology Architecture,,,Development
+French Translation,,,Document
+New Vendor(s) involved,,,Vendor Management
+Existing vendor(s) involved,,,Vendor Management

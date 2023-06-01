@@ -1,0 +1,19 @@
+{
+    "label": [
+        "wide_to_long_3_27"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 3,
+            "wtl_end_idx": 27,
+            "wtl_stubnames": [
+                "gdpPercap",
+                "lifeExp"
+            ],
+            "wtl_sep": "_",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "wide_to_long-vm0_NB_239_case_33"
+}

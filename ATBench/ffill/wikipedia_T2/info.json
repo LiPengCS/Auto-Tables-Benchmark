@@ -1,0 +1,13 @@
+{
+    "label": [
+        "ffill_2"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 2
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T5",
+    "url": "https://en.wikipedia.org/wiki/List_of_iOS_and_iPadOS_devices"
+}

@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_1_623"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 623,
+            "stack_var_name": "Date",
+            "stack_value_name": "value"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T17",
+    "url": "https://techcommunity.microsoft.com/t5/excel/excel-help/m-p/3261931"
+}

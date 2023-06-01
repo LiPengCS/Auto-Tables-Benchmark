@@ -1,0 +1,13 @@
+{
+    "label": [
+        "ffill_1"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 1
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T9",
+    "url": "https://en.wikipedia.org/wiki/Newbery_Medal"
+}

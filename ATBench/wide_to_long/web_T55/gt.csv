@@ -1,0 +1,19 @@
+Season,wide_to_long_var,DVD Releases(Region 1,DVD Releases(Region 2,DVD Releases(Region 4
+1,)(Date),30-Aug-05,27-Feb-06,12-Jul-06
+1,)(Discs),3,6,6
+2,)(Date),22-Aug-06,23-Oct-06,25-Oct-06
+2,)(Discs),6,6,6
+3,)(Date),21-Aug-07,19-Nov-07,19-Sep-07
+3,)(Discs),5,6,6
+4,)(Date),19-Aug-08,27-Oct-08,20-Aug-08
+4,)(Discs),4,4,4
+5,)(Date),25-Aug-09,5-Oct-09,30-Oct-09
+5,)(Discs),5,6,6
+6,)(Date),31-Aug-10,27-Sep-10,19-Aug-10
+6,)(Discs),5,6,6
+7,)(Date),30-Aug-11,26-Sep-11,30-Aug-11
+7,)(Discs),5,6,6
+8,)(Date),21-Aug-12,22-Oct-12,11-Oct-12
+8,)(Discs),5,6,6
+The Complete Series,)(Date),2-Oct-12,22-Oct-12,11-Oct-12
+The Complete Series,)(Discs),41,46,46

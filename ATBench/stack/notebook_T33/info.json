@@ -1,0 +1,13 @@
+{
+    "label": [
+        "stack_2_5"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 2,
+            "stack_end_idx": 5
+        }
+    ],
+    "source": "notebook",
+    "old_name": "stack-vm11_NB_1640529_case_77"
+}

@@ -1,0 +1,441 @@
+No.,President,var,value
+1,George Washington,R-McI 1996,3
+2,John Adams,R-McI 1996,14
+3,Thomas Jefferson,R-McI 1996,4
+4,James Madison,R-McI 1996,10
+5,James Monroe,R-McI 1996,13
+6,John Quincy Adams,R-McI 1996,18
+7,Andrew Jackson,R-McI 1996,8
+8,Martin Van Buren,R-McI 1996,21
+9,William Henry Harrison,R-McI 1996,35
+10,John Tyler,R-McI 1996,34
+11,James K. Polk,R-McI 1996,11
+12,Zachary Taylor,R-McI 1996,29
+13,Millard Fillmore,R-McI 1996,36
+14,Franklin Pierce,R-McI 1996,37
+15,James Buchanan,R-McI 1996,40
+16,Abraham Lincoln,R-McI 1996,1
+17,Andrew Johnson,R-McI 1996,39
+18,Ulysses S. Grant,R-McI 1996,38
+19,Rutherford B. Hayes,R-McI 1996,25
+20,James A. Garfield,R-McI 1996,30
+21,Chester A. Arthur,R-McI 1996,28
+22,Grover Cleveland,R-McI 1996,16
+23,Benjamin Harrison,R-McI 1996,31
+25,William McKinley,R-McI 1996,17
+26,Theodore Roosevelt,R-McI 1996,5
+27,William Howard Taft,R-McI 1996,20
+28,Woodrow Wilson,R-McI 1996,6
+29,Warren G. Harding,R-McI 1996,41
+30,Calvin Coolidge,R-McI 1996,33
+31,Herbert Hoover,R-McI 1996,24
+32,Franklin D. Roosevelt,R-McI 1996,2
+33,Harry S. Truman,R-McI 1996,7
+34,Dwight D. Eisenhower,R-McI 1996,9
+35,John F. Kennedy,R-McI 1996,15
+36,Lyndon B. Johnson,R-McI 1996,12
+37,Richard M. Nixon,R-McI 1996,32
+38,Gerald R. Ford,R-McI 1996,27
+39,Jimmy Carter,R-McI 1996,19
+40,Ronald Reagan,R-McI 1996,26
+41,George H. W. Bush,R-McI 1996,22
+42,Bill Clinton,R-McI 1996,23 *
+43,George W. Bush,R-McI 1996,-
+44,Barack Obama,R-McI 1996,-
+45,Donald Trump,R-McI 1996,-
+1,George Washington,Schl. 1996,2
+2,John Adams,Schl. 1996,11
+3,Thomas Jefferson,Schl. 1996,4
+4,James Madison,Schl. 1996,17
+5,James Monroe,Schl. 1996,15
+6,John Quincy Adams,Schl. 1996,18
+7,Andrew Jackson,Schl. 1996,5
+8,Martin Van Buren,Schl. 1996,21
+9,William Henry Harrison,Schl. 1996,-
+10,John Tyler,Schl. 1996,32
+11,James K. Polk,Schl. 1996,9
+12,Zachary Taylor,Schl. 1996,29
+13,Millard Fillmore,Schl. 1996,31
+14,Franklin Pierce,Schl. 1996,33
+15,James Buchanan,Schl. 1996,38
+16,Abraham Lincoln,Schl. 1996,1
+17,Andrew Johnson,Schl. 1996,37
+18,Ulysses S. Grant,Schl. 1996,34
+19,Rutherford B. Hayes,Schl. 1996,23
+20,James A. Garfield,Schl. 1996,-
+21,Chester A. Arthur,Schl. 1996,26
+22,Grover Cleveland,Schl. 1996,13
+23,Benjamin Harrison,Schl. 1996,19
+25,William McKinley,Schl. 1996,16
+26,Theodore Roosevelt,Schl. 1996,6
+27,William Howard Taft,Schl. 1996,22
+28,Woodrow Wilson,Schl. 1996,7
+29,Warren G. Harding,Schl. 1996,39
+30,Calvin Coolidge,Schl. 1996,30
+31,Herbert Hoover,Schl. 1996,35
+32,Franklin D. Roosevelt,Schl. 1996,3
+33,Harry S. Truman,Schl. 1996,8
+34,Dwight D. Eisenhower,Schl. 1996,10
+35,John F. Kennedy,Schl. 1996,12
+36,Lyndon B. Johnson,Schl. 1996,14
+37,Richard M. Nixon,Schl. 1996,36
+38,Gerald R. Ford,Schl. 1996,28
+39,Jimmy Carter,Schl. 1996,27
+40,Ronald Reagan,Schl. 1996,25
+41,George H. W. Bush,Schl. 1996,24
+42,Bill Clinton,Schl. 1996,20 *
+43,George W. Bush,Schl. 1996,-
+44,Barack Obama,Schl. 1996,-
+45,Donald Trump,Schl. 1996,-
+1,George Washington,C-SPAN 1999,3
+2,John Adams,C-SPAN 1999,16
+3,Thomas Jefferson,C-SPAN 1999,7
+4,James Madison,C-SPAN 1999,18
+5,James Monroe,C-SPAN 1999,14
+6,John Quincy Adams,C-SPAN 1999,19
+7,Andrew Jackson,C-SPAN 1999,13
+8,Martin Van Buren,C-SPAN 1999,30
+9,William Henry Harrison,C-SPAN 1999,37
+10,John Tyler,C-SPAN 1999,36
+11,James K. Polk,C-SPAN 1999,12
+12,Zachary Taylor,C-SPAN 1999,28
+13,Millard Fillmore,C-SPAN 1999,35
+14,Franklin Pierce,C-SPAN 1999,39
+15,James Buchanan,C-SPAN 1999,41
+16,Abraham Lincoln,C-SPAN 1999,1
+17,Andrew Johnson,C-SPAN 1999,40
+18,Ulysses S. Grant,C-SPAN 1999,33
+19,Rutherford B. Hayes,C-SPAN 1999,26
+20,James A. Garfield,C-SPAN 1999,29
+21,Chester A. Arthur,C-SPAN 1999,32
+22,Grover Cleveland,C-SPAN 1999,17
+23,Benjamin Harrison,C-SPAN 1999,31
+25,William McKinley,C-SPAN 1999,15
+26,Theodore Roosevelt,C-SPAN 1999,4
+27,William Howard Taft,C-SPAN 1999,24
+28,Woodrow Wilson,C-SPAN 1999,6
+29,Warren G. Harding,C-SPAN 1999,38
+30,Calvin Coolidge,C-SPAN 1999,27
+31,Herbert Hoover,C-SPAN 1999,34
+32,Franklin D. Roosevelt,C-SPAN 1999,2
+33,Harry S. Truman,C-SPAN 1999,5
+34,Dwight D. Eisenhower,C-SPAN 1999,9
+35,John F. Kennedy,C-SPAN 1999,8
+36,Lyndon B. Johnson,C-SPAN 1999,10
+37,Richard M. Nixon,C-SPAN 1999,25
+38,Gerald R. Ford,C-SPAN 1999,23
+39,Jimmy Carter,C-SPAN 1999,22
+40,Ronald Reagan,C-SPAN 1999,11
+41,George H. W. Bush,C-SPAN 1999,20
+42,Bill Clinton,C-SPAN 1999,21 *
+43,George W. Bush,C-SPAN 1999,-
+44,Barack Obama,C-SPAN 1999,-
+45,Donald Trump,C-SPAN 1999,-
+1,George Washington,WSJ 2000,1
+2,John Adams,WSJ 2000,13
+3,Thomas Jefferson,WSJ 2000,4
+4,James Madison,WSJ 2000,15
+5,James Monroe,WSJ 2000,16
+6,John Quincy Adams,WSJ 2000,20
+7,Andrew Jackson,WSJ 2000,6
+8,Martin Van Buren,WSJ 2000,23
+9,William Henry Harrison,WSJ 2000,-
+10,John Tyler,WSJ 2000,34
+11,James K. Polk,WSJ 2000,10
+12,Zachary Taylor,WSJ 2000,31
+13,Millard Fillmore,WSJ 2000,35
+14,Franklin Pierce,WSJ 2000,37 (tie)
+15,James Buchanan,WSJ 2000,39
+16,Abraham Lincoln,WSJ 2000,2
+17,Andrew Johnson,WSJ 2000,36
+18,Ulysses S. Grant,WSJ 2000,32
+19,Rutherford B. Hayes,WSJ 2000,22
+20,James A. Garfield,WSJ 2000,-
+21,Chester A. Arthur,WSJ 2000,26
+22,Grover Cleveland,WSJ 2000,12
+23,Benjamin Harrison,WSJ 2000,27
+25,William McKinley,WSJ 2000,14
+26,Theodore Roosevelt,WSJ 2000,5
+27,William Howard Taft,WSJ 2000,19
+28,Woodrow Wilson,WSJ 2000,11
+29,Warren G. Harding,WSJ 2000,37 (tie)
+30,Calvin Coolidge,WSJ 2000,25
+31,Herbert Hoover,WSJ 2000,29
+32,Franklin D. Roosevelt,WSJ 2000,3
+33,Harry S. Truman,WSJ 2000,7
+34,Dwight D. Eisenhower,WSJ 2000,9
+35,John F. Kennedy,WSJ 2000,18
+36,Lyndon B. Johnson,WSJ 2000,17
+37,Richard M. Nixon,WSJ 2000,33
+38,Gerald R. Ford,WSJ 2000,28
+39,Jimmy Carter,WSJ 2000,30
+40,Ronald Reagan,WSJ 2000,8
+41,George H. W. Bush,WSJ 2000,21
+42,Bill Clinton,WSJ 2000,24 *
+43,George W. Bush,WSJ 2000,-
+44,Barack Obama,WSJ 2000,-
+45,Donald Trump,WSJ 2000,-
+1,George Washington,Siena 2002,4
+2,John Adams,Siena 2002,12
+3,Thomas Jefferson,Siena 2002,5
+4,James Madison,Siena 2002,8
+5,James Monroe,Siena 2002,9
+6,John Quincy Adams,Siena 2002,17
+7,Andrew Jackson,Siena 2002,13
+8,Martin Van Buren,Siena 2002,24
+9,William Henry Harrison,Siena 2002,36
+10,John Tyler,Siena 2002,37
+11,James K. Polk,Siena 2002,11
+12,Zachary Taylor,Siena 2002,34
+13,Millard Fillmore,Siena 2002,38
+14,Franklin Pierce,Siena 2002,39
+15,James Buchanan,Siena 2002,41
+16,Abraham Lincoln,Siena 2002,2
+17,Andrew Johnson,Siena 2002,42
+18,Ulysses S. Grant,Siena 2002,35
+19,Rutherford B. Hayes,Siena 2002,27
+20,James A. Garfield,Siena 2002,33
+21,Chester A. Arthur,Siena 2002,30
+22,Grover Cleveland,Siena 2002,20
+23,Benjamin Harrison,Siena 2002,32
+25,William McKinley,Siena 2002,19
+26,Theodore Roosevelt,Siena 2002,3
+27,William Howard Taft,Siena 2002,21
+28,Woodrow Wilson,Siena 2002,6
+29,Warren G. Harding,Siena 2002,40
+30,Calvin Coolidge,Siena 2002,29
+31,Herbert Hoover,Siena 2002,31
+32,Franklin D. Roosevelt,Siena 2002,1
+33,Harry S. Truman,Siena 2002,7
+34,Dwight D. Eisenhower,Siena 2002,10
+35,John F. Kennedy,Siena 2002,14
+36,Lyndon B. Johnson,Siena 2002,15
+37,Richard M. Nixon,Siena 2002,26
+38,Gerald R. Ford,Siena 2002,28
+39,Jimmy Carter,Siena 2002,25
+40,Ronald Reagan,Siena 2002,16
+41,George H. W. Bush,Siena 2002,22
+42,Bill Clinton,Siena 2002,18
+43,George W. Bush,Siena 2002,23 *
+44,Barack Obama,Siena 2002,-
+45,Donald Trump,Siena 2002,-
+1,George Washington,WSJ 2005,1
+2,John Adams,WSJ 2005,13
+3,Thomas Jefferson,WSJ 2005,4
+4,James Madison,WSJ 2005,17
+5,James Monroe,WSJ 2005,16
+6,John Quincy Adams,WSJ 2005,25
+7,Andrew Jackson,WSJ 2005,10
+8,Martin Van Buren,WSJ 2005,27
+9,William Henry Harrison,WSJ 2005,-
+10,John Tyler,WSJ 2005,35
+11,James K. Polk,WSJ 2005,9
+12,Zachary Taylor,WSJ 2005,33
+13,Millard Fillmore,WSJ 2005,36
+14,Franklin Pierce,WSJ 2005,38
+15,James Buchanan,WSJ 2005,40
+16,Abraham Lincoln,WSJ 2005,2
+17,Andrew Johnson,WSJ 2005,37
+18,Ulysses S. Grant,WSJ 2005,29
+19,Rutherford B. Hayes,WSJ 2005,24
+20,James A. Garfield,WSJ 2005,-
+21,Chester A. Arthur,WSJ 2005,26
+22,Grover Cleveland,WSJ 2005,12
+23,Benjamin Harrison,WSJ 2005,30
+25,William McKinley,WSJ 2005,14
+26,Theodore Roosevelt,WSJ 2005,5
+27,William Howard Taft,WSJ 2005,20
+28,Woodrow Wilson,WSJ 2005,11
+29,Warren G. Harding,WSJ 2005,39
+30,Calvin Coolidge,WSJ 2005,23
+31,Herbert Hoover,WSJ 2005,31
+32,Franklin D. Roosevelt,WSJ 2005,3
+33,Harry S. Truman,WSJ 2005,7
+34,Dwight D. Eisenhower,WSJ 2005,8
+35,John F. Kennedy,WSJ 2005,15
+36,Lyndon B. Johnson,WSJ 2005,18
+37,Richard M. Nixon,WSJ 2005,32
+38,Gerald R. Ford,WSJ 2005,28
+39,Jimmy Carter,WSJ 2005,34
+40,Ronald Reagan,WSJ 2005,6
+41,George H. W. Bush,WSJ 2005,21
+42,Bill Clinton,WSJ 2005,22
+43,George W. Bush,WSJ 2005,19 *
+44,Barack Obama,WSJ 2005,-
+45,Donald Trump,WSJ 2005,-
+1,George Washington,C-SPAN 2009,2
+2,John Adams,C-SPAN 2009,17
+3,Thomas Jefferson,C-SPAN 2009,7
+4,James Madison,C-SPAN 2009,20
+5,James Monroe,C-SPAN 2009,14
+6,John Quincy Adams,C-SPAN 2009,19
+7,Andrew Jackson,C-SPAN 2009,13
+8,Martin Van Buren,C-SPAN 2009,31
+9,William Henry Harrison,C-SPAN 2009,39
+10,John Tyler,C-SPAN 2009,35
+11,James K. Polk,C-SPAN 2009,12
+12,Zachary Taylor,C-SPAN 2009,29
+13,Millard Fillmore,C-SPAN 2009,37
+14,Franklin Pierce,C-SPAN 2009,40
+15,James Buchanan,C-SPAN 2009,42
+16,Abraham Lincoln,C-SPAN 2009,1
+17,Andrew Johnson,C-SPAN 2009,41
+18,Ulysses S. Grant,C-SPAN 2009,23
+19,Rutherford B. Hayes,C-SPAN 2009,33
+20,James A. Garfield,C-SPAN 2009,28
+21,Chester A. Arthur,C-SPAN 2009,32
+22,Grover Cleveland,C-SPAN 2009,21
+23,Benjamin Harrison,C-SPAN 2009,30
+25,William McKinley,C-SPAN 2009,16
+26,Theodore Roosevelt,C-SPAN 2009,4
+27,William Howard Taft,C-SPAN 2009,24
+28,Woodrow Wilson,C-SPAN 2009,9
+29,Warren G. Harding,C-SPAN 2009,38
+30,Calvin Coolidge,C-SPAN 2009,26
+31,Herbert Hoover,C-SPAN 2009,34
+32,Franklin D. Roosevelt,C-SPAN 2009,3
+33,Harry S. Truman,C-SPAN 2009,5
+34,Dwight D. Eisenhower,C-SPAN 2009,8
+35,John F. Kennedy,C-SPAN 2009,6
+36,Lyndon B. Johnson,C-SPAN 2009,11
+37,Richard M. Nixon,C-SPAN 2009,27
+38,Gerald R. Ford,C-SPAN 2009,22
+39,Jimmy Carter,C-SPAN 2009,25
+40,Ronald Reagan,C-SPAN 2009,10
+41,George H. W. Bush,C-SPAN 2009,18
+42,Bill Clinton,C-SPAN 2009,15
+43,George W. Bush,C-SPAN 2009,36
+44,Barack Obama,C-SPAN 2009,-
+45,Donald Trump,C-SPAN 2009,-
+1,George Washington,Siena 2010,4
+2,John Adams,Siena 2010,17
+3,Thomas Jefferson,Siena 2010,5
+4,James Madison,Siena 2010,6
+5,James Monroe,Siena 2010,7
+6,John Quincy Adams,Siena 2010,19
+7,Andrew Jackson,Siena 2010,14
+8,Martin Van Buren,Siena 2010,23
+9,William Henry Harrison,Siena 2010,35
+10,John Tyler,Siena 2010,37
+11,James K. Polk,Siena 2010,12
+12,Zachary Taylor,Siena 2010,33
+13,Millard Fillmore,Siena 2010,38
+14,Franklin Pierce,Siena 2010,40
+15,James Buchanan,Siena 2010,42
+16,Abraham Lincoln,Siena 2010,3
+17,Andrew Johnson,Siena 2010,43
+18,Ulysses S. Grant,Siena 2010,26
+19,Rutherford B. Hayes,Siena 2010,31
+20,James A. Garfield,Siena 2010,27
+21,Chester A. Arthur,Siena 2010,25
+22,Grover Cleveland,Siena 2010,20
+23,Benjamin Harrison,Siena 2010,34
+25,William McKinley,Siena 2010,21
+26,Theodore Roosevelt,Siena 2010,2
+27,William Howard Taft,Siena 2010,24
+28,Woodrow Wilson,Siena 2010,8
+29,Warren G. Harding,Siena 2010,41
+30,Calvin Coolidge,Siena 2010,29
+31,Herbert Hoover,Siena 2010,36
+32,Franklin D. Roosevelt,Siena 2010,1
+33,Harry S. Truman,Siena 2010,9
+34,Dwight D. Eisenhower,Siena 2010,10
+35,John F. Kennedy,Siena 2010,11
+36,Lyndon B. Johnson,Siena 2010,16
+37,Richard M. Nixon,Siena 2010,30
+38,Gerald R. Ford,Siena 2010,28
+39,Jimmy Carter,Siena 2010,32
+40,Ronald Reagan,Siena 2010,18
+41,George H. W. Bush,Siena 2010,22
+42,Bill Clinton,Siena 2010,13
+43,George W. Bush,Siena 2010,39
+44,Barack Obama,Siena 2010,15 *
+45,Donald Trump,Siena 2010,-
+1,George Washington,USPC 2011,3
+2,John Adams,USPC 2011,12
+3,Thomas Jefferson,USPC 2011,4
+4,James Madison,USPC 2011,14
+5,James Monroe,USPC 2011,13
+6,John Quincy Adams,USPC 2011,20
+7,Andrew Jackson,USPC 2011,9
+8,Martin Van Buren,USPC 2011,27
+9,William Henry Harrison,USPC 2011,-
+10,John Tyler,USPC 2011,37
+11,James K. Polk,USPC 2011,16
+12,Zachary Taylor,USPC 2011,33
+13,Millard Fillmore,USPC 2011,35
+14,Franklin Pierce,USPC 2011,39
+15,James Buchanan,USPC 2011,40
+16,Abraham Lincoln,USPC 2011,2
+17,Andrew Johnson,USPC 2011,36
+18,Ulysses S. Grant,USPC 2011,29
+19,Rutherford B. Hayes,USPC 2011,30
+20,James A. Garfield,USPC 2011,-
+21,Chester A. Arthur,USPC 2011,32
+22,Grover Cleveland,USPC 2011,21
+23,Benjamin Harrison,USPC 2011,34
+25,William McKinley,USPC 2011,17
+26,Theodore Roosevelt,USPC 2011,5
+27,William Howard Taft,USPC 2011,25
+28,Woodrow Wilson,USPC 2011,6
+29,Warren G. Harding,USPC 2011,38
+30,Calvin Coolidge,USPC 2011,28
+31,Herbert Hoover,USPC 2011,26
+32,Franklin D. Roosevelt,USPC 2011,1
+33,Harry S. Truman,USPC 2011,7
+34,Dwight D. Eisenhower,USPC 2011,10
+35,John F. Kennedy,USPC 2011,15
+36,Lyndon B. Johnson,USPC 2011,11
+37,Richard M. Nixon,USPC 2011,23
+38,Gerald R. Ford,USPC 2011,24
+39,Jimmy Carter,USPC 2011,18
+40,Ronald Reagan,USPC 2011,8
+41,George H. W. Bush,USPC 2011,22
+42,Bill Clinton,USPC 2011,19
+43,George W. Bush,USPC 2011,31
+44,Barack Obama,USPC 2011,-
+45,Donald Trump,USPC 2011,-
+1,George Washington,APSA 2015,2
+2,John Adams,APSA 2015,15
+3,Thomas Jefferson,APSA 2015,5
+4,James Madison,APSA 2015,13
+5,James Monroe,APSA 2015,16
+6,John Quincy Adams,APSA 2015,22
+7,Andrew Jackson,APSA 2015,9
+8,Martin Van Buren,APSA 2015,25
+9,William Henry Harrison,APSA 2015,39
+10,John Tyler,APSA 2015,36
+11,James K. Polk,APSA 2015,19
+12,Zachary Taylor,APSA 2015,33
+13,Millard Fillmore,APSA 2015,37
+14,Franklin Pierce,APSA 2015,40
+15,James Buchanan,APSA 2015,43
+16,Abraham Lincoln,APSA 2015,1
+17,Andrew Johnson,APSA 2015,41
+18,Ulysses S. Grant,APSA 2015,28
+19,Rutherford B. Hayes,APSA 2015,30
+20,James A. Garfield,APSA 2015,31
+21,Chester A. Arthur,APSA 2015,32
+22,Grover Cleveland,APSA 2015,23
+23,Benjamin Harrison,APSA 2015,29
+25,William McKinley,APSA 2015,21
+26,Theodore Roosevelt,APSA 2015,4
+27,William Howard Taft,APSA 2015,20
+28,Woodrow Wilson,APSA 2015,10
+29,Warren G. Harding,APSA 2015,42
+30,Calvin Coolidge,APSA 2015,27
+31,Herbert Hoover,APSA 2015,38
+32,Franklin D. Roosevelt,APSA 2015,3
+33,Harry S. Truman,APSA 2015,6
+34,Dwight D. Eisenhower,APSA 2015,7
+35,John F. Kennedy,APSA 2015,14
+36,Lyndon B. Johnson,APSA 2015,12
+37,Richard M. Nixon,APSA 2015,34
+38,Gerald R. Ford,APSA 2015,24
+39,Jimmy Carter,APSA 2015,26
+40,Ronald Reagan,APSA 2015,11
+41,George H. W. Bush,APSA 2015,17
+42,Bill Clinton,APSA 2015,8
+43,George W. Bush,APSA 2015,35
+44,Barack Obama,APSA 2015,18 *
+45,Donald Trump,APSA 2015,-

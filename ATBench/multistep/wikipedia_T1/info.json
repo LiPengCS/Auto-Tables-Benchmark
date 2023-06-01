@@ -1,0 +1,14 @@
+{
+    "label": [
+        "ffill_2-explode_3",
+        "explode_3-ffill_2"
+    ],
+    "params": [
+        {
+            "ffill_end_idx": 2,
+            "explode_sep": ";"
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T11"
+}

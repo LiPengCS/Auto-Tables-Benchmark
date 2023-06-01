@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_2_8"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 2,
+            "wtl_end_idx": 8,
+            "wtl_stubnames": [
+                "Completed?",
+                "Description"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T1",
+    "url": "https://community.powerbi.com/t5/Power-Query/Restructuring-Data-Show-targets-and-their-status/m-p/1798338"
+}

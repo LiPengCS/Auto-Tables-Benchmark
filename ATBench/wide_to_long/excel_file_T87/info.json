@@ -1,0 +1,21 @@
+{
+    "label": [
+        "wide_to_long_7_13"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 7,
+            "wtl_end_idx": 13,
+            "wtl_stubnames": [
+                "#",
+                "#.1",
+                "ANSWER"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "excel_file_T12",
+    "url": "acme-corp.com"
+}

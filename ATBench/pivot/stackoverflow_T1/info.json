@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_4"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 4
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T11",
+    "url": "https://stackoverflow.com/questions/58482527/how-to-read-data-from-log-file-with-pandas"
+}

@@ -1,0 +1,13 @@
+{
+    "label": [
+        "explode_6"
+    ],
+    "params": [
+        {
+            "explode_column_idx": 6,
+            "explode_sep": ","
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "32989b5f6b6040898455ed26cf7a48bb.etable1"
+}

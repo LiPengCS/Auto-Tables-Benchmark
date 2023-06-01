@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_3_10"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 3,
+            "stack_end_idx": 10,
+            "stack_var_name": "System",
+            "stack_value_name": "Rating"
+        }
+    ],
+    "source": "wikipedia",
+    "old_name": "wikipedia_T6",
+    "url": "https://en.wikipedia.org/wiki/List_of_United_States_graduate_business_school_rankings#:~:text=Recent%20individual%20rankings%20%20%20%20Business%20School,%20%20NR%20%2016%20more%20rows%20"
+}

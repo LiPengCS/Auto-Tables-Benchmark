@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_1_7"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 1,
+            "wtl_end_idx": 7,
+            "wtl_stubnames": [
+                "Platform Impacted",
+                "Vendor Used",
+                "Vendor Spend"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "prefix"
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T4"
+}

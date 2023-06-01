@@ -1,0 +1,17 @@
+{
+    "label": [
+        "transpose-wide_to_long_9_15"
+    ],
+    "params": [
+        {
+            "wtl_stubnames": [
+                "Proficient on state ELA test ",
+                "Proficient on state Math test "
+            ],
+            "wtl_sep": "-",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "9a12b5f27d4743389c89a150a5d2a507.etable1"
+}

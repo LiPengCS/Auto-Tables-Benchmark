@@ -1,0 +1,16 @@
+{
+    "label": [
+        "stack_2_18"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 2,
+            "stack_end_idx": 18,
+            "stack_var_name": "year",
+            "stack_value_name": "value"
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T22",
+    "url": "https://stackoverflow.com/questions/72478481/python-creating-a-custom-dataframe-from-transposing-an-existing-one"
+}

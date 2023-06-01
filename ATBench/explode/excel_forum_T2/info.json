@@ -1,0 +1,15 @@
+{
+    "label": [
+        "explode_1"
+    ],
+    "params": [
+        {
+            "explode_column": "Colour1",
+            "explode_column_idx": 1,
+            "explode_sep": "/"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T8",
+    "url": "https://techcommunity.microsoft.com/t5/excel/convert-912-rows-and-16-columns-into-2-columns-with-a-twist/m-p/1551102"
+}

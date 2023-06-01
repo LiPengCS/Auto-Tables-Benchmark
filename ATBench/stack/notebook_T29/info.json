@@ -1,0 +1,13 @@
+{
+    "label": [
+        "stack_2_17"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 2,
+            "stack_end_idx": 17
+        }
+    ],
+    "source": "notebook",
+    "old_name": "stack-vm0_NB_4273748_case_75"
+}

@@ -1,0 +1,109 @@
+Subtitle,Release 1 (in Points),Sprint 12,var,value
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Start,720.0
+FORECASTS,Forecast: Velocity ,0.0,Start,
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Start,720.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Start,720.0
+ACTUALS,Actual Velocity,0.0,Start,
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Start,720.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Start,
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Start,
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Start,
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 1,720.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 1,54.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 1,666.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 1,720.0
+ACTUALS,Actual Velocity,0.0,Sprint 1,54.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 1,666.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 1,3.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 1,54.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 1,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 2,666.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 2,72.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 2,594.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 2,666.0
+ACTUALS,Actual Velocity,0.0,Sprint 2,72.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 2,594.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 2,4.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 2,72.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 2,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 3,594.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 3,108.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 3,486.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 3,594.0
+ACTUALS,Actual Velocity,0.0,Sprint 3,108.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 3,486.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 3,6.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 3,108.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 3,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 4,486.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 4,144.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 4,342.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 4,486.0
+ACTUALS,Actual Velocity,0.0,Sprint 4,144.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 4,342.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 4,8.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 4,144.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 4,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 5,342.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 5,144.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 5,198.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 5,342.0
+ACTUALS,Actual Velocity,0.0,Sprint 5,144.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 5,198.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 5,8.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 5,144.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 5,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 6,198.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 6,90.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 6,108.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 6,198.0
+ACTUALS,Actual Velocity,0.0,Sprint 6,90.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 6,108.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 6,5.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 6,90.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 6,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 7,108.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 7,72.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 7,36.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 7,108.0
+ACTUALS,Actual Velocity,0.0,Sprint 7,72.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 7,36.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 7,4.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 7,72.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 7,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 8,36.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 8,36.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 8,0.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 8,36.0
+ACTUALS,Actual Velocity,0.0,Sprint 8,36.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 8,0.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 8,2.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 8,36.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 8,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 9,0.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 9,0.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 9,0.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 9,0.0
+ACTUALS,Actual Velocity,0.0,Sprint 9,0.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 9,0.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 9,0.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 9,0.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 9,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 10,0.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 10,0.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 10,0.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 10,0.0
+ACTUALS,Actual Velocity,0.0,Sprint 10,0.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 10,0.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 10,0.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 10,0.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 10,1.0
+FORECASTS,Forecast: Work remaining at start of sprint,0.0,Sprint 11,0.0
+FORECASTS,Forecast: Velocity ,0.0,Sprint 11,0.0
+FORECASTS,Forecast: Work remaining at the end of sprint,0.0,Sprint 11,0.0
+ACTUALS,Actual: Work remaining at start of sprint,0.0,Sprint 11,0.0
+ACTUALS,Actual Velocity,0.0,Sprint 11,0.0
+ACTUALS,Actual Work remaining at the end of sprint,0.0,Sprint 11,0.0
+TEAM CAPACITY,Forecast: Planned Resources (FTE),0.0,Sprint 11,0.0
+TEAM CAPACITY,Forecast: Planned Mandays,0.0,Sprint 11,0.0
+TEAM CAPACITY,Estimated: Efficiency Factor,1.0,Sprint 11,1.0

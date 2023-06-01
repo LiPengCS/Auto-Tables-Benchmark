@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_2_6"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 2,
+            "wtl_end_idx": 6,
+            "wtl_stubnames": [
+                "Val",
+                "Qty"
+            ],
+            "wtl_sep": " ",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T6",
+    "url": "https://techcommunity.microsoft.com/t5/excel/excel-does-not-recognize-all-indicators/m-p/3263032"
+}

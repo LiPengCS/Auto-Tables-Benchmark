@@ -1,0 +1,502 @@
+Country,Year,Continent,var,value
+ Albania,2019,Europe,< $1.90,0.00%
+ Algeria,2011,Africa,< $1.90,0.40%
+ Angola,2018,Africa,< $1.90,49.90%
+ Argentina,2020,South America,< $1.90,1.60%
+ Armenia,2020,Asia,< $1.90,0.40%
+ Australia,2018,Oceania,< $1.90,0.50%
+ Austria,2019,Europe,< $1.90,0.60%
+ Azerbaijan,2005,Asia,< $1.90,0.00%
+ Bangladesh,2016,Asia,< $1.90,14.30%
+ Belarus,2020,Europe,< $1.90,0.00%
+ Belgium,2019,Europe,< $1.90,0.10%
+ Belize,1999,North America,< $1.90,13.90%
+ Benin,2018,Africa,< $1.90,19.20%
+ Bhutan,2017,Asia,< $1.90,1.50%
+ Bolivia,2020,South America,< $1.90,4.40%
+ Bosnia and Herzegovina,2011,Europe,< $1.90,0.10%
+ Botswana,2015,Africa,< $1.90,14.50%
+ Brazil,2020,South America,< $1.90,1.70%
+ Bulgaria,2019,Europe,< $1.90,0.90%
+ Burkina Faso,2018,Africa,< $1.90,33.70%
+ Burundi,2013,Africa,< $1.90,72.80%
+ Cameroon,2014,Africa,< $1.90,26.00%
+ Canada,2017,North America,< $1.90,0.20%
+ Cape Verde,2015,Africa,< $1.90,3.40%
+ Central African Republic,2008,Africa,< $1.90,65.90%
+ Chad,2018,Africa,< $1.90,33.20%
+ Chile,2020,South America,< $1.90,0.70%
+ China,2019,Asia,< $1.90,0.10%
+ Colombia,2020,South America,< $1.90,10.30%
+ Comoros,2014,Africa,< $1.90,19.10%
+" Congo, Democratic Republic of the",2012,Africa,< $1.90,77.20%
+" Congo, Republic of the",2011,Africa,< $1.90,39.60%
+ Costa Rica,2020,North America,< $1.90,2.10%
+ Croatia,2019,Europe,< $1.90,0.30%
+ Cyprus,2019,Asia,< $1.90,0.20%
+ Czech Republic,2019,Europe,< $1.90,0.00%
+ Denmark,2019,Europe,< $1.90,0.30%
+ Djibouti,2017,Africa,< $1.90,17.00%
+ Dominican Republic,2020,North America,< $1.90,0.80%
+ East Timor,2014,Asia,< $1.90,22.00%
+ Ecuador,2020,South America,< $1.90,6.50%
+ Egypt,2017,Africa,< $1.90,3.80%
+ El Salvador,2019,North America,< $1.90,1.30%
+ Estonia,2019,Europe,< $1.90,0.50%
+ Eswatini,2016,Africa,< $1.90,29.20%
+ Ethiopia,2015,Africa,< $1.90,30.80%
+ Fiji,2019,Oceania,< $1.90,2.60%
+ Finland,2019,Europe,< $1.90,0.00%
+ France,2018,Europe,< $1.90,0.00%
+ Gabon,2017,Africa,< $1.90,3.40%
+" Gambia, The",2015,Africa,< $1.90,10.30%
+ Georgia,2020,Europe,< $1.90,4.20%
+ Germany,2018,Europe,< $1.90,0.00%
+ Ghana,2016,Africa,< $1.90,12.70%
+ Greece,2019,Europe,< $1.90,0.70%
+ Guatemala,2014,North America,< $1.90,8.80%
+ Guinea,2018,Africa,< $1.90,23.20%
+ Guinea-Bissau,2018,Africa,< $1.90,24.70%
+ Guyana,1998,South America,< $1.90,11.80%
+ Haiti,2012,North America,< $1.90,24.50%
+ Honduras,2019,North America,< $1.90,14.80%
+ Hungary,2019,Europe,< $1.90,0.30%
+ Iceland,2017,Europe,< $1.90,0.00%
+ India,2021,Asia,< $1.90,5.50%
+ Indonesia,2020,Asia,< $1.90,2.30%
+ Iran,2019,Asia,< $1.90,0.60%
+ Iraq,2012,Asia,< $1.90,1.70%
+ Ireland,2018,Europe,< $1.90,0.00%
+ Israel,2018,Asia,< $1.90,0.20%
+ Italy,2018,Europe,< $1.90,1.50%
+ Ivory Coast,2018,Africa,< $1.90,19.20%
+ Jamaica,2004,North America,< $1.90,1.70%
+ Japan,2013,Asia,< $1.90,0.70%
+ Jordan,2010,Asia,< $1.90,0.10%
+ Kazakhstan,2018,Asia,< $1.90,0.00%
+ Kenya,2015,Africa,< $1.90,37.10%
+ Kiribati,2019,Oceania,< $1.90,1.30%
+" Korea, South",2016,Asia,< $1.90,0.20%
+ Kosovo,2017,Europe,< $1.90,0.40%
+ Kyrgyzstan,2020,Asia,< $1.90,1.10%
+ Laos,2018,Asia,< $1.90,10.00%
+ Latvia,2019,Europe,< $1.90,0.20%
+ Lebanon,2011,Asia,< $1.90,0.00%
+ Lesotho,2017,Africa,< $1.90,27.20%
+ Liberia,2016,Africa,< $1.90,44.40%
+ Lithuania,2019,Europe,< $1.90,0.50%
+ Luxembourg,2019,Europe,< $1.90,0.10%
+ Madagascar,2012,Africa,< $1.90,78.80%
+ Malawi,2019,Africa,< $1.90,73.50%
+ Malaysia,2015,Asia,< $1.90,0.00%
+ Maldives,2019,Asia,< $1.90,0.00%
+ Mali,2018,Africa,< $1.90,16.30%
+ Malta,2019,Europe,< $1.90,0.30%
+ Marshall Islands,2019,Oceania,< $1.90,0.80%
+ Mauritania,2014,Africa,< $1.90,6.00%
+ Mauritius,2017,Africa,< $1.90,0.20%
+ Mexico,2020,North America,< $1.90,3.10%
+ Micronesia,2013,Oceania,< $1.90,15.40%
+ Moldova,2019,Europe,< $1.90,0.00%
+ Mongolia,2018,Asia,< $1.90,0.50%
+ Montenegro,2018,Europe,< $1.90,2.90%
+ Morocco,2013,Africa,< $1.90,0.90%
+ Mozambique,2014,Africa,< $1.90,63.70%
+ Myanmar,2017,Asia,< $1.90,1.40%
+ Namibia,2015,Africa,< $1.90,13.80%
+   Nepal,2010,Asia,< $1.90,15.00%
+ Netherlands,2019,Europe,< $1.90,0.10%
+ Nicaragua,2014,North America,< $1.90,3.40%
+ Niger,2018,Africa,< $1.90,41.40%
+ Nigeria,2018,Africa,< $1.90,39.10%
+ North Macedonia,2018,Europe,< $1.90,3.40%
+ Norway,2019,Europe,< $1.90,0.20%
+ Pakistan,2018,Asia,< $1.90,3.60%
+ Palestine,2016,Asia,< $1.90,0.80%
+ Panama,2019,North America,< $1.90,1.20%
+ Papua New Guinea,2009,Oceania,< $1.90,38.00%
+ Paraguay,2020,South America,< $1.90,0.80%
+ Peru,2020,South America,< $1.90,4.40%
+ Philippines,2018,Asia,< $1.90,2.70%
+ Poland,2018,Europe,< $1.90,0.20%
+ Portugal,2019,Europe,< $1.90,0.10%
+ Romania,2019,Europe,< $1.90,2.00%
+ Russia,2018,"Asia, Europe",< $1.90,0.10%
+ Rwanda,2016,Africa,< $1.90,56.50%
+ Saint Lucia,2016,North America,< $1.90,4.60%
+ Samoa,2013,Oceania,< $1.90,1.10%
+ São Tomé and Príncipe,2017,Africa,< $1.90,25.60%
+ Senegal,2018,Africa,< $1.90,7.60%
+ Serbia,2019,Europe,< $1.90,2.30%
+ Seychelles,2018,Africa,< $1.90,0.50%
+ Sierra Leone,2018,Africa,< $1.90,43.00%
+ Slovakia,2019,Europe,< $1.90,0.10%
+ Slovenia,2019,Europe,< $1.90,0.00%
+ Solomon Islands,2012,Oceania,< $1.90,24.70%
+ Somalia,2017,Africa,< $1.90,68.60%
+ South Africa,2014,Africa,< $1.90,18.70%
+ South Sudan,2016,Africa,< $1.90,76.50%
+ Spain,2019,Europe,< $1.90,0.80%
+ Sri Lanka,2016,Asia,< $1.90,0.90%
+ Sudan,2014,Africa,< $1.90,12.20%
+ Suriname,1999,South America,< $1.90,21.10%
+ Sweden,2019,Europe,< $1.90,0.30%
+  Switzerland,2018,Europe,< $1.90,0.00%
+ Syria,2003,Asia,< $1.90,0.90%
+ Tajikistan,2015,Asia,< $1.90,4.10%
+ Tanzania,2018,Africa,< $1.90,49.40%
+ Thailand,2020,Asia,< $1.90,0.00%
+ Togo,2018,Africa,< $1.90,24.10%
+ Tonga,2015,Asia,< $1.90,1.00%
+ Trinidad and Tobago,1992,South America,< $1.90,3.20%
+ Tunisia,2015,Africa,< $1.90,0.20%
+ Turkey,2019,"Asia, Europe",< $1.90,0.40%
+ Turkmenistan,1998,Asia,< $1.90,49.80%
+ Tuvalu,2010,Oceania,< $1.90,3.30%
+ Uganda,2019,Africa,< $1.90,41.00%
+ Ukraine,2020,Europe,< $1.90,0.00%
+ United Arab Emirates,2018,Asia,< $1.90,0.00%
+ United Kingdom,2017,Europe,< $1.90,0.30%
+ United States,2019,North America,< $1.90,1.00%
+ Uruguay,2020,South America,< $1.90,0.20%
+ Uzbekistan,2003,Asia,< $1.90,61.60%
+ Vanuatu,2019,Oceania,< $1.90,8.60%
+ Venezuela,2006,South America,< $1.90,6.70%
+ Vietnam,2018,Asia,< $1.90,1.80%
+ Yemen,2014,Asia,< $1.90,18.30%
+ Zambia,2015,Africa,< $1.90,58.70%
+ Zimbabwe,2019,Africa,< $1.90,39.50%
+ Albania,2019,Europe,< $3.20,1.20%
+ Algeria,2011,Africa,< $3.20,3.70%
+ Angola,2018,Africa,< $3.20,71.50%
+ Argentina,2020,South America,< $3.20,5.80%
+ Armenia,2020,Asia,< $3.20,6.90%
+ Australia,2018,Oceania,< $3.20,0.70%
+ Austria,2019,Europe,< $3.20,0.70%
+ Azerbaijan,2005,Asia,< $3.20,0.00%
+ Bangladesh,2016,Asia,< $3.20,52.30%
+ Belarus,2020,Europe,< $3.20,0.00%
+ Belgium,2019,Europe,< $3.20,0.10%
+ Belize,1999,North America,< $3.20,27.70%
+ Benin,2018,Africa,< $3.20,51.30%
+ Bhutan,2017,Asia,< $3.20,12.20%
+ Bolivia,2020,South America,< $3.20,9.00%
+ Bosnia and Herzegovina,2011,Europe,< $3.20,0.70%
+ Botswana,2015,Africa,< $3.20,36.50%
+ Brazil,2020,South America,< $3.20,4.30%
+ Bulgaria,2019,Europe,< $3.20,2.60%
+ Burkina Faso,2018,Africa,< $3.20,61.80%
+ Burundi,2013,Africa,< $3.20,89.60%
+ Cameroon,2014,Africa,< $3.20,47.00%
+ Canada,2017,North America,< $3.20,0.50%
+ Cape Verde,2015,Africa,< $3.20,15.40%
+ Central African Republic,2008,Africa,< $3.20,82.90%
+ Chad,2018,Africa,< $3.20,66.40%
+ Chile,2020,South America,< $3.20,1.40%
+ China,2019,Asia,< $3.20,1.70%
+ Colombia,2020,South America,< $3.20,19.90%
+ Comoros,2014,Africa,< $3.20,39.70%
+" Congo, Democratic Republic of the",2012,Africa,< $3.20,91.40%
+" Congo, Republic of the",2011,Africa,< $3.20,64.10%
+ Costa Rica,2020,North America,< $3.20,5.70%
+ Croatia,2019,Europe,< $3.20,0.60%
+ Cyprus,2019,Asia,< $3.20,0.20%
+ Czech Republic,2019,Europe,< $3.20,0.00%
+ Denmark,2019,Europe,< $3.20,0.30%
+ Djibouti,2017,Africa,< $3.20,39.80%
+ Dominican Republic,2020,North America,< $3.20,4.00%
+ East Timor,2014,Asia,< $3.20,65.90%
+ Ecuador,2020,South America,< $3.20,14.20%
+ Egypt,2017,Africa,< $3.20,28.90%
+ El Salvador,2019,North America,< $3.20,5.70%
+ Estonia,2019,Europe,< $3.20,0.80%
+ Eswatini,2016,Africa,< $3.20,52.10%
+ Ethiopia,2015,Africa,< $3.20,68.90%
+ Fiji,2019,Oceania,< $3.20,17.80%
+ Finland,2019,Europe,< $3.20,0.10%
+ France,2018,Europe,< $3.20,0.10%
+ Gabon,2017,Africa,< $3.20,11.20%
+" Gambia, The",2015,Africa,< $3.20,38.40%
+ Georgia,2020,Europe,< $3.20,17.00%
+ Germany,2018,Europe,< $3.20,0.20%
+ Ghana,2016,Africa,< $3.20,29.30%
+ Greece,2019,Europe,< $3.20,1.30%
+ Guatemala,2014,North America,< $3.20,24.40%
+ Guinea,2018,Africa,< $3.20,60.40%
+ Guinea-Bissau,2018,Africa,< $3.20,59.50%
+ Guyana,1998,South America,< $3.20,24.00%
+ Haiti,2012,North America,< $3.20,50.30%
+ Honduras,2019,North America,< $3.20,29.00%
+ Hungary,2019,Europe,< $3.20,0.70%
+ Iceland,2017,Europe,< $3.20,0.00%
+ India,2021,Asia,< $3.20,26.20%
+ Indonesia,2020,Asia,< $3.20,18.80%
+ Iran,2019,Asia,< $3.20,4.30%
+ Iraq,2012,Asia,< $3.20,14.80%
+ Ireland,2018,Europe,< $3.20,0.10%
+ Israel,2018,Asia,< $3.20,1.00%
+ Italy,2018,Europe,< $3.20,2.10%
+ Ivory Coast,2018,Africa,< $3.20,34.90%
+ Jamaica,2004,North America,< $3.20,8.80%
+ Japan,2013,Asia,< $3.20,0.90%
+ Jordan,2010,Asia,< $3.20,2.00%
+ Kazakhstan,2018,Asia,< $3.20,0.20%
+ Kenya,2015,Africa,< $3.20,66.50%
+ Kiribati,2019,Oceania,< $3.20,16.20%
+" Korea, South",2016,Asia,< $3.20,0.20%
+ Kosovo,2017,Europe,< $3.20,3.60%
+ Kyrgyzstan,2020,Asia,< $3.20,16.20%
+ Laos,2018,Asia,< $3.20,37.40%
+ Latvia,2019,Europe,< $3.20,0.70%
+ Lebanon,2011,Asia,< $3.20,0.10%
+ Lesotho,2017,Africa,< $3.20,49.90%
+ Liberia,2016,Africa,< $3.20,75.60%
+ Lithuania,2019,Europe,< $3.20,0.70%
+ Luxembourg,2019,Europe,< $3.20,0.10%
+ Madagascar,2012,Africa,< $3.20,91.50%
+ Malawi,2019,Africa,< $3.20,90.40%
+ Malaysia,2015,Asia,< $3.20,0.30%
+ Maldives,2019,Asia,< $3.20,0.00%
+ Mali,2018,Africa,< $3.20,49.50%
+ Malta,2019,Europe,< $3.20,0.40%
+ Marshall Islands,2019,Oceania,< $3.20,5.20%
+ Mauritania,2014,Africa,< $3.20,24.10%
+ Mauritius,2017,Africa,< $3.20,2.20%
+ Mexico,2020,North America,< $3.20,9.80%
+ Micronesia,2013,Oceania,< $3.20,38.70%
+ Moldova,2019,Europe,< $3.20,0.50%
+ Mongolia,2018,Asia,< $3.20,5.00%
+ Montenegro,2018,Europe,< $3.20,6.40%
+ Morocco,2013,Africa,< $3.20,7.30%
+ Mozambique,2014,Africa,< $3.20,82.40%
+ Myanmar,2017,Asia,< $3.20,15.00%
+ Namibia,2015,Africa,< $3.20,30.30%
+   Nepal,2010,Asia,< $3.20,50.80%
+ Netherlands,2019,Europe,< $3.20,0.10%
+ Nicaragua,2014,North America,< $3.20,13.10%
+ Niger,2018,Africa,< $3.20,75.20%
+ Nigeria,2018,Africa,< $3.20,71.00%
+ North Macedonia,2018,Europe,< $3.20,7.10%
+ Norway,2019,Europe,< $3.20,0.20%
+ Pakistan,2018,Asia,< $3.20,34.40%
+ Palestine,2016,Asia,< $3.20,4.50%
+ Panama,2019,North America,< $3.20,4.60%
+ Papua New Guinea,2009,Oceania,< $3.20,65.60%
+ Paraguay,2020,South America,< $3.20,4.70%
+ Peru,2020,South America,< $3.20,14.10%
+ Philippines,2018,Asia,< $3.20,17.00%
+ Poland,2018,Europe,< $3.20,0.40%
+ Portugal,2019,Europe,< $3.20,0.20%
+ Romania,2019,Europe,< $3.20,4.10%
+ Russia,2018,"Asia, Europe",< $3.20,0.40%
+ Rwanda,2016,Africa,< $3.20,80.30%
+ Saint Lucia,2016,North America,< $3.20,10.20%
+ Samoa,2013,Oceania,< $3.20,9.60%
+ São Tomé and Príncipe,2017,Africa,< $3.20,57.00%
+ Senegal,2018,Africa,< $3.20,34.00%
+ Serbia,2019,Europe,< $3.20,4.00%
+ Seychelles,2018,Africa,< $3.20,1.10%
+ Sierra Leone,2018,Africa,< $3.20,76.00%
+ Slovakia,2019,Europe,< $3.20,0.40%
+ Slovenia,2019,Europe,< $3.20,0.00%
+ Solomon Islands,2012,Oceania,< $3.20,58.10%
+ Somalia,2017,Africa,< $3.20,88.90%
+ South Africa,2014,Africa,< $3.20,37.30%
+ South Sudan,2016,Africa,< $3.20,91.70%
+ Spain,2019,Europe,< $3.20,1.20%
+ Sri Lanka,2016,Asia,< $3.20,11.00%
+ Sudan,2014,Africa,< $3.20,44.00%
+ Suriname,1999,South America,< $3.20,34.20%
+ Sweden,2019,Europe,< $3.20,0.40%
+  Switzerland,2018,Europe,< $3.20,0.00%
+ Syria,2003,Asia,< $3.20,10.20%
+ Tajikistan,2015,Asia,< $3.20,17.80%
+ Tanzania,2018,Africa,< $3.20,76.80%
+ Thailand,2020,Asia,< $3.20,0.30%
+ Togo,2018,Africa,< $3.20,51.80%
+ Tonga,2015,Asia,< $3.20,7.50%
+ Trinidad and Tobago,1992,South America,< $3.20,12.50%
+ Tunisia,2015,Africa,< $3.20,3.00%
+ Turkey,2019,"Asia, Europe",< $3.20,2.20%
+ Turkmenistan,1998,Asia,< $3.20,75.40%
+ Tuvalu,2010,Oceania,< $3.20,17.60%
+ Uganda,2019,Africa,< $3.20,70.50%
+ Ukraine,2020,Europe,< $3.20,0.10%
+ United Arab Emirates,2018,Asia,< $3.20,0.00%
+ United Kingdom,2017,Europe,< $3.20,0.50%
+ United States,2019,North America,< $3.20,1.00%
+ Uruguay,2020,South America,< $3.20,0.70%
+ Uzbekistan,2003,Asia,< $3.20,86.20%
+ Vanuatu,2019,Oceania,< $3.20,32.30%
+ Venezuela,2006,South America,< $3.20,14.30%
+ Vietnam,2018,Asia,< $3.20,6.60%
+ Yemen,2014,Asia,< $3.20,51.20%
+ Zambia,2015,Africa,< $3.20,75.40%
+ Zimbabwe,2019,Africa,< $3.20,63.80%
+ Albania,2019,Europe,< $5.50,10.00%
+ Algeria,2011,Africa,< $5.50,28.60%
+ Angola,2018,Africa,< $5.50,88.50%
+ Argentina,2020,South America,< $5.50,18.20%
+ Armenia,2020,Asia,< $5.50,44.70%
+ Australia,2018,Oceania,< $5.50,0.70%
+ Austria,2019,Europe,< $5.50,0.80%
+ Azerbaijan,2005,Asia,< $5.50,7.00%
+ Bangladesh,2016,Asia,< $5.50,84.20%
+ Belarus,2020,Europe,< $5.50,0.10%
+ Belgium,2019,Europe,< $5.50,0.20%
+ Belize,1999,North America,< $5.50,51.10%
+ Benin,2018,Africa,< $5.50,79.30%
+ Bhutan,2017,Asia,< $5.50,38.90%
+ Bolivia,2020,South America,< $5.50,21.60%
+ Bosnia and Herzegovina,2011,Europe,< $5.50,3.80%
+ Botswana,2015,Africa,< $5.50,59.10%
+ Brazil,2020,South America,< $5.50,13.10%
+ Bulgaria,2019,Europe,< $5.50,6.20%
+ Burkina Faso,2018,Africa,< $5.50,80.00%
+ Burundi,2013,Africa,< $5.50,96.90%
+ Cameroon,2014,Africa,< $5.50,71.00%
+ Canada,2017,North America,< $5.50,0.70%
+ Cape Verde,2015,Africa,< $5.50,41.30%
+ Central African Republic,2008,Africa,< $5.50,92.80%
+ Chad,2018,Africa,< $5.50,87.90%
+ Chile,2020,South America,< $5.50,4.40%
+ China,2019,Asia,< $5.50,15.80%
+ Colombia,2020,South America,< $5.50,38.30%
+ Comoros,2014,Africa,< $5.50,64.60%
+" Congo, Democratic Republic of the",2012,Africa,< $5.50,97.90%
+" Congo, Republic of the",2011,Africa,< $5.50,83.90%
+ Costa Rica,2020,North America,< $5.50,16.10%
+ Croatia,2019,Europe,< $5.50,1.80%
+ Cyprus,2019,Asia,< $5.50,0.30%
+ Czech Republic,2019,Europe,< $5.50,0.30%
+ Denmark,2019,Europe,< $5.50,0.40%
+ Djibouti,2017,Africa,< $5.50,70.20%
+ Dominican Republic,2020,North America,< $5.50,15.20%
+ East Timor,2014,Asia,< $5.50,91.80%
+ Ecuador,2020,South America,< $5.50,30.60%
+ Egypt,2017,Africa,< $5.50,72.60%
+ El Salvador,2019,North America,< $5.50,22.30%
+ Estonia,2019,Europe,< $5.50,1.30%
+ Eswatini,2016,Africa,< $5.50,72.00%
+ Ethiopia,2015,Africa,< $5.50,90.20%
+ Fiji,2019,Oceania,< $5.50,55.50%
+ Finland,2019,Europe,< $5.50,0.10%
+ France,2018,Europe,< $5.50,0.10%
+ Gabon,2017,Africa,< $5.50,32.20%
+" Gambia, The",2015,Africa,< $5.50,72.70%
+ Georgia,2020,Europe,< $5.50,46.60%
+ Germany,2018,Europe,< $5.50,0.20%
+ Ghana,2016,Africa,< $5.50,55.10%
+ Greece,2019,Europe,< $5.50,3.40%
+ Guatemala,2014,North America,< $5.50,49.10%
+ Guinea,2018,Africa,< $5.50,89.80%
+ Guinea-Bissau,2018,Africa,< $5.50,86.00%
+ Guyana,1998,South America,< $5.50,51.00%
+ Haiti,2012,North America,< $5.50,78.60%
+ Honduras,2019,North America,< $5.50,49.00%
+ Hungary,2019,Europe,< $5.50,1.80%
+ Iceland,2017,Europe,< $5.50,0.00%
+ India,2021,Asia,< $5.50,60.50%
+ Indonesia,2020,Asia,< $5.50,50.90%
+ Iran,2019,Asia,< $5.50,17.80%
+ Iraq,2012,Asia,< $5.50,52.40%
+ Ireland,2018,Europe,< $5.50,0.10%
+ Israel,2018,Asia,< $5.50,2.00%
+ Italy,2018,Europe,< $5.50,2.90%
+ Ivory Coast,2018,Africa,< $5.50,67.40%
+ Jamaica,2004,North America,< $5.50,29.20%
+ Japan,2013,Asia,< $5.50,1.20%
+ Jordan,2010,Asia,< $5.50,17.50%
+ Kazakhstan,2018,Asia,< $5.50,4.60%
+ Kenya,2015,Africa,< $5.50,86.60%
+ Kiribati,2019,Oceania,< $5.50,58.50%
+" Korea, South",2016,Asia,< $5.50,0.70%
+ Kosovo,2017,Europe,< $5.50,24.40%
+ Kyrgyzstan,2020,Asia,< $5.50,58.10%
+ Laos,2018,Asia,< $5.50,70.40%
+ Latvia,2019,Europe,< $5.50,2.00%
+ Lebanon,2011,Asia,< $5.50,1.70%
+ Lesotho,2017,Africa,< $5.50,73.20%
+ Liberia,2016,Africa,< $5.50,93.20%
+ Lithuania,2019,Europe,< $5.50,1.40%
+ Luxembourg,2019,Europe,< $5.50,0.30%
+ Madagascar,2012,Africa,< $5.50,97.50%
+ Malawi,2019,Africa,< $5.50,97.10%
+ Malaysia,2015,Asia,< $5.50,2.90%
+ Maldives,2019,Asia,< $5.50,1.70%
+ Mali,2018,Africa,< $5.50,77.80%
+ Malta,2019,Europe,< $5.50,0.70%
+ Marshall Islands,2019,Oceania,< $5.50,22.50%
+ Mauritania,2014,Africa,< $5.50,58.80%
+ Mauritius,2017,Africa,< $5.50,12.70%
+ Mexico,2020,North America,< $5.50,28.10%
+ Micronesia,2013,Oceania,< $5.50,69.10%
+ Moldova,2019,Europe,< $5.50,13.30%
+ Mongolia,2018,Asia,< $5.50,27.10%
+ Montenegro,2018,Europe,< $5.50,16.80%
+ Morocco,2013,Africa,< $5.50,30.20%
+ Mozambique,2014,Africa,< $5.50,92.20%
+ Myanmar,2017,Asia,< $5.50,54.30%
+ Namibia,2015,Africa,< $5.50,51.00%
+   Nepal,2010,Asia,< $5.50,83.00%
+ Netherlands,2019,Europe,< $5.50,0.30%
+ Nicaragua,2014,North America,< $5.50,35.40%
+ Niger,2018,Africa,< $5.50,91.80%
+ Nigeria,2018,Africa,< $5.50,92.00%
+ North Macedonia,2018,Europe,< $5.50,17.90%
+ Norway,2019,Europe,< $5.50,0.30%
+ Pakistan,2018,Asia,< $5.50,77.60%
+ Palestine,2016,Asia,< $5.50,21.90%
+ Panama,2019,North America,< $5.50,12.10%
+ Papua New Guinea,2009,Oceania,< $5.50,86.90%
+ Paraguay,2020,South America,< $5.50,17.90%
+ Peru,2020,South America,< $5.50,32.90%
+ Philippines,2018,Asia,< $5.50,46.90%
+ Poland,2018,Europe,< $5.50,1.10%
+ Portugal,2019,Europe,< $5.50,0.90%
+ Romania,2019,Europe,< $5.50,9.20%
+ Russia,2018,"Asia, Europe",< $5.50,2.10%
+ Rwanda,2016,Africa,< $5.50,91.90%
+ Saint Lucia,2016,North America,< $5.50,19.90%
+ Samoa,2013,Oceania,< $5.50,33.90%
+ São Tomé and Príncipe,2017,Africa,< $5.50,82.90%
+ Senegal,2018,Africa,< $5.50,66.80%
+ Serbia,2019,Europe,< $5.50,10.10%
+ Seychelles,2018,Africa,< $5.50,5.20%
+ Sierra Leone,2018,Africa,< $5.50,92.70%
+ Slovakia,2019,Europe,< $5.50,1.30%
+ Slovenia,2019,Europe,< $5.50,0.10%
+ Solomon Islands,2012,Oceania,< $5.50,84.50%
+ Somalia,2017,Africa,< $5.50,97.90%
+ South Africa,2014,Africa,< $5.50,56.90%
+ South Sudan,2016,Africa,< $5.50,97.80%
+ Spain,2019,Europe,< $5.50,2.50%
+ Sri Lanka,2016,Asia,< $5.50,42.00%
+ Sudan,2014,Africa,< $5.50,79.30%
+ Suriname,1999,South America,< $5.50,48.20%
+ Sweden,2019,Europe,< $5.50,0.60%
+  Switzerland,2018,Europe,< $5.50,0.10%
+ Syria,2003,Asia,< $5.50,40.10%
+ Tajikistan,2015,Asia,< $5.50,50.50%
+ Tanzania,2018,Africa,< $5.50,91.80%
+ Thailand,2020,Asia,< $5.50,6.40%
+ Togo,2018,Africa,< $5.50,78.00%
+ Tonga,2015,Asia,< $5.50,27.50%
+ Trinidad and Tobago,1992,South America,< $5.50,31.90%
+ Tunisia,2015,Africa,< $5.50,17.50%
+ Turkey,2019,"Asia, Europe",< $5.50,10.20%
+ Turkmenistan,1998,Asia,< $5.50,91.70%
+ Tuvalu,2010,Oceania,< $5.50,46.70%
+ Uganda,2019,Africa,< $5.50,89.00%
+ Ukraine,2020,Europe,< $5.50,2.50%
+ United Arab Emirates,2018,Asia,< $5.50,0.10%
+ United Kingdom,2017,Europe,< $5.50,0.90%
+ United States,2019,North America,< $5.50,1.50%
+ Uruguay,2020,South America,< $5.50,4.60%
+ Uzbekistan,2003,Asia,< $5.50,96.40%
+ Vanuatu,2019,Oceania,< $5.50,68.10%
+ Venezuela,2006,South America,< $5.50,32.70%
+ Vietnam,2018,Asia,< $5.50,22.40%
+ Yemen,2014,Asia,< $5.50,81.00%
+ Zambia,2015,Africa,< $5.50,88.10%
+ Zimbabwe,2019,Africa,< $5.50,82.80%

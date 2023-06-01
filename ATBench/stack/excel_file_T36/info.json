@@ -1,0 +1,17 @@
+{
+    "label": [
+        "stack_1_6",
+        "transpose-stack_1_17"
+    ],
+    "params": [
+        {
+            "stack_start_idx": 1,
+            "stack_end_idx": 6,
+            "stack_var_name": "Date",
+            "stack_value_name": "Name"
+        }
+    ],
+    "source": "excel_file",
+    "old_name": "excel_file_T16",
+    "url": "annarbor_freetoasthost_net"
+}

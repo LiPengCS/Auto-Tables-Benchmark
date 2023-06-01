@@ -1,0 +1,20 @@
+{
+    "label": [
+        "wide_to_long_4_8"
+    ],
+    "params": [
+        {
+            "wtl_start_idx": 4,
+            "wtl_end_idx": 8,
+            "wtl_stubnames": [
+                "Cover",
+                "Height"
+            ],
+            "wtl_sep": "",
+            "wtl_pos": "suffix"
+        }
+    ],
+    "source": "excel_forum",
+    "old_name": "excel_forum_T5",
+    "url": "https://techcommunity.microsoft.com/t5/excel/power-query-for-multiple-columns-and-multiple-dates/m-p/2441907"
+}

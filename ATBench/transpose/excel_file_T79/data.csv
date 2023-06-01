@@ -1,0 +1,44 @@
+Services,Single Room,Presidential Suite,Double Balcony,Double No Balcony,Studio,Suite,Deluxe Suite
+Number of Rooms From this type2,5,1,68,102,17,11,5
+Room Size,25 m2,80 m2,37 m2,34 m2,45 m2, 64 m2,64 m2
+Minimum Capacity,1,2,1,1,2,2,2
+Maximum Capacity,1,2,2+1,2+1,2+2,3+1,2
+"Connecting Rooms 
+",0,0,0,0,0,0,0
+View,Mountain,Mountain,Mountain,Mountain,Mountain,Mountain,Mountain
+Type of premises ,Bedroom and Bathroom,Bedroom / Living Room / Dinning Room/,Bedroom and Bathroom,Bedroom and Bathroom,Bedroom Relax corner / Bathroom,Bedroom / Living room / Bathroom,Bedroom/ Living Room / Bathroom
+Type of beds,Double bed (bedroom),Round bedroom,Twin beds or King (twin connected),Twin beds or King (twin connected),King (twin connected),King (twin connected),King
+Sofa Bed/ Chair,0,1,1,1,1,1,1
+How many bathroom,1,2,1,1,1,2,1
+How many bedrooms,1,1,1,1,1,1,1
+How many toilets,1,2,1,1,1,2,2
+Relax Area,1,1,1,1,1,1,1
+Working desk,1,1,1,1,1,1,1
+Balcony/Terace,1,1,1,0,0,1,1
+Hairdryer,1,1,1,1,1,1,1
+Telephone,1,1,1,1,1,1,1
+TV,1,1,1,1,1,1,1
+Cable / Satellite,1,1,1,1,1,1,1
+Paid channels,0,0,0,0,0,0,0
+CD or DVD Player,0,0,0,0,0,0,0
+Air-conditioning,1,1,1,1,1,1,1
+Floor covering ,Carpet,Carpet,Carpet,Carpet,Carpet,Carpet,Carpet
+Internet in the room,"Yes, Free","Yes, Free","Yes, Free","Yes, Free","Yes, Free","Yes, Free","Yes, Free"
+Safety Box,2,2,2,2,2,2,2
+Mini Bar,2,2,2,2,2,2,2
+Refrigerator,0,0,0,0,0,0,0
+Electric kettle,0,0,0,0,0,0,0
+Coffee Machine,0,1,0,0,0,0,0
+Kitchen,0,1,0,0,0,0,0
+Fireplace,0,1,0,0,0,0,0
+Private Pool,0,0,0,0,0,0,0
+Jacuzzi,0,1,0,0,0,0,0
+Sauna,0,1,0,0,0,0,0
+Steam Bath,0,0,0,0,0,0,0
+Study Room/Office,0,0,0,0,0,0,0
+Bidet,1,1,1,1,1,1,1
+Shower or Bathtub,Both,Both,Both,Both,Both,Both,Both
+bathrobes and slippers,1,1,1,1,1,1,1
+Toiletries,1,1,1,1,1,1,1
+Ironing board,3,3,3,3,3,3,3
+Iron,3,3,3,3,3,3,3

@@ -1,0 +1,13 @@
+{
+    "label": [
+        "pivot_8"
+    ],
+    "params": [
+        {
+            "pivot_row_frequency": 8
+        }
+    ],
+    "source": "stackoverflow",
+    "old_name": "stackoverflow_T15",
+    "url": "https://stackoverflow.com/questions/49070668/amazon-fine-foods-convert-text-file-to-pandas-dataframe"
+}

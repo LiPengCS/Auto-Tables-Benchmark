@@ -1,0 +1,15 @@
+{
+    "label": [
+        "explode_1"
+    ],
+    "params": [
+        {
+            "explode_column": "Challenges",
+            "explode_column_idx": 1,
+            "explode_sep": ","
+        }
+    ],
+    "source": "notebook",
+    "old_name": "powerbi_forum_T11",
+    "url": "https://community.powerbi.com/t5/Power-Query/Need-help-with-reshaping-table/m-p/2314006\n"
+}
