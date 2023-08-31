@@ -1,0 +1,32 @@
+{
+    "top-1": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 11
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 0
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 11
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 2,
+            "wide_to_long_end_idx": 11
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 3,
+            "stack_end_idx": 10
+        }
+    ]
+}

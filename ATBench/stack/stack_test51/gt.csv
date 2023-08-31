@@ -1,0 +1,431 @@
+Seq.,President,var,value
+1,George Washington,AC,3
+2,John Adams,AC,32
+3,Thomas Jefferson,AC,11
+4,James Madison,AC,7
+5,James Monroe,AC,8
+6,John Quincy Adams,AC,29
+7,Andrew Jackson,AC,38
+8,Martin Van Buren,AC,13
+9,William Henry Harrison,AC,35
+10,John Tyler,AC,39
+11,James K. Polk,AC,23
+12,Zachary Taylor,AC,34
+13,Millard Fillmore,AC,25
+14,Franklin Pierce,AC,36
+15,James Buchanan,AC,41
+16,Abraham Lincoln,AC,1
+17,Andrew Johnson,AC,43
+18,Ulysses S. Grant,AC,22
+19,Rutherford B. Hayes,AC,18
+20,James A. Garfield,AC,27
+21,Chester A. Arthur,AC,21
+22,Grover Cleveland,AC,19
+23,Benjamin Harrison,AC,30
+25,William McKinley,AC,20
+26,Theodore Roosevelt,AC,12
+27,William Howard Taft,AC,24
+28,Woodrow Wilson,AC,37
+29,Warren G. Harding,AC,26
+30,Calvin Coolidge,AC,28
+31,Herbert Hoover,AC,40
+32,Franklin D. Roosevelt,AC,2
+33,Harry S. Truman,AC,15
+34,Dwight D. Eisenhower,AC,5
+35,John F. Kennedy,AC,6
+36,Lyndon B. Johnson,AC,9
+37,Richard Nixon,AC,33
+38,Gerald Ford,AC,17
+39,Jimmy Carter,AC,31
+40,Ronald Reagan,AC,14
+41,George H. W. Bush,AC,16
+42,Bill Clinton,AC,4
+43,George W. Bush,AC,42
+44,Barack Obama,AC,10
+1,George Washington,WR,4
+2,John Adams,WR,16
+3,Thomas Jefferson,WR,8
+4,James Madison,WR,15
+5,James Monroe,WR,17
+6,John Quincy Adams,WR,23
+7,Andrew Jackson,WR,5
+8,Martin Van Buren,WR,32
+9,William Henry Harrison,WR,30
+10,John Tyler,WR,26
+11,James K. Polk,WR,7
+12,Zachary Taylor,WR,28
+13,Millard Fillmore,WR,37
+14,Franklin Pierce,WR,38
+15,James Buchanan,WR,43
+16,Abraham Lincoln,WR,2
+17,Andrew Johnson,WR,34
+18,Ulysses S. Grant,WR,22
+19,Rutherford B. Hayes,WR,33
+20,James A. Garfield,WR,31
+21,Chester A. Arthur,WR,27
+22,Grover Cleveland,WR,24
+23,Benjamin Harrison,WR,39
+25,William McKinley,WR,21
+26,Theodore Roosevelt,WR,1
+27,William Howard Taft,WR,36
+28,Woodrow Wilson,WR,9
+29,Warren G. Harding,WR,40
+30,Calvin Coolidge,WR,41
+31,Herbert Hoover,WR,42
+32,Franklin D. Roosevelt,WR,3
+33,Harry S. Truman,WR,6
+34,Dwight D. Eisenhower,WR,20
+35,John F. Kennedy,WR,10
+36,Lyndon B. Johnson,WR,12
+37,Richard Nixon,WR,14
+38,Gerald Ford,WR,35
+39,Jimmy Carter,WR,25
+40,Ronald Reagan,WR,11
+41,George H. W. Bush,WR,29
+42,Bill Clinton,WR,18
+43,George W. Bush,WR,19
+44,Barack Obama,WR,13
+1,George Washington,EAp,1
+2,John Adams,EAp,15
+3,Thomas Jefferson,EAp,5
+4,James Madison,EAp,9
+5,James Monroe,EAp,8
+6,John Quincy Adams,EAp,13
+7,Andrew Jackson,EAp,19
+8,Martin Van Buren,EAp,25
+9,William Henry Harrison,EAp,24
+10,John Tyler,EAp,34
+11,James K. Polk,EAp,16
+12,Zachary Taylor,EAp,28
+13,Millard Fillmore,EAp,35
+14,Franklin Pierce,EAp,38
+15,James Buchanan,EAp,39
+16,Abraham Lincoln,EAp,2
+17,Andrew Johnson,EAp,42
+18,Ulysses S. Grant,EAp,40
+19,Rutherford B. Hayes,EAp,33
+20,James A. Garfield,EAp,29
+21,Chester A. Arthur,EAp,26
+22,Grover Cleveland,EAp,18
+23,Benjamin Harrison,EAp,36
+25,William McKinley,EAp,20
+26,Theodore Roosevelt,EAp,4
+27,William Howard Taft,EAp,22
+28,Woodrow Wilson,EAp,10
+29,Warren G. Harding,EAp,43
+30,Calvin Coolidge,EAp,30
+31,Herbert Hoover,EAp,32
+32,Franklin D. Roosevelt,EAp,3
+33,Harry S. Truman,EAp,7
+34,Dwight D. Eisenhower,EAp,17
+35,John F. Kennedy,EAp,6
+36,Lyndon B. Johnson,EAp,12
+37,Richard Nixon,EAp,37
+38,Gerald Ford,EAp,23
+39,Jimmy Carter,EAp,21
+40,Ronald Reagan,EAp,31
+41,George H. W. Bush,EAp,27
+42,Bill Clinton,EAp,11
+43,George W. Bush,EAp,41
+44,Barack Obama,EAp,14
+1,George Washington,OA,4
+2,John Adams,OA,13
+3,Thomas Jefferson,OA,5
+4,James Madison,OA,6
+5,James Monroe,OA,16
+6,John Quincy Adams,OA,15
+7,Andrew Jackson,OA,12
+8,Martin Van Buren,OA,24
+9,William Henry Harrison,OA,37
+10,John Tyler,OA,35
+11,James K. Polk,OA,17
+12,Zachary Taylor,OA,34
+13,Millard Fillmore,OA,38
+14,Franklin Pierce,OA,39
+15,James Buchanan,OA,42
+16,Abraham Lincoln,OA,1
+17,Andrew Johnson,OA,41
+18,Ulysses S. Grant,OA,28
+19,Rutherford B. Hayes,OA,33
+20,James A. Garfield,OA,25
+21,Chester A. Arthur,OA,30
+22,Grover Cleveland,OA,20
+23,Benjamin Harrison,OA,36
+25,William McKinley,OA,21
+26,Theodore Roosevelt,OA,3
+27,William Howard Taft,OA,23
+28,Woodrow Wilson,OA,8
+29,Warren G. Harding,OA,43
+30,Calvin Coolidge,OA,32
+31,Herbert Hoover,OA,26
+32,Franklin D. Roosevelt,OA,2
+33,Harry S. Truman,OA,7
+34,Dwight D. Eisenhower,OA,11
+35,John F. Kennedy,OA,14
+36,Lyndon B. Johnson,OA,9
+37,Richard Nixon,OA,22
+38,Gerald Ford,OA,31
+39,Jimmy Carter,OA,29
+40,Ronald Reagan,OA,19
+41,George H. W. Bush,OA,27
+42,Bill Clinton,OA,10
+43,George W. Bush,OA,40
+44,Barack Obama,OA,18
+1,George Washington,Im,9
+2,John Adams,Im,17
+3,Thomas Jefferson,Im,3
+4,James Madison,Im,8
+5,James Monroe,Im,16
+6,John Quincy Adams,Im,11
+7,Andrew Jackson,Im,13
+8,Martin Van Buren,Im,24
+9,William Henry Harrison,Im,35
+10,John Tyler,Im,29
+11,James K. Polk,Im,14
+12,Zachary Taylor,Im,27
+13,Millard Fillmore,Im,36
+14,Franklin Pierce,Im,39
+15,James Buchanan,Im,42
+16,Abraham Lincoln,Im,2
+17,Andrew Johnson,Im,41
+18,Ulysses S. Grant,Im,26
+19,Rutherford B. Hayes,Im,32
+20,James A. Garfield,Im,28
+21,Chester A. Arthur,Im,25
+22,Grover Cleveland,Im,22
+23,Benjamin Harrison,Im,34
+25,William McKinley,Im,23
+26,Theodore Roosevelt,Im,1
+27,William Howard Taft,Im,30
+28,Woodrow Wilson,Im,5
+29,Warren G. Harding,Im,43
+30,Calvin Coolidge,Im,37
+31,Herbert Hoover,Im,38
+32,Franklin D. Roosevelt,Im,4
+33,Harry S. Truman,Im,15
+34,Dwight D. Eisenhower,Im,20
+35,John F. Kennedy,Im,7
+36,Lyndon B. Johnson,Im,12
+37,Richard Nixon,Im,19
+38,Gerald Ford,Im,33
+39,Jimmy Carter,Im,21
+40,Ronald Reagan,Im,18
+41,George H. W. Bush,Im,31
+42,Bill Clinton,Im,10
+43,George W. Bush,Im,40
+44,Barack Obama,Im,6
+1,George Washington,DA,4
+2,John Adams,DA,22
+3,Thomas Jefferson,DA,6
+4,James Madison,DA,12
+5,James Monroe,DA,8
+6,John Quincy Adams,DA,18
+7,Andrew Jackson,DA,14
+8,Martin Van Buren,DA,27
+9,William Henry Harrison,DA,36
+10,John Tyler,DA,34
+11,James K. Polk,DA,11
+12,Zachary Taylor,DA,37
+13,Millard Fillmore,DA,35
+14,Franklin Pierce,DA,39
+15,James Buchanan,DA,43
+16,Abraham Lincoln,DA,1
+17,Andrew Johnson,DA,42
+18,Ulysses S. Grant,DA,26
+19,Rutherford B. Hayes,DA,33
+20,James A. Garfield,DA,25
+21,Chester A. Arthur,DA,20
+22,Grover Cleveland,DA,17
+23,Benjamin Harrison,DA,32
+25,William McKinley,DA,19
+26,Theodore Roosevelt,DA,2
+27,William Howard Taft,DA,21
+28,Woodrow Wilson,DA,9
+29,Warren G. Harding,DA,40
+30,Calvin Coolidge,DA,31
+31,Herbert Hoover,DA,41
+32,Franklin D. Roosevelt,DA,3
+33,Harry S. Truman,DA,7
+34,Dwight D. Eisenhower,DA,13
+35,John F. Kennedy,DA,15
+36,Lyndon B. Johnson,DA,5
+37,Richard Nixon,DA,24
+38,Gerald Ford,DA,30
+39,Jimmy Carter,DA,29
+40,Ronald Reagan,DA,23
+41,George H. W. Bush,DA,28
+42,Bill Clinton,DA,10
+43,George W. Bush,DA,38
+44,Barack Obama,DA,16
+1,George Washington,Int,2
+2,John Adams,Int,3
+3,Thomas Jefferson,Int,14
+4,James Madison,Int,5
+5,James Monroe,Int,10
+6,John Quincy Adams,Int,4
+7,Andrew Jackson,Int,23
+8,Martin Van Buren,Int,29
+9,William Henry Harrison,Int,30
+10,John Tyler,Int,33
+11,James K. Polk,Int,24
+12,Zachary Taylor,Int,21
+13,Millard Fillmore,Int,36
+14,Franklin Pierce,Int,38
+15,James Buchanan,Int,40
+16,Abraham Lincoln,Int,1
+17,Andrew Johnson,Int,37
+18,Ulysses S. Grant,Int,27
+19,Rutherford B. Hayes,Int,28
+20,James A. Garfield,Int,25
+21,Chester A. Arthur,Int,32
+22,Grover Cleveland,Int,19
+23,Benjamin Harrison,Int,31
+25,William McKinley,Int,22
+26,Theodore Roosevelt,Int,6
+27,William Howard Taft,Int,18
+28,Woodrow Wilson,Int,11
+29,Warren G. Harding,Int,42
+30,Calvin Coolidge,Int,17
+31,Herbert Hoover,Int,13
+32,Franklin D. Roosevelt,Int,16
+33,Harry S. Truman,Int,8
+34,Dwight D. Eisenhower,Int,9
+35,John F. Kennedy,Int,35
+36,Lyndon B. Johnson,Int,34
+37,Richard Nixon,Int,43
+38,Gerald Ford,Int,15
+39,Jimmy Carter,Int,7
+40,Ronald Reagan,Int,26
+41,George H. W. Bush,Int,20
+42,Bill Clinton,Int,41
+43,George W. Bush,Int,39
+44,Barack Obama,Int,12
+1,George Washington,EAb,2
+2,John Adams,EAb,19
+3,Thomas Jefferson,EAb,5
+4,James Madison,EAb,14
+5,James Monroe,EAb,11
+6,John Quincy Adams,EAb,21
+7,Andrew Jackson,EAb,6
+8,Martin Van Buren,EAb,23
+9,William Henry Harrison,EAb,33
+10,John Tyler,EAb,37
+11,James K. Polk,EAb,9
+12,Zachary Taylor,EAb,31
+13,Millard Fillmore,EAb,38
+14,Franklin Pierce,EAb,40
+15,James Buchanan,EAb,42
+16,Abraham Lincoln,EAb,1
+17,Andrew Johnson,EAb,41
+18,Ulysses S. Grant,EAb,34
+19,Rutherford B. Hayes,EAb,30
+20,James A. Garfield,EAb,26
+21,Chester A. Arthur,EAb,27
+22,Grover Cleveland,EAb,17
+23,Benjamin Harrison,EAb,35
+25,William McKinley,EAb,18
+26,Theodore Roosevelt,EAb,4
+27,William Howard Taft,EAb,25
+28,Woodrow Wilson,EAb,10
+29,Warren G. Harding,EAb,43
+30,Calvin Coolidge,EAb,28
+31,Herbert Hoover,EAb,29
+32,Franklin D. Roosevelt,EAb,3
+33,Harry S. Truman,EAb,8
+34,Dwight D. Eisenhower,EAb,7
+35,John F. Kennedy,EAb,13
+36,Lyndon B. Johnson,EAb,12
+37,Richard Nixon,EAb,24
+38,Gerald Ford,EAb,32
+39,Jimmy Carter,EAb,36
+40,Ronald Reagan,EAb,20
+41,George H. W. Bush,EAb,22
+42,Bill Clinton,EAb,15
+43,George W. Bush,EAb,39
+44,Barack Obama,EAb,16
+1,George Washington,FPA,3
+2,John Adams,FPA,12
+3,Thomas Jefferson,FPA,7
+4,James Madison,FPA,20
+5,James Monroe,FPA,2
+6,John Quincy Adams,FPA,16
+7,Andrew Jackson,FPA,19
+8,Martin Van Buren,FPA,25
+9,William Henry Harrison,FPA,39
+10,John Tyler,FPA,35
+11,James K. Polk,FPA,8
+12,Zachary Taylor,FPA,34
+13,Millard Fillmore,FPA,33
+14,Franklin Pierce,FPA,40
+15,James Buchanan,FPA,41
+16,Abraham Lincoln,FPA,5
+17,Andrew Johnson,FPA,38
+18,Ulysses S. Grant,FPA,24
+19,Rutherford B. Hayes,FPA,30
+20,James A. Garfield,FPA,31
+21,Chester A. Arthur,FPA,26
+22,Grover Cleveland,FPA,21
+23,Benjamin Harrison,FPA,28
+25,William McKinley,FPA,15
+26,Theodore Roosevelt,FPA,4
+27,William Howard Taft,FPA,23
+28,Woodrow Wilson,FPA,10
+29,Warren G. Harding,FPA,37
+30,Calvin Coolidge,FPA,32
+31,Herbert Hoover,FPA,36
+32,Franklin D. Roosevelt,FPA,1
+33,Harry S. Truman,FPA,6
+34,Dwight D. Eisenhower,FPA,9
+35,John F. Kennedy,FPA,17
+36,Lyndon B. Johnson,FPA,43
+37,Richard Nixon,FPA,11
+38,Gerald Ford,FPA,27
+39,Jimmy Carter,FPA,29
+40,Ronald Reagan,FPA,13
+41,George H. W. Bush,FPA,14
+42,Bill Clinton,FPA,18
+43,George W. Bush,FPA,42
+44,Barack Obama,FPA,22
+1,George Washington,LA,1
+2,John Adams,LA,20
+3,Thomas Jefferson,LA,6
+4,James Madison,LA,17
+5,James Monroe,LA,13
+6,John Quincy Adams,LA,26
+7,Andrew Jackson,LA,5
+8,Martin Van Buren,LA,27
+9,William Henry Harrison,LA,24
+10,John Tyler,LA,36
+11,James K. Polk,LA,10
+12,Zachary Taylor,LA,25
+13,Millard Fillmore,LA,39
+14,Franklin Pierce,LA,40
+15,James Buchanan,LA,43
+16,Abraham Lincoln,LA,2
+17,Andrew Johnson,LA,42
+18,Ulysses S. Grant,LA,21
+19,Rutherford B. Hayes,LA,32
+20,James A. Garfield,LA,23
+21,Chester A. Arthur,LA,28
+22,Grover Cleveland,LA,19
+23,Benjamin Harrison,LA,34
+25,William McKinley,LA,18
+26,Theodore Roosevelt,LA,4
+27,William Howard Taft,LA,31
+28,Woodrow Wilson,LA,12
+29,Warren G. Harding,LA,41
+30,Calvin Coolidge,LA,33
+31,Herbert Hoover,LA,37
+32,Franklin D. Roosevelt,LA,3
+33,Harry S. Truman,LA,9
+34,Dwight D. Eisenhower,LA,7
+35,John F. Kennedy,LA,11
+36,Lyndon B. Johnson,LA,15
+37,Richard Nixon,LA,29
+38,Gerald Ford,LA,30
+39,Jimmy Carter,LA,35
+40,Ronald Reagan,LA,8
+41,George H. W. Bush,LA,22
+42,Bill Clinton,LA,14
+43,George W. Bush,LA,38
+44,Barack Obama,LA,16

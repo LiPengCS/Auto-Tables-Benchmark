@@ -1,0 +1,25 @@
+Group of benefits,English name,Funding,Branch,Sub-branch,Means-test,Notes on units
+"Old-age, Survivors & Early retirement",Old-Age Insurance_Retired workers,0,0,0,0,0
+,Old-Age Insurance_Spouses,0,0,0,0,0
+,"Old-Age Insurance_Children (minor, disabled and student)",0,0,0,0,0
+,Railroad Retirement Benefits (All categories),0,0,0,0,1
+,Civil Service Retirement Program,0,0,0,0,1
+,Supplemental Security Income (SSI) - Aged,0,0,0,1,1
+,Survivors Insurance_Widow(er)s (aged and disabled),0,1,1,0,0
+,Survivors Insurance_Widowed mothers and fathers = Young Widows and Widowers,0,1,1,0,0
+,"Survivors Insurance_Children (Minor, Disabled and Student)",0,1,1,0,0
+,Railroad Survivor Benefits (All categories),0,1,1,0,1
+,Civil Service Retirement - Survivors,0,1,1,0,1
+Disability benefits,Disability Insurance_Disabled workers,0,2,2,0,0
+,Veteran's pension and compensation,0,2,2,0,1
+,Supplemental Security Income (SSI) - Blind and Disabled,0,2,2,1,0
+Unemployment benefits,Unemployment Insurance benefits,0,3,3,0,0
+,Unemployment Compensation for Federal Employees,0,3,3,0,0
+,Unemployment Compensation for Ex-Service Members,0,3,3,0,0
+,Railroad Unemployment Insurance,0,3,3,0,1
+,Trade Readjustment Allowances,0,3,3,0,0
+,Emergency Unemployment Compensation (EUC08),0,3,3,0,0
+,Federal-State Extended Benefits (EB),0,3,3,0,0
+,State Additional Benefits (AB),0,3,3,0,0
+"Social assistance, Lone parents & Housing",Temporary Assistance for Needy Families (TANF) ,0,Family,"Other (Lone Parent Benefits, etc.)",1,0
+,Food stamp assistance: Supplemental Nutrition Assistance Program (SNAP) benefits,0,Other-Social,"Other (Food Subsidies, Education, etc.)",1,"recipient households, average or point-in-time"

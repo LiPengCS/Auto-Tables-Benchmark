@@ -1,0 +1,7 @@
+State,Country,Var,group1,group2
+MA,US,a1,0.03,9.0
+MA,US,b2,1.2,7.0
+ON,CAN,a1,0.7,4.0
+ON,CAN,b2,4.2,2.0
+TX,US,a1,0.45,2.0
+TX,US,b2,0.3,6.0

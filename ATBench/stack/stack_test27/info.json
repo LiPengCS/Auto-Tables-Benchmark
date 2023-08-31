@@ -1,0 +1,20 @@
+{
+    "source": "stackoverflow",
+    "label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 12
+        }
+    ],
+    "alternative_label": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 30
+        }
+    ]
+}

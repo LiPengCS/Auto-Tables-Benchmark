@@ -1,0 +1,20 @@
+{
+    "top-1": [
+        {
+            "operator": "subtitle"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "none"
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "subtitle"
+        },
+        {
+            "operator": "subtitle"
+        }
+    ]
+}

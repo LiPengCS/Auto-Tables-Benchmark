@@ -1,0 +1,30 @@
+{
+    "top-1": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        },
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 1,
+            "wide_to_long_end_idx": 7
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 47
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ]
+}

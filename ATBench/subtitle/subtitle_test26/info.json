@@ -1,0 +1,9 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "subtitle"
+        }
+    ],
+    "alternative_label": null
+}

@@ -1,0 +1,30 @@
+Subpart,Material group,Substances,CAS number,Mass(mg),Mass(%) of subpart,Mass(%) of total product
+Die,Doped silicon,Silicon (Si),7440-21-3,0.04,100.0,0.72243
+,,subTotal,,0.04,100.0,0.72243
+Lead Frame,Iron-nickel alloy,Aluminium (Al),7429-90-5,0.00172,0.09005,0.03106
+,,Carbon (C),7440-44-0,0.00076,0.03979,0.01373
+,,Chromium (Cr),7440-47-3,0.00172,0.09005,0.03106
+,,Cobalt (Co),7440-48-4,0.00821,0.42985,0.14828
+,,Iron (Fe),7439-89-6,0.85281,44.65021,15.40241
+,,Manganese (Mn),7439-96-5,0.01318,0.69006,0.23804
+,,Nickel (Ni),7440-02-0,0.65971,34.54015,11.91488
+,,Phosphorous (P),7723-14-0,0.00038,0.0199,0.00686
+,,Silicon (Si),7440-21-3,0.00497,0.26021,0.08976
+,,Sulphur (S),7704-34-9,0.00038,0.0199,0.00686
+,Pure metal layer,Copper (Cu),7440-50-8,0.32183,16.84991,5.8125
+,,Silver (Ag),7440-22-4,0.04431,2.31992,0.80027
+,,subTotal,,1.90998,100.0,34.49571
+Mould Compound,Filler,Silica fused,60676-86-0,2.53087,75.1,45.70951
+,Pigment,Carbon black,1333-86-4,0.01011,0.3,0.18259
+,Polymer,Epichlorohydrin/o-Cresol/Formaldehyde polymer 1,29690-82-2,0.58975,17.5,10.65134
+,,Phenol Formaldehyde resin 1,9003-35-4,0.23927,7.1,4.3214
+,,subTotal,,3.37,100.0,60.86484
+Post-plating,Tin solder,Antimony (Sb),7440-36-0,1e-05,0.00476,0.00018
+,,Bismuth (Bi),7440-69-9,1e-05,0.00476,0.00018
+,,Copper (Cu),7440-50-8,1e-05,0.00476,0.00018
+,,Lead (Pb),7439-92-1,2e-05,0.00952,0.00036
+,,Tin (Sn),7440-31-5,0.20995,99.9762,3.79186
+,,subTotal,,0.21,100.0,3.79276
+Wire,Pure metal,Copper (Cu),7440-50-8,0.00688,100.0,0.12426
+,,subTotal,,0.00688,100.0,0.12426
+,,total,,5.53686,100.0,100.0

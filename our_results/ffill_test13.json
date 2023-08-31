@@ -1,0 +1,29 @@
+{
+    "top-1": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 2
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 3,
+            "stack_end_idx": 6
+        }
+    ]
+}

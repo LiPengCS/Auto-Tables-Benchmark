@@ -1,0 +1,57 @@
+Title,Year,Bond actor,Director,Var,Box office,Budget,Salary of Bond actor
+A View to a Kill,1985,Roger Moore,John Glen,(Actual $ (millions)),152.4,30,5
+A View to a Kill,1985,Roger Moore,John Glen,(Adjusted 2005 $ (millions)),275.2,54.5,9.1
+Casino Royale,1967,David Niven,Ken Hughes John Huston Joseph McGrath Robert Parrish Val Guest Richard Talmadge,(Actual $ (millions)),44.4,12,
+Casino Royale,1967,David Niven,Ken Hughes John Huston Joseph McGrath Robert Parrish Val Guest Richard Talmadge,(Adjusted 2005 $ (millions)),260,70,
+Casino Royale,2006,Daniel Craig,Martin Campbell,(Actual $ (millions)),594.2,150,3.4
+Casino Royale,2006,Daniel Craig,Martin Campbell,(Adjusted 2005 $ (millions)),581.5,145.3,3.3
+Diamonds Are Forever,1971,Sean Connery,Guy Hamilton,(Actual $ (millions)),116,7.2,1.2 + 12.5% of gross (14.5)
+Diamonds Are Forever,1971,Sean Connery,Guy Hamilton,(Adjusted 2005 $ (millions)),442.5,34.7,5.8 excluding profit participation
+Die Another Day,2002,Pierce Brosnan,Lee Tamahori,(Actual $ (millions)),431.9,142,16.5
+Die Another Day,2002,Pierce Brosnan,Lee Tamahori,(Adjusted 2005 $ (millions)),465.4,154.2,17.9
+Dr. No,1962,Sean Connery,Terence Young,(Actual $ (millions)),59.5,1.1,0.1
+Dr. No,1962,Sean Connery,Terence Young,(Adjusted 2005 $ (millions)),448.8,7,0.6
+For Your Eyes Only,1981,Roger Moore,John Glen,(Actual $ (millions)),194.9,28,
+For Your Eyes Only,1981,Roger Moore,John Glen,(Adjusted 2005 $ (millions)),449.4,60.2,
+From Russia with Love,1963,Sean Connery,Terence Young,(Actual $ (millions)),78.9,2,0.3
+From Russia with Love,1963,Sean Connery,Terence Young,(Adjusted 2005 $ (millions)),543.8,12.6,1.6
+GoldenEye,1995,Pierce Brosnan,Martin Campbell,(Actual $ (millions)),351.9,60,4
+GoldenEye,1995,Pierce Brosnan,Martin Campbell,(Adjusted 2005 $ (millions)),518.5,76.9,5.1
+Goldfinger,1964,Sean Connery,Guy Hamilton,(Actual $ (millions)),124.9,3,0.5
+Goldfinger,1964,Sean Connery,Guy Hamilton,(Adjusted 2005 $ (millions)),820.4,18.6,3.2
+Licence to Kill,1989,Timothy Dalton,John Glen,(Actual $ (millions)),156.2,36,5
+Licence to Kill,1989,Timothy Dalton,John Glen,(Adjusted 2005 $ (millions)),250.9,56.7,7.9
+Live and Let Die,1973,Roger Moore,Guy Hamilton,(Actual $ (millions)),126.4,7,0.18
+Live and Let Die,1973,Roger Moore,Guy Hamilton,(Adjusted 2005 $ (millions)),460.3,30.8,0.7
+Moonraker,1979,Roger Moore,Lewis Gilbert,(Actual $ (millions)),210.3,34,
+Moonraker,1979,Roger Moore,Lewis Gilbert,(Adjusted 2005 $ (millions)),535,91.5,
+Never Say Never Again,1983,Sean Connery,Irvin Kershner,(Actual $ (millions)),160,36,
+Never Say Never Again,1983,Sean Connery,Irvin Kershner,(Adjusted 2005 $ (millions)),314,71,
+Octopussy,1983,Roger Moore,John Glen,(Actual $ (millions)),183.7,27.5,4
+Octopussy,1983,Roger Moore,John Glen,(Adjusted 2005 $ (millions)),373.8,53.9,7.8
+On Her Majesty's Secret Service,1969,George Lazenby,Peter R. Hunt,(Actual $ (millions)),64.6,7,0.1
+On Her Majesty's Secret Service,1969,George Lazenby,Peter R. Hunt,(Adjusted 2005 $ (millions)),291.5,37.3,0.6
+Quantum of Solace,2008,Daniel Craig,Marc Forster,(Actual $ (millions)),576,200,8.9
+Quantum of Solace,2008,Daniel Craig,Marc Forster,(Adjusted 2005 $ (millions)),514.2,181.4,8.1
+Skyfall,2012,Daniel Craig,Sam Mendes,(Actual $ (millions)),1108.6,150.0_200.0,17
+Skyfall,2012,Daniel Craig,Sam Mendes,(Adjusted 2005 $ (millions)),943.5,127.7_170.2,14.5
+Spectre,2015,Daniel Craig,Sam Mendes,(Actual $ (millions)),880.7,245.0_250.0,39
+Spectre,2015,Daniel Craig,Sam Mendes,(Adjusted 2005 $ (millions)),725.5,201.8_205.9,
+The Living Daylights,1987,Timothy Dalton,John Glen,(Actual $ (millions)),191.2,40,3
+The Living Daylights,1987,Timothy Dalton,John Glen,(Adjusted 2005 $ (millions)),313.5,68.8,5.2
+The Man with the Golden Gun,1974,Roger Moore,Guy Hamilton,(Actual $ (millions)),98.5,7,0.24 + 2.5%
+The Man with the Golden Gun,1974,Roger Moore,Guy Hamilton,(Adjusted 2005 $ (millions)),334,27.7,0..8 excluding profit participation
+The Spy Who Loved Me,1977,Roger Moore,Lewis Gilbert,(Actual $ (millions)),185.4,14,0.3 + 3.75%
+The Spy Who Loved Me,1977,Roger Moore,Lewis Gilbert,(Adjusted 2005 $ (millions)),533,45.1,0..9 excluding profit participation
+The World Is Not Enough,1999,Pierce Brosnan,Michael Apted,(Actual $ (millions)),361.8,135,12.4
+The World Is Not Enough,1999,Pierce Brosnan,Michael Apted,(Adjusted 2005 $ (millions)),439.5,158.3,13.5
+Thunderball,1965,Sean Connery,Terence Young,(Actual $ (millions)),141.2,6.8,0.8
+Thunderball,1965,Sean Connery,Terence Young,(Adjusted 2005 $ (millions)),848.1,41.9,4.7
+Tomorrow Never Dies,1997,Pierce Brosnan,Roger Spottiswoode,(Actual $ (millions)),338.9,110,8.2
+Tomorrow Never Dies,1997,Pierce Brosnan,Roger Spottiswoode,(Adjusted 2005 $ (millions)),463.2,133.9,10
+Total,Total,All films,All films,(Actual $ (millions)),"7,033.50","1,501_1,556",
+Total,Total,All films,All films,(Adjusted 2005 $ (millions)),"13,283","2,162_2,208",
+Total,Total,Eon-produced film series,Eon-produced film series,(Actual $ (millions)),"6,829.10","1,453_1,508",
+Total,Total,Eon-produced film series,Eon-produced film series,(Adjusted 2005 $ (millions)),"12,086","1,881_1,927",
+You Only Live Twice,1967,Sean Connery,Lewis Gilbert,(Actual $ (millions)),101,10.3,0.8 + 25% net merch royalty
+You Only Live Twice,1967,Sean Connery,Lewis Gilbert,(Adjusted 2005 $ (millions)),514.2,59.9,4.4 excluding profit participation

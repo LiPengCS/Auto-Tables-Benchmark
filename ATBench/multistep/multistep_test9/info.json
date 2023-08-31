@@ -1,0 +1,14 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 3
+        }
+    ],
+    "alternative_label": null
+}

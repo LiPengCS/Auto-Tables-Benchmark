@@ -1,0 +1,27 @@
+{
+    "top-1": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "transpose"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 9
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 12
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+Generation,Series 2,1st generation,Series 1
+Model,Apple Watch Hermès,Apple Watch Hermès,Apple Watch
+Initial release operating system,watchOS 3.0 (iOS 10),watchOS 1.0 (iOS 8.2),watchOS 3.0 (iOS 10)
+Latest release operating system,watchOS 3.2.2 (iOS 10.3.2),watchOS 3.2.2 (iOS 10.3.2),watchOS 3.2.2 (iOS 10.3.2)
+Display,"Retina Display AMOLED with Force Touch 38 mm: 21.22 × 26.52 mm; 33.96 mm (1.337 in) diagonally, 272×340 pixels, 326 dpi 42 mm: 24.34 × 30.42 mm; 38.96 mm (1.534 in) diagonally, 312×390 pixels, 326 dpi","Retina Display AMOLED with Force Touch 38 mm: 21.22 × 26.52 mm; 33.96 mm (1.337 in) diagonally, 272×340 pixels, 326 dpi 42 mm: 24.34 × 30.42 mm; 38.96 mm (1.534 in) diagonally, 312×390 pixels, 326 dpi","Retina Display AMOLED with Force Touch 38 mm: 21.22 × 26.52 mm; 33.96 mm (1.337 in) diagonally, 272×340 pixels, 326 dpi 42 mm: 24.34 × 30.42 mm; 38.96 mm (1.534 in) diagonally, 312×390 pixels, 326 dpi"
+Power,,38 mm: 3.8 V 0.78 Wh (205 mAh) 42 mm: 3.78 V 0.93 Wh (246 mAh),
+Rated battery life,,"Up to 18 hours (6.5 hours of audio playback, 3 hours of talk time, or 72 hours of Power Reserve mode)",
+Dimensions (L x W x H),38 mm: 38.6 mm × 33.3 mm × 11.4 mm (1.52 in × 1.31 in × 0.45 in) 42 mm: 42.5 mm × 36.4 mm × 11.4 mm (1.67 in × 1.43 in × 0.45 in),38 mm: 38.6 mm × 33.3 mm × 10.5 mm (1.52 in × 1.31 in × 0.41 in) 42 mm: 42 mm × 35.9 mm × 10.5 mm (1.65 in × 1.41 in × 0.41 in),38 mm: 38.6 mm × 33.3 mm × 10.5 mm (1.52 in × 1.31 in × 0.41 in) 42 mm: 42.5 mm × 36.4 mm × 11.4 mm (1.67 in × 1.43 in × 0.45 in)
+Weight,38 mm (aluminum): 30 g 42 mm (aluminum): 34.2 g 38 mm (stainless steel): 41.9 g 42 mm (stainless steel): 52.4 g,38 mm: 40 g 42 mm: 50 g,38 mm: 25 g 42 mm: 30 g
+Greenhouse gas emissions,30 kg CO2e,50 kg CO2e,20 kg CO2e
+Back,Ceramic,Ceramic,Composite
+Screen,Sapphire crystal,Sapphire crystal,Strengthened Ion-X glass
+Case,,,
+Band,,,
+SiP,Apple S2,Apple S1,Apple S1P
+Memory,,512 MB LPDDR3,
+Storage,8 GB NAND Flash,8 GB NAND Flash,8 GB NAND Flash
+Bluetooth,Bluetooth 4.0,Bluetooth 4.0,Bluetooth 4.0
+Wi-Fi,Wi-Fi (802.11b/g/n 2.4 GHz),Wi-Fi (802.11b/g/n 2.4 GHz),Wi-Fi (802.11b/g/n 2.4 GHz)
+Water Resistance,50 meters under ISO standard 22810:2010,IPX7 under IEC standard 60529,IPX7 under IEC standard 60529
+NFC,Yes,Yes,Yes
+Heart rate sensor,Yes,Yes,Yes
+Accelerometer,Yes,Yes,Yes
+Gyroscope,Yes,Yes,Yes
+VoiceOver,Yes,Yes,Yes
+Zoom,Yes,Yes,Yes
+Extra Large watch face,Yes,Yes,Yes
+Font Adjustments,Yes,Yes,Yes
+Grayscale,Yes,Yes,Yes
+Reduce Motion,Yes,Yes,Yes
+Reduce Transparency,Yes,Yes,Yes
+On/Off Labels,Yes,Yes,Yes
+Taptic Engine,Yes,Yes,Yes
+Prominent Haptic,Yes,Yes,Yes
+Mono Audio,Yes,Yes,Yes
+Hardware strings,,"Watch1,1 Watch1,2",
+Model number,,38 mm: A1553 42 mm: A1554,
+FCCID,,BCG-E2870 BCG-E2871,
+Released,"September 16, 2016","January 22, 2016","September 16, 2016"
+Discontinued,In production,"September 7, 2016",In production
+Unsupported,Supported,Supported,Supported

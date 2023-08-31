@@ -1,0 +1,23 @@
+{
+    "source": "wikipedia",
+    "label": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 3
+        }
+    ],
+    "alternative_label": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 3
+        },
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        }
+    ]
+}

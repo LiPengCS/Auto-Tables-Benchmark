@@ -1,0 +1,7 @@
+ID,Order #1 Quantity,Order #1 Date,Order #2 Quantity,Order #2 Date,Order #3 Quantity,Order #3 Date,Order #4 Quantity,Order #4 Date
+Department A,1,12/23/2020,,,1.0,12/29/2020,,
+Department B,1,12/23/2020,1.0,12/29/2020,,,,
+Department C,2,12/23/2020,2.0,12/24/2020,2.0,12/29/2020,1.0,12/30/2020
+Department D,1,12/23/2020,1.0,12/29/2020,,,,
+Department E,2,12/23/2020,2.0,12/29/2020,,,,
+Department F,2,12/23/2020,,,1.0,12/29/2020,,

@@ -1,0 +1,7 @@
+Basis,Description,Var,E.UUID,H.UUID,Typ,n
+AW01,lore lipsum,S1,bbbb,aaaa,abc,1
+AW01,lore lipsum,S2,dddd,cccc,def,33
+AW01,lore lipsum,S3,,,,
+AW02,Shubi duu,S1,zzzz,wwww,x11,2
+AW02,Shubi duu,S2,hhhh,tttt,y22,44
+AW02,Shubi duu,S3,pppp,qqqq,z33,3.0

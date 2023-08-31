@@ -1,0 +1,23 @@
+{
+    "top-1": [
+        {
+            "operator": "none"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        },
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ]
+}

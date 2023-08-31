@@ -1,0 +1,10 @@
+{
+    "source": "wikipedia",
+    "label": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        }
+    ],
+    "alternative_label": null
+}

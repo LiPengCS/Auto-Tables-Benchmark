@@ -1,0 +1,25 @@
+{
+    "top-1": [
+        {
+            "operator": "subtitle"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "subtitle"
+        },
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "subtitle"
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 1
+        }
+    ]
+}

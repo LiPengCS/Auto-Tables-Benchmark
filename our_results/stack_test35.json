@@ -1,0 +1,26 @@
+{
+    "top-1": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 7
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 4,
+            "wide_to_long_end_idx": 7
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 5,
+            "stack_end_idx": 8
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "none"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 4
+        }
+    ],
+    "alternative_label": null
+}

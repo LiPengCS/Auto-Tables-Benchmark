@@ -1,0 +1,11 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 7,
+            "wide_to_long_end_idx": 12
+        }
+    ],
+    "alternative_label": null
+}

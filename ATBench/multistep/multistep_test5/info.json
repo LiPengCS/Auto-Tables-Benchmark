@@ -1,0 +1,25 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 2,
+            "stack_end_idx": 3
+        }
+    ],
+    "alternative_label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 2,
+            "stack_end_idx": 3
+        },
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ]
+}

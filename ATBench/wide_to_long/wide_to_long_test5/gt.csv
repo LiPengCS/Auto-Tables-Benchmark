@@ -1,0 +1,25 @@
+ID,Var,Date,Quantity
+Department A,Order #1,12/23/2020,1
+Department A,Order #2,,
+Department A,Order #3,12/29/2020,1.0
+Department A,Order #4,,
+Department B,Order #1,12/23/2020,1
+Department B,Order #2,12/29/2020,1.0
+Department B,Order #3,,
+Department B,Order #4,,
+Department C,Order #1,12/23/2020,2
+Department C,Order #2,12/24/2020,2.0
+Department C,Order #3,12/29/2020,2.0
+Department C,Order #4,12/30/2020,1.0
+Department D,Order #1,12/23/2020,1
+Department D,Order #2,12/29/2020,1.0
+Department D,Order #3,,
+Department D,Order #4,,
+Department E,Order #1,12/23/2020,2
+Department E,Order #2,12/29/2020,2.0
+Department E,Order #3,,
+Department E,Order #4,,
+Department F,Order #1,12/23/2020,2
+Department F,Order #2,,
+Department F,Order #3,12/29/2020,1.0
+Department F,Order #4,,

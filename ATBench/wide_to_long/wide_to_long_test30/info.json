@@ -1,0 +1,11 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 1,
+            "wide_to_long_end_idx": 42
+        }
+    ],
+    "alternative_label": null
+}

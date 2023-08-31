@@ -1,0 +1,22 @@
+{
+    "top-1": [
+        {
+            "operator": "none"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 0,
+            "stack_end_idx": 3
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "transpose"
+        }
+    ]
+}

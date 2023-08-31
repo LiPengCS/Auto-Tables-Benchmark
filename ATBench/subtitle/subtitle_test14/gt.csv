@@ -1,0 +1,160 @@
+Subtitle,Common Name (click for description),Moisture Requirement,Deer Resistant?
+FERNS,Christmas Fern,0.0,0.0
+FERNS,Cinnamon Fern,1.0,0.0
+FERNS,Hay-scented Fern,0.0,0.0
+FERNS,Lady Fern,2.0,0.0
+FERNS,Maidenhair Fern,0.0,0.0
+FERNS,Marginal Wood Fern,0.0,0.0
+FERNS,Marsh Fern,1.0,0.0
+FERNS,Ostrich Fern,1.0,0.0
+FERNS,Royal Fern,1.0,0.0
+FERNS,Sensitive Fern,1.0,0.0
+GRASSES,Big Bluestem,0.0,0.0
+GRASSES,Bottlebrush Grass,3.0,0.0
+GRASSES,Broadleaved Sedge,0.0,0.0
+GRASSES,Broomsedge Bluestem,2.0,0.0
+GRASSES,Indian Grass,0.0,0.0
+GRASSES,Little Bluestem,4.0,0.0
+GRASSES,Northern Sea Oats,3.0,0.0
+GRASSES,Panic Grass,0.0,0.0
+GRASSES,Pennsylvania Sedge,0.0,0.0
+GRASSES,Purple Lovegrass,4.0,0.0
+GRASSES,Virginia Wild Rye,1.0,0.0
+GRASSES,Wool Grass,1.0,0.0
+SHRUBS - Small (< 3'),Carolina Rose,4.0,1.0
+SHRUBS - Small (< 3'),Lowbush Blueberry,4.0,0.0
+SHRUBS - Small (< 3'),Meadowsweet,5.0,0.0
+SHRUBS - Small (< 3'),New Jersey Tea,6.0,1.0
+SHRUBS - Small (< 3'),Steeplebush,5.0,0.0
+SHRUBS - Small (< 3'),Sweetfern,4.0,0.0
+SHRUBS - Medium (3 - 6'),Beach Plum,4.0,1.0
+SHRUBS - Medium (3 - 6'),Black Chokeberry,2.0,1.0
+SHRUBS - Medium (3 - 6'),Black Huckleberry,4.0,0.0
+SHRUBS - Medium (3 - 6'),Flowering Raspberry,0.0,0.0
+SHRUBS - Medium (3 - 6'),Hearts a'burstin,0.0,1.0
+SHRUBS - Medium (3 - 6'),Red Chokeberry,2.0,1.0
+SHRUBS - Medium (3 - 6'),Red-osier Dogwood,1.0,1.0
+SHRUBS - Medium (3 - 6'),Sweet Pepperbush,2.0,1.0
+SHRUBS - Medium (3 - 6'),Virginia Rose,0.0,1.0
+SHRUBS - Medium (3 - 6'),Virginia Sweetspire,2.0,0.0
+SHRUBS - Medium (3 - 6'),Wild Hydrangea,3.0,1.0
+SHRUBS - Large (> 6'),American Hazelnut,0.0,1.0
+SHRUBS - Large (> 6'),Bayberry,2.0,0.0
+SHRUBS - Large (> 6'),Blackhaw,0.0,1.0
+SHRUBS - Large (> 6'),Buttonbush,1.0,1.0
+SHRUBS - Large (> 6'),Common Elderberry,1.0,1.0
+SHRUBS - Large (> 6'),Gray Dogwood,2.0,1.0
+SHRUBS - Large (> 6'),Highbush Blueberry,2.0,1.0
+SHRUBS - Large (> 6'),Maple-leaved Viburnum,0.0,1.0
+SHRUBS - Large (> 6'),Nannyberry,6.0,1.0
+SHRUBS - Large (> 6'),Northern Arrowwood,2.0,1.0
+SHRUBS - Large (> 6'),Serviceberry,0.0,1.0
+SHRUBS - Large (> 6'),Silky Dogwood,1.0,1.0
+SHRUBS - Large (> 6'),Smooth Alder,1.0,1.0
+SHRUBS - Large (> 6'),Spicebush,2.0,1.0
+SHRUBS - Large (> 6'),Winterberry,1.0,1.0
+SHRUBS - Large (> 6'),Witch-hazel,0.0,1.0
+TREES - Small (< 25'),Flowering Dogwood,0.0,1.0
+TREES - Small (< 25'),Gray Birch,0.0,1.0
+TREES - Small (< 25'),Ironwood,3.0,1.0
+TREES - Small (< 25'),Pawpaw,3.0,1.0
+TREES - Small (< 25'),Redbud,0.0,1.0
+TREES - Small (< 25'),River Birch,2.0,1.0
+TREES - Small (< 25'),Sassafras,0.0,1.0
+TREES - Small (< 25'),Sweetbay Magnolia,2.0,1.0
+TREES - Large (25 - 50+'),American Basswood,3.0,1.0
+TREES - Large (25 - 50+'),American Beech,3.0,1.0
+TREES - Large (25 - 50+'),American Holly,0.0,1.0
+TREES - Large (25 - 50+'),American Sycamore,2.0,1.0
+TREES - Large (25 - 50+'),Black Tupelo,2.0,1.0
+TREES - Large (25 - 50+'),Eastern Red Cedar,4.0,0.0
+TREES - Large (25 - 50+'),Hackberry,0.0,1.0
+TREES - Large (25 - 50+'),Mockernut Hickory,0.0,1.0
+TREES - Large (25 - 50+'),Northern Red Oak,0.0,1.0
+TREES - Large (25 - 50+'),Persimmon,0.0,1.0
+TREES - Large (25 - 50+'),Pin Oak,2.0,1.0
+TREES - Large (25 - 50+'),Shagbark Hickory,2.0,1.0
+TREES - Large (25 - 50+'),Sugar Maple,3.0,1.0
+TREES - Large (25 - 50+'),Swamp White OaK,1.0,1.0
+TREES - Large (25 - 50+'),Sweet Birch,0.0,1.0
+TREES - Large (25 - 50+'),White Oak,3.0,1.0
+VINES,Coral Honeysuckle,3.0,0.0
+VINES,Groundnut,2.0,0.0
+VINES,Virginia Creeper,0.0,0.0
+VINES,Virgin's Bower Clematis,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Adam's Needle,7.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Anise Hyssop,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Bearberry,7.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Beebalm,2.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Blue False Indigo,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Blue Flag,1.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Blue Vervain,1.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Boneset,1.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Butterfly Milkweed,4.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Clustered Mountain-Mint,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Common Milkweed,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Culver's Root,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Cutleaf Coneflower,0.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Foxglove Beardtongue,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Hairy Beardtongue,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Horsemint,4.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Hyssop-leaved Boneset,4.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Joe Pye Weed,2.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Late Boneset,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,New England Aster,3.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,New York Ironweed,1.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Orange Coneflower,0.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Paleleaf Woodland Sunflower,4.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Prickly Pear Cactus,7.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Purple Blazing Star,3.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Purple Giant Hyssop,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Purple Milkweed,2.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Purple Mistflower,2.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Rose Mallow,1.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Spotted Joe-Pye,2.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Sundrops,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Swamp Milkweed,1.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Turk's Cap Lily,3.0,1.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Virginia Mountain-mint,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Virginia Spiderwort,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,White Turtlehead,1.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Wild Bergamot,3.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Wild Strawberry,0.0,0.0
+WILDFLOWERS - Meadows - Sun to Partial Shade,Woodland Sunflower,4.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Alumroot,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Big Leaf Aster,0.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Black Cohosh,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Blue Wood Aster,0.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Cardinal Flower,1.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Eastern Red Columbine,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Foamflower,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Golden Alexanders,3.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Golden Ragwort,2.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Great Blue Lobelia,2.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Green-and-Gold,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Helen's Flower,1.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Jack-in-the-pulpit,3.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Mad Dog Skullcap,2.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Marsh Marigold,1.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Mayapple,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Mitrewort,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Monkey Flower,1.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Purple Joe-Pye,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Rue Anemone,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Solomon's Seal,0.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Spikenard,3.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Stoneroot,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Virginia Waterleaf,2.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,White Wood Aster,0.0,1.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wild Bleeding Heart,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wild Geranium,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wild Ginger,0.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wild Leek,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wild Stonecrop,3.0,0.0
+WILDFLOWERS - Partial Shade to Shade - Forest and Forest Edges,Wreath Goldenrod,0.0,1.0
+AQUATIC PLANTS - Sun to Partial Shade,American Bur-reed,1.0,0.0
+AQUATIC PLANTS - Sun to Partial Shade,Fragrant Water-lily,1.0,0.0
+AQUATIC PLANTS - Sun to Partial Shade,Lizards Tail,1.0,0.0
+AQUATIC PLANTS - Sun to Partial Shade,Pickerelweed,1.0,0.0
+AQUATIC PLANTS - Sun to Partial Shade,Spatterdock,1.0,0.0
+AQUATIC PLANTS - Sun to Partial Shade,Sweetflag,1.0,0.0

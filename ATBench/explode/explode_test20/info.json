@@ -1,0 +1,10 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 2
+        }
+    ],
+    "alternative_label": null
+}

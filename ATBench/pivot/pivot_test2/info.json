@@ -1,0 +1,10 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 4
+        }
+    ],
+    "alternative_label": null
+}

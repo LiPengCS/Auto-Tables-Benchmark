@@ -1,0 +1,11 @@
+{
+    "source": "web",
+    "label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 4,
+            "stack_end_idx": 10
+        }
+    ],
+    "alternative_label": null
+}

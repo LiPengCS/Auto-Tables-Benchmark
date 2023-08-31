@@ -1,0 +1,197 @@
+Top level,Subdivision
+Funding,
+,Identify and invite co-applicants
+,Secure funding
+,Budget management
+,Report to funder
+Trial design,
+,"Develop research idea including scientific rationale, clinical relevance, clinical feasibility"
+,"Obtain statistical advice, including Sample size calculation"
+,Obtain peer review 
+Protocol,
+,Obtain EudraCT number and relevant registrations
+,Protocol preparation (including internal departmental review)
+,Protocol review
+,Protocol sign-off
+Risk Assessment,
+,"Develop, review and update risk assessment "
+,"Develop, review and update risk related plans e.g. monitoring plan"
+Sponsorship and Insurance,
+,Confirm Sponsorship
+,Arrange insurance and  / or where appropriate indemnity
+Trial Master File,
+,Prepare and maintain Trial Master File (TMF)
+Service and Supply,
+,Identify appropriate providers in line with applicable policy
+,Source study product
+,"Source other suppliers such as CRO, lab, pharmacy, courier"
+,Provide trial equipment supplies
+,Obtain / provide randomisation service
+,Identify appropriate contracts 
+,Negotiate appropriate contracts
+,Sign off appropriate contracts
+Site Selection and Management,
+,"Identify, select and recruit sites /  centre / hubs / investigators"
+,Negotiate contract with sites
+,Sign off of contracts with sites
+,Provide information to sites (including newsletters)
+,Conduct site training and setup
+,"Put and keep in place training / arrangements to allow investigators to conduct the trial according to the Protocol, GCP and applicable regulations"
+,Provide Investigator Site File (ISF)
+,Distribute trial documents to sites
+,Activate authorised sites
+,Oversee performance of sites
+,Administer changes at site (including PI change)
+,Close out sites
+Site Conduct,
+,Obtain authorisation from local regulatory bodies (e.g. host organisation)
+,"Ensure adequate facilities, resources and support are available to conduct the study"
+,Maintain ISF
+,Ensure the rights of individual participants are protected and that they receive appropriate medical care whilst participating in the trial
+,Ensure that no participant is recruited at site until the participating site has been activated
+,Ensure that the appropriate consent has been provided by the participants
+,Ensure the appropriate delegation logs are maintained and kept up to date
+,Ensure overview of operational day-to-day business
+,"Ensure that the study is conducted locally according to GCP, all relevant legislation and the Protocol"
+,"Submit all study data and material required for the study, in accordance with the Protocol and any study specific manuals."
+,"Report SAEs, protocol deviations  and all serious breaches of study conduct and / or GCP as required"
+,Ensure that study IMP supplies for specific use in the study are used in strict accordance with the Protocol and are not used for any other purpose.
+,Maintain study product storage and accountability
+,"Ensure that all Clinical Data and documentation are available for the purposes of monitoring, inspection or audit"
+Ethics Approval,
+,0
+,1
+,2
+,3
+,Obtain positive opinion from appropriate research ethics committee 
+,Submit and distribute annual progress reports
+Competent Authority Approval,
+,0
+,1
+,2
+,3
+,Obtain competent authority authorisation
+,Submit and distribute annual safety reports (e.g. DSUR)
+Other Approvals,
+,Obtain relevant national host organisation approval e.g. HRA
+,Obtain local agreement for trial conduct
+Trial Management,
+,Develop project plan/ overview of timelines
+,Ensure adherence to and adoption of University of Oxford Core SOPs
+,Ensure that the CTU/ coordinating centre staff are appropriately qualified / trained / educated to conduct the study and where applicable honorary employment contracts are in place
+,Coordinate Investigator meetings
+,Ensure third parties compliance to appropriate regulations and other requirements
+,Ensure that no participant is recruited to the trial until satisfied that all relevant permissions and approvals have been obtained.
+,Ensure that no participant is recruited to the trial or study activated until satisfied that all relevant systems and resources are in place.
+,Ensure the participants confidentiality is maintained in accordance with relevant legislation including the Data Protection Act
+CRF/eCRF design,
+,Design and prepare CRF
+,Review and validation CRF
+,Generate CRF guidelines
+,Sign off CRF
+Database design,
+,Design and build database
+,Design and build participant registration or randomisation database
+,Conduct system testing and validation
+,Conduct user acceptance testing
+,Conduct database user training
+Data Management,
+,Oversee or prepare data management plan
+,Oversee or prepare other detailed manual as required e.g. imaging
+,Data coding
+,Data entry
+,Data checks
+,Track CRFs
+,Ensure data timeliness and quality
+,Query management
+,Data transfer approval 
+,Data transfer
+,Database reconciliation
+,Database lock
+Code breaking,
+,Define emergency code breaking procedures (if applicable)
+,Provide emergency code breaking (if applicable)
+IMP management,
+,Source IMP in line with relevant procurement rules
+,"Ensure retention of IMP documentation (e.g. certificate of analysis, IMP packaging sample etc.)"
+,Ensure labelling and QP release
+,Ensure that all sites are at all times in possession of the current information on the IMP
+,Ensure that sufficient IMP is available to participants free of charge
+,Distribute study product to sites
+,Maintain study product accountability
+,Ensure appropriate destruction of IMP and maintain detailed records
+Device management,
+,"Ensure that investigational medical devices are not used for any purpose other than the conduct of the study, unless specific permission is given"
+,"Ensure that investigational medical devices are stored in appropriate, secure conditions and returned as instructed"
+,Ensure detailed records are maintained regarding movement from delivery to return / destruction
+Sampling handling,
+,"Oversee, prepare and maintain lab / sample handling manual"
+,Prepare and maintain appropriate SOP for sample handling
+,Ensure sample receipt and tracking
+,Administer laboratory supplies
+,Transfer of appropriate analysis results to study database
+,Organise appropriate retention or disposal of samples on completion of study
+Monitoring,
+,Conduct and document monitoring according to monitoring plan 
+Audit and Inspection,
+,Plan and conduct audits appropriate to trial
+,Facilitate audits and inspections
+Safety Reporting,
+,Define reportable events in protocol
+,"Ensure RSI definition, provision and revision"
+,"Ensure access has been gained for eSUSAR, Eudravigilance  (or equivalent) and EudraCT results database (or equivalent)"
+,Arrange appropriate systems and data collection documentation related to safety
+,Keep records of safety events
+,Assess safety events
+,Review SAE
+,Issue of queries for SAE
+,Ensure appropriate follow-up of SAE
+,"Report SUSAR/unexpected and related SAE to CA, ethics, Sponsor, host organisation as required"
+,Report safety concerns to investigators including SUSARs
+Serious Breach,
+,Identify potential serious breach 
+,Report potential serious breaches to Sponsor
+,Classify incidents as a serious breach
+,Report serious breach to CA
+,Provide follow-up information on a serious breach
+Complaint,
+,Receipt of complaint
+,Investigation of complaint
+,Communication with Insurers
+Amendments including Urgent Safety Measures and Temporary Halts,
+,"Identify, communicate and implement urgent safety measures"
+,Report any stoppage in study activities of any form which are anticipated or proves to be more than one month and may result in the need to implement a formal temporary halt to Sponsor
+,Prepare amendment submission bundle
+,Review amendment submission bundle
+,Sign off amendment submission bundle
+,Submit amendment submission bundle
+,Obtain approval/positive opinion from appropriate bodies
+,Provide appropriate details to all participating R&Ds / host organisations
+Committee Management,
+,Identify and invite members for committees (in line with funder regulations)
+,Coordinate Trial / Project Management Group
+,Report to Trial / Project Management Group
+,Coordinate Trial Steering Committee
+,Report to Trial Steering Committee
+,Coordinate Data Monitoring Committee
+,Report to Data Monitoring Committee
+Statistical analysis,
+,Develop statistical analysis plan
+,Review and agree statistical analysis plan
+,Conduct statistical analysis (interim and final)
+,Prepare trial report
+,Review trial report
+,Sign off trial report
+Publication,
+,Prepare publication draft
+,Review publication
+,Submit publication
+,Disseminate into applicable databases including copy to Sponsor
+Close out,
+,"End of trial or early termination communication (including end of study report) to CA, ethics, Sponsor, host organisation as applicable"
+,Reconcile trial finances
+,Terminate service agreements
+Archiving,
+,Ensure that all study records held at site are archived appropriately when notified to do so and retained as required
+,All relevant and appropriate study documentation collated in preparation for archiving
+,Archive by Named Archivist

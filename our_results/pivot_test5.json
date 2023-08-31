@@ -1,0 +1,28 @@
+{
+    "top-1": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 3
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 3
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 0,
+            "stack_end_idx": 2
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 3
+        },
+        {
+            "operator": "transpose"
+        }
+    ]
+}

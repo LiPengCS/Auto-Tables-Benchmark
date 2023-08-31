@@ -1,0 +1,28 @@
+{
+    "top-1": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 7
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 7
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 0,
+            "stack_end_idx": 2
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 7
+        },
+        {
+            "operator": "transpose"
+        }
+    ]
+}

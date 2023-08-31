@@ -1,0 +1,23 @@
+{
+    "top-1": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 6
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 3
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 6
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "none"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 9,
+            "wide_to_long_end_idx": 14
+        }
+    ],
+    "alternative_label": null
+}

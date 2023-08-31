@@ -1,0 +1,21 @@
+Existing Industry Rank,NAICS Title,Occupation Rank,SOC Title,SOC Code,Minimum Education Level,Work Experience,On-the-Job Training,2014 Employment ,2014 Average Hourly  Wage,Projected Annual Growth Rate (2012-2022)
+1.0,NAICS 621 Ambulatory health care services,1,Physician assistants,29-1071,0,0,0,10,60.02,0.04918
+,,2,Nurse practitioners,29-1171,0,0,0,50,51.34,0.038174
+,,3,Physical Therapists,29-1123,Doctoral or professional degree,0,0,90,41.03,0.036735
+,,4,Medical Secretaries,43-6013,1,0,1,680,16.27,0.040372
+,,5,Registered Nurses,29-1141,Associate's degree,0,0,1100,34.84,0.03068
+2.0,NAICS 611 Educational services,1,"Education administrators, postsecondary",Nov-33,0,1,0,130,39.87,0.023383
+,,2,0,0,2,2,0,740,41.48,0.023908
+,,3,Instructional Coordinators,25-9031,0,1,0,60,23.22,0.023834
+,,4,Computer Systems Analysts,15-1121,2,0,0,80,33.08,0.036923
+,,5,Training and Development Specialists,13-1151,2,2,0,70,24.69,0.026462
+3.0,"NAICS 424 Merchant wholesalers, nondurable goods",1,Sales Managers,Nov-22,2,2,0,80,62.84,0.02439
+,,2,Heavy and Tractor-Trailer Truck Drivers,53-3032,Postsecondary non-degree award,0,Short-term on-the-job training,520,17.84,0.028
+,,3,First-Line Supervisors of Non-Retail Sales Workers,41-1012,1,2,0,70,25.53,0.026087
+,,4,1,1,1,0,1,590,17.69,0.023529
+,,5,Financial Managers,Nov-31,2,1,0,110,44.76,0.02381
+4.0,NAICS 441 Motor vehicle and parts dealers,1,0,0,2,2,0,740,41.48,0.012811
+,,2,"First-Line Supervisors of Mechanics, Installers, and Repairers",49-1011,1,2,0,210,24.81,0.013376
+,,3,1,1,1,0,1,590,17.69,0.014286
+,,4,First-Line Supervisors of Retail Sales Workers,41-1011,1,2,0,810,18.89,0.012805
+,,4,Parts Salespersons,41-2022,Less than high school,0,1,100,14.0,0.013696

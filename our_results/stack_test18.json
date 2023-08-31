@@ -1,0 +1,20 @@
+{
+    "top-1": [
+        {
+            "operator": "none"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 2,
+            "stack_end_idx": 4
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ]
+}

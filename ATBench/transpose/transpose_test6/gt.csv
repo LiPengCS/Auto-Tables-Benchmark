@@ -1,0 +1,9 @@
+Services,Number of Rooms From this type2,Room Size,Minimum Capacity,Maximum Capacity,"Connecting Rooms 
+",View,Type of premises ,Type of beds,Sofa Bed/ Chair,How many bathroom,How many bedrooms,How many toilets,Relax Area,Working desk,Balcony/Terace,Hairdryer,Telephone,TV,Cable / Satellite,Paid channels,CD or DVD Player,Air-conditioning,Floor covering ,Internet in the room,Safety Box,Mini Bar,Refrigerator,Electric kettle,Coffee Machine,Kitchen,Fireplace,Private Pool,Jacuzzi,Sauna,Steam Bath,Study Room/Office,Bidet,Shower or Bathtub,bathrobes and slippers,Toiletries,Ironing board,Iron
+Single Room,5,25 m2,1,1,0,Mountain,Bedroom and Bathroom,Double bed (bedroom),0,1,1,1,1,1,1,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3
+Presidential Suite,1,80 m2,2,2,0,Mountain,Bedroom / Living Room / Dinning Room/,Round bedroom,1,2,1,2,1,1,1,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,1,1,1,0,1,1,0,0,1,Both,1,1,3,3
+Double Balcony,68,37 m2,1,2+1,0,Mountain,Bedroom and Bathroom,Twin beds or King (twin connected),1,1,1,1,1,1,1,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3
+Double No Balcony,102,34 m2,1,2+1,0,Mountain,Bedroom and Bathroom,Twin beds or King (twin connected),1,1,1,1,1,1,0,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3
+Studio,17,45 m2,2,2+2,0,Mountain,Bedroom Relax corner / Bathroom,King (twin connected),1,1,1,1,1,1,0,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3
+Suite,11, 64 m2,2,3+1,0,Mountain,Bedroom / Living room / Bathroom,King (twin connected),1,2,1,2,1,1,1,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3
+Deluxe Suite,5,64 m2,2,2,0,Mountain,Bedroom/ Living Room / Bathroom,King,1,1,1,2,1,1,1,1,1,1,1,0,0,1,Carpet,"Yes, Free",2,2,0,0,0,0,0,0,0,0,0,0,1,Both,1,1,3,3

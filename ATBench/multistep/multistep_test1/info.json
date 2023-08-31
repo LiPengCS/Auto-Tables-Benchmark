@@ -1,0 +1,25 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 0
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 3,
+            "stack_end_idx": 6
+        }
+    ],
+    "alternative_label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 3,
+            "stack_end_idx": 6
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 0
+        }
+    ]
+}

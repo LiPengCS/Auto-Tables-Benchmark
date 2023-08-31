@@ -1,0 +1,75 @@
+SDGs Id no.,Target,Tar. no,Ind. No,COPY SD,Sustainable development dimension,Indicator,Relevance with other SDGs
+0,0,13.1,6.0,0,0,"Losses from natural disasters, by climate and non-climate-related events in US$ and lives lost","1, 2, 6, 13 "
+0,0,13.1,11.4,1,1,Presence of urban building codes stipulating either the use of local materials and or new energy efficient technologies or with incentives for the same,11
+0,1,13.2,62.0,1,1,"Total energy and industry-related GHG emissions by gas and sector, expressed as production and demand-based emissions (tCO2e)","7,9,13"
+0,1,13.2,79.0,1,1,"Net GHG emissions in the Agriculture, Forest and other Land Use (AFOLU) sector (tCO2e)","2, 15 "
+0,"Improve education, awareness raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction, and early warning",13.3,77.0,2,2,"Availability and implementation of a transparent and detailed deep decarbonization strategy, consistent with the 2°C or below global carbon budget, and with GHG emission targets for 2020, 2030 and 2050.","9, 11, 12, 17 "
+0,Implement the commitment undertaken by developed country Parties to the UNFCCC to a goal of mobilizing jointly USD100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible,13.a,80.0,0,0,Official climate financing from developed countries that is incremental to ODA in US$,17
+0,1,13.2,0.0,1,1,Per capita greenhouse gas emissions,
+0,1,13.2,0.0,1,1,GHGs emissions by sector (City GHGs emission inventory ),
+1,2,11.4,11.3,2,2,"Percentage of cities with more than 100,000 inhabitants that are implementing risk reduction and resilience strategies informed by international frameworks (such as forthcoming Hyogo-2 framework)",
+1,3,11.6,69.0,1,1,Mean urban air pollution of particulate matter (PM10 and PM2.5)Mean urban air pollution of particulate matter (PM10 and PM2.5),"9,11,12"
+1,3,11.6,0.0,1,1,O3 (Ozone) concentration ,
+1,3,11.6,0.0,1,1,"Mean concentration of SOx, Nox",
+1,3,11.6,0.0,1,1,Number in open dump fires,
+1,4,11.1,45.0,2,2,Percentage of population using safely managed water services,"1, 2, 3, 6, 9"
+1,4,11.1,0.0,2,2,Percentage of households connected with city's water supply network,
+1,3,11.6,0.0,1,1,Percentage of water lost in the water distribution system,
+1,4,11.1,0.0,2,2,Continuity of water supply,
+1,4,11.1,0.0,2,2,Per capita water consumption level,
+3,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all",6.1,0.0,1,1,Percentage of water samples in a year that comply with national potable water quality standards,
+3,5,6.4,49.0,1,1,Proportion of total water resources used (MDG Indicator),"2, 9, 11, 12"
+1,3,11.6,47.0,1,1,Percentage of wastewater flows treated to national standards [and reused],"3, 9, 11, 12, 14"
+3,5,6.4,6.6,1,1,Proportion of the flows of treated municipal wastewater that are directly and safely reused,
+1,3,11.6,0.0,1,1,Soil quality improvement,
+1,3,11.6,71.0,1,1,Percentage of urban solid waste regularly collected and well managed,
+1,3,11.6,0.0,1,1,Total annual municipal waste collected,
+1,3,11.6,0.0,1,1,Percentage of the total municipal solid waste disposed of in sanitary landfills,
+1,3,11.6,0.0,1,1,"Percentage of the city's municipal solid waste that is disposed of in open dumps, controlled dumps, or bodies of water or is burnt",
+1,3,11.6,0.0,1,1,Percentage of municipal waste composted,
+1,3,11.6,0.0,1,1,Percentage of municipal waste used for energy generation,
+1,3,11.6,0.0,1,1,Percentage of municipal waste recycled,
+1,3,11.6,0.0,1,1,Percentage of population with regular municipal solid waste collection,
+SDG-15,"Take urgent and significant action to reduce degradation of natural habitat, halt the loss of biodiversity, and by 2020 protect and prevent the extinction of threatened species ",15.5,0.0,1,1,Percentage change in number of native species ,
+1,2,11.4,87.0,1,1,Protected areas overlay with biodiversity,
+1,2,11.4,86.0,1,1,Red List Index,
+4,6,8.5,0.0,2,2,Number of jobs created,
+4,6,8.5,0.0,2,2,Percentage of persons in full-time employment ,
+4,6,8.5,0.0,2,2,Youth unemployment rate ,
+4,6,8.5,8.5,2,2,Employment to population ratio (EPR) by gender and age group (15–64),
+4,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage formalization and growth of micro-, small- and medium-sized enterprises including through access to financial services",8.3,8.3,2,2,[Indicator of decent work] – to be developed,
+4,6,8.5,57.0,2,2,Ratification and implementation of fundamental ILO labor standards and compliance in law and practice,"5, 9, 10, 11, 17"
+1,7,11.2,25.0,2,2,"Road traffic deaths per 100,000 population","3, 9"
+5,"By 2030 substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution and contamination",3.9,3.28,1,1,[Mortality from indoor air pollution] – to be developed,
+5,By 2030 end preventable deaths of newborns and under-5 children,3.2,3.5,2,2,Incidence rate of diarrheal disease in children under 5 years,
+SDG-1,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in  poverty in all its dimensions according to national definitions",1.2,2.0,2,2,Percentage of the population living below poverty line,1
+1,4,11.1,50.0,2,2,Share of the population using modern cooking solutions,7
+1,4,11.1,51.0,2,2,Share of the population using reliable electricity (availability more than 50% of time in a day),"1, 3, 5,7, 9,  12 "
+6,"By 2030 ensure universal access to affordable, reliable, and modern energy services",7.1,7.1,1,1,"Primary energy by type (coal, oil, gas, renewables, or biomass)",
+1,4,11.1,0.0,2,2,Percentage of the total households connected with natural gas supply,
+1,4,11.1,0.0,2,2,Percentage of the total households with an electricity connection ,
+1,4,11.1,0.0,2,2,Total electricity consumption per household per year,
+1,4,11.1,0.0,2,2,Average length of electrical interruptions,
+6,8,7.2,7.3,1,1,Share of energy from renewables,
+6,8,7.2,0.0,1,1,"The percentage of total energy derived from renewable sources, as a share of the city’s total energy consumption ",
+1,"Support least developed countries, including through financial and technical assistance, for sustainable and resilient buildings utilizing local materials",11.c,11.4,0,0,Presence of urban building codes stipulating either the use of local materials and/or new energy efficient technologies or with incentives for the same,
+1,4,11.1,46.0,2,2,Percentage of population using safely managed sanitation services,"1, 2, 3, 9, 11"
+1,4,11.1,0.0,2,2,Percentage of households with a home connection to the sewer system,
+3,9,6.2,6.1,2,2,Percentage of population practicing open defecation,
+3,9,6.2,6.3,1,1,Proportion of the population connected to collective sewers or with on-site storage of all domestic wastewaters,
+1,4,11.1,66.0,2,2,Percentage of urban population living in slums or informal settlements (MDG Indicator),"1,6"
+1,7,11.2,58.0,2,2,Access to all-weather road (% access within [x] km distance to road),"2, 7, 11"
+1,7,11.2,67.0,2,2,Percentage of people within 0.5km of public transit running at least every 20 minutes,9
+1,7,11.2,0.0,2,2,"Kilometers of road per 100,000 population",
+1,7,11.2,0.0,2,2,"Modal split (specifically public transport) share of each mode  (buses and coaches, and trains)",
+1,7,11.2,0.0,2,2,"Kilometers of roads dedicated exclusively to public transit per 100,000 population",
+1,7,11.2,0.0,2,2,Length of cycling lanes and the public transport network,
+1,10,11.7,70.0,2,2,Area of public space as a proportion of total city space,"13,17"
+1,10,11.7,0.0,1,1,"Green area per 100,000 residents",
+1,10,11.7,68.0,1,1,"[Ratio of land consumption rate to population growth rate, at comparable scale] – to be developed","3,12"
+1,10,11.7,0.0,2,2,(Net) urban population density,
+7,"Enhance the global partnership for sustainable development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the sustainable development goals in all countries, in particular developing countries",17.6,0.0,2,2,"Workshop, seminars, and training related activities for capacity-building",
+7,"Enhance the global partnership for sustainable development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the sustainable development goals in",17.6,0.0,2,2,"Co-ordination mechanism to mainstream the climate resilience in city, including sector, planning",
+3,"By 2030, expand international cooperation and capacity-building support to developing countries in water and sanitation related activities and programs, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies",6.a,6.8,2,2,[Indicator on international cooperation and capacity building in water and sanitation-related activities] – to be developed,
+3,Support and strengthen the participation of local communities for improving water and sanitation management,6.b,6.9,2,2,[Indicator on participation of local communities for improving water and sanitation management] – to be developed,
+1,3,11.6,0.0,1,1,Noise pollution,

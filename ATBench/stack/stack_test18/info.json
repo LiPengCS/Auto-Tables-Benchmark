@@ -1,0 +1,11 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 2,
+            "stack_end_idx": 4
+        }
+    ],
+    "alternative_label": null
+}

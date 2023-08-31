@@ -1,0 +1,20 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 26
+        }
+    ],
+    "alternative_label": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 15
+        }
+    ]
+}

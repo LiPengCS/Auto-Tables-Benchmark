@@ -1,0 +1,5 @@
+Date,Invoice#,Customer,PayMethod,Total,serviceCat1,serviceCat2,prodCat1,prodCat2
+01.01.2022,1,A,cash,1000.0,200.0,,800.0,
+01.01.2022,2,B,cc,25.0,,,,25.0
+02.01.2022,3,C,paypall,333.5,,,233.5,100.0
+02.01.2022,4,D,cash,666.0,,666.0,,

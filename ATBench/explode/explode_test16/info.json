@@ -1,0 +1,10 @@
+{
+    "source": "excel_forum",
+    "label": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 1
+        }
+    ],
+    "alternative_label": null
+}

@@ -1,0 +1,10 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "explode",
+            "explode_column_idx": 6
+        }
+    ],
+    "alternative_label": null
+}

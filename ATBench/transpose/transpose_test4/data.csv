@@ -1,0 +1,6 @@
+Amortising Interest rate swap ,Class A,Class B,Class C,Class D,Class E,Class F,Class G
+Initial principal,690000000,24400000,99000000,58000000,31000000,46000000,98000000
+Underlying principal for Reporting period,59348349,3074112.08,8978405.63 ,9318573.30 ,1210634.08 ,8373086.98 ,9370171.44 
+Paying leg,Fixed Interest rate ,Fixed Interest rate ,Fixed Interest rate ,Fixed Interest rate ,Fixed Interest rate ,Fixed Interest rate ,Fixed Interest rate 
+Receiving leg,Floating Interest rate,Floating Interest rate,Floating Interest rate,Floating Interest rate,Floating Interest rate,Floating Interest rate,Floating Interest rate
+Net swap payments / Net swap receipts,107234.23,5742.35,83930.07 ,55203.29 ,33786.59 ,39646.89 ,87938.24 

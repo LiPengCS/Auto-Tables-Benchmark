@@ -1,0 +1,31 @@
+{
+    "top-1": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 1,
+            "wide_to_long_end_idx": 8
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 2,
+            "stack_end_idx": 5
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 1,
+            "wide_to_long_end_idx": 8
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 1,
+            "wide_to_long_end_idx": 8
+        },
+        {
+            "operator": "transpose"
+        }
+    ]
+}

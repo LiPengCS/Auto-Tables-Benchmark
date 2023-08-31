@@ -1,0 +1,29 @@
+{
+    "top-1": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 4
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 4
+        },
+        {
+            "operator": "explode",
+            "explode_column_idx": 1
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 4
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 1,
+            "stack_end_idx": 2
+        }
+    ]
+}

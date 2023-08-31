@@ -1,0 +1,391 @@
+Name,var,value
+B Bond,1,Sea/Atl
+Guns,1,Mil/Phil
+John and Pat,1,Angels/LAD
+PieMan,1,Cubs/WS
+Barbie Cobb,1,NYY/NYM
+Mauler,1,Clev/Reds
+Jim P,1,A's/Giants
+MOW,1,Twins/STL
+Burkus,1,Jays/ Wash
+Drillers,1,TX/Astros
+John W,1,Det/Flo
+Howie Cobb,1,RSox/SD
+Lewy,1,Balt/Rock
+Cookie,1,KC/Pitts
+M Smith,1,TB/Arizona
+B Bond,2,TB/Arizona
+Guns,2,Sea/Atl
+John and Pat,2,Mil/Phil
+PieMan,2,Angels/LAD
+Barbie Cobb,2,Cubs/WS
+Mauler,2,NYY/NYM
+Jim P,2,Clev/Reds
+MOW,2,A's/Giants
+Burkus,2,Twins/STL
+Drillers,2,Jays/ Wash
+John W,2,TX/Astros
+Howie Cobb,2,Det/Flo
+Lewy,2,RSox/SD
+Cookie,2,Balt/Rock
+M Smith,2,KC/Pitts.
+B Bond,3,KC/Pitts.
+Guns,3,TB/Arizona
+John and Pat,3,Sea/Atl
+PieMan,3,Mil/Phil
+Barbie Cobb,3,Angels/LAD
+Mauler,3,Cubs/WS
+Jim P,3,NYY/NYM
+MOW,3,Clev/Reds
+Burkus,3,A's/Giants
+Drillers,3,Twins/STL
+John W,3,Jays/ Wash
+Howie Cobb,3,TX/Astros
+Lewy,3,Det/Flo
+Cookie,3,RSox/SD
+M Smith,3,Balt/Rock
+B Bond,4,Balt/Rock
+Guns,4,KC/Pitts.
+John and Pat,4,TB/Arizona
+PieMan,4,Sea/Atl
+Barbie Cobb,4,Mil/Phil
+Mauler,4,Angels/LAD
+Jim P,4,Cubs/WS
+MOW,4,NYY/NYM
+Burkus,4,Clev/Reds
+Drillers,4,A's/Giants
+John W,4,Twins/STL
+Howie Cobb,4,Jays/ Wash
+Lewy,4,TX/Astros
+Cookie,4,Det/Flo
+M Smith,4,RSox/SD
+B Bond,5,RSox/SD
+Guns,5,Balt/Rock
+John and Pat,5,KC/Pitts.
+PieMan,5,TB/Arizona
+Barbie Cobb,5,Sea/Atl
+Mauler,5,Mil/Phil
+Jim P,5,Angels/LAD
+MOW,5,Cubs/WS
+Burkus,5,NYY/NYM
+Drillers,5,Clev/Reds
+John W,5,A's/Giants
+Howie Cobb,5,Twins/STL
+Lewy,5,Jays/ Wash
+Cookie,5,TX/Astros
+M Smith,5,Det/Flo
+B Bond,6,Det/Flo
+Guns,6,RSox/SD
+John and Pat,6,Balt/Rock
+PieMan,6,KC/Pitts.
+Barbie Cobb,6,TB/Arizona
+Mauler,6,Sea/Atl
+Jim P,6,Mil/Phil
+MOW,6,Angels/LAD
+Burkus,6,Cubs/WS
+Drillers,6,NYY/NYM
+John W,6,Clev/Reds
+Howie Cobb,6,A's/Giants
+Lewy,6,Twins/STL
+Cookie,6,Jays/ Wash
+M Smith,6,TX/Astros
+B Bond,7,TX/Astros
+Guns,7,Det/Flo
+John and Pat,7,RSox/SD
+PieMan,7,Balt/Rock
+Barbie Cobb,7,KC/Pitts.
+Mauler,7,TB/Arizona
+Jim P,7,Sea/Atl
+MOW,7,Mil/Phil
+Burkus,7,Angels/LAD
+Drillers,7,Cubs/WS
+John W,7,NYY/NYM
+Howie Cobb,7,Clev/Reds
+Lewy,7,A's/Giants
+Cookie,7,Twins/STL
+M Smith,7,Jays/ Wash
+B Bond,8,Jays/ Wash
+Guns,8,TX/Astros
+John and Pat,8,Det/Flo
+PieMan,8,RSox/SD
+Barbie Cobb,8,Balt/Rock
+Mauler,8,KC/Pitts.
+Jim P,8,TB/Arizona
+MOW,8,Sea/Atl
+Burkus,8,Mil/Phil
+Drillers,8,Angels/LAD
+John W,8,Cubs/WS
+Howie Cobb,8,NYY/NYM
+Lewy,8,Clev/Reds
+Cookie,8,A's/Giants
+M Smith,8,Twins/STL
+B Bond,9,Twins/STL
+Guns,9,Jays/ Wash
+John and Pat,9,TX/Astros
+PieMan,9,Det/Flo
+Barbie Cobb,9,RSox/SD
+Mauler,9,Balt/Rock
+Jim P,9,KC/Pitts.
+MOW,9,TB/Arizona
+Burkus,9,Sea/Atl
+Drillers,9,Mil/Phil
+John W,9,Angels/LAD
+Howie Cobb,9,Cubs/WS
+Lewy,9,NYY/NYM
+Cookie,9,Clev/Reds
+M Smith,9,A's/Giants
+B Bond,10,A's/Giants
+Guns,10,Twins/STL
+John and Pat,10,Jays/ Wash
+PieMan,10,TX/Astros
+Barbie Cobb,10,Det/Flo
+Mauler,10,RSox/SD
+Jim P,10,Balt/Rock
+MOW,10,KC/Pitts.
+Burkus,10,TB/Arizona
+Drillers,10,Sea/Atl
+John W,10,Mil/Phil
+Howie Cobb,10,Angels/LAD
+Lewy,10,Cubs/WS
+Cookie,10,NYY/NYM
+M Smith,10,Clev/Reds
+B Bond,11,Clev/Reds
+Guns,11,A's/Giants
+John and Pat,11,Twins/STL
+PieMan,11,Jays/ Wash
+Barbie Cobb,11,TX/Astros
+Mauler,11,Det/Flo
+Jim P,11,RSox/SD
+MOW,11,Balt/Rock
+Burkus,11,KC/Pitts.
+Drillers,11,TB/Arizona
+John W,11,Sea/Atl
+Howie Cobb,11,Mil/Phil
+Lewy,11,Angels/LAD
+Cookie,11,Cubs/WS
+M Smith,11,NYY/NYM
+B Bond,12,NYY/NYM
+Guns,12,Clev/Reds
+John and Pat,12,A's/Giants
+PieMan,12,Twins/STL
+Barbie Cobb,12,Jays/ Wash
+Mauler,12,TX/Astros
+Jim P,12,Det/Flo
+MOW,12,RSox/SD
+Burkus,12,Balt/Rock
+Drillers,12,KC/Pitts.
+John W,12,TB/Arizona
+Howie Cobb,12,Sea/Atl
+Lewy,12,Mil/Phil
+Cookie,12,Angels/LAD
+M Smith,12,Cubs/WS
+B Bond,13,Cubs/WS
+Guns,13,NYY/NYM
+John and Pat,13,Clev/Reds
+PieMan,13,A's/Giants
+Barbie Cobb,13,Twins/STL
+Mauler,13,Jays/ Wash
+Jim P,13,TX/Astros
+MOW,13,Det/Flo
+Burkus,13,RSox/SD
+Drillers,13,Balt/Rock
+John W,13,KC/Pitts.
+Howie Cobb,13,TB/Arizona
+Lewy,13,Sea/Atl
+Cookie,13,Mil/Phil
+M Smith,13,Angels/LAD
+B Bond,14,Angels/LAD
+Guns,14,Cubs/WS
+John and Pat,14,NYY/NYM
+PieMan,14,Clev/Reds
+Barbie Cobb,14,A's/Giants
+Mauler,14,Twins/STL
+Jim P,14,Jays/ Wash
+MOW,14,TX/Astros
+Burkus,14,Det/Flo
+Drillers,14,RSox/SD
+John W,14,Balt/Rock
+Howie Cobb,14,KC/Pitts.
+Lewy,14,TB/Arizona
+Cookie,14,Sea/Atl
+M Smith,14,Mil/Phil
+B Bond,15,Mil/Phil
+Guns,15,Angels/LAD
+John and Pat,15,Cubs/WS
+PieMan,15,NYY/NYM
+Barbie Cobb,15,Clev/Reds
+Mauler,15,A's/Giants
+Jim P,15,Twins/STL
+MOW,15,Jays/ Wash
+Burkus,15,TX/Astros
+Drillers,15,Det/Flo
+John W,15,RSox/SD
+Howie Cobb,15,Balt/Rock
+Lewy,15,KC/Pitts.
+Cookie,15,TB/Arizona
+M Smith,15,Sea/Atl
+B Bond,16,Sea/Atl
+Guns,16,Mil/Phil
+John and Pat,16,Angels/LAD
+PieMan,16,Cubs/WS
+Barbie Cobb,16,NYY/NYM
+Mauler,16,Clev/Reds
+Jim P,16,A's/Giants
+MOW,16,Twins/STL
+Burkus,16,Jays/ Wash
+Drillers,16,TX/Astros
+John W,16,Det/Flo
+Howie Cobb,16,RSox/SD
+Lewy,16,Balt/Rock
+Cookie,16,KC/Pitts.
+M Smith,16,TB/Arizona
+B Bond,17,TB/Arizona
+Guns,17,Sea/Atl
+John and Pat,17,Mil/Phil
+PieMan,17,Angels/LAD
+Barbie Cobb,17,Cubs/WS
+Mauler,17,NYY/NYM
+Jim P,17,Clev/Reds
+MOW,17,A's/Giants
+Burkus,17,Twins/STL
+Drillers,17,Jays/ Wash
+John W,17,TX/Astros
+Howie Cobb,17,Det/Flo
+Lewy,17,RSox/SD
+Cookie,17,Balt/Rock
+M Smith,17,KC/Pitts.
+B Bond,18,KC/Pitts.
+Guns,18,TB/Arizona
+John and Pat,18,Sea/Atl
+PieMan,18,Mil/Phil
+Barbie Cobb,18,Angels/LAD
+Mauler,18,Cubs/WS
+Jim P,18,NYY/NYM
+MOW,18,Clev/Reds
+Burkus,18,A's/Giants
+Drillers,18,Twins/STL
+John W,18,Jays/ Wash
+Howie Cobb,18,TX/Astros
+Lewy,18,Det/Flo
+Cookie,18,RSox/SD
+M Smith,18,Balt/Rock
+B Bond,19,Balt/Rock
+Guns,19,KC/Pitts.
+John and Pat,19,TB/Arizona
+PieMan,19,Sea/Atl
+Barbie Cobb,19,Mil/Phil
+Mauler,19,Angels/LAD
+Jim P,19,Cubs/WS
+MOW,19,NYY/NYM
+Burkus,19,Clev/Reds
+Drillers,19,A's/Giants
+John W,19,Twins/STL
+Howie Cobb,19,Jays/ Wash
+Lewy,19,TX/Astros
+Cookie,19,Det/Flo
+M Smith,19,RSox/SD
+B Bond,20,RSox/SD
+Guns,20,Balt/Rock
+John and Pat,20,KC/Pitts.
+PieMan,20,TB/Arizona
+Barbie Cobb,20,Sea/Atl
+Mauler,20,Mil/Phil
+Jim P,20,Angels/LAD
+MOW,20,Cubs/WS
+Burkus,20,NYY/NYM
+Drillers,20,Clev/Reds
+John W,20,A's/Giants
+Howie Cobb,20,Twins/STL
+Lewy,20,Jays/ Wash
+Cookie,20,TX/Astros
+M Smith,20,Det/Flo
+B Bond,21,Det/Flo
+Guns,21,RSox/SD
+John and Pat,21,Balt/Rock
+PieMan,21,KC/Pitts.
+Barbie Cobb,21,TB/Arizona
+Mauler,21,Sea/Atl
+Jim P,21,Mil/Phil
+MOW,21,Angels/LAD
+Burkus,21,Cubs/WS
+Drillers,21,NYY/NYM
+John W,21,Clev/Reds
+Howie Cobb,21,A's/Giants
+Lewy,21,Twins/STL
+Cookie,21,Jays/ Wash
+M Smith,21,TX/Astros
+B Bond,22,TX/Astros
+Guns,22,Det/Flo
+John and Pat,22,RSox/SD
+PieMan,22,Balt/Rock
+Barbie Cobb,22,KC/Pitts.
+Mauler,22,TB/Arizona
+Jim P,22,Sea/Atl
+MOW,22,Mil/Phil
+Burkus,22,Angels/LAD
+Drillers,22,Cubs/WS
+John W,22,NYY/NYM
+Howie Cobb,22,Clev/Reds
+Lewy,22,A's/Giants
+Cookie,22,Twins/STL
+M Smith,22,Jays/ Wash
+B Bond,23,Jays/ Wash
+Guns,23,TX/Astros
+John and Pat,23,Det/Flo
+PieMan,23,RSox/SD
+Barbie Cobb,23,Balt/Rock
+Mauler,23,KC/Pitts.
+Jim P,23,TB/Arizona
+MOW,23,Sea/Atl
+Burkus,23,Mil/Phil
+Drillers,23,Angels/LAD
+John W,23,Cubs/WS
+Howie Cobb,23,NYY/NYM
+Lewy,23,Clev/Reds
+Cookie,23,A's/Giants
+M Smith,23,Twins/STL
+B Bond,24,Twins/STL
+Guns,24,Jays/ Wash
+John and Pat,24,TX/Astros
+PieMan,24,Det/Flo
+Barbie Cobb,24,RSox/SD
+Mauler,24,Balt/Rock
+Jim P,24,KC/Pitts.
+MOW,24,TB/Arizona
+Burkus,24,Sea/Atl
+Drillers,24,Mil/Phil
+John W,24,Angels/LAD
+Howie Cobb,24,Cubs/WS
+Lewy,24,NYY/NYM
+Cookie,24,Clev/Reds
+M Smith,24,A's/Giants
+B Bond,25,A's/Giants
+Guns,25,Twins/STL
+John and Pat,25,Jays/ Wash
+PieMan,25,TX/Astros
+Barbie Cobb,25,Det/Flo
+Mauler,25,RSox/SD
+Jim P,25,Balt/Rock
+MOW,25,KC/Pitts.
+Burkus,25,TB/Arizona
+Drillers,25,Sea/Atl
+John W,25,Mil/Phil
+Howie Cobb,25,Angels/LAD
+Lewy,25,Cubs/WS
+Cookie,25,NYY/NYM
+M Smith,25,Clev/Reds
+B Bond,26,Clev/Reds
+Guns,26,A's/Giants
+John and Pat,26,Twins/STL
+PieMan,26,Jays/ Wash
+Barbie Cobb,26,TX/Astros
+Mauler,26,Det/Flo
+Jim P,26,RSox/SD
+MOW,26,Balt/Rock
+Burkus,26,KC/Pitts.
+Drillers,26,TB/Arizona
+John W,26,Sea/Atl
+Howie Cobb,26,Mil/Phil
+Lewy,26,Angels/LAD
+Cookie,26,Cubs/WS
+M Smith,26,NYY/NYM

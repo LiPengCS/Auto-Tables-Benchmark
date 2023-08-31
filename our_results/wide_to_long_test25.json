@@ -1,0 +1,32 @@
+{
+    "top-1": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 3,
+            "wide_to_long_end_idx": 26
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 3,
+            "wide_to_long_end_idx": 26
+        },
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 0
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "wide_to_long",
+            "wide_to_long_start_idx": 3,
+            "wide_to_long_end_idx": 26
+        },
+        {
+            "operator": "stack",
+            "stack_start_idx": 0,
+            "stack_end_idx": 4
+        }
+    ]
+}

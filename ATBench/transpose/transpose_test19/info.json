@@ -1,0 +1,9 @@
+{
+    "source": "notebook",
+    "label": [
+        {
+            "operator": "transpose"
+        }
+    ],
+    "alternative_label": null
+}

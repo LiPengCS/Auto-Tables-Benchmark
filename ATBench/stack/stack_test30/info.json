@@ -1,0 +1,11 @@
+{
+    "source": "stackoverflow",
+    "label": [
+        {
+            "operator": "stack",
+            "stack_start_idx": 0,
+            "stack_end_idx": 9
+        }
+    ],
+    "alternative_label": null
+}

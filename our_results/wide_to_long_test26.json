@@ -1,0 +1,20 @@
+{
+    "top-1": [
+        {
+            "operator": "none"
+        }
+    ],
+    "top-2": [
+        {
+            "operator": "transpose"
+        },
+        {
+            "operator": "transpose"
+        }
+    ],
+    "top-3": [
+        {
+            "operator": "transpose"
+        }
+    ]
+}

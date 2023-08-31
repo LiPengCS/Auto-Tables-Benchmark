@@ -1,0 +1,51 @@
+Region,Democrats,Republicans,Total,States Included
+New England,20,1,21,CT
+New England,20,1,21, MA
+New England,20,1,21, ME
+New England,20,1,21, NH
+New England,20,1,21, RI
+New England,20,1,21, VT
+Mid-Atlantic,38,28,66,DE
+Mid-Atlantic,38,28,66, MD
+Mid-Atlantic,38,28,66, NJ
+Mid-Atlantic,38,28,66, NY
+Mid-Atlantic,38,28,66, PA
+Great Lakes,25,40,65,MI
+Great Lakes,25,40,65, IL
+Great Lakes,25,40,65, IN
+Great Lakes,25,40,65, OH
+Great Lakes,25,40,65, WI
+Midwest,8,21,29,IA
+Midwest,8,21,29, KS
+Midwest,8,21,29, MN
+Midwest,8,21,29, MO
+Midwest,8,21,29, ND
+Midwest,8,21,29, NE
+Midwest,8,21,29, SD
+South Atlantic,23,52,75,FL
+South Atlantic,23,52,75, GA
+South Atlantic,23,52,75, NC
+South Atlantic,23,52,75, SC
+South Atlantic,23,52,75, VA
+South Atlantic,23,52,75, WV
+South Central,17,60,77,AL
+South Central,17,60,77, AR
+South Central,17,60,77, KY
+South Central,17,60,77, LA
+South Central,17,60,77, MS
+South Central,17,60,77, OK
+South Central,17,60,77, TN
+South Central,17,60,77, TX
+Mountain,12,19,31,AZ
+Mountain,12,19,31, CO
+Mountain,12,19,31, ID
+Mountain,12,19,31, MT
+Mountain,12,19,31, NM
+Mountain,12,19,31, NV
+Mountain,12,19,31, UT
+Mountain,12,19,31, WY
+Pacific,51,20,71,AK
+Pacific,51,20,71, CA
+Pacific,51,20,71, HI
+Pacific,51,20,71, OR
+Pacific,51,20,71, WA

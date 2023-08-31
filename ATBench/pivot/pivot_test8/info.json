@@ -1,0 +1,10 @@
+{
+    "source": "stackoverflow",
+    "label": [
+        {
+            "operator": "pivot",
+            "pivot_row_frequency": 6
+        }
+    ],
+    "alternative_label": null
+}

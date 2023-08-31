@@ -1,0 +1,10 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "ffill",
+            "ffill_end_idx": 1
+        }
+    ],
+    "alternative_label": null
+}

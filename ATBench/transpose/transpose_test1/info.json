@@ -1,0 +1,9 @@
+{
+    "source": "excel_file",
+    "label": [
+        {
+            "operator": "transpose"
+        }
+    ],
+    "alternative_label": null
+}

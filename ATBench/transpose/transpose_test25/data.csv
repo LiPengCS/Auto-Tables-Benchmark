@@ -1,0 +1,34 @@
+Model,iPod touch (1st generation),iPod touch (2nd generation),iPod touch (3rd generation),iPod touch (4th generation),iPod touch (5th generation) Left: 32 and 64GB version and 16GB version for 2014 Right: 16GB version for 2013,iPod touch (6th generation)
+Initial release operating system,iOS 1.1,iOS 2.1.1 iOS 3.1.1 (MC model),iOS 3.1.1,iOS 4.1,iOS 6.1.3,iOS 8.4
+Latest release operating system,iOS 3.1.3,iOS 4.2.1,iOS 5.1.1,iOS 6.1.6,iOS 9.3.5,iOS 10.3.2
+Display,"3.5 in (89 mm), 3:2 aspect ratio, 262,144-color (18-bit), glossy glass covered LED-backlit TN LCD, 480 × 320 px (HVGA) at 163 ppi, 200:1 contrast ratio","3.5 in (89 mm), 3:2 aspect ratio, 262,144-color (18-bit), glossy glass covered LED-backlit TN LCD, 480 × 320 px (HVGA) at 163 ppi, 200:1 contrast ratio","3.5 in (89 mm), 3:2 aspect ratio, 262,144-color (18-bit), glossy glass covered LED-backlit TN LCD, 480 × 320 px (HVGA) at 163 ppi, 200:1 contrast ratio","3.5 in (89 mm), 3:2 aspect ratio, 16,777,216-color (18-bit + FRC), glossy glass-covered LED-backlit TN LCD, 960 × 640 px at 326 ppi, 800:1 contrast ratio","4 in (100 mm), 71:40 aspect ratio, LED backlit IPS TFT LCD, 1,136 × 640 px at 326 ppi, 800:1 contrast ratio","4 in (100 mm), 71:40 aspect ratio, LED backlit IPS TFT LCD, 1,136 × 640 px at 326 ppi, 800:1 contrast ratio"
+Input,Multi-touch touchscreen display,Multi-touch touchscreen display volume buttons built-in speaker,Multi-touch touchscreen display volume buttons built-in speaker and microphone with new earphones,"Multi-touch touchscreen display built-in speaker and microphone voice control 3-axis accelerometer, gyroscope volume buttons ambient light sensors","Multi-touch touchscreen display built in speaker and microphone Siri 3-axis accelerometer, gyroscope volume buttons","Multi-touch touchscreen display built in speaker and microphone Siri 3-axis accelerometer, gyroscope volume buttons"
+Processor,"620 MHz (underclocked to 412 MHz, originally 400 MHz) 32-bit RISC ARM 1176JZ(F)-S v1.0 (32 KB L1) (Samsung S5L8900)",620 MHz (underclocked to 533 MHz) ARM11 core (32 KB L1) with internal ARM7 core for Jazelle acceleration (Samsung S5L8720),833 MHz (underclocked to 600 MHz) ARM Cortex-A8 (64 KB L1) (Samsung S5L8922),800 MHz ARM Cortex-A8 Apple A4 (SoC),1 GHz (underclocked to 800 MHz) ARM Cortex-A9 dual-core Apple A5 (SoC),1.4 GHz (underclocked to 1.1 GHz) dual-core Apple-designed ARMv8-A 64-bit Apple A8 with M8 motion coprocessor
+GPU,PowerVR MBX Lite GPU,PowerVR MBX Lite GPU,PowerVR SGX535 GPU,PowerVR SGX535 GPU,"PowerVR SGX543MP2 (dual-core, 200 MHz) GPU","PowerVR GX6450 (quad-core, 450 MHz) GPU"
+Storage,"8, 16 & 32 GB","8, 16 & 32 GB",32 & 64 GB,"8, 16, 32 & 64 GB",16 GB,"16, 32, 64 & 128 GB"
+MSRP(US),"$299 (8 GB), $399 (16 GB), $499 (32 GB)","$229 (later $199) (8 GB), US$299 (16 GB), $399 (32 GB)","$299 (32 GB), $399 (64 GB)","$229 (later $199) (8 GB), $199 (16 GB (replaced 8 GB)), $299 (later $249) (32 GB), $399 (64 GB)",$229,"$199 (16 GB), $249 (32 GB), $299 (64 GB), $399 (128 GB)"
+RAM,128 MB LPDDR DRAM,128 MB LPDDR DRAM,256 MB LPDDR DRAM,256 MB LPDDR DRAM,512 MB LPDDR2 DRAM,1 GB LPDDR3 DRAM
+Connector,30-pin dock connector,30-pin dock connector,30-pin dock connector,30-pin dock connector,Lightning Connector (8-pin),Lightning Connector (8-pin)
+Connectivity,"Wi-Fi (802.11b/g), 30-pin connector includes earphones and polishing cloth (only in 1st and 2nd generations)","In addition to prior: Bluetooth 2.1 + EDR (requires iPhone OS 3.0), built-in speaker, hardware volume controls, Nike+","In addition to prior: Voice control, includes earphones with remote and mic",In addition to prior: Wi-Fi (802.11b/g/n) (802.11n on 2.4 GHz) 3-axis gyroscope built-in microphone includes earphones (no remote or mic),In addition to prior: Wi-Fi (802.11a/b/g/n) (802.11n on 2.4 GHz and 5 GHz) Siri voice assistant revised Apple earbuds,In addition to prior: Wi-Fi (802.11 a/b/g/n/ac)
+iPod Touch loop,No,No,No,No,No,No
+GLONASS,,,,,,
+GPS,,,,,,
+Digital compass,,,,,,
+Bluetooth,,Bluetooth 2.1 + EDR,Bluetooth 2.1 + EDR,Bluetooth 2.1 + EDR,Bluetooth 4.0,Bluetooth 4.1
+iSight,,,,0.7 MP backside illuminated CMOS image sensor with video (720p HD at 30 fps) and 0.7 MP photos,,"8 MP backside illuminated sensor with video (1080p HD at 30 fps with 3x zoom, 720p slo-mo video at 120 fps, time-lapse video, cinematic video stabilization), exposure control, panorama"
+FaceTime,,,,0.3 MP (VGA) photos and video at up to 30 fps,1.2 MP photos and 720p video at up to 30 fps,1.2 MP backside illuminated sensor with 720p HD video
+Audio codec,Wolfson Microelectronics WM8758BG,Cirrus Logic CS42L58 (338S055C),Cirrus Logic CLI1480A (338S0559),Cirrus Logic 338S0589,Cirrus Logic 338S1077,Cirrus Logic 338S1116
+Made for iPhone Hearing Aid Compatible,,,,,Yes,Yes
+Live Listen,,,,,Yes,Yes
+Materials,Stainless steel back and aluminum bezel; plastic for Wi-Fi antenna,Contoured stainless steel back and bezel; plastic for Wi-Fi and Bluetooth antenna,Contoured stainless steel back and bezel; plastic for Wi-Fi and Bluetooth antenna,"Glass display, stainless steel back and bezel",Contoured aluminum back and bezel; plastic for Wi-Fi and Bluetooth antenna,Contoured aluminum back and bezel; plastic for Wi-Fi and Bluetooth antenna
+Power,3.7 V 2.15 Wh (580 mAh),3.7 V 2.73 Wh (739 mAh),3.7 V 2.92 Wh (789 mAh),3.7 V 3.44 Wh (930 mAh),"3.7 V 3.8 Wh (1,030 mAh)","3.83 V 3.99 Wh (1,043 mAh)"
+Rated battery life (hours),audio: 22 video: 5,audio: 36 video: 6,audio: 30 video: 6,audio: 40 video: 7,audio: 40 video: 8,audio: 40 video: 8
+Dimensions,110 mm (4.3 in) H 61.8 mm (2.43 in) W 8 mm (0.31 in) D,110 mm (4.3 in) H 61.8 mm (2.43 in) W 8.5 mm (0.33 in) D,110 mm (4.3 in) H 61.8 mm (2.43 in) W 8.5 mm (0.33 in) D,110 mm (4.3 in) H 58 mm (2.3 in) W 7.1 mm (0.28 in) D,123.4 mm (4.86 in) H 58.6 mm (2.31 in) W 6.1 mm (0.24 in) D,123.4 mm (4.86 in) H 58.6 mm (2.31 in) W 6.1 mm (0.24 in) D
+Weight,120 g (4.2 oz),115 g (4.1 oz),115 g (4.1 oz),101 g (3.6 oz),86 g (3.0 oz),88 g (3.1 oz)
+Greenhouse gas emissions,,30 kg CO2e,33 kg CO2e,50 kg CO2e,45 kg CO2e,70 kg CO2e
+Hardware strings,"iPod1,1","iPod2,1","iPod3,1","iPod4,1","iPod5,1","iPod7,1"
+Model number,A1213,A1288 A1319 (China),A1318,A1367,A1509,A1574
+FCCID,BCGA1213,BCGA1288,BCG-2310,BCG-E2407,BCG-A1421,BCGA1574
+Released,"8 and 16 GB: September 5, 2007 32 GB: February 27, 2008","8, 16 and 32 GB: September 9, 2008 8 GB (MC model): September 9, 2009","September 9, 2009","Black (8, 32 and 64 GB): September 1, 2010 White (8, 32 and 64 GB): October 12, 2011 Black and white (16 GB): September 12, 2012","May 30, 2013","July 15, 2015"
+Discontinued,"September 9, 2008","8, 16 and 32 GB: September 9, 2009 8 GB (MC model): September 1, 2010","September 1, 2010","8 and 64 GB: September 12, 2012 16 and 32 GB: May 30, 2013","June 26, 2014",In production
+Unsupported,"June 21, 2010","March 9, 2011","September 19, 2012","February 21, 2014","September 13, 2016",Supported
