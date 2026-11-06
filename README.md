@@ -33,7 +33,7 @@ ATBench
 ├── explode 
 │   ├── explode_test1          
 │   │   ├── data.csv           # the non-relational input table 
-│   │   ├── gt.csv             # the ground-truth relational version of the table
+│   │   ├── result.csv         # materialized output for inspection, not the scoring oracle
 │   │   └── info.json          # the ground-truth pipeline (operators, parameters)                 
 │   ├── ... 
 │   
@@ -41,17 +41,24 @@ ATBench
 
 ```
 
-For single-step cases, we group them by the transformation operator. For example, the folder `ATBench/explode` contains all the cases that can be "relaitonalized" by applying a single "explode" operator. All multi-step cases are placed in the folder `ATBench/multistep`.  Each test case consists of three files:
+For single-step cases, we group them by the transformation operator. For example, the folder `ATBench/explode` contains all the cases that can be relationalized by applying a single `explode` operator. All multi-step cases are placed in the folder `ATBench/multistep`. Each test case consists of three files:
 
 
 - **data.csv**: the non-relational table 
-- **gt.csv**: the ground-truth relational version of the table
+- **result.csv**: a materialized relationalized output, provided to inspect the expected table structure and support downstream use. It is not used to score synthesis accuracy by the released evaluator.
 - **info.json**: a json file with three fields:
     - ``source`` (str): the data source of the table
-    - ``label`` (list of dict): the ground-truth pipeline for relaitonalization. The pipeline is reprensented using a list of dict. Each dict consists of the operator name and its parameters, and refers to one-step transformation in the pipeline. By sequentially applying transformations in the list, the input non-relational table (data.csv) can be transformed into its relational version (gt.csv).
-    - ``alternative_lables`` (list of dict): if there is an alternative way to relationalize table, it will be listed here. Otherwise, it is None.
+    - ``label`` (list of dict): the reference transformation pipeline. Each dict describes one step using an operator name and its labeled parameters. The ordered steps specify the structural transformation of `data.csv` and are the ground truth used by the evaluator.
+    - ``alternative_label`` (list of dict or null): an explicitly accepted alternative pipeline, if one is recorded.
+
+### Result files and compatibility
+
+The output files were originally named `gt.csv`; they are now named `result.csv` to distinguish materialized table results from the pipeline labels used for scoring.
 
 ## Benchmark Evaluation
+
+The released evaluator compares transformation programs represented as operator/parameter pipelines, not the contents of output CSVs. It reads info.json and the predicted pipelines in our_results. It does not load data.csv or result.csv, execute the predicted programs, or compare literal Python source-code text.
+
 We evaluate the success rate of synthesis using the standard Hit@k metric defined as follows, which looks for exact matches between the top-k ranked predictions ($\hat{M}_i(T), 1 \leq i \leq k$) and the ground-truth pipeline $\hat{M}_g(T)$.
 
 $$Hit@k(T) = \sum^{k}_{i=1} 1(\hat{M}_i(T) = M_g(T))$$

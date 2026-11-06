@@ -9,7 +9,7 @@ AmeriWest Water Services Inc.,LeRoy Palmer,ameriWestWater@aol.com,208-861-3410,9
 Aqua Engineering,Aqua Engineering,Bradr@aquaeng.com,8012991327,0,1,2,0,84010,506
 Aqua Environmental Services,Larry Hall,LarryH@aquaenviron.com,801 209-6382,0,1,2,0,84010,508
 0,0,0,0,1,2,3,0,1843,418
-0,0,0,0,1,2,3,0,1843,nan
+0,0,0,0,1,2,3,0,1843,
 ATSCO Sales and Service,Jack Douglass,jack@atscosales.com,775-934-5504,2177 South 390 West,Heber,0,0,84032,GR 13
 Av-Tek,Greg Bilbao,greg@avtekvalves.com,8016378541,1310 Swaner Rd Suite B,0,2,0,84104,121
 "AY McDonald, Inc.",Shawn Rigby,srigby@aymcdonald.com,4357600703,195 W 3450 S,Nibley,2,0,84321,111
@@ -19,7 +19,7 @@ Blake Sales Company,James Jones,blakesalesco@comcast.net,801-231-5660,7065 Campu
 Blue Stakes of Utah 811,Spence Felsted,spencef@bluestakes.org,801-259-7400,148 E 13200 S,4,0,0,84020,226
 Boart Longyear,Jason Lamb,jlamb@boartlongyear.com,8019714471,2455 South 3600 West,West Valley,2,0,84119,15
 1,1,1,8014952224,2,4,0,0,84020,520
-1,1,1,8014952224,2,4,0,0,84020,nan
+1,1,1,8014952224,2,4,0,0,84020,
 Buckeye Detection Systems,Chuck Hayden,chayden@buckeyedetects.com,385-505-4354,110 Kings Road,Kings Mountain,NC,0,28086,806
 "C&L Water Solutions, Inc.",Maggie Schaffer,Maggie.Schaffer@clwsi.com,303-791-2521,12249 Mead Way,Littleton,4,0,80125,423
 Cate Equipment Company,GREG RUTHER,GRUTHER@CATEEQUIPMENT.COM,8016413575,2055 South Pioneer Road,5,2,0,84127,117
@@ -35,7 +35,7 @@ Clearwater Backflow Services,Phil Fabry,pfabry1716@msn.com,801 755 3441,PO Box 6
 2,2,2,8016287970,3,7,0,0,84401, 201
 2,2,2,8016287970,3,7,0,0,84401, 202
 2,2,2,8016287970,3,7,0,0,84401, 301
-2,2,2,8016287970,3,7,0,0,84401,nan
+2,2,2,8016287970,3,7,0,0,84401,
 Davidson Sales & Engineering,Paul Mora,paul_mora@dseslc.com,8016473221,2441 South 3850 West,3,0,0,84120,GR 20
 Dawson Infrastructure Solutions,Monty Hill,monty@dawsonis.com,801-207-9728,11780 Fairplay St.,Brighton,4,0,80603,908
 Delco Western,Layne Read,layne@delcowestern.com,8019720900,2559 S 1935 W,0,2,0,84737,513
@@ -55,9 +55,9 @@ EJ,Craig Anderson,craig.anderson@ejco.com,801-698-3078,PO Box 488,Tooele,0,0,840
 EJ,Craig Anderson,craig.anderson@ejco.com,801-698-3078,PO Box 488,Tooele,0,0,84074, 318
 EJ,Craig Anderson,craig.anderson@ejco.com,801-698-3078,PO Box 488,Tooele,0,0,84074, 320
 3,3,3,1,4,10,2,0,84084,405
-3,3,3,1,4,10,2,0,84084,nan
+3,3,3,1,4,10,2,0,84084,
 4,4,4,4355035294,5,11,2,0,84066,802
-4,4,4,4355035294,5,11,2,0,84066,nan
+4,4,4,4355035294,5,11,2,0,84066,
 EMPIRE WEST PIPE,KEITH SORENSON,info@empire-west.com,801-812-2818,1825 N MOUNTAIN SPRINGS PRKY,SPRINGVILLE,2,0,84097,616
 Energy Management,Bruce Tregaskis,btregaskis@emcsolutions.com,801-514-3663,501 W 700 S,SLC,2,0,84101,11
 Energy Management,Bruce Tregaskis,btregaskis@emcsolutions.com,801-514-3663,501 W 700 S,SLC,2,0,84101, 12
@@ -84,10 +84,10 @@ High Country Fusion,Todd Evans,Todd.Evans@hcfusion.com,801-433-4815,2030 No Redw
 "Hoffman Utah Inc., dba Professional Pipe Services (Pro Pipe)",Parrish Topps,parrish.topps@pro-pipe.com,801-908-8581,976 N Marshall Way Bldg 2 Unit 2,9,2,0,84041,402
 5,5,5,2,7,0,0,0,84199,911
 5,5,5,2,7,0,0,0,84199, 912
-5,5,5,2,7,0,0,0,84199,nan
+5,5,5,2,7,0,0,0,84199,
 Honeywell Smart Energy,Sean Langton,sean.langton@honeywell.com,503-250-4131,10 SW 49th Avenue,15,8,0,34474,14
 6,6,6,3,8,0,0,0,84104,702
-6,6,6,3,8,0,0,0,84104,nan
+6,6,6,3,8,0,0,0,84104,
 "Horrocks Engineers, Inc.",Mark Atencio,marka@horrocks.com,801-763-5212,2162 West Grove Parkway,16,0,0,84062,606
 Hose Solutions Inc.,Carlos Guerra,tradeshows@HoseSolutions.com,480-607-1507,9419 E. San Salvador Dr.,Scottsdale,9,0,85258,203
 Hydro Resources,Joe Jankowski,jjankowski@hydroresources.com,303-818-7703,"13207 County Road 18, Unit C",Fort Lupton,4,0,80621,504
@@ -118,7 +118,7 @@ LaTech Equipment,Scott Andersen,scott@latechequipment.com,8015995264,1950 South 
 Legacy Equipment,Travis Vallejo,travis.vallejo@legacyeq.com,8019750400,1220 South Legacy View Street,0,2,0,84104,904
 "Loughlin Water Associates, LLC",Bill Loughlin,bill@loughlinwater.com,435-649-4005,3100 Pinebrook Rd,Park City,0,0,84098,205
 7,7,7,8016435891,9,18,11,0,76063,2
-7,7,7,8016435891,9,18,11,0,76063,nan
+7,7,7,8016435891,9,18,11,0,76063,
 McWane Ductile,Aaron Loosli,aaron.loosli@mcwaneductile.com,3852087352,1401 E 2000 S,Provo,2,0,84606,603
 Medora Corp.- SolarBee/ GridBee,David Summerfield,Dave.S@Medoraco.com,951-265-2321,3225 Highway 22,Dickinson,ND,0,58601,814
 MeterWorks,Ken Sheffield,ken.sheffield@meterworks.net,(801) 309-6612,1199 West 850 North,Centerville,2,0,84014,900
@@ -135,12 +135,12 @@ Mountainland Supply,Matt McAllister,matt.mcallister@mountainlandsupply.us,801224
 Mountainland Supply,Matt McAllister,matt.mcallister@mountainlandsupply.us,8012246050,1505 West 130 South,14,0,0,84058, 215
 8,8,8,8019100806,10,19,2,0,84009,409
 8,8,8,8019100806,10,19,2,0,84009, 310
-8,8,8,8019100806,10,19,2,0,84009,nan
+8,8,8,8019100806,10,19,2,0,84009,
 Neverest Equipment Company,Brian Balchumas,brian@neverestequipment.com,3038989475,740 W 1700 S #4,0,2,0,84104,GR 12
 "Nickerson Company, Inc.",Garry Noyce,Garry@nicopumps.com,801-973-8888,2301 W. Indiana Ave.,0,0,0,84104,304
 "Nickerson Company, Inc.",Garry Noyce,Garry@nicopumps.com,801-973-8888,2301 W. Indiana Ave.,0,0,0,84104, 306
 9,9,9,4,11,20,5,0,78620,13
-9,9,9,4,11,20,5,0,78620,nan
+9,9,9,4,11,20,5,0,78620,
 "Nilex, Inc",Byron Workman,byron.workman@nilex.com,3037662000,6810 8 St. NW,Edmonton,Alberta,Canada,T6P0C5,819
 NKD Technologies,Robert Cloward,r.cloward@nkdtech.com,8013609362,5320 W. Wells Park Rd. #15,WEST JORDAN,0,0,84081,617
 Northtown Company,Carryl Deck,carryl@northtowncompany.com,714/897-0700,5202 Argosy Avenue,Huntington Beach,6,0,92649,614
@@ -156,7 +156,7 @@ PowerSeal Pipeline Products,David Rhone,drhone@powerseal.com,8008000932,701 Plea
 Prinsco,Chad Farnworth,Mandyh@prinsco.com,3202226800,1717 16th Street NE,Willmar,MN,0,56201,716
 Probiotic Solutions,Heather Jennings,Heather@bhn.us,480-970-7527,1331 W Houston Ave,Gilbert,9,0,85233,308
 10,10,10,8016473443,12,0,0,0,84107,816
-10,10,10,8016473443,12,0,0,0,84107,nan
+10,10,10,8016473443,12,0,0,0,84107,
 Protection Engineering,John Hill,john.f.hill@hotmail.com,801-836-2042,302 South 700 West,16,0,0,84062,116
 RepMasters,Ron Hatt,rghatt@repmasters.com,801-706-5744,13657 So Homestead Lane,21,0,0,84065,809
 RHINO PUMPS,,sales@rhinopumps.com,8013218242,568 E 1700 S #6,12,7,0,84003,101
@@ -172,13 +172,13 @@ Rural Water Store,Shannon Rasmussen,srasmussen@rwau.net,801-756-5213,76 Red Pine
 Rural Water Store,Shannon Rasmussen,srasmussen@rwau.net,801-756-5213,76 Red Pine Drive,Alpine,2,0,84004,15
 "Rust Automation & Controls, Inc.",Elaine Gallegos,elaine@rustco.com,8015667878,8070 South 1300 West,10,2,0,84088,118
 11,11,11,5,13,3,0,0,84119,126
-11,11,11,5,13,3,0,0,84119,nan
+11,11,11,5,13,3,0,0,84119,
 SCG Enterprises,"SCG Enterprises, Inc",rjex@scgenterprises.com,(435) 753-2051,PO Box 3603,Logan,2,0,84323,GR 8
 12,12,12,4356804477,14,22,0,0,84737,604
 12,12,12,4356804477,14,22,0,0,84737, 703
 12,12,12,4356804477,14,22,0,0,84737, 602
 12,12,12,4356804477,14,22,0,0,84737, 701
-12,12,12,4356804477,14,22,0,0,84737,nan
+12,12,12,4356804477,14,22,0,0,84737,
 "SCI Automation, INC",Steve Gingell,sgingell@sciautomation.net,435-725-2600,650 W Highway 40,11,2,0,84066,107
 "SCI Automation, INC",Steve Gingell,sgingell@sciautomation.net,435-725-2600,650 W Highway 40,11,2,0,84066, 105
 Semi Service Inc.,MICHAEL ANDERSON,manderson@semiservice.com,385-234-6222,4285 West 1385 South,0,0,0,84104,1
@@ -197,7 +197,7 @@ Sunrise Engineering,Justin Atkinson,jatkinson@sunrise-eng.com,8019716540,25 East
 Sunrise Engineering,Justin Atkinson,jatkinson@sunrise-eng.com,8019716540,25 East 500 North,Fillmore,2,0,84631, 315
 Sunrise Environmental Scientific,Ryan Tolotti,rtolotti@sunrisenv.com,800-648-1153,P.O. Box 10207,Reno,Nevada,0,89510,608
 13,13,13,6,15,24,6,0,94520,720
-13,13,13,6,15,24,6,0,94520,nan
+13,13,13,6,15,24,6,0,94520,
 TC Sales & Service,Cory Firzlaff,cory@tcsalesco.com,8012013121,10132 So.  440 East,6,2,0,84070,9
 Tech-Flow,Brett Hazen,brett.hazen@tech-flow.com,8019201116,1104 N. 1600 W.,9,0,0,84041,GR 17
 Ted D. Miller Associates,Mike Huyette,mike@tdma-inc.com,801-288-1443,"12081 West Alameda Parkway, #502",8,4,0,80228,801

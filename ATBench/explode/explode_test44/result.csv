@@ -164,13 +164,13 @@ Miami (FL),Hurricanes,Coral Gables,Florida,ACC,SIAA,1926,
 Miami (FL),Hurricanes,Coral Gables,Florida,ACC, Big East,1926,
 Miami (OH),RedHawks,Oxford,Ohio,MAC,OAC,1888,
 Miami (OH),RedHawks,Oxford,Ohio,MAC, Buckeye Conference,1888,
-Michigan,Wolverines,Ann Arbor,Michigan,Big Ten,nan,1878,
+Michigan,Wolverines,Ann Arbor,Michigan,Big Ten,,1878,
 Michigan State,Spartans,East Lansing,Michigan,Big Ten,MIAA,1885,
 Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,C-USA,VSAC,1911,1999.0
 Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,C-USA, SIAA,1911,1999.0
 Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,C-USA, OVC,1911,1999.0
 Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,C-USA, Sun Belt,1911,1999.0
-Minnesota,Golden Gophers,Minneapolis,Minnesota,Big Ten,nan,1882,
+Minnesota,Golden Gophers,Minneapolis,Minnesota,Big Ten,,1882,
 Ole Miss,Rebels,Oxford,Mississippi,SEC,SIAA,1890,
 Ole Miss,Rebels,Oxford,Mississippi,SEC, SoCon,1890,
 Mississippi State,Bulldogs,Starkville,Mississippi,SEC,SIAA,1895,
@@ -211,8 +211,8 @@ North Texas,Mean Green,Denton,Texas,C-USA, Big West,1913,1995.0
 North Texas,Mean Green,Denton,Texas,C-USA, Sun Belt,1913,1995.0
 NIU,Huskies,DeKalb,Illinois,MAC,IIAC,1899,
 NIU,Huskies,DeKalb,Illinois,MAC, Big West,1899,
-Northwestern,Wildcats,Evanston,Illinois,Big Ten,nan,1875,
-Notre Dame,Fighting Irish,South Bend,Indiana,Independent,nan,1887,
+Northwestern,Wildcats,Evanston,Illinois,Big Ten,,1875,
+Notre Dame,Fighting Irish,South Bend,Indiana,Independent,,1887,
 Ohio,Bobcats,Athens,Ohio,MAC,OAC,1894,
 Ohio,Bobcats,Athens,Ohio,MAC, Buckeye Conference,1894,
 Ohio State,Buckeyes,Columbus,Ohio,Big Ten,OAC,1889,
@@ -229,7 +229,7 @@ Oregon,Ducks,Eugene,Oregon,Pac-12,PCC,1894,
 Oregon,Ducks,Eugene,Oregon,Pac-12, Independent,1894,
 Oregon State,Beavers,Corvallis,Oregon,Pac-12,PCC,1893,
 Oregon State,Beavers,Corvallis,Oregon,Pac-12, Independent,1893,
-Penn State,Nittany Lions,State College,Pennsylvania,Big Ten,nan,1881,
+Penn State,Nittany Lions,State College,Pennsylvania,Big Ten,,1881,
 Pittsburgh,Panthers,Pittsburgh,Pennsylvania,ACC,Big East,1890,
 Purdue,Boilermakers,West Lafayette,Indiana,Big Ten,IIAA,1887,
 Rice,Owls,Houston,Texas,C-USA,TIAA,1912,
@@ -248,7 +248,7 @@ San Jose State,Spartans,San Jose,California,Mountain West, NCAC,1892,
 San Jose State,Spartans,San Jose,California,Mountain West, California Collegiate,1892,
 San Jose State,Spartans,San Jose,California,Mountain West, Big West,1892,
 San Jose State,Spartans,San Jose,California,Mountain West, WAC,1892,
-South Alabama,Jaguars,Mobile,Alabama,Sun Belt,nan,2009,2012.0
+South Alabama,Jaguars,Mobile,Alabama,Sun Belt,,2009,2012.0
 South Carolina,Gamecocks,Columbia,South Carolina,SEC,SIAA,1892,
 South Carolina,Gamecocks,Columbia,South Carolina,SEC, SoCon,1892,
 South Carolina,Gamecocks,Columbia,South Carolina,SEC, ACC,1892,
@@ -341,7 +341,7 @@ Western Kentucky,Hilltoppers,Bowling Green,Kentucky,C-USA, OVC,1913,2009.0
 Western Kentucky,Hilltoppers,Bowling Green,Kentucky,C-USA, MVFC,1913,2009.0
 Western Kentucky,Hilltoppers,Bowling Green,Kentucky,C-USA, Sun Belt,1913,2009.0
 Western Michigan,Broncos,Kalamazoo,Michigan,MAC,MCC,1905,
-Wisconsin,Badgers,Madison,Wisconsin,Big Ten,nan,1889,
+Wisconsin,Badgers,Madison,Wisconsin,Big Ten,,1889,
 Wyoming,Cowboys,Laramie,Wyoming,Mountain West,Colorado Football Association,1893,
 Wyoming,Cowboys,Laramie,Wyoming,Mountain West, RMAC,1893,
 Wyoming,Cowboys,Laramie,Wyoming,Mountain West, WAC,1893,
